@@ -1,0 +1,40 @@
+{
+    "RECORDS": [
+        {
+            "co_arquitetura": "1",
+            "ds_arquitetura": "ASP"
+        },
+        {
+            "co_arquitetura": "2",
+            "ds_arquitetura": "Java"
+        },
+        {
+            "co_arquitetura": "3",
+            "ds_arquitetura": ".NET"
+        },
+        {
+            "co_arquitetura": "4",
+            "ds_arquitetura": "PHP"
+        },
+        {
+            "co_arquitetura": "5",
+            "ds_arquitetura": "HTML"
+        },
+        {
+            "co_arquitetura": "0",
+            "ds_arquitetura": "Perl"
+        },
+        {
+            "co_arquitetura": "6",
+            "ds_arquitetura": "PL/SQL"
+        },
+        {
+            "co_arquitetura": "7",
+            "ds_arquitetura": "Ruby on Rails"
+        },
+        {
+            "co_arquitetura": "8",
+            "ds_arquitetura": "Python / Django"
+        }
+    ]
+}

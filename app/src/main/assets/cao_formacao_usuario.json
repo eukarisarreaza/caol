@@ -1,0 +1,18 @@
+{
+    "RECORDS": [
+        {
+            "co_usuario": "breno.damasceno",
+            "tp_curso": "2grau",
+            "ds_curso": "Propedêutico",
+            "ds_instituicao": "CIC",
+            "dt_conclusao": "2/12/1992"
+        },
+        {
+            "co_usuario": "breno.damasceno",
+            "tp_curso": "3grau",
+            "ds_curso": "Ciências da Computação",
+            "ds_instituicao": "UFMS",
+            "dt_conclusao": "25/12/2003"
+        }
+    ]
+}

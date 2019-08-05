@@ -1,0 +1,123 @@
+{
+    "RECORDS": [
+        {
+            "bon_categoria": "4",
+            "bon_inicio": "0",
+            "bon_fim": "10000",
+            "bon_valor_sem": "0",
+            "bon_valor_fimsem": "0"
+        },
+        {
+            "bon_categoria": "1",
+            "bon_inicio": "0",
+            "bon_fim": "10000",
+            "bon_valor_sem": "0",
+            "bon_valor_fimsem": "0"
+        },
+        {
+            "bon_categoria": "2",
+            "bon_inicio": "0",
+            "bon_fim": "10000",
+            "bon_valor_sem": "0",
+            "bon_valor_fimsem": "0"
+        },
+        {
+            "bon_categoria": "3",
+            "bon_inicio": "0",
+            "bon_fim": "10000",
+            "bon_valor_sem": "0",
+            "bon_valor_fimsem": "6.5"
+        },
+        {
+            "bon_categoria": "5",
+            "bon_inicio": "0",
+            "bon_fim": "10000",
+            "bon_valor_sem": "0",
+            "bon_valor_fimsem": "0"
+        },
+        {
+            "bon_categoria": "6",
+            "bon_inicio": "0",
+            "bon_fim": "10000",
+            "bon_valor_sem": "0",
+            "bon_valor_fimsem": "0"
+        },
+        {
+            "bon_categoria": "11",
+            "bon_inicio": "0",
+            "bon_fim": "10000",
+            "bon_valor_sem": "0",
+            "bon_valor_fimsem": "6.5"
+        },
+        {
+            "bon_categoria": "12",
+            "bon_inicio": "0",
+            "bon_fim": "10000",
+            "bon_valor_sem": "0",
+            "bon_valor_fimsem": "6.5"
+        },
+        {
+            "bon_categoria": "13",
+            "bon_inicio": "0",
+            "bon_fim": "10000",
+            "bon_valor_sem": "0",
+            "bon_valor_fimsem": "6.5"
+        },
+        {
+            "bon_categoria": "14",
+            "bon_inicio": "0",
+            "bon_fim": "10000",
+            "bon_valor_sem": "0",
+            "bon_valor_fimsem": "10"
+        },
+        {
+            "bon_categoria": "15",
+            "bon_inicio": "0",
+            "bon_fim": "10000",
+            "bon_valor_sem": "0",
+            "bon_valor_fimsem": "10"
+        },
+        {
+            "bon_categoria": "16",
+            "bon_inicio": "0",
+            "bon_fim": "10000",
+            "bon_valor_sem": "0",
+            "bon_valor_fimsem": "10"
+        },
+        {
+            "bon_categoria": "17",
+            "bon_inicio": "0",
+            "bon_fim": "10000",
+            "bon_valor_sem": "0",
+            "bon_valor_fimsem": "12"
+        },
+        {
+            "bon_categoria": "18",
+            "bon_inicio": "0",
+            "bon_fim": "10000",
+            "bon_valor_sem": "0",
+            "bon_valor_fimsem": "12"
+        },
+        {
+            "bon_categoria": "19",
+            "bon_inicio": "0",
+            "bon_fim": "10000",
+            "bon_valor_sem": "0",
+            "bon_valor_fimsem": "12"
+        },
+        {
+            "bon_categoria": "9",
+            "bon_inicio": "0",
+            "bon_fim": "10000",
+            "bon_valor_sem": "0",
+            "bon_valor_fimsem": "6.5"
+        },
+        {
+            "bon_categoria": "10",
+            "bon_inicio": "0",
+            "bon_fim": "10000",
+            "bon_valor_sem": "0",
+            "bon_valor_fimsem": "6.5"
+        }
+    ]
+}

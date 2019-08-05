@@ -1,0 +1,6535 @@
+{
+    "RECORDS": [
+        {
+            "id": "1",
+            "co_chamado": "3",
+            "dt_chamado": "5/7/2005 09:29:17",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3820"
+        },
+        {
+            "id": "2",
+            "co_chamado": "4",
+            "dt_chamado": "5/7/2005 09:42:20",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3821"
+        },
+        {
+            "id": "3",
+            "co_chamado": "2",
+            "dt_chamado": "5/7/2005 09:55:20",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3823"
+        },
+        {
+            "id": "4",
+            "co_chamado": "5",
+            "dt_chamado": "5/7/2005 11:41:56",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3824"
+        },
+        {
+            "id": "5",
+            "co_chamado": "5",
+            "dt_chamado": "5/7/2005 11:43:54",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3825"
+        },
+        {
+            "id": "6",
+            "co_chamado": "9",
+            "dt_chamado": "5/7/2005 18:15:13",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3831"
+        },
+        {
+            "id": "7",
+            "co_chamado": "6",
+            "dt_chamado": "5/7/2005 18:15:36",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3832"
+        },
+        {
+            "id": "8",
+            "co_chamado": "5",
+            "dt_chamado": "6/7/2005 14:20:35",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3862"
+        },
+        {
+            "id": "9",
+            "co_chamado": "11",
+            "dt_chamado": "6/7/2005 14:29:19",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3863"
+        },
+        {
+            "id": "10",
+            "co_chamado": "13",
+            "dt_chamado": "6/7/2005 15:49:53",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3864"
+        },
+        {
+            "id": "11",
+            "co_chamado": "12",
+            "dt_chamado": "6/7/2005 15:58:09",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3865"
+        },
+        {
+            "id": "12",
+            "co_chamado": "18",
+            "dt_chamado": "6/7/2005 17:04:46",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3866"
+        },
+        {
+            "id": "13",
+            "co_chamado": "16",
+            "dt_chamado": "6/7/2005 17:08:48",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3867"
+        },
+        {
+            "id": "14",
+            "co_chamado": "16",
+            "dt_chamado": "6/7/2005 17:57:11",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3872"
+        },
+        {
+            "id": "15",
+            "co_chamado": "19",
+            "dt_chamado": "6/7/2005 18:11:00",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3878"
+        },
+        {
+            "id": "16",
+            "co_chamado": "14",
+            "dt_chamado": "6/7/2005 18:20:10",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3881"
+        },
+        {
+            "id": "17",
+            "co_chamado": "26",
+            "dt_chamado": "7/7/2005 10:00:02",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3899"
+        },
+        {
+            "id": "18",
+            "co_chamado": "17",
+            "dt_chamado": "7/7/2005 10:11:13",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3900"
+        },
+        {
+            "id": "19",
+            "co_chamado": "28",
+            "dt_chamado": "7/7/2005 13:02:14",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3901"
+        },
+        {
+            "id": "20",
+            "co_chamado": "31",
+            "dt_chamado": "8/7/2005 10:37:48",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3929"
+        },
+        {
+            "id": "21",
+            "co_chamado": "30",
+            "dt_chamado": "8/7/2005 10:40:15",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "3930"
+        },
+        {
+            "id": "22",
+            "co_chamado": "30",
+            "dt_chamado": "8/7/2005 14:15:47",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3931"
+        },
+        {
+            "id": "23",
+            "co_chamado": "32",
+            "dt_chamado": "8/7/2005 14:38:11",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3932"
+        },
+        {
+            "id": "24",
+            "co_chamado": "29",
+            "dt_chamado": "8/7/2005 14:42:29",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3933"
+        },
+        {
+            "id": "25",
+            "co_chamado": "33",
+            "dt_chamado": "8/7/2005 14:51:36",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3934"
+        },
+        {
+            "id": "26",
+            "co_chamado": "32",
+            "dt_chamado": "8/7/2005 17:55:25",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3940"
+        },
+        {
+            "id": "27",
+            "co_chamado": "34",
+            "dt_chamado": "12/7/2005 09:54:29",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3998"
+        },
+        {
+            "id": "28",
+            "co_chamado": "32",
+            "dt_chamado": "12/7/2005 10:10:52",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "3999"
+        },
+        {
+            "id": "29",
+            "co_chamado": "35",
+            "dt_chamado": "12/7/2005 10:30:33",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4000"
+        },
+        {
+            "id": "30",
+            "co_chamado": "36",
+            "dt_chamado": "12/7/2005 10:32:19",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4001"
+        },
+        {
+            "id": "31",
+            "co_chamado": "41",
+            "dt_chamado": "13/7/2005 11:07:42",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "4033"
+        },
+        {
+            "id": "32",
+            "co_chamado": "40",
+            "dt_chamado": "13/7/2005 11:10:34",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4034"
+        },
+        {
+            "id": "33",
+            "co_chamado": "39",
+            "dt_chamado": "13/7/2005 11:21:20",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4035"
+        },
+        {
+            "id": "34",
+            "co_chamado": "38",
+            "dt_chamado": "13/7/2005 11:31:04",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4036"
+        },
+        {
+            "id": "35",
+            "co_chamado": "42",
+            "dt_chamado": "13/7/2005 11:43:09",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4037"
+        },
+        {
+            "id": "36",
+            "co_chamado": "37",
+            "dt_chamado": "13/7/2005 11:43:30",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4038"
+        },
+        {
+            "id": "37",
+            "co_chamado": "44",
+            "dt_chamado": "14/7/2005 11:05:14",
+            "co_usuario": "cristiane.florio",
+            "co_daily": "4061"
+        },
+        {
+            "id": "38",
+            "co_chamado": "47",
+            "dt_chamado": "14/7/2005 15:05:44",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "4062"
+        },
+        {
+            "id": "39",
+            "co_chamado": "46",
+            "dt_chamado": "14/7/2005 15:06:28",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "4063"
+        },
+        {
+            "id": "40",
+            "co_chamado": "48",
+            "dt_chamado": "14/7/2005 16:15:03",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4068"
+        },
+        {
+            "id": "41",
+            "co_chamado": "54",
+            "dt_chamado": "14/7/2005 16:53:49",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4069"
+        },
+        {
+            "id": "42",
+            "co_chamado": "51",
+            "dt_chamado": "14/7/2005 17:05:13",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4070"
+        },
+        {
+            "id": "43",
+            "co_chamado": "49",
+            "dt_chamado": "14/7/2005 17:14:15",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4071"
+        },
+        {
+            "id": "44",
+            "co_chamado": "55",
+            "dt_chamado": "14/7/2005 17:28:00",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4072"
+        },
+        {
+            "id": "45",
+            "co_chamado": "56",
+            "dt_chamado": "14/7/2005 17:37:53",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4073"
+        },
+        {
+            "id": "46",
+            "co_chamado": "45",
+            "dt_chamado": "14/7/2005 18:11:00",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4075"
+        },
+        {
+            "id": "47",
+            "co_chamado": "59",
+            "dt_chamado": "14/7/2005 19:00:30",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4088"
+        },
+        {
+            "id": "48",
+            "co_chamado": "56",
+            "dt_chamado": "15/7/2005 10:53:49",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4094"
+        },
+        {
+            "id": "49",
+            "co_chamado": "54",
+            "dt_chamado": "15/7/2005 11:14:14",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4095"
+        },
+        {
+            "id": "50",
+            "co_chamado": "52",
+            "dt_chamado": "15/7/2005 11:43:43",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4096"
+        },
+        {
+            "id": "51",
+            "co_chamado": "58",
+            "dt_chamado": "15/7/2005 11:58:51",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4097"
+        },
+        {
+            "id": "52",
+            "co_chamado": "53",
+            "dt_chamado": "15/7/2005 13:41:01",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4098"
+        },
+        {
+            "id": "53",
+            "co_chamado": "27",
+            "dt_chamado": "15/7/2005 18:04:10",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "4102"
+        },
+        {
+            "id": "54",
+            "co_chamado": "43",
+            "dt_chamado": "15/7/2005 18:07:45",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "4104"
+        },
+        {
+            "id": "55",
+            "co_chamado": "43",
+            "dt_chamado": "15/7/2005 18:10:55",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "4107"
+        },
+        {
+            "id": "56",
+            "co_chamado": "60",
+            "dt_chamado": "18/7/2005 11:20:23",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4127"
+        },
+        {
+            "id": "57",
+            "co_chamado": "57",
+            "dt_chamado": "18/7/2005 11:49:58",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4128"
+        },
+        {
+            "id": "58",
+            "co_chamado": "50",
+            "dt_chamado": "18/7/2005 16:48:03",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "4129"
+        },
+        {
+            "id": "59",
+            "co_chamado": "64",
+            "dt_chamado": "19/7/2005 13:06:46",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4158"
+        },
+        {
+            "id": "60",
+            "co_chamado": "61",
+            "dt_chamado": "19/7/2005 13:17:07",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4159"
+        },
+        {
+            "id": "61",
+            "co_chamado": "63",
+            "dt_chamado": "19/7/2005 13:29:47",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4160"
+        },
+        {
+            "id": "62",
+            "co_chamado": "62",
+            "dt_chamado": "19/7/2005 14:13:34",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4161"
+        },
+        {
+            "id": "63",
+            "co_chamado": "61",
+            "dt_chamado": "19/7/2005 14:24:14",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4162"
+        },
+        {
+            "id": "64",
+            "co_chamado": "68",
+            "dt_chamado": "19/7/2005 18:15:12",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "4169"
+        },
+        {
+            "id": "65",
+            "co_chamado": "69",
+            "dt_chamado": "19/7/2005 18:51:33",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4177"
+        },
+        {
+            "id": "66",
+            "co_chamado": "71",
+            "dt_chamado": "20/7/2005 10:30:40",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4194"
+        },
+        {
+            "id": "67",
+            "co_chamado": "66",
+            "dt_chamado": "20/7/2005 17:24:22",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4195"
+        },
+        {
+            "id": "68",
+            "co_chamado": "74",
+            "dt_chamado": "20/7/2005 17:38:22",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4196"
+        },
+        {
+            "id": "69",
+            "co_chamado": "75",
+            "dt_chamado": "21/7/2005 10:14:32",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "4223"
+        },
+        {
+            "id": "70",
+            "co_chamado": "76",
+            "dt_chamado": "21/7/2005 13:11:20",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4224"
+        },
+        {
+            "id": "71",
+            "co_chamado": "78",
+            "dt_chamado": "22/7/2005 11:54:20",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4251"
+        },
+        {
+            "id": "72",
+            "co_chamado": "70",
+            "dt_chamado": "22/7/2005 15:11:02",
+            "co_usuario": "rodrigo.moralles",
+            "co_daily": "4252"
+        },
+        {
+            "id": "73",
+            "co_chamado": "77",
+            "dt_chamado": "22/7/2005 17:49:47",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "4254"
+        },
+        {
+            "id": "74",
+            "co_chamado": "77",
+            "dt_chamado": "22/7/2005 17:51:07",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "4256"
+        },
+        {
+            "id": "75",
+            "co_chamado": "81",
+            "dt_chamado": "26/7/2005 15:36:34",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4316"
+        },
+        {
+            "id": "76",
+            "co_chamado": "90",
+            "dt_chamado": "27/7/2005 15:53:27",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4354"
+        },
+        {
+            "id": "77",
+            "co_chamado": "80",
+            "dt_chamado": "28/7/2005 13:56:38",
+            "co_usuario": "rodrigo.moralles",
+            "co_daily": "4379"
+        },
+        {
+            "id": "78",
+            "co_chamado": "25",
+            "dt_chamado": "28/7/2005 15:18:57",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "4380"
+        },
+        {
+            "id": "79",
+            "co_chamado": "23",
+            "dt_chamado": "28/7/2005 15:19:47",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "4381"
+        },
+        {
+            "id": "80",
+            "co_chamado": "21",
+            "dt_chamado": "28/7/2005 16:08:00",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "4382"
+        },
+        {
+            "id": "81",
+            "co_chamado": "84",
+            "dt_chamado": "28/7/2005 16:18:47",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "4383"
+        },
+        {
+            "id": "82",
+            "co_chamado": "20",
+            "dt_chamado": "28/7/2005 16:27:03",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "4384"
+        },
+        {
+            "id": "83",
+            "co_chamado": "24",
+            "dt_chamado": "28/7/2005 16:56:15",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "4385"
+        },
+        {
+            "id": "84",
+            "co_chamado": "22",
+            "dt_chamado": "28/7/2005 17:11:41",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "4386"
+        },
+        {
+            "id": "85",
+            "co_chamado": "86",
+            "dt_chamado": "29/7/2005 11:59:08",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "4419"
+        },
+        {
+            "id": "86",
+            "co_chamado": "95",
+            "dt_chamado": "2/8/2005 17:09:34",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4482"
+        },
+        {
+            "id": "87",
+            "co_chamado": "97",
+            "dt_chamado": "3/8/2005 09:20:28",
+            "co_usuario": "marco.malaquias",
+            "co_daily": "4511"
+        },
+        {
+            "id": "88",
+            "co_chamado": "96",
+            "dt_chamado": "3/8/2005 09:20:44",
+            "co_usuario": "marco.malaquias",
+            "co_daily": "4512"
+        },
+        {
+            "id": "89",
+            "co_chamado": "98",
+            "dt_chamado": "4/8/2005 16:00:34",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4547"
+        },
+        {
+            "id": "90",
+            "co_chamado": "99",
+            "dt_chamado": "5/8/2005 16:11:03",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "4580"
+        },
+        {
+            "id": "91",
+            "co_chamado": "100",
+            "dt_chamado": "5/8/2005 17:37:47",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "4581"
+        },
+        {
+            "id": "92",
+            "co_chamado": "100",
+            "dt_chamado": "5/8/2005 18:12:11",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "4587"
+        },
+        {
+            "id": "93",
+            "co_chamado": "101",
+            "dt_chamado": "8/8/2005 19:20:58",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "4639"
+        },
+        {
+            "id": "94",
+            "co_chamado": "101",
+            "dt_chamado": "8/8/2005 19:21:52",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "4641"
+        },
+        {
+            "id": "95",
+            "co_chamado": "105",
+            "dt_chamado": "11/8/2005 10:40:51",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4702"
+        },
+        {
+            "id": "96",
+            "co_chamado": "106",
+            "dt_chamado": "11/8/2005 11:08:41",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4703"
+        },
+        {
+            "id": "97",
+            "co_chamado": "104",
+            "dt_chamado": "11/8/2005 17:13:48",
+            "co_usuario": "rodrigo.sousa",
+            "co_daily": "4704"
+        },
+        {
+            "id": "98",
+            "co_chamado": "108",
+            "dt_chamado": "12/8/2005 09:59:32",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4735"
+        },
+        {
+            "id": "99",
+            "co_chamado": "107",
+            "dt_chamado": "12/8/2005 11:44:24",
+            "co_usuario": "rodrigo.sousa",
+            "co_daily": "4736"
+        },
+        {
+            "id": "100",
+            "co_chamado": "111",
+            "dt_chamado": "13/8/2005 14:34:24",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4764"
+        },
+        {
+            "id": "101",
+            "co_chamado": "109",
+            "dt_chamado": "16/8/2005 18:22:34",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "4796"
+        },
+        {
+            "id": "102",
+            "co_chamado": "110",
+            "dt_chamado": "17/8/2005 18:54:21",
+            "co_usuario": "rodrigo.sousa",
+            "co_daily": "4828"
+        },
+        {
+            "id": "103",
+            "co_chamado": "112",
+            "dt_chamado": "23/8/2005 18:57:19",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4942"
+        },
+        {
+            "id": "104",
+            "co_chamado": "114",
+            "dt_chamado": "24/8/2005 16:57:43",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4952"
+        },
+        {
+            "id": "105",
+            "co_chamado": "115",
+            "dt_chamado": "24/8/2005 16:58:09",
+            "co_usuario": "marcio.lamego",
+            "co_daily": "4953"
+        },
+        {
+            "id": "106",
+            "co_chamado": "103",
+            "dt_chamado": "29/8/2005 18:14:04",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "5027"
+        },
+        {
+            "id": "107",
+            "co_chamado": "102",
+            "dt_chamado": "29/8/2005 18:15:36",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "5029"
+        },
+        {
+            "id": "108",
+            "co_chamado": "91",
+            "dt_chamado": "29/8/2005 18:16:44",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "5030"
+        },
+        {
+            "id": "109",
+            "co_chamado": "91",
+            "dt_chamado": "29/8/2005 18:20:32",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "5032"
+        },
+        {
+            "id": "110",
+            "co_chamado": "94",
+            "dt_chamado": "30/8/2005 17:57:19",
+            "co_usuario": "alessandro.yamada",
+            "co_daily": "5046"
+        },
+        {
+            "id": "111",
+            "co_chamado": "94",
+            "dt_chamado": "30/8/2005 18:06:40",
+            "co_usuario": "alessandro.yamada",
+            "co_daily": "5054"
+        },
+        {
+            "id": "112",
+            "co_chamado": "94",
+            "dt_chamado": "30/8/2005 18:21:38",
+            "co_usuario": "alessandro.yamada",
+            "co_daily": "5056"
+        },
+        {
+            "id": "113",
+            "co_chamado": "79",
+            "dt_chamado": "15/9/2005 12:49:53",
+            "co_usuario": "rodrigo.moralles",
+            "co_daily": "5346"
+        },
+        {
+            "id": "114",
+            "co_chamado": "79",
+            "dt_chamado": "15/9/2005 12:54:45",
+            "co_usuario": "rodrigo.moralles",
+            "co_daily": "5348"
+        },
+        {
+            "id": "115",
+            "co_chamado": "118",
+            "dt_chamado": "29/9/2005 18:44:31",
+            "co_usuario": "marco.malaquias",
+            "co_daily": "5634"
+        },
+        {
+            "id": "116",
+            "co_chamado": "117",
+            "dt_chamado": "29/9/2005 18:45:09",
+            "co_usuario": "marco.malaquias",
+            "co_daily": "5635"
+        },
+        {
+            "id": "117",
+            "co_chamado": "117",
+            "dt_chamado": "29/9/2005 18:46:24",
+            "co_usuario": "marco.malaquias",
+            "co_daily": "5637"
+        },
+        {
+            "id": "118",
+            "co_chamado": "119",
+            "dt_chamado": "3/10/2005 12:24:45",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "5667"
+        },
+        {
+            "id": "119",
+            "co_chamado": "116",
+            "dt_chamado": "4/10/2005 18:28:21",
+            "co_usuario": "marco.malaquias",
+            "co_daily": "5705"
+        },
+        {
+            "id": "120",
+            "co_chamado": "116",
+            "dt_chamado": "4/10/2005 18:29:29",
+            "co_usuario": "marco.malaquias",
+            "co_daily": "5708"
+        },
+        {
+            "id": "121",
+            "co_chamado": "124",
+            "dt_chamado": "11/10/2005 18:16:48",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "5836"
+        },
+        {
+            "id": "122",
+            "co_chamado": "120",
+            "dt_chamado": "11/10/2005 18:17:12",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "5837"
+        },
+        {
+            "id": "123",
+            "co_chamado": "123",
+            "dt_chamado": "13/10/2005 11:32:57",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "5847"
+        },
+        {
+            "id": "124",
+            "co_chamado": "125",
+            "dt_chamado": "21/10/2005 19:11:04",
+            "co_usuario": "lf.oliveira",
+            "co_daily": "6017"
+        },
+        {
+            "id": "125",
+            "co_chamado": "126",
+            "dt_chamado": "25/10/2005 19:16:56",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "6072"
+        },
+        {
+            "id": "126",
+            "co_chamado": "126",
+            "dt_chamado": "25/10/2005 19:20:35",
+            "co_usuario": "eduardo.botelho",
+            "co_daily": "6075"
+        },
+        {
+            "id": "127",
+            "co_chamado": "128",
+            "dt_chamado": "28/10/2005 16:47:40",
+            "co_usuario": "marco.malaquias",
+            "co_daily": "6129"
+        },
+        {
+            "id": "128",
+            "co_chamado": "92",
+            "dt_chamado": "17/11/2005 14:36:57",
+            "co_usuario": "alessandro.yamada",
+            "co_daily": "6394"
+        },
+        {
+            "id": "129",
+            "co_chamado": "132",
+            "dt_chamado": "2/12/2005 17:27:50",
+            "co_usuario": "ricardo.martins",
+            "co_daily": "6674"
+        },
+        {
+            "id": "130",
+            "co_chamado": "132",
+            "dt_chamado": "2/12/2005 17:28:41",
+            "co_usuario": "ricardo.martins",
+            "co_daily": "6676"
+        },
+        {
+            "id": "131",
+            "co_chamado": "133",
+            "dt_chamado": "5/12/2005 16:34:19",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "6701"
+        },
+        {
+            "id": "132",
+            "co_chamado": "131",
+            "dt_chamado": "8/12/2005 18:14:43",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "6797"
+        },
+        {
+            "id": "133",
+            "co_chamado": "137",
+            "dt_chamado": "8/12/2005 18:17:10",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "6798"
+        },
+        {
+            "id": "134",
+            "co_chamado": "141",
+            "dt_chamado": "8/12/2005 18:17:56",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "6799"
+        },
+        {
+            "id": "135",
+            "co_chamado": "136",
+            "dt_chamado": "8/12/2005 18:18:36",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "6800"
+        },
+        {
+            "id": "136",
+            "co_chamado": "83",
+            "dt_chamado": "8/12/2005 18:19:33",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "6801"
+        },
+        {
+            "id": "137",
+            "co_chamado": "156",
+            "dt_chamado": "8/12/2005 18:24:52",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "6802"
+        },
+        {
+            "id": "138",
+            "co_chamado": "153",
+            "dt_chamado": "9/12/2005 11:57:44",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "6818"
+        },
+        {
+            "id": "139",
+            "co_chamado": "144",
+            "dt_chamado": "9/12/2005 16:13:20",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "6820"
+        },
+        {
+            "id": "140",
+            "co_chamado": "157",
+            "dt_chamado": "9/12/2005 18:46:49",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "6837"
+        },
+        {
+            "id": "141",
+            "co_chamado": "155",
+            "dt_chamado": "9/12/2005 18:49:57",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "6841"
+        },
+        {
+            "id": "142",
+            "co_chamado": "146",
+            "dt_chamado": "9/12/2005 18:50:50",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "6842"
+        },
+        {
+            "id": "143",
+            "co_chamado": "147",
+            "dt_chamado": "12/12/2005 08:25:15",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "6854"
+        },
+        {
+            "id": "144",
+            "co_chamado": "158",
+            "dt_chamado": "12/12/2005 12:41:51",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "6855"
+        },
+        {
+            "id": "145",
+            "co_chamado": "154",
+            "dt_chamado": "12/12/2005 17:49:09",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "6870"
+        },
+        {
+            "id": "146",
+            "co_chamado": "159",
+            "dt_chamado": "12/12/2005 18:09:34",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "6873"
+        },
+        {
+            "id": "147",
+            "co_chamado": "159",
+            "dt_chamado": "12/12/2005 18:11:18",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "6877"
+        },
+        {
+            "id": "148",
+            "co_chamado": "161",
+            "dt_chamado": "13/12/2005 17:17:17",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "6891"
+        },
+        {
+            "id": "149",
+            "co_chamado": "161",
+            "dt_chamado": "13/12/2005 17:17:49",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "6893"
+        },
+        {
+            "id": "150",
+            "co_chamado": "163",
+            "dt_chamado": "13/12/2005 18:01:10",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "6897"
+        },
+        {
+            "id": "151",
+            "co_chamado": "150",
+            "dt_chamado": "13/12/2005 18:01:37",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "6898"
+        },
+        {
+            "id": "152",
+            "co_chamado": "142",
+            "dt_chamado": "13/12/2005 18:02:00",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "6899"
+        },
+        {
+            "id": "153",
+            "co_chamado": "135",
+            "dt_chamado": "14/12/2005 17:02:34",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "6920"
+        },
+        {
+            "id": "154",
+            "co_chamado": "167",
+            "dt_chamado": "15/12/2005 18:36:42",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "6958"
+        },
+        {
+            "id": "155",
+            "co_chamado": "162",
+            "dt_chamado": "15/12/2005 18:37:04",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "6959"
+        },
+        {
+            "id": "156",
+            "co_chamado": "169",
+            "dt_chamado": "16/12/2005 13:15:32",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "6972"
+        },
+        {
+            "id": "157",
+            "co_chamado": "171",
+            "dt_chamado": "17/12/2005 16:00:05",
+            "co_usuario": "ricardo.martins",
+            "co_daily": "6997"
+        },
+        {
+            "id": "158",
+            "co_chamado": "175",
+            "dt_chamado": "20/12/2005 15:47:28",
+            "co_usuario": "dimas.junior",
+            "co_daily": "7025"
+        },
+        {
+            "id": "159",
+            "co_chamado": "176",
+            "dt_chamado": "21/12/2005 17:33:41",
+            "co_usuario": "dimas.junior",
+            "co_daily": "7054"
+        },
+        {
+            "id": "160",
+            "co_chamado": "164",
+            "dt_chamado": "22/12/2005 14:44:22",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "7076"
+        },
+        {
+            "id": "161",
+            "co_chamado": "186",
+            "dt_chamado": "26/12/2005 08:54:35",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "7129"
+        },
+        {
+            "id": "162",
+            "co_chamado": "189",
+            "dt_chamado": "26/12/2005 12:17:06",
+            "co_usuario": "dimas.junior",
+            "co_daily": "7130"
+        },
+        {
+            "id": "163",
+            "co_chamado": "129",
+            "dt_chamado": "26/12/2005 16:23:54",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "7131"
+        },
+        {
+            "id": "164",
+            "co_chamado": "185",
+            "dt_chamado": "26/12/2005 16:32:17",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "7132"
+        },
+        {
+            "id": "165",
+            "co_chamado": "187",
+            "dt_chamado": "27/12/2005 18:21:04",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "7165"
+        },
+        {
+            "id": "166",
+            "co_chamado": "188",
+            "dt_chamado": "27/12/2005 18:21:28",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "7166"
+        },
+        {
+            "id": "167",
+            "co_chamado": "173",
+            "dt_chamado": "2/1/2006 14:07:52",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "7231"
+        },
+        {
+            "id": "168",
+            "co_chamado": "190",
+            "dt_chamado": "2/1/2006 14:09:47",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "7232"
+        },
+        {
+            "id": "169",
+            "co_chamado": "174",
+            "dt_chamado": "2/1/2006 14:22:27",
+            "co_usuario": "dimas.junior",
+            "co_daily": "7233"
+        },
+        {
+            "id": "170",
+            "co_chamado": "184",
+            "dt_chamado": "2/1/2006 18:21:52",
+            "co_usuario": "dimas.junior",
+            "co_daily": "7238"
+        },
+        {
+            "id": "171",
+            "co_chamado": "152",
+            "dt_chamado": "3/1/2006 18:18:08",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "7252"
+        },
+        {
+            "id": "172",
+            "co_chamado": "152",
+            "dt_chamado": "3/1/2006 18:19:22",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "7255"
+        },
+        {
+            "id": "173",
+            "co_chamado": "191",
+            "dt_chamado": "4/1/2006 17:14:15",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "7266"
+        },
+        {
+            "id": "174",
+            "co_chamado": "152",
+            "dt_chamado": "5/1/2006 11:21:59",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "7283"
+        },
+        {
+            "id": "175",
+            "co_chamado": "140",
+            "dt_chamado": "9/1/2006 18:00:59",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "7323"
+        },
+        {
+            "id": "176",
+            "co_chamado": "143",
+            "dt_chamado": "9/1/2006 18:01:18",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "7324"
+        },
+        {
+            "id": "177",
+            "co_chamado": "134",
+            "dt_chamado": "10/1/2006 09:30:21",
+            "co_usuario": "dimas.junior",
+            "co_daily": "7344"
+        },
+        {
+            "id": "178",
+            "co_chamado": "181",
+            "dt_chamado": "13/1/2006 17:33:57",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "7414"
+        },
+        {
+            "id": "179",
+            "co_chamado": "193",
+            "dt_chamado": "16/1/2006 16:24:00",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "7434"
+        },
+        {
+            "id": "180",
+            "co_chamado": "197",
+            "dt_chamado": "19/1/2006 10:14:52",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "7506"
+        },
+        {
+            "id": "181",
+            "co_chamado": "204",
+            "dt_chamado": "31/1/2006 09:18:24",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "7680"
+        },
+        {
+            "id": "182",
+            "co_chamado": "166",
+            "dt_chamado": "3/2/2006 19:18:50",
+            "co_usuario": "dimas.junior",
+            "co_daily": "7769"
+        },
+        {
+            "id": "183",
+            "co_chamado": "196",
+            "dt_chamado": "7/2/2006 18:16:19",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "7834"
+        },
+        {
+            "id": "184",
+            "co_chamado": "160",
+            "dt_chamado": "7/2/2006 18:17:12",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "7835"
+        },
+        {
+            "id": "185",
+            "co_chamado": "205",
+            "dt_chamado": "8/2/2006 17:28:44",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "7854"
+        },
+        {
+            "id": "186",
+            "co_chamado": "179",
+            "dt_chamado": "8/2/2006 17:29:02",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "7855"
+        },
+        {
+            "id": "187",
+            "co_chamado": "178",
+            "dt_chamado": "8/2/2006 17:29:18",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "7856"
+        },
+        {
+            "id": "188",
+            "co_chamado": "209",
+            "dt_chamado": "10/2/2006 11:45:36",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "7917"
+        },
+        {
+            "id": "189",
+            "co_chamado": "205",
+            "dt_chamado": "10/2/2006 11:46:00",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "7918"
+        },
+        {
+            "id": "190",
+            "co_chamado": "207",
+            "dt_chamado": "10/2/2006 11:46:36",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "7919"
+        },
+        {
+            "id": "191",
+            "co_chamado": "206",
+            "dt_chamado": "13/2/2006 16:23:32",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "7949"
+        },
+        {
+            "id": "192",
+            "co_chamado": "165",
+            "dt_chamado": "14/2/2006 16:50:56",
+            "co_usuario": "dimas.junior",
+            "co_daily": "7983"
+        },
+        {
+            "id": "193",
+            "co_chamado": "165",
+            "dt_chamado": "14/2/2006 16:58:49",
+            "co_usuario": "dimas.junior",
+            "co_daily": "7987"
+        },
+        {
+            "id": "194",
+            "co_chamado": "210",
+            "dt_chamado": "16/2/2006 16:46:35",
+            "co_usuario": "dimas.junior",
+            "co_daily": "8038"
+        },
+        {
+            "id": "195",
+            "co_chamado": "210",
+            "dt_chamado": "16/2/2006 16:58:47",
+            "co_usuario": "dimas.junior",
+            "co_daily": "8042"
+        },
+        {
+            "id": "196",
+            "co_chamado": "168",
+            "dt_chamado": "17/2/2006 18:20:05",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "8074"
+        },
+        {
+            "id": "197",
+            "co_chamado": "149",
+            "dt_chamado": "17/2/2006 18:20:52",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "8075"
+        },
+        {
+            "id": "198",
+            "co_chamado": "145",
+            "dt_chamado": "24/2/2006 16:38:19",
+            "co_usuario": "dimas.junior",
+            "co_daily": "8202"
+        },
+        {
+            "id": "199",
+            "co_chamado": "145",
+            "dt_chamado": "24/2/2006 16:40:57",
+            "co_usuario": "dimas.junior",
+            "co_daily": "8204"
+        },
+        {
+            "id": "200",
+            "co_chamado": "211",
+            "dt_chamado": "7/3/2006 09:06:47",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8314"
+        },
+        {
+            "id": "201",
+            "co_chamado": "214",
+            "dt_chamado": "7/3/2006 17:48:57",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "8319"
+        },
+        {
+            "id": "202",
+            "co_chamado": "216",
+            "dt_chamado": "7/3/2006 18:22:44",
+            "co_usuario": "alessandro.yamada",
+            "co_daily": "8328"
+        },
+        {
+            "id": "203",
+            "co_chamado": "216",
+            "dt_chamado": "7/3/2006 18:23:43",
+            "co_usuario": "alessandro.yamada",
+            "co_daily": "8330"
+        },
+        {
+            "id": "204",
+            "co_chamado": "192",
+            "dt_chamado": "13/3/2006 09:24:03",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "8412"
+        },
+        {
+            "id": "205",
+            "co_chamado": "213",
+            "dt_chamado": "13/3/2006 09:24:31",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "8413"
+        },
+        {
+            "id": "206",
+            "co_chamado": "212",
+            "dt_chamado": "13/3/2006 09:24:58",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "8414"
+        },
+        {
+            "id": "207",
+            "co_chamado": "138",
+            "dt_chamado": "13/3/2006 09:28:39",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "8415"
+        },
+        {
+            "id": "208",
+            "co_chamado": "139",
+            "dt_chamado": "13/3/2006 09:29:07",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "8416"
+        },
+        {
+            "id": "209",
+            "co_chamado": "219",
+            "dt_chamado": "13/3/2006 09:55:54",
+            "co_usuario": "alessandro.yamada",
+            "co_daily": "8417"
+        },
+        {
+            "id": "210",
+            "co_chamado": "225",
+            "dt_chamado": "13/3/2006 18:43:55",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8436"
+        },
+        {
+            "id": "211",
+            "co_chamado": "225",
+            "dt_chamado": "13/3/2006 18:44:41",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8438"
+        },
+        {
+            "id": "212",
+            "co_chamado": "227",
+            "dt_chamado": "14/3/2006 12:09:38",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8442"
+        },
+        {
+            "id": "213",
+            "co_chamado": "194",
+            "dt_chamado": "14/3/2006 12:10:44",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8443"
+        },
+        {
+            "id": "214",
+            "co_chamado": "226",
+            "dt_chamado": "15/3/2006 08:13:22",
+            "co_usuario": "alessandro.yamada",
+            "co_daily": "8466"
+        },
+        {
+            "id": "215",
+            "co_chamado": "228",
+            "dt_chamado": "16/3/2006 17:52:19",
+            "co_usuario": "alessandro.yamada",
+            "co_daily": "8494"
+        },
+        {
+            "id": "216",
+            "co_chamado": "230",
+            "dt_chamado": "16/3/2006 17:53:18",
+            "co_usuario": "alessandro.yamada",
+            "co_daily": "8495"
+        },
+        {
+            "id": "217",
+            "co_chamado": "224",
+            "dt_chamado": "16/3/2006 18:07:35",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8505"
+        },
+        {
+            "id": "218",
+            "co_chamado": "224",
+            "dt_chamado": "16/3/2006 18:08:37",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8507"
+        },
+        {
+            "id": "219",
+            "co_chamado": "233",
+            "dt_chamado": "17/3/2006 09:54:32",
+            "co_usuario": "alessandro.yamada",
+            "co_daily": "8521"
+        },
+        {
+            "id": "220",
+            "co_chamado": "234",
+            "dt_chamado": "17/3/2006 17:55:59",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8528"
+        },
+        {
+            "id": "221",
+            "co_chamado": "229",
+            "dt_chamado": "17/3/2006 17:56:32",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8529"
+        },
+        {
+            "id": "222",
+            "co_chamado": "237",
+            "dt_chamado": "20/3/2006 10:06:02",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8544"
+        },
+        {
+            "id": "223",
+            "co_chamado": "238",
+            "dt_chamado": "20/3/2006 18:06:34",
+            "co_usuario": "alessandro.yamada",
+            "co_daily": "8551"
+        },
+        {
+            "id": "224",
+            "co_chamado": "229",
+            "dt_chamado": "23/3/2006 11:37:33",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8616"
+        },
+        {
+            "id": "225",
+            "co_chamado": "195",
+            "dt_chamado": "23/3/2006 11:39:45",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8617"
+        },
+        {
+            "id": "226",
+            "co_chamado": "203",
+            "dt_chamado": "23/3/2006 13:49:36",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8618"
+        },
+        {
+            "id": "227",
+            "co_chamado": "148",
+            "dt_chamado": "23/3/2006 16:54:37",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "8622"
+        },
+        {
+            "id": "228",
+            "co_chamado": "220",
+            "dt_chamado": "23/3/2006 16:55:15",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "8623"
+        },
+        {
+            "id": "229",
+            "co_chamado": "230",
+            "dt_chamado": "23/3/2006 17:25:46",
+            "co_usuario": "alessandro.yamada",
+            "co_daily": "8625"
+        },
+        {
+            "id": "230",
+            "co_chamado": "230",
+            "dt_chamado": "23/3/2006 17:26:53",
+            "co_usuario": "alessandro.yamada",
+            "co_daily": "8628"
+        },
+        {
+            "id": "231",
+            "co_chamado": "240",
+            "dt_chamado": "23/3/2006 17:45:31",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "8634"
+        },
+        {
+            "id": "232",
+            "co_chamado": "236",
+            "dt_chamado": "24/3/2006 18:54:24",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8663"
+        },
+        {
+            "id": "233",
+            "co_chamado": "235",
+            "dt_chamado": "24/3/2006 19:19:08",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8665"
+        },
+        {
+            "id": "234",
+            "co_chamado": "242",
+            "dt_chamado": "27/3/2006 18:31:57",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8684"
+        },
+        {
+            "id": "235",
+            "co_chamado": "243",
+            "dt_chamado": "28/3/2006 16:50:29",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8693"
+        },
+        {
+            "id": "236",
+            "co_chamado": "244",
+            "dt_chamado": "28/3/2006 17:39:27",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8698"
+        },
+        {
+            "id": "237",
+            "co_chamado": "245",
+            "dt_chamado": "28/3/2006 19:17:54",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8717"
+        },
+        {
+            "id": "238",
+            "co_chamado": "239",
+            "dt_chamado": "29/3/2006 16:14:22",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "8722"
+        },
+        {
+            "id": "239",
+            "co_chamado": "249",
+            "dt_chamado": "29/3/2006 16:22:21",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "8723"
+        },
+        {
+            "id": "240",
+            "co_chamado": "231",
+            "dt_chamado": "29/3/2006 16:37:13",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "8724"
+        },
+        {
+            "id": "241",
+            "co_chamado": "247",
+            "dt_chamado": "29/3/2006 17:04:24",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8725"
+        },
+        {
+            "id": "242",
+            "co_chamado": "251",
+            "dt_chamado": "29/3/2006 17:51:30",
+            "co_usuario": "camila.candido",
+            "co_daily": "8730"
+        },
+        {
+            "id": "243",
+            "co_chamado": "254",
+            "dt_chamado": "29/3/2006 18:23:32",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8739"
+        },
+        {
+            "id": "244",
+            "co_chamado": "255",
+            "dt_chamado": "30/3/2006 10:09:58",
+            "co_usuario": "cyntia.nakamura",
+            "co_daily": "8751"
+        },
+        {
+            "id": "245",
+            "co_chamado": "256",
+            "dt_chamado": "30/3/2006 11:56:07",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8752"
+        },
+        {
+            "id": "246",
+            "co_chamado": "258",
+            "dt_chamado": "30/3/2006 15:28:41",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8753"
+        },
+        {
+            "id": "247",
+            "co_chamado": "257",
+            "dt_chamado": "30/3/2006 18:43:25",
+            "co_usuario": "cyntia.nakamura",
+            "co_daily": "8767"
+        },
+        {
+            "id": "248",
+            "co_chamado": "257",
+            "dt_chamado": "30/3/2006 18:45:55",
+            "co_usuario": "cyntia.nakamura",
+            "co_daily": "8769"
+        },
+        {
+            "id": "249",
+            "co_chamado": "225",
+            "dt_chamado": "31/3/2006 17:52:00",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "8788"
+        },
+        {
+            "id": "250",
+            "co_chamado": "217",
+            "dt_chamado": "31/3/2006 19:13:44",
+            "co_usuario": "alessandro.yamada",
+            "co_daily": "8801"
+        },
+        {
+            "id": "251",
+            "co_chamado": "246",
+            "dt_chamado": "3/4/2006 18:41:15",
+            "co_usuario": "camila.candido",
+            "co_daily": "8817"
+        },
+        {
+            "id": "252",
+            "co_chamado": "261",
+            "dt_chamado": "4/4/2006 09:48:41",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "8826"
+        },
+        {
+            "id": "253",
+            "co_chamado": "266",
+            "dt_chamado": "4/4/2006 18:50:50",
+            "co_usuario": "rodrigo.sousa",
+            "co_daily": "8838"
+        },
+        {
+            "id": "254",
+            "co_chamado": "265",
+            "dt_chamado": "4/4/2006 19:05:42",
+            "co_usuario": "marcio.paulino",
+            "co_daily": "8841"
+        },
+        {
+            "id": "255",
+            "co_chamado": "265",
+            "dt_chamado": "4/4/2006 19:22:01",
+            "co_usuario": "marcio.paulino",
+            "co_daily": "8845"
+        },
+        {
+            "id": "256",
+            "co_chamado": "265",
+            "dt_chamado": "4/4/2006 19:22:54",
+            "co_usuario": "marcio.paulino",
+            "co_daily": "8846"
+        },
+        {
+            "id": "257",
+            "co_chamado": "265",
+            "dt_chamado": "4/4/2006 19:42:36",
+            "co_usuario": "marcio.paulino",
+            "co_daily": "8847"
+        },
+        {
+            "id": "258",
+            "co_chamado": "263",
+            "dt_chamado": "5/4/2006 12:33:11",
+            "co_usuario": "marcio.paulino",
+            "co_daily": "8863"
+        },
+        {
+            "id": "259",
+            "co_chamado": "275",
+            "dt_chamado": "5/4/2006 17:31:39",
+            "co_usuario": "lf.oliveira",
+            "co_daily": "8869"
+        },
+        {
+            "id": "260",
+            "co_chamado": "264",
+            "dt_chamado": "6/4/2006 10:59:43",
+            "co_usuario": "marcio.paulino",
+            "co_daily": "8888"
+        },
+        {
+            "id": "261",
+            "co_chamado": "269",
+            "dt_chamado": "6/4/2006 11:01:13",
+            "co_usuario": "marcio.paulino",
+            "co_daily": "8889"
+        },
+        {
+            "id": "262",
+            "co_chamado": "218",
+            "dt_chamado": "6/4/2006 16:04:25",
+            "co_usuario": "glauco.sassaki",
+            "co_daily": "8890"
+        },
+        {
+            "id": "263",
+            "co_chamado": "199",
+            "dt_chamado": "6/4/2006 18:27:31",
+            "co_usuario": "camila.candido",
+            "co_daily": "8903"
+        },
+        {
+            "id": "264",
+            "co_chamado": "199",
+            "dt_chamado": "6/4/2006 18:45:57",
+            "co_usuario": "camila.candido",
+            "co_daily": "8910"
+        },
+        {
+            "id": "265",
+            "co_chamado": "270",
+            "dt_chamado": "6/4/2006 19:09:41",
+            "co_usuario": "rodrigo.sousa",
+            "co_daily": "8915"
+        },
+        {
+            "id": "266",
+            "co_chamado": "270",
+            "dt_chamado": "6/4/2006 19:10:45",
+            "co_usuario": "rodrigo.sousa",
+            "co_daily": "8917"
+        },
+        {
+            "id": "267",
+            "co_chamado": "273",
+            "dt_chamado": "7/4/2006 07:41:00",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "8919"
+        },
+        {
+            "id": "268",
+            "co_chamado": "260",
+            "dt_chamado": "7/4/2006 18:38:40",
+            "co_usuario": "camila.candido",
+            "co_daily": "8933"
+        },
+        {
+            "id": "269",
+            "co_chamado": "260",
+            "dt_chamado": "7/4/2006 18:41:12",
+            "co_usuario": "camila.candido",
+            "co_daily": "8935"
+        },
+        {
+            "id": "270",
+            "co_chamado": "279",
+            "dt_chamado": "10/4/2006 17:01:25",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "8944"
+        },
+        {
+            "id": "271",
+            "co_chamado": "280",
+            "dt_chamado": "10/4/2006 18:23:32",
+            "co_usuario": "camila.candido",
+            "co_daily": "8959"
+        },
+        {
+            "id": "272",
+            "co_chamado": "262",
+            "dt_chamado": "11/4/2006 19:03:08",
+            "co_usuario": "marcio.paulino",
+            "co_daily": "8979"
+        },
+        {
+            "id": "273",
+            "co_chamado": "272",
+            "dt_chamado": "12/4/2006 19:16:42",
+            "co_usuario": "rodrigo.sousa",
+            "co_daily": "8998"
+        },
+        {
+            "id": "274",
+            "co_chamado": "271",
+            "dt_chamado": "12/4/2006 19:23:46",
+            "co_usuario": "rodrigo.sousa",
+            "co_daily": "8999"
+        },
+        {
+            "id": "275",
+            "co_chamado": "276",
+            "dt_chamado": "13/4/2006 09:20:53",
+            "co_usuario": "lf.oliveira",
+            "co_daily": "9005"
+        },
+        {
+            "id": "276",
+            "co_chamado": "267",
+            "dt_chamado": "13/4/2006 15:42:13",
+            "co_usuario": "marcio.paulino",
+            "co_daily": "9007"
+        },
+        {
+            "id": "277",
+            "co_chamado": "283",
+            "dt_chamado": "13/4/2006 17:02:41",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "9009"
+        },
+        {
+            "id": "278",
+            "co_chamado": "282",
+            "dt_chamado": "13/4/2006 17:04:38",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "9010"
+        },
+        {
+            "id": "279",
+            "co_chamado": "274",
+            "dt_chamado": "13/4/2006 18:32:06",
+            "co_usuario": "rodrigo.sousa",
+            "co_daily": "9020"
+        },
+        {
+            "id": "280",
+            "co_chamado": "268",
+            "dt_chamado": "13/4/2006 18:39:31",
+            "co_usuario": "rodrigo.areco",
+            "co_daily": "9021"
+        },
+        {
+            "id": "281",
+            "co_chamado": "268",
+            "dt_chamado": "13/4/2006 18:46:57",
+            "co_usuario": "rodrigo.areco",
+            "co_daily": "9027"
+        },
+        {
+            "id": "282",
+            "co_chamado": "284",
+            "dt_chamado": "17/4/2006 16:51:51",
+            "co_usuario": "alessandro.yamada",
+            "co_daily": "9030"
+        },
+        {
+            "id": "283",
+            "co_chamado": "284",
+            "dt_chamado": "17/4/2006 16:52:26",
+            "co_usuario": "alessandro.yamada",
+            "co_daily": "9032"
+        },
+        {
+            "id": "284",
+            "co_chamado": "285",
+            "dt_chamado": "17/4/2006 19:04:49",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "9052"
+        },
+        {
+            "id": "285",
+            "co_chamado": "289",
+            "dt_chamado": "18/4/2006 18:28:58",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "9066"
+        },
+        {
+            "id": "286",
+            "co_chamado": "286",
+            "dt_chamado": "18/4/2006 18:30:01",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "9067"
+        },
+        {
+            "id": "287",
+            "co_chamado": "241",
+            "dt_chamado": "24/4/2006 10:40:27",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "9119"
+        },
+        {
+            "id": "288",
+            "co_chamado": "299",
+            "dt_chamado": "26/4/2006 08:08:11",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "9173"
+        },
+        {
+            "id": "289",
+            "co_chamado": "296",
+            "dt_chamado": "26/4/2006 09:06:00",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "9174"
+        },
+        {
+            "id": "290",
+            "co_chamado": "297",
+            "dt_chamado": "26/4/2006 10:12:06",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "9175"
+        },
+        {
+            "id": "291",
+            "co_chamado": "290",
+            "dt_chamado": "26/4/2006 11:58:27",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "9176"
+        },
+        {
+            "id": "292",
+            "co_chamado": "300",
+            "dt_chamado": "26/4/2006 12:00:28",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "9177"
+        },
+        {
+            "id": "293",
+            "co_chamado": "291",
+            "dt_chamado": "26/4/2006 12:01:34",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "9178"
+        },
+        {
+            "id": "294",
+            "co_chamado": "248",
+            "dt_chamado": "26/4/2006 18:49:05",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "9195"
+        },
+        {
+            "id": "295",
+            "co_chamado": "288",
+            "dt_chamado": "26/4/2006 18:50:15",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "9196"
+        },
+        {
+            "id": "296",
+            "co_chamado": "278",
+            "dt_chamado": "26/4/2006 18:50:41",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "9197"
+        },
+        {
+            "id": "297",
+            "co_chamado": "295",
+            "dt_chamado": "27/4/2006 13:32:35",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "9203"
+        },
+        {
+            "id": "298",
+            "co_chamado": "287",
+            "dt_chamado": "28/4/2006 09:16:23",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "9225"
+        },
+        {
+            "id": "299",
+            "co_chamado": "250",
+            "dt_chamado": "28/4/2006 09:17:26",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "9226"
+        },
+        {
+            "id": "300",
+            "co_chamado": "292",
+            "dt_chamado": "3/5/2006 10:16:56",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "301",
+            "co_chamado": "293",
+            "dt_chamado": "3/5/2006 10:17:54",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "302",
+            "co_chamado": "294",
+            "dt_chamado": "4/5/2006 17:26:22",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "303",
+            "co_chamado": "302",
+            "dt_chamado": "5/5/2006 18:56:20",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "304",
+            "co_chamado": "302",
+            "dt_chamado": "8/5/2006 19:13:55",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "305",
+            "co_chamado": "302",
+            "dt_chamado": "8/5/2006 19:14:04",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "306",
+            "co_chamado": "304",
+            "dt_chamado": "10/5/2006 10:29:21",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "307",
+            "co_chamado": "177",
+            "dt_chamado": "18/5/2006 11:54:50",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "308",
+            "co_chamado": "306",
+            "dt_chamado": "24/5/2006 18:25:57",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "309",
+            "co_chamado": "308",
+            "dt_chamado": "29/5/2006 19:13:20",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "310",
+            "co_chamado": "308",
+            "dt_chamado": "29/5/2006 19:14:39",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "311",
+            "co_chamado": "305",
+            "dt_chamado": "30/5/2006 17:00:27",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "312",
+            "co_chamado": "303",
+            "dt_chamado": "30/5/2006 17:00:48",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "313",
+            "co_chamado": "309",
+            "dt_chamado": "30/5/2006 17:09:03",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "314",
+            "co_chamado": "307",
+            "dt_chamado": "31/5/2006 18:04:38",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "315",
+            "co_chamado": "308",
+            "dt_chamado": "31/5/2006 18:05:43",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "316",
+            "co_chamado": "307",
+            "dt_chamado": "2/6/2006 18:18:33",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "317",
+            "co_chamado": "324",
+            "dt_chamado": "5/6/2006 18:51:05",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "318",
+            "co_chamado": "307",
+            "dt_chamado": "5/6/2006 18:51:28",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "319",
+            "co_chamado": "307",
+            "dt_chamado": "5/6/2006 18:54:24",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "320",
+            "co_chamado": "85",
+            "dt_chamado": "6/6/2006 18:33:54",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "321",
+            "co_chamado": "324",
+            "dt_chamado": "6/6/2006 18:43:50",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "322",
+            "co_chamado": "202",
+            "dt_chamado": "9/6/2006 18:19:37",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "323",
+            "co_chamado": "201",
+            "dt_chamado": "9/6/2006 18:22:36",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "324",
+            "co_chamado": "330",
+            "dt_chamado": "20/6/2006 09:13:18",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "325",
+            "co_chamado": "329",
+            "dt_chamado": "20/6/2006 09:26:01",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "326",
+            "co_chamado": "328",
+            "dt_chamado": "20/6/2006 09:26:38",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "327",
+            "co_chamado": "208",
+            "dt_chamado": "20/6/2006 09:39:14",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "328",
+            "co_chamado": "172",
+            "dt_chamado": "20/6/2006 09:39:54",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "329",
+            "co_chamado": "339",
+            "dt_chamado": "26/6/2006 18:45:48",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "330",
+            "co_chamado": "338",
+            "dt_chamado": "26/6/2006 18:46:19",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "331",
+            "co_chamado": "337",
+            "dt_chamado": "26/6/2006 18:46:42",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "332",
+            "co_chamado": "340",
+            "dt_chamado": "27/6/2006 20:59:34",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "333",
+            "co_chamado": "344",
+            "dt_chamado": "28/6/2006 09:36:33",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "334",
+            "co_chamado": "343",
+            "dt_chamado": "28/6/2006 09:37:04",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "335",
+            "co_chamado": "342",
+            "dt_chamado": "28/6/2006 09:37:21",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "336",
+            "co_chamado": "340",
+            "dt_chamado": "28/6/2006 10:16:15",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "337",
+            "co_chamado": "340",
+            "dt_chamado": "28/6/2006 18:40:55",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "338",
+            "co_chamado": "345",
+            "dt_chamado": "28/6/2006 19:43:05",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "339",
+            "co_chamado": "345",
+            "dt_chamado": "29/6/2006 14:56:22",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "340",
+            "co_chamado": "340",
+            "dt_chamado": "29/6/2006 18:43:21",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "341",
+            "co_chamado": "348",
+            "dt_chamado": "30/6/2006 09:35:22",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "342",
+            "co_chamado": "340",
+            "dt_chamado": "30/6/2006 16:02:58",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "343",
+            "co_chamado": "349",
+            "dt_chamado": "30/6/2006 18:34:41",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "344",
+            "co_chamado": "346",
+            "dt_chamado": "30/6/2006 18:35:21",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "345",
+            "co_chamado": "277",
+            "dt_chamado": "3/7/2006 12:25:15",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "346",
+            "co_chamado": "223",
+            "dt_chamado": "3/7/2006 12:28:46",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "347",
+            "co_chamado": "347",
+            "dt_chamado": "5/7/2006 18:17:12",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "348",
+            "co_chamado": "329",
+            "dt_chamado": "5/7/2006 19:05:50",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "349",
+            "co_chamado": "333",
+            "dt_chamado": "5/7/2006 19:07:54",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "350",
+            "co_chamado": "332",
+            "dt_chamado": "5/7/2006 19:08:18",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "351",
+            "co_chamado": "331",
+            "dt_chamado": "5/7/2006 19:08:47",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "352",
+            "co_chamado": "320",
+            "dt_chamado": "5/7/2006 19:21:39",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "353",
+            "co_chamado": "312",
+            "dt_chamado": "5/7/2006 19:23:25",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "354",
+            "co_chamado": "313",
+            "dt_chamado": "5/7/2006 19:25:13",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "355",
+            "co_chamado": "341",
+            "dt_chamado": "5/7/2006 19:41:36",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "356",
+            "co_chamado": "322",
+            "dt_chamado": "5/7/2006 20:22:51",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "357",
+            "co_chamado": "323",
+            "dt_chamado": "5/7/2006 20:23:34",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "358",
+            "co_chamado": "354",
+            "dt_chamado": "6/7/2006 17:28:37",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "359",
+            "co_chamado": "352",
+            "dt_chamado": "7/7/2006 12:46:41",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "360",
+            "co_chamado": "172",
+            "dt_chamado": "7/7/2006 16:08:39",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "361",
+            "co_chamado": "351",
+            "dt_chamado": "7/7/2006 18:46:31",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "362",
+            "co_chamado": "355",
+            "dt_chamado": "10/7/2006 19:15:57",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "363",
+            "co_chamado": "353",
+            "dt_chamado": "10/7/2006 19:16:46",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "364",
+            "co_chamado": "351",
+            "dt_chamado": "10/7/2006 19:19:49",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "365",
+            "co_chamado": "353",
+            "dt_chamado": "10/7/2006 19:22:47",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "366",
+            "co_chamado": "281",
+            "dt_chamado": "13/7/2006 16:13:09",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "367",
+            "co_chamado": "357",
+            "dt_chamado": "13/7/2006 16:13:24",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "368",
+            "co_chamado": "356",
+            "dt_chamado": "18/7/2006 14:36:30",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "369",
+            "co_chamado": "358",
+            "dt_chamado": "19/7/2006 18:20:23",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "370",
+            "co_chamado": "350",
+            "dt_chamado": "19/7/2006 19:20:46",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "371",
+            "co_chamado": "351",
+            "dt_chamado": "19/7/2006 21:25:43",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "372",
+            "co_chamado": "351",
+            "dt_chamado": "19/7/2006 21:28:36",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "373",
+            "co_chamado": "351",
+            "dt_chamado": "20/7/2006 12:33:36",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "374",
+            "co_chamado": "360",
+            "dt_chamado": "20/7/2006 17:20:55",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "375",
+            "co_chamado": "172",
+            "dt_chamado": "25/7/2006 17:18:47",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "376",
+            "co_chamado": "314",
+            "dt_chamado": "25/7/2006 17:20:43",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "377",
+            "co_chamado": "361",
+            "dt_chamado": "26/7/2006 10:04:35",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "378",
+            "co_chamado": "359",
+            "dt_chamado": "26/7/2006 10:49:17",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "379",
+            "co_chamado": "362",
+            "dt_chamado": "26/7/2006 10:52:39",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "380",
+            "co_chamado": "170",
+            "dt_chamado": "27/7/2006 14:54:03",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "381",
+            "co_chamado": "351",
+            "dt_chamado": "27/7/2006 14:54:57",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "382",
+            "co_chamado": "340",
+            "dt_chamado": "27/7/2006 14:55:37",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "383",
+            "co_chamado": "314",
+            "dt_chamado": "27/7/2006 14:58:42",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "384",
+            "co_chamado": "198",
+            "dt_chamado": "27/7/2006 15:03:19",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "385",
+            "co_chamado": "307",
+            "dt_chamado": "27/7/2006 15:03:43",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "386",
+            "co_chamado": "253",
+            "dt_chamado": "27/7/2006 15:04:14",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "387",
+            "co_chamado": "334",
+            "dt_chamado": "27/7/2006 15:05:03",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "388",
+            "co_chamado": "359",
+            "dt_chamado": "28/7/2006 15:02:25",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "389",
+            "co_chamado": "363",
+            "dt_chamado": "28/7/2006 18:19:11",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "390",
+            "co_chamado": "253",
+            "dt_chamado": "31/7/2006 11:17:23",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "391",
+            "co_chamado": "319",
+            "dt_chamado": "31/7/2006 11:18:42",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "392",
+            "co_chamado": "312",
+            "dt_chamado": "31/7/2006 11:19:23",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "393",
+            "co_chamado": "313",
+            "dt_chamado": "31/7/2006 11:20:00",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "394",
+            "co_chamado": "318",
+            "dt_chamado": "31/7/2006 11:20:34",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "395",
+            "co_chamado": "314",
+            "dt_chamado": "31/7/2006 14:16:36",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "396",
+            "co_chamado": "364",
+            "dt_chamado": "1/8/2006 10:26:16",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "397",
+            "co_chamado": "368",
+            "dt_chamado": "7/8/2006 15:57:43",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "398",
+            "co_chamado": "340",
+            "dt_chamado": "7/8/2006 18:15:53",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "399",
+            "co_chamado": "354",
+            "dt_chamado": "7/8/2006 18:17:46",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "400",
+            "co_chamado": "367",
+            "dt_chamado": "7/8/2006 18:20:48",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "401",
+            "co_chamado": "365",
+            "dt_chamado": "7/8/2006 18:53:34",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "402",
+            "co_chamado": "365",
+            "dt_chamado": "8/8/2006 19:12:05",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "403",
+            "co_chamado": "340",
+            "dt_chamado": "8/8/2006 19:12:45",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "404",
+            "co_chamado": "354",
+            "dt_chamado": "8/8/2006 19:13:25",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "405",
+            "co_chamado": "351",
+            "dt_chamado": "8/8/2006 19:13:52",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "406",
+            "co_chamado": "308",
+            "dt_chamado": "8/8/2006 19:16:24",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "407",
+            "co_chamado": "307",
+            "dt_chamado": "8/8/2006 19:17:19",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "408",
+            "co_chamado": "324",
+            "dt_chamado": "8/8/2006 19:18:56",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "409",
+            "co_chamado": "367",
+            "dt_chamado": "9/8/2006 18:09:24",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "410",
+            "co_chamado": "370",
+            "dt_chamado": "9/8/2006 18:41:23",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "411",
+            "co_chamado": "350",
+            "dt_chamado": "9/8/2006 18:41:56",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "412",
+            "co_chamado": "369",
+            "dt_chamado": "10/8/2006 18:28:20",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "413",
+            "co_chamado": "360",
+            "dt_chamado": "22/8/2006 08:54:10",
+            "co_usuario": "rodrigo.sousa",
+            "co_daily": "0"
+        },
+        {
+            "id": "414",
+            "co_chamado": "362",
+            "dt_chamado": "22/8/2006 08:54:55",
+            "co_usuario": "rodrigo.sousa",
+            "co_daily": "0"
+        },
+        {
+            "id": "415",
+            "co_chamado": "362",
+            "dt_chamado": "22/8/2006 08:55:23",
+            "co_usuario": "rodrigo.sousa",
+            "co_daily": "0"
+        },
+        {
+            "id": "416",
+            "co_chamado": "366",
+            "dt_chamado": "23/8/2006 19:22:21",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "417",
+            "co_chamado": "366",
+            "dt_chamado": "23/8/2006 19:23:19",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "418",
+            "co_chamado": "376",
+            "dt_chamado": "24/8/2006 10:11:38",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "419",
+            "co_chamado": "373",
+            "dt_chamado": "30/8/2006 10:00:46",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "420",
+            "co_chamado": "325",
+            "dt_chamado": "31/8/2006 13:58:47",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "421",
+            "co_chamado": "326",
+            "dt_chamado": "31/8/2006 13:59:12",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "422",
+            "co_chamado": "336",
+            "dt_chamado": "31/8/2006 14:00:36",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "423",
+            "co_chamado": "336",
+            "dt_chamado": "31/8/2006 14:01:09",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "424",
+            "co_chamado": "222",
+            "dt_chamado": "4/9/2006 16:08:31",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "425",
+            "co_chamado": "317",
+            "dt_chamado": "4/9/2006 16:08:56",
+            "co_usuario": "carlos.carvalho",
+            "co_daily": "0"
+        },
+        {
+            "id": "426",
+            "co_chamado": "378",
+            "dt_chamado": "6/9/2006 17:04:57",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "427",
+            "co_chamado": "277",
+            "dt_chamado": "11/9/2006 15:56:55",
+            "co_usuario": "ricardo.rubini",
+            "co_daily": "0"
+        },
+        {
+            "id": "428",
+            "co_chamado": "377",
+            "dt_chamado": "26/9/2006 16:08:47",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "429",
+            "co_chamado": "375",
+            "dt_chamado": "26/9/2006 16:09:06",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "430",
+            "co_chamado": "374",
+            "dt_chamado": "26/9/2006 16:09:44",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "431",
+            "co_chamado": "373",
+            "dt_chamado": "26/9/2006 16:10:03",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "432",
+            "co_chamado": "380",
+            "dt_chamado": "26/9/2006 16:10:33",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "433",
+            "co_chamado": "311",
+            "dt_chamado": "3/10/2006 08:59:41",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "434",
+            "co_chamado": "383",
+            "dt_chamado": "3/10/2006 17:13:30",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "435",
+            "co_chamado": "391",
+            "dt_chamado": "3/10/2006 17:14:38",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "436",
+            "co_chamado": "383",
+            "dt_chamado": "4/10/2006 17:33:32",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "437",
+            "co_chamado": "384",
+            "dt_chamado": "4/10/2006 17:34:02",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "438",
+            "co_chamado": "384",
+            "dt_chamado": "6/10/2006 17:02:50",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "439",
+            "co_chamado": "385",
+            "dt_chamado": "6/10/2006 17:03:05",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "440",
+            "co_chamado": "382",
+            "dt_chamado": "9/10/2006 08:39:09",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "441",
+            "co_chamado": "394",
+            "dt_chamado": "9/10/2006 08:41:28",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "442",
+            "co_chamado": "393",
+            "dt_chamado": "9/10/2006 09:17:13",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "443",
+            "co_chamado": "388",
+            "dt_chamado": "10/10/2006 17:11:08",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "444",
+            "co_chamado": "371",
+            "dt_chamado": "17/10/2006 11:27:15",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "445",
+            "co_chamado": "387",
+            "dt_chamado": "19/10/2006 17:11:10",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "446",
+            "co_chamado": "400",
+            "dt_chamado": "20/10/2006 09:02:33",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "447",
+            "co_chamado": "385",
+            "dt_chamado": "23/10/2006 08:23:26",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "448",
+            "co_chamado": "388",
+            "dt_chamado": "23/10/2006 08:23:59",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "449",
+            "co_chamado": "389",
+            "dt_chamado": "27/10/2006 07:52:03",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "450",
+            "co_chamado": "387",
+            "dt_chamado": "27/10/2006 07:52:40",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "451",
+            "co_chamado": "386",
+            "dt_chamado": "31/10/2006 07:55:46",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "452",
+            "co_chamado": "390",
+            "dt_chamado": "31/10/2006 07:56:08",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "453",
+            "co_chamado": "392",
+            "dt_chamado": "31/10/2006 07:56:22",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "454",
+            "co_chamado": "379",
+            "dt_chamado": "31/10/2006 07:56:36",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "455",
+            "co_chamado": "403",
+            "dt_chamado": "13/11/2006 18:02:20",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "456",
+            "co_chamado": "409",
+            "dt_chamado": "23/11/2006 17:02:08",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "457",
+            "co_chamado": "407",
+            "dt_chamado": "27/11/2006 08:38:29",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "458",
+            "co_chamado": "406",
+            "dt_chamado": "27/11/2006 08:38:40",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "459",
+            "co_chamado": "408",
+            "dt_chamado": "27/11/2006 08:38:51",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "460",
+            "co_chamado": "407",
+            "dt_chamado": "29/11/2006 08:08:46",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "461",
+            "co_chamado": "406",
+            "dt_chamado": "29/11/2006 08:09:05",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "462",
+            "co_chamado": "408",
+            "dt_chamado": "29/11/2006 08:09:30",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "463",
+            "co_chamado": "407",
+            "dt_chamado": "29/11/2006 08:10:19",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "464",
+            "co_chamado": "409",
+            "dt_chamado": "29/11/2006 08:11:00",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "465",
+            "co_chamado": "418",
+            "dt_chamado": "1/12/2006 18:38:07",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "466",
+            "co_chamado": "208",
+            "dt_chamado": "5/12/2006 10:28:38",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "467",
+            "co_chamado": "334",
+            "dt_chamado": "5/12/2006 10:29:13",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "468",
+            "co_chamado": "215",
+            "dt_chamado": "5/12/2006 10:30:57",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "469",
+            "co_chamado": "301",
+            "dt_chamado": "5/12/2006 10:31:40",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "470",
+            "co_chamado": "321",
+            "dt_chamado": "5/12/2006 10:32:12",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "471",
+            "co_chamado": "259",
+            "dt_chamado": "5/12/2006 10:32:31",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "472",
+            "co_chamado": "315",
+            "dt_chamado": "5/12/2006 10:37:09",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "473",
+            "co_chamado": "316",
+            "dt_chamado": "5/12/2006 10:37:42",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "474",
+            "co_chamado": "419",
+            "dt_chamado": "6/12/2006 17:45:51",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "475",
+            "co_chamado": "419",
+            "dt_chamado": "7/12/2006 17:10:08",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "476",
+            "co_chamado": "419",
+            "dt_chamado": "7/12/2006 17:12:12",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "477",
+            "co_chamado": "433",
+            "dt_chamado": "7/12/2006 17:12:37",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "478",
+            "co_chamado": "431",
+            "dt_chamado": "7/12/2006 17:50:15",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "479",
+            "co_chamado": "430",
+            "dt_chamado": "7/12/2006 17:51:02",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "480",
+            "co_chamado": "434",
+            "dt_chamado": "7/12/2006 17:52:13",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "481",
+            "co_chamado": "432",
+            "dt_chamado": "7/12/2006 17:52:54",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "482",
+            "co_chamado": "429",
+            "dt_chamado": "7/12/2006 18:20:55",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "483",
+            "co_chamado": "424",
+            "dt_chamado": "7/12/2006 18:21:10",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "484",
+            "co_chamado": "428",
+            "dt_chamado": "7/12/2006 18:21:21",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "485",
+            "co_chamado": "426",
+            "dt_chamado": "7/12/2006 18:21:32",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "486",
+            "co_chamado": "422",
+            "dt_chamado": "7/12/2006 18:21:41",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "487",
+            "co_chamado": "425",
+            "dt_chamado": "7/12/2006 18:21:51",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "488",
+            "co_chamado": "423",
+            "dt_chamado": "7/12/2006 18:22:01",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "489",
+            "co_chamado": "424",
+            "dt_chamado": "7/12/2006 18:24:38",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "490",
+            "co_chamado": "422",
+            "dt_chamado": "7/12/2006 18:25:09",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "491",
+            "co_chamado": "425",
+            "dt_chamado": "7/12/2006 18:26:51",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "492",
+            "co_chamado": "422",
+            "dt_chamado": "7/12/2006 18:28:07",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "493",
+            "co_chamado": "423",
+            "dt_chamado": "7/12/2006 18:29:03",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "494",
+            "co_chamado": "433",
+            "dt_chamado": "8/12/2006 01:23:48",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "495",
+            "co_chamado": "429",
+            "dt_chamado": "8/12/2006 12:37:20",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "496",
+            "co_chamado": "429",
+            "dt_chamado": "8/12/2006 15:53:38",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "497",
+            "co_chamado": "421",
+            "dt_chamado": "11/12/2006 09:19:29",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "498",
+            "co_chamado": "421",
+            "dt_chamado": "11/12/2006 09:19:31",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "499",
+            "co_chamado": "436",
+            "dt_chamado": "11/12/2006 19:13:56",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "500",
+            "co_chamado": "439",
+            "dt_chamado": "12/12/2006 09:04:19",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "501",
+            "co_chamado": "438",
+            "dt_chamado": "12/12/2006 09:04:50",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "502",
+            "co_chamado": "437",
+            "dt_chamado": "12/12/2006 09:05:37",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "503",
+            "co_chamado": "417",
+            "dt_chamado": "12/12/2006 09:06:35",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "504",
+            "co_chamado": "381",
+            "dt_chamado": "12/12/2006 09:12:11",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "505",
+            "co_chamado": "395",
+            "dt_chamado": "12/12/2006 09:12:31",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "506",
+            "co_chamado": "302",
+            "dt_chamado": "13/12/2006 09:21:23",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "507",
+            "co_chamado": "434",
+            "dt_chamado": "13/12/2006 14:03:01",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "508",
+            "co_chamado": "435",
+            "dt_chamado": "13/12/2006 14:53:42",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "509",
+            "co_chamado": "447",
+            "dt_chamado": "13/12/2006 15:24:24",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "510",
+            "co_chamado": "447",
+            "dt_chamado": "13/12/2006 15:24:57",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "511",
+            "co_chamado": "446",
+            "dt_chamado": "13/12/2006 16:17:21",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "512",
+            "co_chamado": "445",
+            "dt_chamado": "13/12/2006 16:19:45",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "513",
+            "co_chamado": "444",
+            "dt_chamado": "13/12/2006 16:21:23",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "514",
+            "co_chamado": "444",
+            "dt_chamado": "13/12/2006 17:02:10",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "515",
+            "co_chamado": "448",
+            "dt_chamado": "13/12/2006 17:08:45",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "516",
+            "co_chamado": "447",
+            "dt_chamado": "13/12/2006 17:10:35",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "517",
+            "co_chamado": "446",
+            "dt_chamado": "13/12/2006 17:11:53",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "518",
+            "co_chamado": "444",
+            "dt_chamado": "13/12/2006 17:12:52",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "519",
+            "co_chamado": "420",
+            "dt_chamado": "13/12/2006 17:14:36",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "520",
+            "co_chamado": "449",
+            "dt_chamado": "13/12/2006 17:19:30",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "521",
+            "co_chamado": "449",
+            "dt_chamado": "13/12/2006 17:20:09",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "522",
+            "co_chamado": "434",
+            "dt_chamado": "13/12/2006 17:21:13",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "523",
+            "co_chamado": "426",
+            "dt_chamado": "13/12/2006 17:21:59",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "524",
+            "co_chamado": "428",
+            "dt_chamado": "13/12/2006 17:24:45",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "525",
+            "co_chamado": "428",
+            "dt_chamado": "13/12/2006 19:06:48",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "526",
+            "co_chamado": "440",
+            "dt_chamado": "14/12/2006 07:42:37",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "527",
+            "co_chamado": "440",
+            "dt_chamado": "14/12/2006 07:43:56",
+            "co_usuario": "eric.shibayama",
+            "co_daily": "0"
+        },
+        {
+            "id": "528",
+            "co_chamado": "445",
+            "dt_chamado": "14/12/2006 18:39:23",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "529",
+            "co_chamado": "445",
+            "dt_chamado": "14/12/2006 18:50:58",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "530",
+            "co_chamado": "445",
+            "dt_chamado": "14/12/2006 18:54:01",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "531",
+            "co_chamado": "435",
+            "dt_chamado": "15/12/2006 16:11:38",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "532",
+            "co_chamado": "443",
+            "dt_chamado": "15/12/2006 18:54:41",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "533",
+            "co_chamado": "443",
+            "dt_chamado": "15/12/2006 19:06:50",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "534",
+            "co_chamado": "418",
+            "dt_chamado": "20/12/2006 18:14:58",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "535",
+            "co_chamado": "436",
+            "dt_chamado": "20/12/2006 18:15:35",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "536",
+            "co_chamado": "450",
+            "dt_chamado": "20/12/2006 18:15:51",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "537",
+            "co_chamado": "403",
+            "dt_chamado": "20/12/2006 18:17:51",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "538",
+            "co_chamado": "441",
+            "dt_chamado": "20/12/2006 18:18:17",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "539",
+            "co_chamado": "459",
+            "dt_chamado": "21/12/2006 13:04:20",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "540",
+            "co_chamado": "457",
+            "dt_chamado": "21/12/2006 13:24:55",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "541",
+            "co_chamado": "456",
+            "dt_chamado": "21/12/2006 13:29:27",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "542",
+            "co_chamado": "463",
+            "dt_chamado": "21/12/2006 13:33:26",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "543",
+            "co_chamado": "451",
+            "dt_chamado": "21/12/2006 15:09:40",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "544",
+            "co_chamado": "461",
+            "dt_chamado": "21/12/2006 15:13:50",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "545",
+            "co_chamado": "461",
+            "dt_chamado": "21/12/2006 15:18:42",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "546",
+            "co_chamado": "454",
+            "dt_chamado": "21/12/2006 15:57:08",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "547",
+            "co_chamado": "458",
+            "dt_chamado": "21/12/2006 16:15:25",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "548",
+            "co_chamado": "464",
+            "dt_chamado": "21/12/2006 16:58:46",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "549",
+            "co_chamado": "469",
+            "dt_chamado": "21/12/2006 17:04:26",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "550",
+            "co_chamado": "466",
+            "dt_chamado": "21/12/2006 17:30:40",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "551",
+            "co_chamado": "467",
+            "dt_chamado": "21/12/2006 17:50:12",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "552",
+            "co_chamado": "465",
+            "dt_chamado": "21/12/2006 17:50:24",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "553",
+            "co_chamado": "461",
+            "dt_chamado": "21/12/2006 18:24:51",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "554",
+            "co_chamado": "473",
+            "dt_chamado": "22/12/2006 08:45:37",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "555",
+            "co_chamado": "470",
+            "dt_chamado": "22/12/2006 09:53:47",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "556",
+            "co_chamado": "469",
+            "dt_chamado": "22/12/2006 10:08:38",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "557",
+            "co_chamado": "467",
+            "dt_chamado": "22/12/2006 10:19:45",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "558",
+            "co_chamado": "466",
+            "dt_chamado": "22/12/2006 10:20:45",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "559",
+            "co_chamado": "459",
+            "dt_chamado": "22/12/2006 10:54:17",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "560",
+            "co_chamado": "458",
+            "dt_chamado": "22/12/2006 11:20:28",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "561",
+            "co_chamado": "472",
+            "dt_chamado": "22/12/2006 11:35:36",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "562",
+            "co_chamado": "460",
+            "dt_chamado": "22/12/2006 11:41:55",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "563",
+            "co_chamado": "465",
+            "dt_chamado": "22/12/2006 13:08:38",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "564",
+            "co_chamado": "482",
+            "dt_chamado": "22/12/2006 13:34:37",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "565",
+            "co_chamado": "483",
+            "dt_chamado": "22/12/2006 13:50:25",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "566",
+            "co_chamado": "484",
+            "dt_chamado": "22/12/2006 14:18:09",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "567",
+            "co_chamado": "480",
+            "dt_chamado": "22/12/2006 14:42:50",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "568",
+            "co_chamado": "481",
+            "dt_chamado": "22/12/2006 15:30:38",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "569",
+            "co_chamado": "477",
+            "dt_chamado": "22/12/2006 15:32:17",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "570",
+            "co_chamado": "475",
+            "dt_chamado": "22/12/2006 16:28:49",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "571",
+            "co_chamado": "486",
+            "dt_chamado": "22/12/2006 18:31:34",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "572",
+            "co_chamado": "486",
+            "dt_chamado": "22/12/2006 18:33:48",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "573",
+            "co_chamado": "479",
+            "dt_chamado": "22/12/2006 20:14:11",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "574",
+            "co_chamado": "479",
+            "dt_chamado": "22/12/2006 20:26:03",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "575",
+            "co_chamado": "476",
+            "dt_chamado": "23/12/2006 10:24:10",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "576",
+            "co_chamado": "468",
+            "dt_chamado": "23/12/2006 10:45:02",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "577",
+            "co_chamado": "462",
+            "dt_chamado": "23/12/2006 10:55:07",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "578",
+            "co_chamado": "455",
+            "dt_chamado": "23/12/2006 17:17:02",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "579",
+            "co_chamado": "471",
+            "dt_chamado": "23/12/2006 17:17:56",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "580",
+            "co_chamado": "474",
+            "dt_chamado": "23/12/2006 17:21:06",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "581",
+            "co_chamado": "478",
+            "dt_chamado": "23/12/2006 17:23:13",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "582",
+            "co_chamado": "478",
+            "dt_chamado": "23/12/2006 17:32:47",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "583",
+            "co_chamado": "478",
+            "dt_chamado": "25/12/2006 19:24:15",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "584",
+            "co_chamado": "469",
+            "dt_chamado": "25/12/2006 20:30:16",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "585",
+            "co_chamado": "474",
+            "dt_chamado": "26/12/2006 07:10:42",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "586",
+            "co_chamado": "493",
+            "dt_chamado": "26/12/2006 07:23:03",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "587",
+            "co_chamado": "491",
+            "dt_chamado": "26/12/2006 07:23:49",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "588",
+            "co_chamado": "491",
+            "dt_chamado": "26/12/2006 08:51:20",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "589",
+            "co_chamado": "493",
+            "dt_chamado": "26/12/2006 09:10:28",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "590",
+            "co_chamado": "469",
+            "dt_chamado": "26/12/2006 10:20:34",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "591",
+            "co_chamado": "492",
+            "dt_chamado": "26/12/2006 10:33:27",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "592",
+            "co_chamado": "490",
+            "dt_chamado": "26/12/2006 10:37:58",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "593",
+            "co_chamado": "489",
+            "dt_chamado": "26/12/2006 10:39:43",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "594",
+            "co_chamado": "495",
+            "dt_chamado": "26/12/2006 10:44:02",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "595",
+            "co_chamado": "498",
+            "dt_chamado": "26/12/2006 10:59:16",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "596",
+            "co_chamado": "469",
+            "dt_chamado": "26/12/2006 11:24:53",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "597",
+            "co_chamado": "478",
+            "dt_chamado": "26/12/2006 11:54:00",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "598",
+            "co_chamado": "494",
+            "dt_chamado": "26/12/2006 11:57:16",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "599",
+            "co_chamado": "498",
+            "dt_chamado": "26/12/2006 12:02:58",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "600",
+            "co_chamado": "499",
+            "dt_chamado": "26/12/2006 15:21:33",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "601",
+            "co_chamado": "469",
+            "dt_chamado": "26/12/2006 16:03:30",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "602",
+            "co_chamado": "503",
+            "dt_chamado": "27/12/2006 08:11:18",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "603",
+            "co_chamado": "504",
+            "dt_chamado": "27/12/2006 08:25:37",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "604",
+            "co_chamado": "498",
+            "dt_chamado": "27/12/2006 08:26:30",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "605",
+            "co_chamado": "488",
+            "dt_chamado": "27/12/2006 09:22:44",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "606",
+            "co_chamado": "485",
+            "dt_chamado": "27/12/2006 09:23:47",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "607",
+            "co_chamado": "504",
+            "dt_chamado": "27/12/2006 10:10:16",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "608",
+            "co_chamado": "506",
+            "dt_chamado": "27/12/2006 10:15:25",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "609",
+            "co_chamado": "500",
+            "dt_chamado": "27/12/2006 10:26:22",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "610",
+            "co_chamado": "500",
+            "dt_chamado": "27/12/2006 10:53:02",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "611",
+            "co_chamado": "501",
+            "dt_chamado": "27/12/2006 11:25:17",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "612",
+            "co_chamado": "474",
+            "dt_chamado": "27/12/2006 12:26:42",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "613",
+            "co_chamado": "505",
+            "dt_chamado": "27/12/2006 13:01:02",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "614",
+            "co_chamado": "502",
+            "dt_chamado": "27/12/2006 17:13:03",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "615",
+            "co_chamado": "496",
+            "dt_chamado": "27/12/2006 17:59:11",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "616",
+            "co_chamado": "497",
+            "dt_chamado": "27/12/2006 18:29:22",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "617",
+            "co_chamado": "502",
+            "dt_chamado": "27/12/2006 18:35:10",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "618",
+            "co_chamado": "487",
+            "dt_chamado": "27/12/2006 19:23:48",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "619",
+            "co_chamado": "487",
+            "dt_chamado": "27/12/2006 19:23:49",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "620",
+            "co_chamado": "487",
+            "dt_chamado": "27/12/2006 19:24:40",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "621",
+            "co_chamado": "505",
+            "dt_chamado": "27/12/2006 20:02:30",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "622",
+            "co_chamado": "505",
+            "dt_chamado": "27/12/2006 20:03:40",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "623",
+            "co_chamado": "507",
+            "dt_chamado": "28/12/2006 10:31:45",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "624",
+            "co_chamado": "505",
+            "dt_chamado": "28/12/2006 11:14:12",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "625",
+            "co_chamado": "508",
+            "dt_chamado": "28/12/2006 12:00:13",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "626",
+            "co_chamado": "498",
+            "dt_chamado": "29/12/2006 19:22:55",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "627",
+            "co_chamado": "509",
+            "dt_chamado": "29/12/2006 19:23:34",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "628",
+            "co_chamado": "510",
+            "dt_chamado": "29/12/2006 19:24:14",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "629",
+            "co_chamado": "511",
+            "dt_chamado": "29/12/2006 19:26:31",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "630",
+            "co_chamado": "511",
+            "dt_chamado": "29/12/2006 19:28:00",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "631",
+            "co_chamado": "512",
+            "dt_chamado": "2/1/2007 15:54:07",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "632",
+            "co_chamado": "524",
+            "dt_chamado": "5/1/2007 00:14:25",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "633",
+            "co_chamado": "524",
+            "dt_chamado": "5/1/2007 00:15:39",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "634",
+            "co_chamado": "513",
+            "dt_chamado": "6/1/2007 12:44:56",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "635",
+            "co_chamado": "514",
+            "dt_chamado": "6/1/2007 14:00:49",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "636",
+            "co_chamado": "516",
+            "dt_chamado": "6/1/2007 14:14:20",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "637",
+            "co_chamado": "516",
+            "dt_chamado": "6/1/2007 14:47:15",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "638",
+            "co_chamado": "515",
+            "dt_chamado": "6/1/2007 14:47:52",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "639",
+            "co_chamado": "519",
+            "dt_chamado": "6/1/2007 15:31:45",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "640",
+            "co_chamado": "517",
+            "dt_chamado": "6/1/2007 17:09:18",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "641",
+            "co_chamado": "520",
+            "dt_chamado": "7/1/2007 14:09:41",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "642",
+            "co_chamado": "518",
+            "dt_chamado": "7/1/2007 14:10:09",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "643",
+            "co_chamado": "524",
+            "dt_chamado": "8/1/2007 14:53:54",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "644",
+            "co_chamado": "427",
+            "dt_chamado": "8/1/2007 14:57:43",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "645",
+            "co_chamado": "442",
+            "dt_chamado": "8/1/2007 14:58:21",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "646",
+            "co_chamado": "498",
+            "dt_chamado": "9/1/2007 11:22:05",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "647",
+            "co_chamado": "539",
+            "dt_chamado": "10/1/2007 11:43:33",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "648",
+            "co_chamado": "540",
+            "dt_chamado": "10/1/2007 11:48:13",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "649",
+            "co_chamado": "536",
+            "dt_chamado": "10/1/2007 13:03:40",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "650",
+            "co_chamado": "535",
+            "dt_chamado": "10/1/2007 13:13:51",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "651",
+            "co_chamado": "534",
+            "dt_chamado": "10/1/2007 13:14:32",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "652",
+            "co_chamado": "541",
+            "dt_chamado": "10/1/2007 15:54:39",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "653",
+            "co_chamado": "537",
+            "dt_chamado": "10/1/2007 15:55:49",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "654",
+            "co_chamado": "540",
+            "dt_chamado": "10/1/2007 17:26:26",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "655",
+            "co_chamado": "537",
+            "dt_chamado": "10/1/2007 17:37:12",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "656",
+            "co_chamado": "544",
+            "dt_chamado": "11/1/2007 09:55:50",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "657",
+            "co_chamado": "543",
+            "dt_chamado": "11/1/2007 09:57:06",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "658",
+            "co_chamado": "542",
+            "dt_chamado": "11/1/2007 09:57:49",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "659",
+            "co_chamado": "540",
+            "dt_chamado": "11/1/2007 12:00:40",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "660",
+            "co_chamado": "545",
+            "dt_chamado": "11/1/2007 12:01:16",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "661",
+            "co_chamado": "538",
+            "dt_chamado": "12/1/2007 13:14:39",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "662",
+            "co_chamado": "538",
+            "dt_chamado": "12/1/2007 13:18:05",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "663",
+            "co_chamado": "538",
+            "dt_chamado": "12/1/2007 15:26:38",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "664",
+            "co_chamado": "538",
+            "dt_chamado": "12/1/2007 15:27:13",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "665",
+            "co_chamado": "552",
+            "dt_chamado": "13/1/2007 13:33:31",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "666",
+            "co_chamado": "546",
+            "dt_chamado": "13/1/2007 13:33:50",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "667",
+            "co_chamado": "554",
+            "dt_chamado": "13/1/2007 13:34:05",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "668",
+            "co_chamado": "553",
+            "dt_chamado": "13/1/2007 13:34:32",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "669",
+            "co_chamado": "551",
+            "dt_chamado": "13/1/2007 13:34:43",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "670",
+            "co_chamado": "548",
+            "dt_chamado": "13/1/2007 13:34:57",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "671",
+            "co_chamado": "550",
+            "dt_chamado": "13/1/2007 13:35:20",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "672",
+            "co_chamado": "549",
+            "dt_chamado": "13/1/2007 13:36:00",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "673",
+            "co_chamado": "549",
+            "dt_chamado": "13/1/2007 13:36:34",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "674",
+            "co_chamado": "547",
+            "dt_chamado": "13/1/2007 13:37:04",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "675",
+            "co_chamado": "559",
+            "dt_chamado": "15/1/2007 18:06:28",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "676",
+            "co_chamado": "558",
+            "dt_chamado": "15/1/2007 18:12:20",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "677",
+            "co_chamado": "556",
+            "dt_chamado": "16/1/2007 08:48:41",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "678",
+            "co_chamado": "555",
+            "dt_chamado": "16/1/2007 08:49:01",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "679",
+            "co_chamado": "557",
+            "dt_chamado": "16/1/2007 08:49:55",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "680",
+            "co_chamado": "533",
+            "dt_chamado": "16/1/2007 08:50:28",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "681",
+            "co_chamado": "526",
+            "dt_chamado": "16/1/2007 08:51:11",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "682",
+            "co_chamado": "529",
+            "dt_chamado": "16/1/2007 08:51:30",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "683",
+            "co_chamado": "530",
+            "dt_chamado": "16/1/2007 08:52:28",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "684",
+            "co_chamado": "521",
+            "dt_chamado": "16/1/2007 08:53:08",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "685",
+            "co_chamado": "531",
+            "dt_chamado": "16/1/2007 08:53:37",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "686",
+            "co_chamado": "523",
+            "dt_chamado": "16/1/2007 08:54:26",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "687",
+            "co_chamado": "538",
+            "dt_chamado": "16/1/2007 17:57:59",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "688",
+            "co_chamado": "565",
+            "dt_chamado": "24/1/2007 16:29:47",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "689",
+            "co_chamado": "564",
+            "dt_chamado": "25/1/2007 09:27:42",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "690",
+            "co_chamado": "563",
+            "dt_chamado": "25/1/2007 09:28:29",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "691",
+            "co_chamado": "562",
+            "dt_chamado": "25/1/2007 09:29:08",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "692",
+            "co_chamado": "560",
+            "dt_chamado": "25/1/2007 09:29:30",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "693",
+            "co_chamado": "561",
+            "dt_chamado": "25/1/2007 09:29:49",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "694",
+            "co_chamado": "525",
+            "dt_chamado": "25/1/2007 09:30:39",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "695",
+            "co_chamado": "528",
+            "dt_chamado": "25/1/2007 09:31:01",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "696",
+            "co_chamado": "566",
+            "dt_chamado": "2/2/2007 09:34:38",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "697",
+            "co_chamado": "403",
+            "dt_chamado": "5/2/2007 19:42:51",
+            "co_usuario": "camila.candido",
+            "co_daily": "0"
+        },
+        {
+            "id": "698",
+            "co_chamado": "563",
+            "dt_chamado": "8/2/2007 09:02:16",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "699",
+            "co_chamado": "567",
+            "dt_chamado": "9/2/2007 13:03:20",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "700",
+            "co_chamado": "567",
+            "dt_chamado": "9/2/2007 15:10:20",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "701",
+            "co_chamado": "567",
+            "dt_chamado": "9/2/2007 15:17:41",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "702",
+            "co_chamado": "315",
+            "dt_chamado": "12/2/2007 15:40:24",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "703",
+            "co_chamado": "151",
+            "dt_chamado": "12/2/2007 18:51:50",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "704",
+            "co_chamado": "252",
+            "dt_chamado": "12/2/2007 18:52:23",
+            "co_usuario": "leandro.caracciolo",
+            "co_daily": "0"
+        },
+        {
+            "id": "705",
+            "co_chamado": "569",
+            "dt_chamado": "14/2/2007 12:52:29",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "706",
+            "co_chamado": "568",
+            "dt_chamado": "14/2/2007 12:52:49",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "707",
+            "co_chamado": "568",
+            "dt_chamado": "14/2/2007 16:49:13",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "708",
+            "co_chamado": "570",
+            "dt_chamado": "23/2/2007 15:42:07",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "709",
+            "co_chamado": "532",
+            "dt_chamado": "28/2/2007 11:33:21",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "710",
+            "co_chamado": "571",
+            "dt_chamado": "20/3/2007 08:55:47",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "711",
+            "co_chamado": "397",
+            "dt_chamado": "20/3/2007 08:56:38",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "712",
+            "co_chamado": "525",
+            "dt_chamado": "20/3/2007 09:00:49",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "713",
+            "co_chamado": "310",
+            "dt_chamado": "20/3/2007 09:01:16",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "714",
+            "co_chamado": "572",
+            "dt_chamado": "20/3/2007 09:01:39",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "715",
+            "co_chamado": "527",
+            "dt_chamado": "20/3/2007 09:01:54",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "716",
+            "co_chamado": "522",
+            "dt_chamado": "20/3/2007 09:03:20",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "717",
+            "co_chamado": "399",
+            "dt_chamado": "20/3/2007 09:03:43",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "718",
+            "co_chamado": "398",
+            "dt_chamado": "20/3/2007 09:03:52",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "719",
+            "co_chamado": "396",
+            "dt_chamado": "20/3/2007 09:04:04",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "720",
+            "co_chamado": "581",
+            "dt_chamado": "5/4/2007 17:45:46",
+            "co_usuario": "saulo.coelho",
+            "co_daily": "0"
+        },
+        {
+            "id": "721",
+            "co_chamado": "580",
+            "dt_chamado": "5/4/2007 19:39:15",
+            "co_usuario": "saulo.coelho",
+            "co_daily": "0"
+        },
+        {
+            "id": "722",
+            "co_chamado": "579",
+            "dt_chamado": "5/4/2007 19:39:35",
+            "co_usuario": "saulo.coelho",
+            "co_daily": "0"
+        },
+        {
+            "id": "723",
+            "co_chamado": "577",
+            "dt_chamado": "5/4/2007 19:40:08",
+            "co_usuario": "saulo.coelho",
+            "co_daily": "0"
+        },
+        {
+            "id": "724",
+            "co_chamado": "578",
+            "dt_chamado": "5/4/2007 19:40:47",
+            "co_usuario": "saulo.coelho",
+            "co_daily": "0"
+        },
+        {
+            "id": "725",
+            "co_chamado": "573",
+            "dt_chamado": "9/4/2007 13:54:18",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "726",
+            "co_chamado": "575",
+            "dt_chamado": "9/4/2007 13:54:51",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "727",
+            "co_chamado": "582",
+            "dt_chamado": "9/4/2007 13:55:22",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "728",
+            "co_chamado": "582",
+            "dt_chamado": "9/4/2007 19:31:08",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "729",
+            "co_chamado": "582",
+            "dt_chamado": "9/4/2007 19:32:03",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "730",
+            "co_chamado": "576",
+            "dt_chamado": "12/4/2007 16:47:04",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "731",
+            "co_chamado": "576",
+            "dt_chamado": "12/4/2007 16:47:57",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "732",
+            "co_chamado": "589",
+            "dt_chamado": "19/4/2007 12:11:20",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "733",
+            "co_chamado": "587",
+            "dt_chamado": "19/4/2007 15:23:52",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "734",
+            "co_chamado": "586",
+            "dt_chamado": "19/4/2007 15:24:13",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "735",
+            "co_chamado": "588",
+            "dt_chamado": "19/4/2007 15:24:24",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "736",
+            "co_chamado": "585",
+            "dt_chamado": "19/4/2007 15:24:43",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "737",
+            "co_chamado": "584",
+            "dt_chamado": "19/4/2007 15:24:58",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "738",
+            "co_chamado": "587",
+            "dt_chamado": "19/4/2007 15:45:09",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "739",
+            "co_chamado": "585",
+            "dt_chamado": "19/4/2007 15:47:42",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "740",
+            "co_chamado": "584",
+            "dt_chamado": "19/4/2007 15:52:39",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "741",
+            "co_chamado": "585",
+            "dt_chamado": "19/4/2007 15:53:44",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "742",
+            "co_chamado": "584",
+            "dt_chamado": "19/4/2007 15:54:11",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "743",
+            "co_chamado": "588",
+            "dt_chamado": "20/4/2007 08:08:58",
+            "co_usuario": "tiago.stutz",
+            "co_daily": "0"
+        },
+        {
+            "id": "744",
+            "co_chamado": "586",
+            "dt_chamado": "20/4/2007 08:10:21",
+            "co_usuario": "tiago.stutz",
+            "co_daily": "0"
+        },
+        {
+            "id": "745",
+            "co_chamado": "590",
+            "dt_chamado": "20/4/2007 19:09:35",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "746",
+            "co_chamado": "590",
+            "dt_chamado": "20/4/2007 19:12:19",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "747",
+            "co_chamado": "592",
+            "dt_chamado": "23/4/2007 08:59:40",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "748",
+            "co_chamado": "591",
+            "dt_chamado": "23/4/2007 09:00:03",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "749",
+            "co_chamado": "587",
+            "dt_chamado": "24/4/2007 17:00:59",
+            "co_usuario": "tiago.stutz",
+            "co_daily": "0"
+        },
+        {
+            "id": "750",
+            "co_chamado": "593",
+            "dt_chamado": "25/4/2007 19:18:36",
+            "co_usuario": "saulo.coelho",
+            "co_daily": "0"
+        },
+        {
+            "id": "751",
+            "co_chamado": "597",
+            "dt_chamado": "26/4/2007 19:15:57",
+            "co_usuario": "saulo.coelho",
+            "co_daily": "0"
+        },
+        {
+            "id": "752",
+            "co_chamado": "600",
+            "dt_chamado": "30/4/2007 11:11:33",
+            "co_usuario": "saulo.coelho",
+            "co_daily": "0"
+        },
+        {
+            "id": "753",
+            "co_chamado": "574",
+            "dt_chamado": "3/5/2007 11:55:55",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "754",
+            "co_chamado": "584",
+            "dt_chamado": "3/5/2007 14:07:29",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "755",
+            "co_chamado": "596",
+            "dt_chamado": "3/5/2007 14:09:34",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "756",
+            "co_chamado": "598",
+            "dt_chamado": "3/5/2007 14:13:06",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "757",
+            "co_chamado": "586",
+            "dt_chamado": "3/5/2007 14:14:43",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "758",
+            "co_chamado": "585",
+            "dt_chamado": "3/5/2007 14:16:41",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "759",
+            "co_chamado": "595",
+            "dt_chamado": "9/5/2007 10:48:46",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "760",
+            "co_chamado": "587",
+            "dt_chamado": "9/5/2007 10:49:13",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "761",
+            "co_chamado": "594",
+            "dt_chamado": "9/5/2007 10:49:31",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "762",
+            "co_chamado": "605",
+            "dt_chamado": "9/5/2007 10:49:48",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "763",
+            "co_chamado": "603",
+            "dt_chamado": "9/5/2007 10:50:36",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "764",
+            "co_chamado": "601",
+            "dt_chamado": "9/5/2007 10:51:08",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "765",
+            "co_chamado": "605",
+            "dt_chamado": "14/5/2007 14:21:37",
+            "co_usuario": "rafael.sierra",
+            "co_daily": "0"
+        },
+        {
+            "id": "766",
+            "co_chamado": "594",
+            "dt_chamado": "14/5/2007 14:23:04",
+            "co_usuario": "rafael.sierra",
+            "co_daily": "0"
+        },
+        {
+            "id": "767",
+            "co_chamado": "594",
+            "dt_chamado": "14/5/2007 14:24:27",
+            "co_usuario": "rafael.sierra",
+            "co_daily": "0"
+        },
+        {
+            "id": "768",
+            "co_chamado": "594",
+            "dt_chamado": "14/5/2007 15:55:46",
+            "co_usuario": "rafael.sierra",
+            "co_daily": "0"
+        },
+        {
+            "id": "769",
+            "co_chamado": "609",
+            "dt_chamado": "14/5/2007 19:06:50",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "770",
+            "co_chamado": "612",
+            "dt_chamado": "15/5/2007 09:00:25",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "771",
+            "co_chamado": "611",
+            "dt_chamado": "15/5/2007 09:52:26",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "772",
+            "co_chamado": "601",
+            "dt_chamado": "15/5/2007 13:22:25",
+            "co_usuario": "rafael.sierra",
+            "co_daily": "0"
+        },
+        {
+            "id": "773",
+            "co_chamado": "587",
+            "dt_chamado": "16/5/2007 17:35:16",
+            "co_usuario": "rafael.sierra",
+            "co_daily": "0"
+        },
+        {
+            "id": "774",
+            "co_chamado": "608",
+            "dt_chamado": "21/5/2007 10:44:20",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "775",
+            "co_chamado": "613",
+            "dt_chamado": "21/5/2007 19:25:50",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "776",
+            "co_chamado": "608",
+            "dt_chamado": "21/5/2007 19:27:04",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "777",
+            "co_chamado": "610",
+            "dt_chamado": "21/5/2007 19:27:25",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "778",
+            "co_chamado": "614",
+            "dt_chamado": "21/5/2007 19:27:53",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "779",
+            "co_chamado": "615",
+            "dt_chamado": "21/5/2007 19:28:08",
+            "co_usuario": "rodrigo.toledo",
+            "co_daily": "0"
+        },
+        {
+            "id": "780",
+            "co_chamado": "625",
+            "dt_chamado": "22/5/2007 18:26:19",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "781",
+            "co_chamado": "624",
+            "dt_chamado": "22/5/2007 18:27:19",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "782",
+            "co_chamado": "623",
+            "dt_chamado": "22/5/2007 18:48:51",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "783",
+            "co_chamado": "623",
+            "dt_chamado": "22/5/2007 18:54:28",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "784",
+            "co_chamado": "623",
+            "dt_chamado": "22/5/2007 18:59:32",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "785",
+            "co_chamado": "622",
+            "dt_chamado": "23/5/2007 11:12:28",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "786",
+            "co_chamado": "628",
+            "dt_chamado": "24/5/2007 17:33:21",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "787",
+            "co_chamado": "630",
+            "dt_chamado": "24/5/2007 17:35:33",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "788",
+            "co_chamado": "631",
+            "dt_chamado": "24/5/2007 17:39:28",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "789",
+            "co_chamado": "632",
+            "dt_chamado": "24/5/2007 17:40:07",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "790",
+            "co_chamado": "633",
+            "dt_chamado": "24/5/2007 17:40:44",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "791",
+            "co_chamado": "634",
+            "dt_chamado": "24/5/2007 17:41:18",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "792",
+            "co_chamado": "635",
+            "dt_chamado": "24/5/2007 19:26:27",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "793",
+            "co_chamado": "633",
+            "dt_chamado": "24/5/2007 19:27:30",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "794",
+            "co_chamado": "634",
+            "dt_chamado": "24/5/2007 19:27:47",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "795",
+            "co_chamado": "632",
+            "dt_chamado": "24/5/2007 19:27:57",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "796",
+            "co_chamado": "630",
+            "dt_chamado": "24/5/2007 19:28:17",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "797",
+            "co_chamado": "631",
+            "dt_chamado": "24/5/2007 19:28:29",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "798",
+            "co_chamado": "628",
+            "dt_chamado": "24/5/2007 19:28:37",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "799",
+            "co_chamado": "629",
+            "dt_chamado": "24/5/2007 19:28:45",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "800",
+            "co_chamado": "627",
+            "dt_chamado": "24/5/2007 19:28:53",
+            "co_usuario": "raphael.araujo",
+            "co_daily": "0"
+        },
+        {
+            "id": "801",
+            "co_chamado": "618",
+            "dt_chamado": "4/6/2007 12:16:21",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "802",
+            "co_chamado": "607",
+            "dt_chamado": "4/6/2007 12:16:54",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "803",
+            "co_chamado": "619",
+            "dt_chamado": "4/6/2007 12:17:45",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "804",
+            "co_chamado": "603",
+            "dt_chamado": "4/6/2007 12:18:27",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "805",
+            "co_chamado": "602",
+            "dt_chamado": "4/6/2007 12:18:56",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "806",
+            "co_chamado": "595",
+            "dt_chamado": "4/6/2007 12:23:12",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "807",
+            "co_chamado": "626",
+            "dt_chamado": "4/6/2007 12:25:01",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "808",
+            "co_chamado": "604",
+            "dt_chamado": "4/6/2007 12:25:34",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "809",
+            "co_chamado": "638",
+            "dt_chamado": "4/6/2007 14:56:36",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "810",
+            "co_chamado": "638",
+            "dt_chamado": "4/6/2007 15:02:38",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "811",
+            "co_chamado": "639",
+            "dt_chamado": "15/6/2007 19:02:27",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "812",
+            "co_chamado": "644",
+            "dt_chamado": "18/6/2007 13:31:24",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "813",
+            "co_chamado": "647",
+            "dt_chamado": "19/6/2007 17:53:39",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "814",
+            "co_chamado": "646",
+            "dt_chamado": "20/6/2007 11:55:46",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "815",
+            "co_chamado": "645",
+            "dt_chamado": "20/6/2007 11:56:12",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "816",
+            "co_chamado": "641",
+            "dt_chamado": "20/6/2007 11:56:39",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "817",
+            "co_chamado": "616",
+            "dt_chamado": "20/6/2007 11:57:18",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "818",
+            "co_chamado": "649",
+            "dt_chamado": "21/6/2007 14:34:30",
+            "co_usuario": "saulo.coelho",
+            "co_daily": "0"
+        },
+        {
+            "id": "819",
+            "co_chamado": "649",
+            "dt_chamado": "22/6/2007 12:38:04",
+            "co_usuario": "saulo.coelho",
+            "co_daily": "0"
+        },
+        {
+            "id": "820",
+            "co_chamado": "651",
+            "dt_chamado": "26/6/2007 14:25:16",
+            "co_usuario": "gabriel.verta",
+            "co_daily": "0"
+        },
+        {
+            "id": "821",
+            "co_chamado": "652",
+            "dt_chamado": "26/6/2007 15:27:32",
+            "co_usuario": "gabriel.verta",
+            "co_daily": "0"
+        },
+        {
+            "id": "822",
+            "co_chamado": "653",
+            "dt_chamado": "26/6/2007 17:22:10",
+            "co_usuario": "gabriel.verta",
+            "co_daily": "0"
+        },
+        {
+            "id": "823",
+            "co_chamado": "658",
+            "dt_chamado": "27/6/2007 09:35:05",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "824",
+            "co_chamado": "657",
+            "dt_chamado": "27/6/2007 09:35:35",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "825",
+            "co_chamado": "655",
+            "dt_chamado": "27/6/2007 09:36:05",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "826",
+            "co_chamado": "654",
+            "dt_chamado": "27/6/2007 09:36:41",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "827",
+            "co_chamado": "651",
+            "dt_chamado": "27/6/2007 09:38:36",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "828",
+            "co_chamado": "379",
+            "dt_chamado": "27/6/2007 09:38:50",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "829",
+            "co_chamado": "392",
+            "dt_chamado": "27/6/2007 09:39:02",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "830",
+            "co_chamado": "404",
+            "dt_chamado": "27/6/2007 09:39:24",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "831",
+            "co_chamado": "405",
+            "dt_chamado": "27/6/2007 09:39:37",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "832",
+            "co_chamado": "401",
+            "dt_chamado": "27/6/2007 09:39:52",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "833",
+            "co_chamado": "599",
+            "dt_chamado": "27/6/2007 09:40:37",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "834",
+            "co_chamado": "621",
+            "dt_chamado": "27/6/2007 09:42:11",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "835",
+            "co_chamado": "648",
+            "dt_chamado": "27/6/2007 09:42:41",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "836",
+            "co_chamado": "416",
+            "dt_chamado": "27/6/2007 09:43:16",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "837",
+            "co_chamado": "414",
+            "dt_chamado": "27/6/2007 09:43:29",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "838",
+            "co_chamado": "412",
+            "dt_chamado": "27/6/2007 09:43:40",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "839",
+            "co_chamado": "411",
+            "dt_chamado": "27/6/2007 09:43:51",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "840",
+            "co_chamado": "415",
+            "dt_chamado": "27/6/2007 09:44:05",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "841",
+            "co_chamado": "410",
+            "dt_chamado": "27/6/2007 09:44:15",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "842",
+            "co_chamado": "413",
+            "dt_chamado": "27/6/2007 09:44:48",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "843",
+            "co_chamado": "130",
+            "dt_chamado": "27/6/2007 09:45:21",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "844",
+            "co_chamado": "638",
+            "dt_chamado": "27/6/2007 09:45:39",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "845",
+            "co_chamado": "583",
+            "dt_chamado": "27/6/2007 09:46:26",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "846",
+            "co_chamado": "617",
+            "dt_chamado": "27/6/2007 09:46:50",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "847",
+            "co_chamado": "606",
+            "dt_chamado": "27/6/2007 09:47:28",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "848",
+            "co_chamado": "606",
+            "dt_chamado": "27/6/2007 13:08:06",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "849",
+            "co_chamado": "651",
+            "dt_chamado": "28/6/2007 15:57:00",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "850",
+            "co_chamado": "664",
+            "dt_chamado": "29/6/2007 16:39:31",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "851",
+            "co_chamado": "658",
+            "dt_chamado": "1/7/2007 10:08:00",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "852",
+            "co_chamado": "659",
+            "dt_chamado": "1/7/2007 11:22:49",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "853",
+            "co_chamado": "660",
+            "dt_chamado": "2/7/2007 13:25:17",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "854",
+            "co_chamado": "655",
+            "dt_chamado": "2/7/2007 16:28:14",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "855",
+            "co_chamado": "657",
+            "dt_chamado": "2/7/2007 16:29:03",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "856",
+            "co_chamado": "666",
+            "dt_chamado": "2/7/2007 16:29:18",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "857",
+            "co_chamado": "665",
+            "dt_chamado": "2/7/2007 16:29:28",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "858",
+            "co_chamado": "665",
+            "dt_chamado": "2/7/2007 16:29:45",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "859",
+            "co_chamado": "663",
+            "dt_chamado": "2/7/2007 16:29:57",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "860",
+            "co_chamado": "663",
+            "dt_chamado": "2/7/2007 16:30:07",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "861",
+            "co_chamado": "663",
+            "dt_chamado": "2/7/2007 17:11:41",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "862",
+            "co_chamado": "665",
+            "dt_chamado": "2/7/2007 22:51:28",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "863",
+            "co_chamado": "654",
+            "dt_chamado": "2/7/2007 22:53:11",
+            "co_usuario": "carlos.arruda",
+            "co_daily": "0"
+        },
+        {
+            "id": "864",
+            "co_chamado": "666",
+            "dt_chamado": "3/7/2007 10:14:48",
+            "co_usuario": "gabriel.verta",
+            "co_daily": "0"
+        },
+        {
+            "id": "865",
+            "co_chamado": "657",
+            "dt_chamado": "3/7/2007 10:15:23",
+            "co_usuario": "gabriel.verta",
+            "co_daily": "0"
+        },
+        {
+            "id": "866",
+            "co_chamado": "663",
+            "dt_chamado": "3/7/2007 10:21:03",
+            "co_usuario": "gabriel.verta",
+            "co_daily": "0"
+        },
+        {
+            "id": "867",
+            "co_chamado": "665",
+            "dt_chamado": "3/7/2007 10:21:25",
+            "co_usuario": "gabriel.verta",
+            "co_daily": "0"
+        },
+        {
+            "id": "868",
+            "co_chamado": "655",
+            "dt_chamado": "3/7/2007 10:21:51",
+            "co_usuario": "gabriel.verta",
+            "co_daily": "0"
+        },
+        {
+            "id": "869",
+            "co_chamado": "652",
+            "dt_chamado": "3/7/2007 10:37:59",
+            "co_usuario": "gabriel.verta",
+            "co_daily": "0"
+        },
+        {
+            "id": "870",
+            "co_chamado": "662",
+            "dt_chamado": "3/7/2007 10:38:49",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "871",
+            "co_chamado": "659",
+            "dt_chamado": "3/7/2007 10:39:14",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "872",
+            "co_chamado": "660",
+            "dt_chamado": "3/7/2007 10:39:27",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "873",
+            "co_chamado": "661",
+            "dt_chamado": "3/7/2007 10:39:42",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "874",
+            "co_chamado": "652",
+            "dt_chamado": "3/7/2007 10:40:04",
+            "co_usuario": "gabriel.verta",
+            "co_daily": "0"
+        },
+        {
+            "id": "875",
+            "co_chamado": "659",
+            "dt_chamado": "3/7/2007 11:31:31",
+            "co_usuario": "gabriel.verta",
+            "co_daily": "0"
+        },
+        {
+            "id": "876",
+            "co_chamado": "661",
+            "dt_chamado": "3/7/2007 11:32:11",
+            "co_usuario": "gabriel.verta",
+            "co_daily": "0"
+        },
+        {
+            "id": "877",
+            "co_chamado": "660",
+            "dt_chamado": "3/7/2007 11:32:59",
+            "co_usuario": "gabriel.verta",
+            "co_daily": "0"
+        },
+        {
+            "id": "878",
+            "co_chamado": "662",
+            "dt_chamado": "3/7/2007 11:44:35",
+            "co_usuario": "gabriel.verta",
+            "co_daily": "0"
+        },
+        {
+            "id": "879",
+            "co_chamado": "658",
+            "dt_chamado": "3/7/2007 14:44:10",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "880",
+            "co_chamado": "658",
+            "dt_chamado": "3/7/2007 15:46:44",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "881",
+            "co_chamado": "658",
+            "dt_chamado": "3/7/2007 22:28:21",
+            "co_usuario": "gabriel.verta",
+            "co_daily": "0"
+        },
+        {
+            "id": "882",
+            "co_chamado": "658",
+            "dt_chamado": "3/7/2007 22:56:45",
+            "co_usuario": "gabriel.verta",
+            "co_daily": "0"
+        },
+        {
+            "id": "883",
+            "co_chamado": "651",
+            "dt_chamado": "4/7/2007 07:56:29",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "884",
+            "co_chamado": "651",
+            "dt_chamado": "4/7/2007 07:57:00",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "885",
+            "co_chamado": "656",
+            "dt_chamado": "11/7/2007 15:40:38",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "886",
+            "co_chamado": "650",
+            "dt_chamado": "11/7/2007 15:41:09",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "887",
+            "co_chamado": "650",
+            "dt_chamado": "11/7/2007 15:41:28",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "888",
+            "co_chamado": "647",
+            "dt_chamado": "11/7/2007 15:41:55",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "889",
+            "co_chamado": "620",
+            "dt_chamado": "11/7/2007 15:42:27",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "890",
+            "co_chamado": "643",
+            "dt_chamado": "11/7/2007 15:42:49",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "891",
+            "co_chamado": "640",
+            "dt_chamado": "11/7/2007 15:43:27",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "892",
+            "co_chamado": "599",
+            "dt_chamado": "11/7/2007 15:44:51",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "893",
+            "co_chamado": "654",
+            "dt_chamado": "13/7/2007 08:10:01",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "894",
+            "co_chamado": "654",
+            "dt_chamado": "13/7/2007 08:10:23",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "895",
+            "co_chamado": "679",
+            "dt_chamado": "13/7/2007 10:01:28",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "896",
+            "co_chamado": "599",
+            "dt_chamado": "13/7/2007 10:04:19",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "897",
+            "co_chamado": "654",
+            "dt_chamado": "13/7/2007 16:21:28",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "898",
+            "co_chamado": "683",
+            "dt_chamado": "13/7/2007 16:29:56",
+            "co_usuario": "saulo.coelho",
+            "co_daily": "0"
+        },
+        {
+            "id": "899",
+            "co_chamado": "683",
+            "dt_chamado": "13/7/2007 19:01:29",
+            "co_usuario": "andre.bandera",
+            "co_daily": "0"
+        },
+        {
+            "id": "900",
+            "co_chamado": "683",
+            "dt_chamado": "13/7/2007 19:02:25",
+            "co_usuario": "andre.bandera",
+            "co_daily": "0"
+        },
+        {
+            "id": "901",
+            "co_chamado": "683",
+            "dt_chamado": "13/7/2007 19:02:36",
+            "co_usuario": "andre.bandera",
+            "co_daily": "0"
+        },
+        {
+            "id": "902",
+            "co_chamado": "683",
+            "dt_chamado": "13/7/2007 19:13:20",
+            "co_usuario": "andre.bandera",
+            "co_daily": "0"
+        },
+        {
+            "id": "903",
+            "co_chamado": "676",
+            "dt_chamado": "13/7/2007 19:32:45",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "904",
+            "co_chamado": "678",
+            "dt_chamado": "13/7/2007 19:33:01",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "905",
+            "co_chamado": "677",
+            "dt_chamado": "13/7/2007 19:33:18",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "906",
+            "co_chamado": "674",
+            "dt_chamado": "13/7/2007 19:33:46",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "907",
+            "co_chamado": "675",
+            "dt_chamado": "13/7/2007 19:34:14",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "908",
+            "co_chamado": "675",
+            "dt_chamado": "13/7/2007 19:35:11",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "909",
+            "co_chamado": "687",
+            "dt_chamado": "20/7/2007 09:40:17",
+            "co_usuario": "felipe.correa",
+            "co_daily": "0"
+        },
+        {
+            "id": "910",
+            "co_chamado": "686",
+            "dt_chamado": "25/7/2007 14:51:35",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "911",
+            "co_chamado": "685",
+            "dt_chamado": "25/7/2007 14:52:13",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "912",
+            "co_chamado": "688",
+            "dt_chamado": "25/7/2007 14:53:35",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "913",
+            "co_chamado": "684",
+            "dt_chamado": "25/7/2007 14:54:05",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "914",
+            "co_chamado": "682",
+            "dt_chamado": "25/7/2007 14:55:29",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "915",
+            "co_chamado": "681",
+            "dt_chamado": "25/7/2007 14:56:14",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "916",
+            "co_chamado": "680",
+            "dt_chamado": "25/7/2007 14:56:31",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "917",
+            "co_chamado": "649",
+            "dt_chamado": "3/8/2007 12:26:44",
+            "co_usuario": "saulo.coelho",
+            "co_daily": "0"
+        },
+        {
+            "id": "918",
+            "co_chamado": "693",
+            "dt_chamado": "16/8/2007 09:13:20",
+            "co_usuario": "saulo.coelho",
+            "co_daily": "0"
+        },
+        {
+            "id": "919",
+            "co_chamado": "695",
+            "dt_chamado": "29/8/2007 14:27:50",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "920",
+            "co_chamado": "695",
+            "dt_chamado": "29/8/2007 15:43:46",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "921",
+            "co_chamado": "695",
+            "dt_chamado": "29/8/2007 16:21:14",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "922",
+            "co_chamado": "695",
+            "dt_chamado": "29/8/2007 18:18:18",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "923",
+            "co_chamado": "697",
+            "dt_chamado": "30/8/2007 09:32:44",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "924",
+            "co_chamado": "698",
+            "dt_chamado": "30/8/2007 09:36:18",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "925",
+            "co_chamado": "699",
+            "dt_chamado": "30/8/2007 12:46:30",
+            "co_usuario": "jefferson.silva",
+            "co_daily": "0"
+        },
+        {
+            "id": "926",
+            "co_chamado": "696",
+            "dt_chamado": "10/9/2007 14:36:18",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "927",
+            "co_chamado": "700",
+            "dt_chamado": "11/9/2007 14:54:45",
+            "co_usuario": "bruno.freitas",
+            "co_daily": "0"
+        },
+        {
+            "id": "928",
+            "co_chamado": "700",
+            "dt_chamado": "11/9/2007 15:20:36",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "929",
+            "co_chamado": "700",
+            "dt_chamado": "11/9/2007 15:21:17",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        },
+        {
+            "id": "930",
+            "co_chamado": "702",
+            "dt_chamado": "17/9/2007 16:27:15",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "931",
+            "co_chamado": "702",
+            "dt_chamado": "17/9/2007 16:27:40",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "932",
+            "co_chamado": "691",
+            "dt_chamado": "17/9/2007 16:29:09",
+            "co_usuario": "anapaula.chiodaro",
+            "co_daily": "0"
+        },
+        {
+            "id": "933",
+            "co_chamado": "703",
+            "dt_chamado": "17/9/2007 17:19:00",
+            "co_usuario": "ricardo.perez",
+            "co_daily": "0"
+        }
+    ]
+}

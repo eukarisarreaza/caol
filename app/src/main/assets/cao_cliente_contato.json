@@ -1,0 +1,1341 @@
+{
+    "RECORDS": [
+        {
+            "co_cliente": "462",
+            "dt_contato": "26/4/2004",
+            "fg_agendado": "1",
+            "hr_ini": "10:00:00",
+            "hr_end": "11:15:00"
+        },
+        {
+            "co_cliente": "217",
+            "dt_contato": "28/4/2004",
+            "fg_agendado": "1",
+            "hr_ini": "10:00:00",
+            "hr_end": "11:00:00"
+        },
+        {
+            "co_cliente": "4100",
+            "dt_contato": "17/5/2004",
+            "fg_agendado": "0",
+            "hr_ini": "08:00:00",
+            "hr_end": "08:00:00"
+        },
+        {
+            "co_cliente": "5549",
+            "dt_contato": "27/5/2004",
+            "fg_agendado": "0",
+            "hr_ini": "15:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "1050",
+            "dt_contato": "6/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "1070",
+            "dt_contato": "9/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "1077",
+            "dt_contato": "31/5/2004",
+            "fg_agendado": "1",
+            "hr_ini": "09:00:00",
+            "hr_end": "17:00:00"
+        },
+        {
+            "co_cliente": "1081",
+            "dt_contato": "9/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "11:00:00",
+            "hr_end": "17:00:00"
+        },
+        {
+            "co_cliente": "1086",
+            "dt_contato": "26/5/2004",
+            "fg_agendado": "0",
+            "hr_ini": "08:00:00",
+            "hr_end": "08:00:00"
+        },
+        {
+            "co_cliente": "1089",
+            "dt_contato": "29/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "1093",
+            "dt_contato": "17/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "17:00:00"
+        },
+        {
+            "co_cliente": "1095",
+            "dt_contato": "9/9/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "13:00:00"
+        },
+        {
+            "co_cliente": "1111",
+            "dt_contato": "26/5/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "17:00:00"
+        },
+        {
+            "co_cliente": "1126",
+            "dt_contato": "9/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "17:00:00"
+        },
+        {
+            "co_cliente": "1134",
+            "dt_contato": "4/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "16:30:00",
+            "hr_end": "17:30:00"
+        },
+        {
+            "co_cliente": "6875",
+            "dt_contato": "12/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "12:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "597",
+            "dt_contato": "31/5/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "598",
+            "dt_contato": "27/5/2004",
+            "fg_agendado": "0",
+            "hr_ini": "08:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "596",
+            "dt_contato": "27/5/2004",
+            "fg_agendado": "0",
+            "hr_ini": "08:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "199",
+            "dt_contato": "18/6/2004",
+            "fg_agendado": "1",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "627",
+            "dt_contato": "28/5/2004",
+            "fg_agendado": "1",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "768",
+            "dt_contato": "28/5/2004",
+            "fg_agendado": "1",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "742",
+            "dt_contato": "28/5/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "751",
+            "dt_contato": "3/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "4917",
+            "dt_contato": "14/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "4919",
+            "dt_contato": "18/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "4921",
+            "dt_contato": "14/6/2004",
+            "fg_agendado": "1",
+            "hr_ini": "14:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "4922",
+            "dt_contato": "3/6/2004",
+            "fg_agendado": "1",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6473",
+            "dt_contato": "28/5/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6476",
+            "dt_contato": "15/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "375",
+            "dt_contato": "3/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "362",
+            "dt_contato": "14/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "15:30:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "368",
+            "dt_contato": "1/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "374",
+            "dt_contato": "14/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "15:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "959",
+            "dt_contato": "3/6/2004",
+            "fg_agendado": "1",
+            "hr_ini": "09:30:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "963",
+            "dt_contato": "4/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "964",
+            "dt_contato": "4/6/2004",
+            "fg_agendado": "1",
+            "hr_ini": "09:00:00",
+            "hr_end": "12:00:00"
+        },
+        {
+            "co_cliente": "965",
+            "dt_contato": "4/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "973",
+            "dt_contato": "5/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:45:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "975",
+            "dt_contato": "4/6/2004",
+            "fg_agendado": "1",
+            "hr_ini": "09:00:00",
+            "hr_end": "17:45:00"
+        },
+        {
+            "co_cliente": "978",
+            "dt_contato": "4/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "18:30:00"
+        },
+        {
+            "co_cliente": "984",
+            "dt_contato": "4/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:45:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "987",
+            "dt_contato": "7/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "992",
+            "dt_contato": "28/6/2004",
+            "fg_agendado": "1",
+            "hr_ini": "09:00:00",
+            "hr_end": "17:45:00"
+        },
+        {
+            "co_cliente": "593",
+            "dt_contato": "15/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "71",
+            "dt_contato": "16/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "73",
+            "dt_contato": "16/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "12:00:00"
+        },
+        {
+            "co_cliente": "74",
+            "dt_contato": "6/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "77",
+            "dt_contato": "16/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "17:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "78",
+            "dt_contato": "16/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "17:00:00"
+        },
+        {
+            "co_cliente": "80",
+            "dt_contato": "22/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "17:00:00"
+        },
+        {
+            "co_cliente": "109",
+            "dt_contato": "17/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "108",
+            "dt_contato": "2/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "97",
+            "dt_contato": "16/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:30:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "107",
+            "dt_contato": "21/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "1020",
+            "dt_contato": "17/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "16:00:00"
+        },
+        {
+            "co_cliente": "169",
+            "dt_contato": "24/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "17:00:00"
+        },
+        {
+            "co_cliente": "172",
+            "dt_contato": "5/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "08:00:00",
+            "hr_end": "08:00:00"
+        },
+        {
+            "co_cliente": "173",
+            "dt_contato": "17/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6745",
+            "dt_contato": "28/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "960",
+            "dt_contato": "30/6/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "12:15:00"
+        },
+        {
+            "co_cliente": "6731",
+            "dt_contato": "2/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6734",
+            "dt_contato": "7/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "11:45:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6732",
+            "dt_contato": "2/9/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "17:00:00"
+        },
+        {
+            "co_cliente": "6736",
+            "dt_contato": "2/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "11:00:00"
+        },
+        {
+            "co_cliente": "6737",
+            "dt_contato": "5/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6738",
+            "dt_contato": "1/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "15:30:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6739",
+            "dt_contato": "5/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6741",
+            "dt_contato": "9/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6742",
+            "dt_contato": "9/9/2004",
+            "fg_agendado": "0",
+            "hr_ini": "11:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "719",
+            "dt_contato": "1/7/2004",
+            "fg_agendado": "1",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6747",
+            "dt_contato": "1/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "16:45:00",
+            "hr_end": "18:45:00"
+        },
+        {
+            "co_cliente": "6831",
+            "dt_contato": "27/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "08:00:00",
+            "hr_end": "18:30:00"
+        },
+        {
+            "co_cliente": "6754",
+            "dt_contato": "1/7/2004",
+            "fg_agendado": "1",
+            "hr_ini": "14:45:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6818",
+            "dt_contato": "2/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "18:45:00"
+        },
+        {
+            "co_cliente": "6817",
+            "dt_contato": "29/10/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:45:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6773",
+            "dt_contato": "2/9/2004",
+            "fg_agendado": "1",
+            "hr_ini": "09:30:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6771",
+            "dt_contato": "5/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "17:00:00"
+        },
+        {
+            "co_cliente": "6830",
+            "dt_contato": "27/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "08:00:00",
+            "hr_end": "18:30:00"
+        },
+        {
+            "co_cliente": "6752",
+            "dt_contato": "11/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6758",
+            "dt_contato": "5/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "13:30:00",
+            "hr_end": "18:15:00"
+        },
+        {
+            "co_cliente": "6756",
+            "dt_contato": "28/7/2004",
+            "fg_agendado": "1",
+            "hr_ini": "14:45:00",
+            "hr_end": "18:45:00"
+        },
+        {
+            "co_cliente": "6730",
+            "dt_contato": "16/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "17:15:00"
+        },
+        {
+            "co_cliente": "6762",
+            "dt_contato": "5/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:15:00",
+            "hr_end": "18:45:00"
+        },
+        {
+            "co_cliente": "6761",
+            "dt_contato": "13/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "08:00:00",
+            "hr_end": "17:00:00"
+        },
+        {
+            "co_cliente": "727",
+            "dt_contato": "5/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6784",
+            "dt_contato": "24/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6833",
+            "dt_contato": "15/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6820",
+            "dt_contato": "27/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6799",
+            "dt_contato": "15/7/2004",
+            "fg_agendado": "1",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:15:00"
+        },
+        {
+            "co_cliente": "6811",
+            "dt_contato": "7/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:30:00"
+        },
+        {
+            "co_cliente": "1130",
+            "dt_contato": "16/9/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "18:15:00"
+        },
+        {
+            "co_cliente": "6874",
+            "dt_contato": "13/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:15:00"
+        },
+        {
+            "co_cliente": "6768",
+            "dt_contato": "7/10/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:30:00"
+        },
+        {
+            "co_cliente": "6785",
+            "dt_contato": "7/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "18:30:00"
+        },
+        {
+            "co_cliente": "6786",
+            "dt_contato": "30/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:15:00",
+            "hr_end": "18:45:00"
+        },
+        {
+            "co_cliente": "6788",
+            "dt_contato": "8/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "18:15:00"
+        },
+        {
+            "co_cliente": "648",
+            "dt_contato": "6/9/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "17:15:00"
+        },
+        {
+            "co_cliente": "650",
+            "dt_contato": "2/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "18:30:00"
+        },
+        {
+            "co_cliente": "654",
+            "dt_contato": "4/10/2004",
+            "fg_agendado": "0",
+            "hr_ini": "17:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6409",
+            "dt_contato": "8/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "18:30:00"
+        },
+        {
+            "co_cliente": "6412",
+            "dt_contato": "13/7/2004",
+            "fg_agendado": "1",
+            "hr_ini": "16:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6778",
+            "dt_contato": "26/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "16:15:00",
+            "hr_end": "17:45:00"
+        },
+        {
+            "co_cliente": "6782",
+            "dt_contato": "9/3/2005",
+            "fg_agendado": "0",
+            "hr_ini": "09:15:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6166",
+            "dt_contato": "21/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "18:30:00"
+        },
+        {
+            "co_cliente": "6169",
+            "dt_contato": "25/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "08:00:00",
+            "hr_end": "08:00:00"
+        },
+        {
+            "co_cliente": "6171",
+            "dt_contato": "30/7/2004",
+            "fg_agendado": "1",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6173",
+            "dt_contato": "29/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6178",
+            "dt_contato": "12/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6866",
+            "dt_contato": "13/7/2004",
+            "fg_agendado": "1",
+            "hr_ini": "08:00:00",
+            "hr_end": "18:30:00"
+        },
+        {
+            "co_cliente": "6873",
+            "dt_contato": "27/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:30:00"
+        },
+        {
+            "co_cliente": "6845",
+            "dt_contato": "29/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:30:00"
+        },
+        {
+            "co_cliente": "6015",
+            "dt_contato": "22/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "5980",
+            "dt_contato": "16/7/2004",
+            "fg_agendado": "1",
+            "hr_ini": "14:15:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6556",
+            "dt_contato": "2/9/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "5976",
+            "dt_contato": "21/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "5977",
+            "dt_contato": "25/8/2004",
+            "fg_agendado": "1",
+            "hr_ini": "08:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "5994",
+            "dt_contato": "6/10/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6000",
+            "dt_contato": "22/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6013",
+            "dt_contato": "20/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "16:45:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6867",
+            "dt_contato": "26/11/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "18:30:00"
+        },
+        {
+            "co_cliente": "6863",
+            "dt_contato": "29/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "15:30:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "659",
+            "dt_contato": "21/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "658",
+            "dt_contato": "21/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6846",
+            "dt_contato": "28/10/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "18:45:00"
+        },
+        {
+            "co_cliente": "6847",
+            "dt_contato": "9/11/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6848",
+            "dt_contato": "2/9/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6843",
+            "dt_contato": "21/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "18:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6838",
+            "dt_contato": "22/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "18:30:00"
+        },
+        {
+            "co_cliente": "5974",
+            "dt_contato": "22/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "11:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "617",
+            "dt_contato": "27/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:30:00"
+        },
+        {
+            "co_cliente": "6159",
+            "dt_contato": "16/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "620",
+            "dt_contato": "26/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "17:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "424",
+            "dt_contato": "27/7/2004",
+            "fg_agendado": "1",
+            "hr_ini": "08:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "423",
+            "dt_contato": "27/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:15:00",
+            "hr_end": "18:15:00"
+        },
+        {
+            "co_cliente": "6795",
+            "dt_contato": "3/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:45:00"
+        },
+        {
+            "co_cliente": "6792",
+            "dt_contato": "2/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:15:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6809",
+            "dt_contato": "29/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "18:30:00"
+        },
+        {
+            "co_cliente": "6806",
+            "dt_contato": "28/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:15:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6746",
+            "dt_contato": "28/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6841",
+            "dt_contato": "10/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:15:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6755",
+            "dt_contato": "3/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6790",
+            "dt_contato": "11/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6800",
+            "dt_contato": "29/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6858",
+            "dt_contato": "30/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:30:00",
+            "hr_end": "17:15:00"
+        },
+        {
+            "co_cliente": "6859",
+            "dt_contato": "9/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "18:45:00"
+        },
+        {
+            "co_cliente": "6849",
+            "dt_contato": "29/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "17:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6853",
+            "dt_contato": "3/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:15:00",
+            "hr_end": "18:30:00"
+        },
+        {
+            "co_cliente": "6850",
+            "dt_contato": "7/9/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:45:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6839",
+            "dt_contato": "30/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "18:45:00"
+        },
+        {
+            "co_cliente": "6815",
+            "dt_contato": "30/7/2004",
+            "fg_agendado": "0",
+            "hr_ini": "13:45:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6814",
+            "dt_contato": "27/8/2004",
+            "fg_agendado": "1",
+            "hr_ini": "09:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6816",
+            "dt_contato": "3/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6764",
+            "dt_contato": "2/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:45:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6766",
+            "dt_contato": "2/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6857",
+            "dt_contato": "3/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "15:45:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6871",
+            "dt_contato": "2/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6775",
+            "dt_contato": "2/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "08:00:00",
+            "hr_end": "08:00:00"
+        },
+        {
+            "co_cliente": "6804",
+            "dt_contato": "2/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6801",
+            "dt_contato": "9/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6162",
+            "dt_contato": "3/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6836",
+            "dt_contato": "4/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:15:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "376",
+            "dt_contato": "6/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "11:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "576",
+            "dt_contato": "20/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "08:00:00",
+            "hr_end": "08:00:00"
+        },
+        {
+            "co_cliente": "127",
+            "dt_contato": "10/8/2004",
+            "fg_agendado": "1",
+            "hr_ini": "10:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6670",
+            "dt_contato": "25/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6674",
+            "dt_contato": "2/9/2004",
+            "fg_agendado": "0",
+            "hr_ini": "15:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6681",
+            "dt_contato": "8/9/2004",
+            "fg_agendado": "0",
+            "hr_ini": "08:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6652",
+            "dt_contato": "25/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "08:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6661",
+            "dt_contato": "7/12/2004",
+            "fg_agendado": "0",
+            "hr_ini": "08:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "637",
+            "dt_contato": "25/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "08:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6539",
+            "dt_contato": "15/11/2004",
+            "fg_agendado": "0",
+            "hr_ini": "08:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "6576",
+            "dt_contato": "5/10/2004",
+            "fg_agendado": "0",
+            "hr_ini": "08:00:00",
+            "hr_end": "18:15:00"
+        },
+        {
+            "co_cliente": "6553",
+            "dt_contato": "4/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "11:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6554",
+            "dt_contato": "25/8/2004",
+            "fg_agendado": "0",
+            "hr_ini": "16:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6568",
+            "dt_contato": "9/9/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6635",
+            "dt_contato": "9/9/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "666",
+            "dt_contato": "8/9/2004",
+            "fg_agendado": "0",
+            "hr_ini": "09:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "667",
+            "dt_contato": "2/9/2004",
+            "fg_agendado": "1",
+            "hr_ini": "14:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "671",
+            "dt_contato": "2/9/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:30:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "6538",
+            "dt_contato": "2/9/2004",
+            "fg_agendado": "1",
+            "hr_ini": "14:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "696",
+            "dt_contato": "2/9/2004",
+            "fg_agendado": "1",
+            "hr_ini": "14:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "1706",
+            "dt_contato": "24/9/2004",
+            "fg_agendado": "0",
+            "hr_ini": "14:00:00",
+            "hr_end": "18:00:00"
+        },
+        {
+            "co_cliente": "1710",
+            "dt_contato": "6/10/2004",
+            "fg_agendado": "1",
+            "hr_ini": "10:00:00",
+            "hr_end": "18:45:00"
+        },
+        {
+            "co_cliente": "1714",
+            "dt_contato": "28/9/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:00:00",
+            "hr_end": "19:00:00"
+        },
+        {
+            "co_cliente": "1720",
+            "dt_contato": "5/10/2004",
+            "fg_agendado": "0",
+            "hr_ini": "10:30:00",
+            "hr_end": "18:45:00"
+        },
+        {
+            "co_cliente": "6952",
+            "dt_contato": "3/6/2005",
+            "fg_agendado": "1",
+            "hr_ini": "08:00:00",
+            "hr_end": "08:00:00"
+        },
+        {
+            "co_cliente": "6953",
+            "dt_contato": "31/5/2005",
+            "fg_agendado": "1",
+            "hr_ini": "08:00:00",
+            "hr_end": "08:00:00"
+        },
+        {
+            "co_cliente": "6954",
+            "dt_contato": "7/6/2005",
+            "fg_agendado": "1",
+            "hr_ini": "09:00:00",
+            "hr_end": "10:00:00"
+        },
+        {
+            "co_cliente": "1433",
+            "dt_contato": "6/6/2005",
+            "fg_agendado": "1",
+            "hr_ini": "08:00:00",
+            "hr_end": "09:00:00"
+        },
+        {
+            "co_cliente": "6955",
+            "dt_contato": "6/6/2005",
+            "fg_agendado": "0",
+            "hr_ini": "09:00:00",
+            "hr_end": "10:00:00"
+        }
+    ]
+}

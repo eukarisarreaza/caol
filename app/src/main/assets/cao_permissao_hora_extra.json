@@ -1,0 +1,960 @@
+{
+    "RECORDS": [
+        {
+            "id_permissao": "1",
+            "co_movimento": "15041"
+        },
+        {
+            "id_permissao": "2",
+            "co_movimento": "15213"
+        },
+        {
+            "id_permissao": "3",
+            "co_movimento": "15240"
+        },
+        {
+            "id_permissao": "4",
+            "co_movimento": "15244"
+        },
+        {
+            "id_permissao": "5",
+            "co_movimento": "15241"
+        },
+        {
+            "id_permissao": "6",
+            "co_movimento": "15259"
+        },
+        {
+            "id_permissao": "7",
+            "co_movimento": "15250"
+        },
+        {
+            "id_permissao": "8",
+            "co_movimento": "15365"
+        },
+        {
+            "id_permissao": "9",
+            "co_movimento": "15466"
+        },
+        {
+            "id_permissao": "10",
+            "co_movimento": "15488"
+        },
+        {
+            "id_permissao": "11",
+            "co_movimento": "15519"
+        },
+        {
+            "id_permissao": "12",
+            "co_movimento": "15513"
+        },
+        {
+            "id_permissao": "13",
+            "co_movimento": "15510"
+        },
+        {
+            "id_permissao": "14",
+            "co_movimento": "15511"
+        },
+        {
+            "id_permissao": "15",
+            "co_movimento": "15527"
+        },
+        {
+            "id_permissao": "16",
+            "co_movimento": "15531"
+        },
+        {
+            "id_permissao": "17",
+            "co_movimento": "15538"
+        },
+        {
+            "id_permissao": "18",
+            "co_movimento": "15547"
+        },
+        {
+            "id_permissao": "19",
+            "co_movimento": "15591"
+        },
+        {
+            "id_permissao": "20",
+            "co_movimento": "15626"
+        },
+        {
+            "id_permissao": "21",
+            "co_movimento": "15752"
+        },
+        {
+            "id_permissao": "22",
+            "co_movimento": "15750"
+        },
+        {
+            "id_permissao": "23",
+            "co_movimento": "15778"
+        },
+        {
+            "id_permissao": "24",
+            "co_movimento": "15772"
+        },
+        {
+            "id_permissao": "25",
+            "co_movimento": "15830"
+        },
+        {
+            "id_permissao": "26",
+            "co_movimento": "15850"
+        },
+        {
+            "id_permissao": "27",
+            "co_movimento": "15922"
+        },
+        {
+            "id_permissao": "28",
+            "co_movimento": "15949"
+        },
+        {
+            "id_permissao": "29",
+            "co_movimento": "15965"
+        },
+        {
+            "id_permissao": "30",
+            "co_movimento": "16010"
+        },
+        {
+            "id_permissao": "31",
+            "co_movimento": "16081"
+        },
+        {
+            "id_permissao": "32",
+            "co_movimento": "16296"
+        },
+        {
+            "id_permissao": "33",
+            "co_movimento": "16310"
+        },
+        {
+            "id_permissao": "34",
+            "co_movimento": "16408"
+        },
+        {
+            "id_permissao": "35",
+            "co_movimento": "16410"
+        },
+        {
+            "id_permissao": "36",
+            "co_movimento": "16420"
+        },
+        {
+            "id_permissao": "37",
+            "co_movimento": "16411"
+        },
+        {
+            "id_permissao": "38",
+            "co_movimento": "16405"
+        },
+        {
+            "id_permissao": "39",
+            "co_movimento": "16427"
+        },
+        {
+            "id_permissao": "40",
+            "co_movimento": "16475"
+        },
+        {
+            "id_permissao": "41",
+            "co_movimento": "16470"
+        },
+        {
+            "id_permissao": "42",
+            "co_movimento": "16463"
+        },
+        {
+            "id_permissao": "43",
+            "co_movimento": "16486"
+        },
+        {
+            "id_permissao": "44",
+            "co_movimento": "16487"
+        },
+        {
+            "id_permissao": "45",
+            "co_movimento": "16479"
+        },
+        {
+            "id_permissao": "46",
+            "co_movimento": "16499"
+        },
+        {
+            "id_permissao": "47",
+            "co_movimento": "16600"
+        },
+        {
+            "id_permissao": "48",
+            "co_movimento": "16592"
+        },
+        {
+            "id_permissao": "49",
+            "co_movimento": "16594"
+        },
+        {
+            "id_permissao": "50",
+            "co_movimento": "16611"
+        },
+        {
+            "id_permissao": "51",
+            "co_movimento": "16632"
+        },
+        {
+            "id_permissao": "52",
+            "co_movimento": "16672"
+        },
+        {
+            "id_permissao": "53",
+            "co_movimento": "16686"
+        },
+        {
+            "id_permissao": "54",
+            "co_movimento": "16695"
+        },
+        {
+            "id_permissao": "55",
+            "co_movimento": "16694"
+        },
+        {
+            "id_permissao": "56",
+            "co_movimento": "16706"
+        },
+        {
+            "id_permissao": "57",
+            "co_movimento": "16705"
+        },
+        {
+            "id_permissao": "58",
+            "co_movimento": "16725"
+        },
+        {
+            "id_permissao": "59",
+            "co_movimento": "16745"
+        },
+        {
+            "id_permissao": "60",
+            "co_movimento": "16764"
+        },
+        {
+            "id_permissao": "61",
+            "co_movimento": "16778"
+        },
+        {
+            "id_permissao": "62",
+            "co_movimento": "16772"
+        },
+        {
+            "id_permissao": "63",
+            "co_movimento": "16850"
+        },
+        {
+            "id_permissao": "64",
+            "co_movimento": "16867"
+        },
+        {
+            "id_permissao": "65",
+            "co_movimento": "16872"
+        },
+        {
+            "id_permissao": "66",
+            "co_movimento": "16893"
+        },
+        {
+            "id_permissao": "67",
+            "co_movimento": "16884"
+        },
+        {
+            "id_permissao": "68",
+            "co_movimento": "16901"
+        },
+        {
+            "id_permissao": "69",
+            "co_movimento": "16902"
+        },
+        {
+            "id_permissao": "70",
+            "co_movimento": "16944"
+        },
+        {
+            "id_permissao": "71",
+            "co_movimento": "16948"
+        },
+        {
+            "id_permissao": "72",
+            "co_movimento": "16939"
+        },
+        {
+            "id_permissao": "73",
+            "co_movimento": "16952"
+        },
+        {
+            "id_permissao": "74",
+            "co_movimento": "16971"
+        },
+        {
+            "id_permissao": "75",
+            "co_movimento": "16978"
+        },
+        {
+            "id_permissao": "76",
+            "co_movimento": "17011"
+        },
+        {
+            "id_permissao": "77",
+            "co_movimento": "17018"
+        },
+        {
+            "id_permissao": "78",
+            "co_movimento": "17043"
+        },
+        {
+            "id_permissao": "79",
+            "co_movimento": "17047"
+        },
+        {
+            "id_permissao": "80",
+            "co_movimento": "17053"
+        },
+        {
+            "id_permissao": "81",
+            "co_movimento": "17110"
+        },
+        {
+            "id_permissao": "82",
+            "co_movimento": "17178"
+        },
+        {
+            "id_permissao": "83",
+            "co_movimento": "17207"
+        },
+        {
+            "id_permissao": "84",
+            "co_movimento": "17254"
+        },
+        {
+            "id_permissao": "85",
+            "co_movimento": "17328"
+        },
+        {
+            "id_permissao": "86",
+            "co_movimento": "17322"
+        },
+        {
+            "id_permissao": "87",
+            "co_movimento": "17336"
+        },
+        {
+            "id_permissao": "88",
+            "co_movimento": "17342"
+        },
+        {
+            "id_permissao": "89",
+            "co_movimento": "17337"
+        },
+        {
+            "id_permissao": "90",
+            "co_movimento": "17366"
+        },
+        {
+            "id_permissao": "91",
+            "co_movimento": "17362"
+        },
+        {
+            "id_permissao": "92",
+            "co_movimento": "17352"
+        },
+        {
+            "id_permissao": "93",
+            "co_movimento": "17357"
+        },
+        {
+            "id_permissao": "94",
+            "co_movimento": "17374"
+        },
+        {
+            "id_permissao": "95",
+            "co_movimento": "17397"
+        },
+        {
+            "id_permissao": "96",
+            "co_movimento": "17407"
+        },
+        {
+            "id_permissao": "97",
+            "co_movimento": "17494"
+        },
+        {
+            "id_permissao": "98",
+            "co_movimento": "17503"
+        },
+        {
+            "id_permissao": "99",
+            "co_movimento": "17540"
+        },
+        {
+            "id_permissao": "100",
+            "co_movimento": "17553"
+        },
+        {
+            "id_permissao": "101",
+            "co_movimento": "17791"
+        },
+        {
+            "id_permissao": "102",
+            "co_movimento": "17808"
+        },
+        {
+            "id_permissao": "103",
+            "co_movimento": "17885"
+        },
+        {
+            "id_permissao": "104",
+            "co_movimento": "17961"
+        },
+        {
+            "id_permissao": "105",
+            "co_movimento": "17960"
+        },
+        {
+            "id_permissao": "106",
+            "co_movimento": "17964"
+        },
+        {
+            "id_permissao": "107",
+            "co_movimento": "17970"
+        },
+        {
+            "id_permissao": "108",
+            "co_movimento": "18046"
+        },
+        {
+            "id_permissao": "109",
+            "co_movimento": "18097"
+        },
+        {
+            "id_permissao": "110",
+            "co_movimento": "18124"
+        },
+        {
+            "id_permissao": "111",
+            "co_movimento": "18183"
+        },
+        {
+            "id_permissao": "112",
+            "co_movimento": "18205"
+        },
+        {
+            "id_permissao": "113",
+            "co_movimento": "18244"
+        },
+        {
+            "id_permissao": "114",
+            "co_movimento": "18259"
+        },
+        {
+            "id_permissao": "115",
+            "co_movimento": "18265"
+        },
+        {
+            "id_permissao": "116",
+            "co_movimento": "18331"
+        },
+        {
+            "id_permissao": "117",
+            "co_movimento": "18379"
+        },
+        {
+            "id_permissao": "118",
+            "co_movimento": "18498"
+        },
+        {
+            "id_permissao": "119",
+            "co_movimento": "18549"
+        },
+        {
+            "id_permissao": "120",
+            "co_movimento": "18543"
+        },
+        {
+            "id_permissao": "121",
+            "co_movimento": "18542"
+        },
+        {
+            "id_permissao": "122",
+            "co_movimento": "18592"
+        },
+        {
+            "id_permissao": "123",
+            "co_movimento": "18595"
+        },
+        {
+            "id_permissao": "124",
+            "co_movimento": "18583"
+        },
+        {
+            "id_permissao": "125",
+            "co_movimento": "18602"
+        },
+        {
+            "id_permissao": "126",
+            "co_movimento": "18619"
+        },
+        {
+            "id_permissao": "127",
+            "co_movimento": "18632"
+        },
+        {
+            "id_permissao": "128",
+            "co_movimento": "18665"
+        },
+        {
+            "id_permissao": "129",
+            "co_movimento": "18661"
+        },
+        {
+            "id_permissao": "130",
+            "co_movimento": "18679"
+        },
+        {
+            "id_permissao": "131",
+            "co_movimento": "18723"
+        },
+        {
+            "id_permissao": "132",
+            "co_movimento": "18801"
+        },
+        {
+            "id_permissao": "133",
+            "co_movimento": "18867"
+        },
+        {
+            "id_permissao": "134",
+            "co_movimento": "18933"
+        },
+        {
+            "id_permissao": "135",
+            "co_movimento": "18924"
+        },
+        {
+            "id_permissao": "136",
+            "co_movimento": "18951"
+        },
+        {
+            "id_permissao": "137",
+            "co_movimento": "18944"
+        },
+        {
+            "id_permissao": "138",
+            "co_movimento": "18964"
+        },
+        {
+            "id_permissao": "139",
+            "co_movimento": "18974"
+        },
+        {
+            "id_permissao": "140",
+            "co_movimento": "18969"
+        },
+        {
+            "id_permissao": "141",
+            "co_movimento": "18968"
+        },
+        {
+            "id_permissao": "142",
+            "co_movimento": "18998"
+        },
+        {
+            "id_permissao": "143",
+            "co_movimento": "19000"
+        },
+        {
+            "id_permissao": "144",
+            "co_movimento": "19009"
+        },
+        {
+            "id_permissao": "145",
+            "co_movimento": "19076"
+        },
+        {
+            "id_permissao": "146",
+            "co_movimento": "19073"
+        },
+        {
+            "id_permissao": "147",
+            "co_movimento": "19066"
+        },
+        {
+            "id_permissao": "148",
+            "co_movimento": "19180"
+        },
+        {
+            "id_permissao": "149",
+            "co_movimento": "19184"
+        },
+        {
+            "id_permissao": "150",
+            "co_movimento": "19237"
+        },
+        {
+            "id_permissao": "151",
+            "co_movimento": "19244"
+        },
+        {
+            "id_permissao": "152",
+            "co_movimento": "19262"
+        },
+        {
+            "id_permissao": "153",
+            "co_movimento": "19303"
+        },
+        {
+            "id_permissao": "154",
+            "co_movimento": "19348"
+        },
+        {
+            "id_permissao": "155",
+            "co_movimento": "19364"
+        },
+        {
+            "id_permissao": "156",
+            "co_movimento": "19384"
+        },
+        {
+            "id_permissao": "157",
+            "co_movimento": "19385"
+        },
+        {
+            "id_permissao": "158",
+            "co_movimento": "19382"
+        },
+        {
+            "id_permissao": "159",
+            "co_movimento": "19403"
+        },
+        {
+            "id_permissao": "160",
+            "co_movimento": "19399"
+        },
+        {
+            "id_permissao": "161",
+            "co_movimento": "19418"
+        },
+        {
+            "id_permissao": "162",
+            "co_movimento": "19456"
+        },
+        {
+            "id_permissao": "163",
+            "co_movimento": "19475"
+        },
+        {
+            "id_permissao": "164",
+            "co_movimento": "19478"
+        },
+        {
+            "id_permissao": "165",
+            "co_movimento": "19509"
+        },
+        {
+            "id_permissao": "166",
+            "co_movimento": "19529"
+        },
+        {
+            "id_permissao": "167",
+            "co_movimento": "19576"
+        },
+        {
+            "id_permissao": "168",
+            "co_movimento": "19565"
+        },
+        {
+            "id_permissao": "169",
+            "co_movimento": "19568"
+        },
+        {
+            "id_permissao": "170",
+            "co_movimento": "19587"
+        },
+        {
+            "id_permissao": "171",
+            "co_movimento": "19623"
+        },
+        {
+            "id_permissao": "172",
+            "co_movimento": "19604"
+        },
+        {
+            "id_permissao": "173",
+            "co_movimento": "19641"
+        },
+        {
+            "id_permissao": "174",
+            "co_movimento": "19637"
+        },
+        {
+            "id_permissao": "175",
+            "co_movimento": "19647"
+        },
+        {
+            "id_permissao": "176",
+            "co_movimento": "19682"
+        },
+        {
+            "id_permissao": "177",
+            "co_movimento": "19673"
+        },
+        {
+            "id_permissao": "178",
+            "co_movimento": "19733"
+        },
+        {
+            "id_permissao": "179",
+            "co_movimento": "19857"
+        },
+        {
+            "id_permissao": "180",
+            "co_movimento": "19858"
+        },
+        {
+            "id_permissao": "181",
+            "co_movimento": "19905"
+        },
+        {
+            "id_permissao": "182",
+            "co_movimento": "19906"
+        },
+        {
+            "id_permissao": "183",
+            "co_movimento": "19925"
+        },
+        {
+            "id_permissao": "184",
+            "co_movimento": "20013"
+        },
+        {
+            "id_permissao": "185",
+            "co_movimento": "20025"
+        },
+        {
+            "id_permissao": "186",
+            "co_movimento": "20033"
+        },
+        {
+            "id_permissao": "187",
+            "co_movimento": "20050"
+        },
+        {
+            "id_permissao": "188",
+            "co_movimento": "20061"
+        },
+        {
+            "id_permissao": "189",
+            "co_movimento": "20183"
+        },
+        {
+            "id_permissao": "190",
+            "co_movimento": "20171"
+        },
+        {
+            "id_permissao": "191",
+            "co_movimento": "20221"
+        },
+        {
+            "id_permissao": "192",
+            "co_movimento": "20270"
+        },
+        {
+            "id_permissao": "193",
+            "co_movimento": "20306"
+        },
+        {
+            "id_permissao": "194",
+            "co_movimento": "20318"
+        },
+        {
+            "id_permissao": "195",
+            "co_movimento": "20357"
+        },
+        {
+            "id_permissao": "196",
+            "co_movimento": "20391"
+        },
+        {
+            "id_permissao": "197",
+            "co_movimento": "20436"
+        },
+        {
+            "id_permissao": "198",
+            "co_movimento": "20445"
+        },
+        {
+            "id_permissao": "199",
+            "co_movimento": "20442"
+        },
+        {
+            "id_permissao": "200",
+            "co_movimento": "20441"
+        },
+        {
+            "id_permissao": "201",
+            "co_movimento": "20456"
+        },
+        {
+            "id_permissao": "202",
+            "co_movimento": "20459"
+        },
+        {
+            "id_permissao": "203",
+            "co_movimento": "20466"
+        },
+        {
+            "id_permissao": "204",
+            "co_movimento": "20457"
+        },
+        {
+            "id_permissao": "205",
+            "co_movimento": "20471"
+        },
+        {
+            "id_permissao": "206",
+            "co_movimento": "20463"
+        },
+        {
+            "id_permissao": "207",
+            "co_movimento": "20526"
+        },
+        {
+            "id_permissao": "208",
+            "co_movimento": "20524"
+        },
+        {
+            "id_permissao": "209",
+            "co_movimento": "20528"
+        },
+        {
+            "id_permissao": "210",
+            "co_movimento": "20534"
+        },
+        {
+            "id_permissao": "211",
+            "co_movimento": "20637"
+        },
+        {
+            "id_permissao": "212",
+            "co_movimento": "20661"
+        },
+        {
+            "id_permissao": "213",
+            "co_movimento": "20644"
+        },
+        {
+            "id_permissao": "214",
+            "co_movimento": "20696"
+        },
+        {
+            "id_permissao": "215",
+            "co_movimento": "20673"
+        },
+        {
+            "id_permissao": "216",
+            "co_movimento": "20801"
+        },
+        {
+            "id_permissao": "217",
+            "co_movimento": "20808"
+        },
+        {
+            "id_permissao": "218",
+            "co_movimento": "20815"
+        },
+        {
+            "id_permissao": "219",
+            "co_movimento": "20833"
+        },
+        {
+            "id_permissao": "220",
+            "co_movimento": "20841"
+        },
+        {
+            "id_permissao": "221",
+            "co_movimento": "20855"
+        },
+        {
+            "id_permissao": "222",
+            "co_movimento": "20859"
+        },
+        {
+            "id_permissao": "223",
+            "co_movimento": "20888"
+        },
+        {
+            "id_permissao": "224",
+            "co_movimento": "20950"
+        },
+        {
+            "id_permissao": "225",
+            "co_movimento": "20945"
+        },
+        {
+            "id_permissao": "226",
+            "co_movimento": "20974"
+        },
+        {
+            "id_permissao": "227",
+            "co_movimento": "20978"
+        },
+        {
+            "id_permissao": "228",
+            "co_movimento": "20983"
+        },
+        {
+            "id_permissao": "229",
+            "co_movimento": "21027"
+        },
+        {
+            "id_permissao": "230",
+            "co_movimento": "21059"
+        },
+        {
+            "id_permissao": "231",
+            "co_movimento": "21078"
+        },
+        {
+            "id_permissao": "232",
+            "co_movimento": "21088"
+        },
+        {
+            "id_permissao": "233",
+            "co_movimento": "21066"
+        },
+        {
+            "id_permissao": "234",
+            "co_movimento": "21093"
+        },
+        {
+            "id_permissao": "235",
+            "co_movimento": "21116"
+        },
+        {
+            "id_permissao": "236",
+            "co_movimento": "21272"
+        },
+        {
+            "id_permissao": "237",
+            "co_movimento": "21273"
+        },
+        {
+            "id_permissao": "238",
+            "co_movimento": "21337"
+        },
+        {
+            "id_permissao": "239",
+            "co_movimento": "21340"
+        }
+    ]
+}

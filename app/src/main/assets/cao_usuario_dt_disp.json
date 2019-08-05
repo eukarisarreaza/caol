@@ -1,0 +1,268 @@
+{
+    "RECORDS": [
+        {
+            "co_dt_disp": "1",
+            "co_usuario": "luis.morales",
+            "dt_disp": "31/12/2004",
+            "dt_alt": "1/10/2004"
+        },
+        {
+            "co_dt_disp": "2",
+            "co_usuario": "rui.hayashi",
+            "dt_disp": "1/7/2005",
+            "dt_alt": "1/4/2005"
+        },
+        {
+            "co_dt_disp": "3",
+            "co_usuario": "alessandro.yamada",
+            "dt_disp": "15/7/2005",
+            "dt_alt": "2/5/2005"
+        },
+        {
+            "co_dt_disp": "4",
+            "co_usuario": "fabio.stevanelli",
+            "dt_disp": "9/1/2005",
+            "dt_alt": "8/12/2004"
+        },
+        {
+            "co_dt_disp": "5",
+            "co_usuario": "civio.couto",
+            "dt_disp": "12/8/2004",
+            "dt_alt": "7/8/2004"
+        },
+        {
+            "co_dt_disp": "6",
+            "co_usuario": "lucas.marin",
+            "dt_disp": "5/5/2005",
+            "dt_alt": "5/5/2005"
+        },
+        {
+            "co_dt_disp": "7",
+            "co_usuario": "luiz.paulo",
+            "dt_disp": "31/12/2007",
+            "dt_alt": "18/11/2004"
+        },
+        {
+            "co_dt_disp": "8",
+            "co_usuario": "eduardo.botelho",
+            "dt_disp": "7/1/2006",
+            "dt_alt": "31/1/2005"
+        },
+        {
+            "co_dt_disp": "9",
+            "co_usuario": "elvis.rocha",
+            "dt_disp": "28/1/2005",
+            "dt_alt": "24/1/2005"
+        },
+        {
+            "co_dt_disp": "10",
+            "co_usuario": "nixon.santos",
+            "dt_disp": "30/6/2005",
+            "dt_alt": "31/5/2005"
+        },
+        {
+            "co_dt_disp": "11",
+            "co_usuario": "breno.damasceno",
+            "dt_disp": "4/10/2004",
+            "dt_alt": "1/10/2004"
+        },
+        {
+            "co_dt_disp": "12",
+            "co_usuario": "joe.colombo",
+            "dt_disp": "25/7/2005",
+            "dt_alt": "30/5/2005"
+        },
+        {
+            "co_dt_disp": "13",
+            "co_usuario": "rodrigo.vilela",
+            "dt_disp": "31/12/2004",
+            "dt_alt": "28/12/2004"
+        },
+        {
+            "co_dt_disp": "14",
+            "co_usuario": "lidnaldo.machado",
+            "dt_disp": "29/7/2004",
+            "dt_alt": "27/7/2004"
+        },
+        {
+            "co_dt_disp": "15",
+            "co_usuario": "eder.lima",
+            "dt_disp": "29/10/2004",
+            "dt_alt": "28/10/2004"
+        },
+        {
+            "co_dt_disp": "16",
+            "co_usuario": "denis.santos",
+            "dt_disp": "1/6/2005",
+            "dt_alt": "19/5/2005"
+        },
+        {
+            "co_dt_disp": "17",
+            "co_usuario": "ricardo.martins",
+            "dt_disp": "31/12/2005",
+            "dt_alt": "3/1/2005"
+        },
+        {
+            "co_dt_disp": "18",
+            "co_usuario": "marco.malaquias",
+            "dt_disp": "6/6/2005",
+            "dt_alt": "31/5/2005"
+        },
+        {
+            "co_dt_disp": "19",
+            "co_usuario": "luciano.silva",
+            "dt_disp": "6/4/2005",
+            "dt_alt": "5/4/2005"
+        },
+        {
+            "co_dt_disp": "20",
+            "co_usuario": "gustavo.gomes",
+            "dt_disp": "31/5/2005",
+            "dt_alt": "12/5/2005"
+        },
+        {
+            "co_dt_disp": "21",
+            "co_usuario": "daniel.braga",
+            "dt_disp": "6/6/2005",
+            "dt_alt": "1/6/2005"
+        },
+        {
+            "co_dt_disp": "22",
+            "co_usuario": "janaina.vieira",
+            "dt_disp": "4/8/2004",
+            "dt_alt": "4/8/2004"
+        },
+        {
+            "co_dt_disp": "23",
+            "co_usuario": "rodrigo.moralles",
+            "dt_disp": "31/12/2005",
+            "dt_alt": "3/1/2005"
+        },
+        {
+            "co_dt_disp": "24",
+            "co_usuario": "jesliel.rocha",
+            "dt_disp": "7/6/2005",
+            "dt_alt": "30/5/2005"
+        },
+        {
+            "co_dt_disp": "25",
+            "co_usuario": "frederico.zapelini",
+            "dt_disp": "20/6/2005",
+            "dt_alt": "31/5/2005"
+        },
+        {
+            "co_dt_disp": "26",
+            "co_usuario": "nivaldo.junior",
+            "dt_disp": "3/6/2005",
+            "dt_alt": "1/6/2005"
+        },
+        {
+            "co_dt_disp": "27",
+            "co_usuario": "paulo.monteiro",
+            "dt_disp": "30/10/2004",
+            "dt_alt": "4/10/2004"
+        },
+        {
+            "co_dt_disp": "28",
+            "co_usuario": "mauricio.costa",
+            "dt_disp": "3/6/2005",
+            "dt_alt": "1/6/2005"
+        },
+        {
+            "co_dt_disp": "29",
+            "co_usuario": "rodrigo.thome",
+            "dt_disp": "30/12/2004",
+            "dt_alt": "1/12/2004"
+        },
+        {
+            "co_dt_disp": "30",
+            "co_usuario": "teste.usuario",
+            "dt_disp": "29/11/2005",
+            "dt_alt": "14/4/2005"
+        },
+        {
+            "co_dt_disp": "31",
+            "co_usuario": "victor.rades",
+            "dt_disp": "31/1/2005",
+            "dt_alt": "4/1/2005"
+        },
+        {
+            "co_dt_disp": "32",
+            "co_usuario": "lf.oliveira",
+            "dt_disp": "4/1/2006",
+            "dt_alt": "15/2/2005"
+        },
+        {
+            "co_dt_disp": "33",
+            "co_usuario": "luciano.ribeiro",
+            "dt_disp": "14/4/2005",
+            "dt_alt": "15/2/2005"
+        },
+        {
+            "co_dt_disp": "34",
+            "co_usuario": "rodrigo.oliveira",
+            "dt_disp": "2/6/2005",
+            "dt_alt": "30/5/2005"
+        },
+        {
+            "co_dt_disp": "35",
+            "co_usuario": "cyntia.nakamura",
+            "dt_disp": "30/6/2005",
+            "dt_alt": "11/5/2005"
+        },
+        {
+            "co_dt_disp": "36",
+            "co_usuario": "rodrigo.sousa",
+            "dt_disp": "31/12/2005",
+            "dt_alt": "28/2/2005"
+        },
+        {
+            "co_dt_disp": "37",
+            "co_usuario": "thiago.jost",
+            "dt_disp": "28/5/2005",
+            "dt_alt": "2/5/2005"
+        },
+        {
+            "co_dt_disp": "38",
+            "co_usuario": "marcio.lamego",
+            "dt_disp": "30/7/2005",
+            "dt_alt": "3/5/2005"
+        },
+        {
+            "co_dt_disp": "39",
+            "co_usuario": "pedro.moretti",
+            "dt_disp": "11/7/2005",
+            "dt_alt": "18/3/2005"
+        },
+        {
+            "co_dt_disp": "40",
+            "co_usuario": "carlos.viana",
+            "dt_disp": "30/6/2005",
+            "dt_alt": "1/6/2005"
+        },
+        {
+            "co_dt_disp": "41",
+            "co_usuario": "cristiane.florio",
+            "dt_disp": "3/10/2005",
+            "dt_alt": "4/4/2005"
+        },
+        {
+            "co_dt_disp": "42",
+            "co_usuario": "ricardo.rubini",
+            "dt_disp": "28/6/2005",
+            "dt_alt": "20/4/2005"
+        },
+        {
+            "co_dt_disp": "43",
+            "co_usuario": "leandro.caracciolo",
+            "dt_disp": "1/6/2005",
+            "dt_alt": "1/6/2005"
+        },
+        {
+            "co_dt_disp": "44",
+            "co_usuario": "teste.usu2",
+            "dt_disp": "31/5/2005",
+            "dt_alt": "20/5/2005"
+        }
+    ]
+}

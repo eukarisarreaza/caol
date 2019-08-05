@@ -1,0 +1,25 @@
+{
+    "RECORDS": [
+        {
+            "co_usuario": "breno.damasceno",
+            "co_idioma": "1",
+            "nv_leitura": "2",
+            "nv_escrita": "3",
+            "nv_fala": "3"
+        },
+        {
+            "co_usuario": "breno.damasceno",
+            "co_idioma": "3",
+            "nv_leitura": "4",
+            "nv_escrita": "4",
+            "nv_fala": "4"
+        },
+        {
+            "co_usuario": "breno.damasceno",
+            "co_idioma": "4",
+            "nv_leitura": "4",
+            "nv_escrita": "4",
+            "nv_fala": "4"
+        }
+    ]
+}

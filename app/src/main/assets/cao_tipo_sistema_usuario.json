@@ -1,0 +1,24 @@
+{
+    "RECORDS": [
+        {
+            "co_sistema": "1",
+            "ds_sistema": "Banco de Dados"
+        },
+        {
+            "co_sistema": "2",
+            "ds_sistema": "Sistemas Operacionais que já Programou"
+        },
+        {
+            "co_sistema": "3",
+            "ds_sistema": "Linguagens de Programação"
+        },
+        {
+            "co_sistema": "4",
+            "ds_sistema": "Sistema Operacional"
+        },
+        {
+            "co_sistema": "5",
+            "ds_sistema": "Outros Conhecimentos"
+        }
+    ]
+}

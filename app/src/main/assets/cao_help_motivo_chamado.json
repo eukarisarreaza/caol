@@ -1,0 +1,28 @@
+{
+    "RECORDS": [
+        {
+            "co_motivo": "1",
+            "ds_motivo": "Dúvida na operação do sistema"
+        },
+        {
+            "co_motivo": "2",
+            "ds_motivo": "Erro no sistema"
+        },
+        {
+            "co_motivo": "3",
+            "ds_motivo": "Dúvidas de procedimento operacional"
+        },
+        {
+            "co_motivo": "4",
+            "ds_motivo": "Problema de ambiente no cliente"
+        },
+        {
+            "co_motivo": "5",
+            "ds_motivo": "Melhoria no Sistema"
+        },
+        {
+            "co_motivo": "7",
+            "ds_motivo": "Tarefa"
+        }
+    ]
+}

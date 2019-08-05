@@ -1,0 +1,260 @@
+{
+    "RECORDS": [
+        {
+            "id": "39",
+            "idtipo": "3",
+            "idcategoria": "3",
+            "data": "27/4/2006 02:52:06",
+            "comentario": "Sugestão para o cadastro de despesas:<br><br>Algumas despesas como luz, telefone, aluguel vêm todo mês e sempre na mesma data.<br>Minha sugestão é que fosse criado um dispositivo de alerta. Um aviso seria mostado na tela (como no caso de aniversariantes) caso uma conta deste tipo ainda não tivesse sido cadastrada num prazo de 7 dias antes do vencimento.<br>Por que a sugestão?<br>O condomínio da Agence-DF, como se sabe, é um \"ninho de pombo\"... Muitas vezes as contas não chegam. Com esse dispositivo eu poderia ficar no pé do zelador caso a conta não chegasse. Também vai ajudar a manter o controle de despesas consistente. Com o aviso, dificilmente uma conta ficaria sem ser inputada no sistema.",
+            "co_escritorio": "3"
+        },
+        {
+            "id": "40",
+            "idtipo": "3",
+            "idcategoria": "3",
+            "data": "27/4/2006 03:01:06",
+            "comentario": "Sugestões para a biblioteca:<br><br>Seria interessante colocar na página Consultas->Biblioteca mais uma aba com uma lista de conhecimentos por categoria. Fica mais visual e permite que o usuário encontre o que ele nem estava procurando. Uma aba \"Categorias\" seria algo assim:<br><br>Javascript<br>    calendário, formatador financeiro, mais...<br>PHP<br>    smart, função de data, mais...<br>Java<br>    enviando email do tomcat, conector jboss-apache, mais...<br><br>Clicando em \"Javascript\" ou em \"mais...\" o usuário veria uma lista de conhecimentos Javascript e clicando em \"calendário\" ele iria direto para o calendário. A lista de cada categoria seria por data, os mais atuais aparecem. Com isso, se eu entro para procurar informação sobre o conector jboss-apache, vejo que tem um conhecimento de como enviar email do tomcat e vou conferir.",
+            "co_escritorio": "3"
+        },
+        {
+            "id": "41",
+            "idtipo": "3",
+            "idcategoria": "3",
+            "data": "27/4/2006 03:04:58",
+            "comentario": "Mais uma para a biblioteca:<br><br>Seria interessante também criar um espaço para inserir o código de demonstração. Um textarea onde pudesse ser inserido o código (no caso de Javascript, HTML e PHP apenas). Com isso, o usuário não precisa baixar o código para ver funcionando.",
+            "co_escritorio": "3"
+        },
+        {
+            "id": "42",
+            "idtipo": "3",
+            "idcategoria": "3",
+            "data": "4/5/2006 05:56:43",
+            "comentario": "1 - Alterar o e-mail de abertura/andamento/atendimento de chamado para incluir o status do chamado no assunto do e-mail. Hoje em dia não existe o status o e-mail de chamados. Qdo recebemos o e-mail, não sabemos o que foi alterado.<br><br>2 - O mesmo acontece qdo recebemos um e-mail de alteração numa OS/sistema. Não sabemos no e-mail o que foi alterado. Deveria estar em destaque (ex. VERMELHO) o que foi alterado.<br><br>3 - Colocar os chamados atendidos (na pasta de atendidos) numa ordem cronológica do chamado atendido mais recente até o primeiro chamado atendido do sistema. Parece que não existe critério de listagem dos chamados atendidos, dificultando a procura qdo necessitamos reabri-lo.<br><br>4 - Colocar mais um filtro no modulo de Chamados Pendente ... incluir o nome do analista tb como filtro dps do filtro de sistema.<br><br>Qq dúvida ... CH",
+            "co_escritorio": "1"
+        },
+        {
+            "id": "43",
+            "idtipo": "3",
+            "idcategoria": "3",
+            "data": "10/5/2006 09:10:01",
+            "comentario": "Olá,\r<br>Sugiro que todas as tarefas (cadastro, criação de uma nova funcionalidade, mudança de layout, etc) a serem realizadas em uma OS tenham um chamado associado. Isso tornaria o processo de fechamento DR mais ágil, já que o chamado conteria toda a descrição do que deve ser feito e portanto o analista não precisaria ficar todos os dias descrevendo a mesma tarefa, uma vez que algumas tarefas levam dias para serem finalizadas. A unica informação que o analista deveria cadastrar no DR seria um comentário que se fizer necessário para esclarecer algum detalhe que não esteja descrito no chamado ou algo a mais que ele tenha feito no chamado. Concluindo, o DR conteria as mesmas informações (Sistema/OS, Chamado, Fase, Status Atual da Fase, Tempo Gasto, etc), mas ao invés do campo Assunto Tratado teriamos o campo Comentários e teriamos sempre um chamado para cada tarefa da OS.<br>Caso não tenha ficado claro a minha sugestão, estou a disposição para maiores esclarecimentos.<br><br>Atenciosamente,<br><br>Rodrigo Sousa<br>Agence Interativa - MS",
+            "co_escritorio": "2"
+        },
+        {
+            "id": "44",
+            "idtipo": "3",
+            "idcategoria": "3",
+            "data": "10/5/2006 09:12:26",
+            "comentario": "Olá,\r<br>Sugiro que todas as tarefas (cadastro, criação de uma nova funcionalidade, mudança de layout, etc) a serem realizadas em uma OS tenham um chamado associado. Isso tornaria o processo de fechamento DR mais ágil, já que o chamado conteria toda a descrição do que deve ser feito e portanto o analista não precisaria ficar todos os dias descrevendo a mesma tarefa, uma vez que algumas tarefas levam dias para serem finalizadas. A unica informação que o analista deveria cadastrar no DR seria um comentário que se fizer necessário para esclarecer algum detalhe que não esteja descrito no chamado ou algo a mais que ele tenha feito no chamado. Concluindo, o DR conteria as mesmas informações (Sistema/OS, Chamado, Fase, Status Atual da Fase, Tempo Gasto, etc), mas ao invés do campo Assunto Tratado teriamos o campo Comentários e teriamos sempre um chamado para cada tarefa da OS.<br>Caso não tenha ficado claro a minha sugestão, estou a disposição para maiores esclarecimentos.<br><br>Atenciosamente,<br><br>Rodrigo Sousa<br>Agence Interativa - MS",
+            "co_escritorio": "2"
+        },
+        {
+            "id": "45",
+            "idtipo": "3",
+            "idcategoria": "3",
+            "data": "11/5/2006 03:02:56",
+            "comentario": "Sugestão para o CAOL na nova funcionalidade \"Usuário não liberado para horas extras\"<br><br>Poderia existir um limite de até 30 minutos para o usuário fazer hora extra.<br>Esses 30 minutos seriam para terminar um serviço pendente que não quer deixar para o outro dia para não interromper o raciocínio.<br>Ou até mesmo para compensar um dia anterior de trabalho que o usuário teve que sair alguns minutos mais cedo.<br><br><br>Grato, Rodrigo Moralles<br>",
+            "co_escritorio": "1"
+        },
+        {
+            "id": "46",
+            "idtipo": "2",
+            "idcategoria": "10",
+            "data": "17/5/2006 10:03:23",
+            "comentario": "Melhorar a qualidade do código HTML dos protótipos, na maioria das vezes tenho que praticamente refazê-lo para que possa implementar a funcionalidade alvo. Devido ao tempo que dispomos para desenvolver um protótipo deveria vir para somar, ajudar, mas tem vindo apenas para atrapalhar !!!!!",
+            "co_escritorio": "2"
+        },
+        {
+            "id": "47",
+            "idtipo": "2",
+            "idcategoria": "1",
+            "data": "17/5/2006 11:40:55",
+            "comentario": "O telefone sem fio precisa de algum tipo de reparo, troca da bateria talvez, pois mesmo sendo carregado a noite toda, nao aguenta uma ligação de 30 min no dia seguinte.<br>O problema do telefone com fio é que frequentemente inviabiliza falar e acessar algo no computador ao mesmo tempo.",
+            "co_escritorio": "3"
+        },
+        {
+            "id": "48",
+            "idtipo": "3",
+            "idcategoria": "3",
+            "data": "18/5/2006 02:51:52",
+            "comentario": "",
+            "co_escritorio": "3"
+        },
+        {
+            "id": "49",
+            "idtipo": "3",
+            "idcategoria": "3",
+            "data": "18/5/2006 02:51:57",
+            "comentario": "",
+            "co_escritorio": "3"
+        },
+        {
+            "id": "50",
+            "idtipo": "3",
+            "idcategoria": "3",
+            "data": "24/5/2006 10:21:49",
+            "comentario": "Na minha opinião, com está nova funcionalidade do CAOL que impossibilita os funcionários de fazer horas extras surgiu um problema. Vou tentar explicar:<br>nós temos uma carga horária a cumprir todos os meses, se o mês tiver 22 dias úteis por exemplo, teremos que ter cumprido 22 x 8h = 176h! <br>Mas vamos supor que estamos no 5 dia útil do mês e um funcionário precisou sair mais cedo pra resolver problemas pessoais, ele então encerra a jornada com apenas 5h trabalhadas. As 3h que ele ficou devendo não vai poder ser compensada durante o resto do mês, pois o CAOL não deixará que ele faça hora extra sem autorização. Então o funcionário, no 5 dia útil do mês, já sabe que no final daquele mês suas horas trabalhadas não vão bater com as horas que deveriam ser cumpridas naquele mês. <br>Então a minha sugestão é a seguinte:<br>o sistema podia verificar todos os dias se o funcionário está quite com as horas do mês, se não tiver ele poderá automaticamente fazer hora extra até compensar as horas não trabalhadas. <br>Pra ser mais claro, aproveitando o exemplo: <br>o funcionário chega para trabalhar no 6 dia útil do mês, o CAOL então verifica se naquele mês ele já trabalhou 5 x 8h = 40h, como ele terá cumprido apenas 37h poderá fazer hora extra, até que fique com a carga horária do mês!<br>Bom, o que vocês acham da minha sugestão? Espero ter sido claro na explicação!<br>",
+            "co_escritorio": "3"
+        },
+        {
+            "id": "51",
+            "idtipo": "3",
+            "idcategoria": "3",
+            "data": "29/5/2006 05:47:54",
+            "comentario": "Na Busca de Conhecimentos (Menu Consultas -> Biblioteca) a busca por tag poderia aceitar palavras com 3 caracteres pois existem muitas siglas com 3 caracteres, por exemplo PHP, CVS, JSP, XML, SOA, BPM, CMM, PMP.<br><br>Outra sugestão. Nessa mesma tela de busca o sistema poderia exibir todas as tags cadastradas e o número de documentos em cada uma dessas tags. <br>Esse recursos traria mais agilidade na busca, por exemplo eu gostaria de buscar um conhecimento em \".NET\" mas o conhecimento foi cadastrado em \"DotNET\" nesse caso a busca não retornaria nada e eu não teria acesso ao conhecimento. E também um usuário que está navegando aleatóriamente pode se interessar por um determinado assunto ao ver a tag. Por exemplo eu ouvi falar que SOA é um negócio bacana e ao ver a tag \"SOA\" eu posso me interessar por ler o conhecimento.<br>E o número de conhecimentos seria uma forma de ver como estão os assuntos e acompanhar a chegada de novos conhecimentos.<br><br><br>Atenciosamente, Rodrigo Moralles<br>",
+            "co_escritorio": "1"
+        },
+        {
+            "id": "52",
+            "idtipo": "2",
+            "idcategoria": "3",
+            "data": "23/6/2006 12:52:23",
+            "comentario": "Acho que a retirada do controle de horário de almoço está atrapalhando, visto que dependemos do Coordenador para fazer essas atualizações de horários. Gostaria de saber se não existe a possibilidade de voltar essa funcionalidade para controle dos analistas? <br> Peço isso porque há dias em que vamos sair mais cedo e não fazemos horario de almoço então precisamos que o Coordenador atualize o nosso horario e por algum motivo de força maior ele não está presente para fazer os ajustes. Quando isso acontece o CAOL desconta duas horas a mais (além das que seriam seriam descontadas por estarmos saindo mais cedo) do nosso banco de horas extras que seriam as horas de almoço que ficamos trabalhando e não foram contabilizadas. Realizando o ajuste do horario no dia seguinte o CAOL não atualiza o nosso banco de horas extras, ou seja, perdemos as horas que trabalhamos e ainda ficamos negativos no banco de horas extras. Posso estar enganado mais isso ja aconteceu comigo.<br><br>Atenciosamente,<br>Rodrigo Sousa",
+            "co_escritorio": "2"
+        },
+        {
+            "id": "53",
+            "idtipo": "3",
+            "idcategoria": "3",
+            "data": "13/7/2006 04:47:05",
+            "comentario": "São 2 sugestões:<br>Incluir o número do chamado na combo de chamados do Daily Report;<br>Criar uma maneira mais facil de encontrar um chamado (por exemplo, filtro por # do chamado e/ou prioridade). Atualmente é preciso procurar um a um.",
+            "co_escritorio": "1"
+        },
+        {
+            "id": "54",
+            "idtipo": "2",
+            "idcategoria": "3",
+            "data": "4/8/2006 05:45:36",
+            "comentario": "Olá, <br><br>Gostaria de alguns esclarecimentos como relação ao tempo de serviço visto que alguns analistas é considerado o tempo de experiência para contagem das férias e ou meu nunca foi. Eu entrei na Agence no dia 28/02/2006 e não no dia 01/06/2005 de acordo com o CAOL. Eu sei de Analistas que entraram na mesma situação que a minha e é considerado o tempo de experiência (3 meses). <br>Também gostaria de esclarecimentos sobre o banco de horas férias pois acredito que está errado o meu número de horas. Supondo que fosse considerado a data que entrei na agence 28/02/2005 até 01/08/2006 (16 meses) então eu teria aproximadamente 353 dias uteis trabalhado (considerando para cada mês 22 dias uteis e não descontando os feriados). Se para cada dia trabalhado ou feriado o sistema inclui 0,659090909 horas no seu banco de férias, então meu banco de horas deveria ser de aproximandamente 232,66 horas. Descontandos os 5 dias que fiquei de férias então seria 229,36. <br>Agora sem considerar o tempo de experiência seriam 286 dias utéis (13 meses) o que daria aproximadamente 188,50 e descontando as férias de 5 dias daria 185,21. <br>O CAOL está calculando o meu banco de horas férias e apresentando apenas 93h53min09seg. É isso mesmo?<br><br><br>Atenciosamente,<br><br>Rodrigo Sousa<br>Agence - MS",
+            "co_escritorio": "2"
+        },
+        {
+            "id": "55",
+            "idtipo": "3",
+            "idcategoria": "6",
+            "data": "9/11/2006 12:47:26",
+            "comentario": "Boa tarde,<br><br>Observando o desenvolvimento dos projetos da empresa, vejo que não há uma padronização do DDL do banco de dados da aplicação. Por exemplo, nome dos campos, nome das tabelas, entre outros.<br><br>Sugiro a criação de um documento com essa padronização, para que toda a empresa possa seguir. Será bom que a criação desse documento envolva também os analistas, pois são os maiores afetados.<br><br>Grato.<br><br>Marco Malaquias",
+            "co_escritorio": "3"
+        },
+        {
+            "id": "56",
+            "idtipo": "2",
+            "idcategoria": "1",
+            "data": "19/12/2006 04:30:09",
+            "comentario": "Nâo é possível trabalhar com uma ADSL da maneira como está! a cada 5 min cai a ADSL.<br>Acho que por sermos uma empresa de desenvolvimento web, teríamos que ter no mínimo uma ADSL estável.",
+            "co_escritorio": "2"
+        },
+        {
+            "id": "57",
+            "idtipo": "3",
+            "idcategoria": "1",
+            "data": "20/12/2006 09:43:50",
+            "comentario": "Adotar conexão com Internet dedicada, separada da Art&Traço, GVT 2mb/1mb (devido as necessidades de envio/download de pacotes para São Paulo e outros locais.)<br><br>Estamos tendo problemas de comunicação via voIP (skype),  via chat google talk e msn e navegação para procura de soluções pra bugs, prejudicando o andamento do desenvolvimento da equipe inteira.",
+            "co_escritorio": "2"
+        },
+        {
+            "id": "58",
+            "idtipo": "3",
+            "idcategoria": "3",
+            "data": "13/2/2007 11:04:41",
+            "comentario": "",
+            "co_escritorio": "3"
+        },
+        {
+            "id": "59",
+            "idtipo": "2",
+            "idcategoria": "3",
+            "data": "14/2/2007 07:47:26",
+            "comentario": "Agenda de atividades com problemas. Não conclui ação de cadastramento de atividade.",
+            "co_escritorio": "3"
+        },
+        {
+            "id": "60",
+            "idtipo": "2",
+            "idcategoria": "3",
+            "data": "15/2/2007 02:53:39",
+            "comentario": "Tentei usar a agende de atividades e a mesma continua com problemas para atualização de dados.",
+            "co_escritorio": "3"
+        },
+        {
+            "id": "61",
+            "idtipo": "1",
+            "idcategoria": "1",
+            "data": "9/3/2007 03:22:34",
+            "comentario": "Venho atraves desse fazer reclamação da situação da conexão com a Internet da Agence de Campo Grande.<br>A forma como trabalhamos, em java, e prestando serviço para Toyota, exige  que tenhamos disponibilidade da internet com pelo menos 95% do tempo.<br>Precisamos usar CVS, email para mantermos contato com os analistas da Toyota para efetuarmos implantações lá no ambiente deles.<br>No desenvolvimento também há necessidade constante de usar-se chat, e algumas vezes VOiP para discussões mais aprofundadas.<br><br>É de fundamental importância que tenhamos uma internet dedicada para nosso uso, de preferencia empresarial e com ip fixo.<br><br>Da forma como está, estamos prejudicados em todas as funções de trabalho, devido a instabilidade da Internet (fato creditado ao fato de ser compartilhado com a art-traço)<br><br>OBRIGADO",
+            "co_escritorio": "2"
+        },
+        {
+            "id": "62",
+            "idtipo": "2",
+            "idcategoria": "1",
+            "data": "9/3/2007 03:41:33",
+            "comentario": "",
+            "co_escritorio": "2"
+        },
+        {
+            "id": "63",
+            "idtipo": "2",
+            "idcategoria": "8",
+            "data": "9/3/2007 04:44:00",
+            "comentario": "Venho reclamar o que todos aqui da Agence de Campo Grande vem reclamando, é sobre o ambiente físico de trabalho. A nossa saúde está comprometida devido ao carpete e a limpeza precária do mesmo, sugiro que seja feita a mudança de sala o mais rápido possivel ou que troque o carpete por outro tipo de revestimento e abra uma janela na sala para entrar luz solar. Quem está aqui nos ultimos 5 meses pode notar que sempre tem alguém com uma virose, bonquite ou alergia.<br><br>",
+            "co_escritorio": "2"
+        },
+        {
+            "id": "64",
+            "idtipo": "2",
+            "idcategoria": "3",
+            "data": "30/4/2007 06:49:49",
+            "comentario": "Perm. aspas simples fechamento DR",
+            "co_escritorio": "2"
+        },
+        {
+            "id": "65",
+            "idtipo": "1",
+            "idcategoria": "1",
+            "data": "14/5/2007 02:42:04",
+            "comentario": "Assim como utilizamos esse espaço aqui para reclamar, tb tenho q elogiar.<br>Parabéns a Agence e em especial ao Cezar e Flávio pela mudança de escritório.<br>Tornando agora sim um ambiente profissional.<br><br>Parabéns.<br><br>Jefferson Moreira",
+            "co_escritorio": "2"
+        },
+        {
+            "id": "66",
+            "idtipo": "3",
+            "idcategoria": "1",
+            "data": "1/6/2007 07:21:28",
+            "comentario": "Sería interessante se a Agence tivesse um uniforme. Não exatamente um uniforme, mas ao menos uma camisa polo ou social com a logomarca bordada ou algo assim, acho que daría uma cara legal ao ambiente.",
+            "co_escritorio": "2"
+        },
+        {
+            "id": "67",
+            "idtipo": "2",
+            "idcategoria": "1",
+            "data": "15/6/2007 10:39:32",
+            "comentario": "Por favor, a sala, banheiro, tudo está muito sujo.<br>Sugiro que sejam feitas limpezas diárias,  o ambiente está está ficando insuportável de tanta sujeira. <br><br>muito obrigado",
+            "co_escritorio": "2"
+        },
+        {
+            "id": "68",
+            "idtipo": "3",
+            "idcategoria": "1",
+            "data": "15/6/2007 10:42:46",
+            "comentario": "O ambiente melhorou muito na Agence.<br>Porém ainda temos um problema, a limpeza do local está deixando a desejar.<br>Até onde eu sei, o problema é de saúde com a mulher q estava limpando. Mas temos q dar um jeito.<br>O banheiro está um nojo, o chão está imundo.<br>Seria interessante contratar uma outra pessoa para limpar a cada 15 dias no máximo, caso esta pessoa tenha algum problema, tem q arrumar outra!<br><br>Lembrando, q isso é uma SUGESTAO e não uma Reclamação!",
+            "co_escritorio": "2"
+        },
+        {
+            "id": "69",
+            "idtipo": "3",
+            "idcategoria": "1",
+            "data": "23/6/2007 11:57:18",
+            "comentario": "Reclamação: Não existe lixeiras no ambiente de trabalho<br>Sugestão: Comprar diversas lixeiras (umas 6).<br><br>Reclamação: Não existe plástico de lixo para as 2 lixeias que estão na copa e no banheiro.<br>Sugestão: Comprar plásticos de lixo",
+            "co_escritorio": "2"
+        },
+        {
+            "id": "70",
+            "idtipo": "3",
+            "idcategoria": "3",
+            "data": "27/8/2007 11:08:26",
+            "comentario": "Olá,\r<br><br>Na sexta-feira passada tive um problema com uns relatórios em Crystal.<br><br>Pedi ajuda ao Bruno que me indicou o Rubini, que me indicou o Evandro e ele conseguiu me mandar um material que resolveu o meu problema prontamente.<br><br>Essa conversa foi boa para que eu conhecesse outras pessoas da Agence, mas por outro lado, eu poderia pesquisar isso no CAOL em detalhes dos usuários. <br><br>Hj temos a listagem com todos os dados dos usuários, com e-mail, msn, celular e etc. Poderia ser criado um link para uma página de detalhes do usuário, onde haveriam informações sobre as competências / conhecimentos / especialidades de cada um, como se fosse um mini-currículo. Assim eu poderia fazer uma pesquisa sobre Crystal, e apareceriam os usuários que conhecem a ferramenta.<br><br>De qualquer maneira, a procura pela solução do meu problema foi agradável, pois adorei a idéia de poder contar com várias pessoas mesmo estando longe.<br><br>[]s<br><br>Rodrigo Miranda.",
+            "co_escritorio": "1"
+        }
+    ]
+}

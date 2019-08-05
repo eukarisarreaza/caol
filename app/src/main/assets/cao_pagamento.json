@@ -1,0 +1,644 @@
+{
+    "RECORDS": [
+        {
+            "co_pagamento": "42",
+            "co_usuario": "civio.couto",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "23/9/2003",
+            "vl_pagamento": "272.4",
+            "dt_referencia_pagamento": "1/7/2003"
+        },
+        {
+            "co_pagamento": "41",
+            "co_usuario": "alessandro.yamada",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "23/9/2003",
+            "vl_pagamento": "301.05",
+            "dt_referencia_pagamento": "1/7/2003"
+        },
+        {
+            "co_pagamento": "43",
+            "co_usuario": "denis.santos",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "23/9/2003",
+            "vl_pagamento": "215.6",
+            "dt_referencia_pagamento": "1/7/2003"
+        },
+        {
+            "co_pagamento": "44",
+            "co_usuario": "fabio.stevanelli",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "23/9/2003",
+            "vl_pagamento": "370.4",
+            "dt_referencia_pagamento": "1/7/2003"
+        },
+        {
+            "co_pagamento": "45",
+            "co_usuario": "michel.moura",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "24/9/2003",
+            "vl_pagamento": "110.4",
+            "dt_referencia_pagamento": "1/6/2003"
+        },
+        {
+            "co_pagamento": "46",
+            "co_usuario": "alessandro.yamada",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "15/10/2003",
+            "vl_pagamento": "0",
+            "dt_referencia_pagamento": "1/9/2003"
+        },
+        {
+            "co_pagamento": "47",
+            "co_usuario": "alessandro.yamada",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "15/10/2003",
+            "vl_pagamento": "145.6",
+            "dt_referencia_pagamento": "1/9/2003"
+        },
+        {
+            "co_pagamento": "48",
+            "co_usuario": "denis.santos",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "15/10/2003",
+            "vl_pagamento": "13.75",
+            "dt_referencia_pagamento": "1/9/2003"
+        },
+        {
+            "co_pagamento": "49",
+            "co_usuario": "michel.moura",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "15/10/2003",
+            "vl_pagamento": "61.25",
+            "dt_referencia_pagamento": "1/9/2003"
+        },
+        {
+            "co_pagamento": "50",
+            "co_usuario": "denis.santos",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "15/10/2003",
+            "vl_pagamento": "0",
+            "dt_referencia_pagamento": "1/9/2003"
+        },
+        {
+            "co_pagamento": "51",
+            "co_usuario": "michel.moura",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "15/10/2003",
+            "vl_pagamento": "126.4",
+            "dt_referencia_pagamento": "1/9/2003"
+        },
+        {
+            "co_pagamento": "54",
+            "co_usuario": "michel.moura",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "17/11/2003",
+            "vl_pagamento": "0",
+            "dt_referencia_pagamento": "1/10/2003"
+        },
+        {
+            "co_pagamento": "55",
+            "co_usuario": "michel.moura",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "17/11/2003",
+            "vl_pagamento": "11.6",
+            "dt_referencia_pagamento": "1/10/2003"
+        },
+        {
+            "co_pagamento": "56",
+            "co_usuario": "denis.santos",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "17/11/2003",
+            "vl_pagamento": "3.54",
+            "dt_referencia_pagamento": "1/10/2003"
+        },
+        {
+            "co_pagamento": "57",
+            "co_usuario": "denis.santos",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "17/11/2003",
+            "vl_pagamento": "48.6",
+            "dt_referencia_pagamento": "1/10/2003"
+        },
+        {
+            "co_pagamento": "58",
+            "co_usuario": "fabio.stevanelli",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "17/11/2003",
+            "vl_pagamento": "0",
+            "dt_referencia_pagamento": "1/10/2003"
+        },
+        {
+            "co_pagamento": "59",
+            "co_usuario": "fabio.stevanelli",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "17/11/2003",
+            "vl_pagamento": "138.95",
+            "dt_referencia_pagamento": "1/10/2003"
+        },
+        {
+            "co_pagamento": "60",
+            "co_usuario": "rodrigo.vilela",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "2/12/2003",
+            "vl_pagamento": "0",
+            "dt_referencia_pagamento": "1/11/2003"
+        },
+        {
+            "co_pagamento": "61",
+            "co_usuario": "rodrigo.vilela",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "2/12/2003",
+            "vl_pagamento": "345.6",
+            "dt_referencia_pagamento": "1/11/2003"
+        },
+        {
+            "co_pagamento": "62",
+            "co_usuario": "daniel.braga",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "9/12/2003",
+            "vl_pagamento": "0",
+            "dt_referencia_pagamento": "1/11/2003"
+        },
+        {
+            "co_pagamento": "63",
+            "co_usuario": "daniel.braga",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "9/12/2003",
+            "vl_pagamento": "152.6",
+            "dt_referencia_pagamento": "1/11/2003"
+        },
+        {
+            "co_pagamento": "64",
+            "co_usuario": "joe.colombo",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "11/12/2003",
+            "vl_pagamento": "0",
+            "dt_referencia_pagamento": "1/11/2003"
+        },
+        {
+            "co_pagamento": "65",
+            "co_usuario": "joe.colombo",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "11/12/2003",
+            "vl_pagamento": "135.1",
+            "dt_referencia_pagamento": "1/11/2003"
+        },
+        {
+            "co_pagamento": "66",
+            "co_usuario": "gustavo.gomes",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "12/12/2003",
+            "vl_pagamento": "0",
+            "dt_referencia_pagamento": "1/11/2003"
+        },
+        {
+            "co_pagamento": "67",
+            "co_usuario": "gustavo.gomes",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "12/12/2003",
+            "vl_pagamento": "149.1",
+            "dt_referencia_pagamento": "1/11/2003"
+        },
+        {
+            "co_pagamento": "69",
+            "co_usuario": "michel.moura",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "17/3/2004",
+            "vl_pagamento": "192.2",
+            "dt_referencia_pagamento": "1/12/2003"
+        },
+        {
+            "co_pagamento": "70",
+            "co_usuario": "civio.couto",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "17/3/2004",
+            "vl_pagamento": "928.4",
+            "dt_referencia_pagamento": "1/11/2003"
+        },
+        {
+            "co_pagamento": "71",
+            "co_usuario": "alessandro.yamada",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "17/3/2004",
+            "vl_pagamento": "153.2",
+            "dt_referencia_pagamento": "1/11/2003"
+        },
+        {
+            "co_pagamento": "72",
+            "co_usuario": "fabio.stevanelli",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "17/3/2004",
+            "vl_pagamento": "454.6",
+            "dt_referencia_pagamento": "1/11/2003"
+        },
+        {
+            "co_pagamento": "73",
+            "co_usuario": "denis.santos",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "17/3/2004",
+            "vl_pagamento": "275.62",
+            "dt_referencia_pagamento": "1/11/2003"
+        },
+        {
+            "co_pagamento": "74",
+            "co_usuario": "michel.moura",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "18/3/2004",
+            "vl_pagamento": "32.08",
+            "dt_referencia_pagamento": "1/11/2003"
+        },
+        {
+            "co_pagamento": "75",
+            "co_usuario": "michel.moura",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "18/3/2004",
+            "vl_pagamento": "536.17",
+            "dt_referencia_pagamento": "1/11/2003"
+        },
+        {
+            "co_pagamento": "77",
+            "co_usuario": "lucas.marin",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "1/7/2004",
+            "vl_pagamento": "13.32",
+            "dt_referencia_pagamento": "1/6/2004"
+        },
+        {
+            "co_pagamento": "78",
+            "co_usuario": "joe.colombo",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "31/8/2004",
+            "vl_pagamento": "139.17",
+            "dt_referencia_pagamento": "1/8/2004"
+        },
+        {
+            "co_pagamento": "79",
+            "co_usuario": "joe.colombo",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "31/8/2004",
+            "vl_pagamento": "476.32",
+            "dt_referencia_pagamento": "1/8/2004"
+        },
+        {
+            "co_pagamento": "80",
+            "co_usuario": "ricardo.martins",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "18/11/2004",
+            "vl_pagamento": "24.8",
+            "dt_referencia_pagamento": "1/3/2004"
+        },
+        {
+            "co_pagamento": "81",
+            "co_usuario": "ricardo.martins",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "18/11/2004",
+            "vl_pagamento": "408.82",
+            "dt_referencia_pagamento": "1/6/2004"
+        },
+        {
+            "co_pagamento": "92",
+            "co_usuario": "fabio.stevanelli",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "24/11/2004",
+            "vl_pagamento": "135.85",
+            "dt_referencia_pagamento": "1/7/2004"
+        },
+        {
+            "co_pagamento": "83",
+            "co_usuario": "ricardo.martins",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "18/11/2004",
+            "vl_pagamento": "456.95",
+            "dt_referencia_pagamento": "1/7/2004"
+        },
+        {
+            "co_pagamento": "84",
+            "co_usuario": "ricardo.martins",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "18/11/2004",
+            "vl_pagamento": "20",
+            "dt_referencia_pagamento": "1/7/2004"
+        },
+        {
+            "co_pagamento": "85",
+            "co_usuario": "ricardo.martins",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "18/11/2004",
+            "vl_pagamento": "319.27",
+            "dt_referencia_pagamento": "1/8/2004"
+        },
+        {
+            "co_pagamento": "86",
+            "co_usuario": "alessandro.yamada",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "18/11/2004",
+            "vl_pagamento": "137.5",
+            "dt_referencia_pagamento": "1/8/2004"
+        },
+        {
+            "co_pagamento": "87",
+            "co_usuario": "alessandro.yamada",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "18/11/2004",
+            "vl_pagamento": "464.85",
+            "dt_referencia_pagamento": "1/8/2004"
+        },
+        {
+            "co_pagamento": "88",
+            "co_usuario": "alessandro.yamada",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "18/11/2004",
+            "vl_pagamento": "518.4",
+            "dt_referencia_pagamento": "1/7/2004"
+        },
+        {
+            "co_pagamento": "89",
+            "co_usuario": "alessandro.yamada",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "18/11/2004",
+            "vl_pagamento": "362.7",
+            "dt_referencia_pagamento": "1/9/2004"
+        },
+        {
+            "co_pagamento": "90",
+            "co_usuario": "ricardo.martins",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "18/11/2004",
+            "vl_pagamento": "292.5",
+            "dt_referencia_pagamento": "1/9/2004"
+        },
+        {
+            "co_pagamento": "91",
+            "co_usuario": "ricardo.martins",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "18/11/2004",
+            "vl_pagamento": "85.2",
+            "dt_referencia_pagamento": "1/10/2004"
+        },
+        {
+            "co_pagamento": "93",
+            "co_usuario": "fabio.stevanelli",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "24/11/2004",
+            "vl_pagamento": "54.77",
+            "dt_referencia_pagamento": "1/7/2004"
+        },
+        {
+            "co_pagamento": "94",
+            "co_usuario": "fabio.stevanelli",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "24/11/2004",
+            "vl_pagamento": "253.4",
+            "dt_referencia_pagamento": "1/9/2004"
+        },
+        {
+            "co_pagamento": "95",
+            "co_usuario": "elvis.rocha",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "13/12/2004",
+            "vl_pagamento": "31.17",
+            "dt_referencia_pagamento": "1/10/2004"
+        },
+        {
+            "co_pagamento": "96",
+            "co_usuario": "elvis.rocha",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "13/12/2004",
+            "vl_pagamento": "143.5",
+            "dt_referencia_pagamento": "1/9/2004"
+        },
+        {
+            "co_pagamento": "97",
+            "co_usuario": "elvis.rocha",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "13/12/2004",
+            "vl_pagamento": "102.72",
+            "dt_referencia_pagamento": "1/7/2004"
+        },
+        {
+            "co_pagamento": "98",
+            "co_usuario": "elvis.rocha",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "13/12/2004",
+            "vl_pagamento": "42.35",
+            "dt_referencia_pagamento": "1/2/2004"
+        },
+        {
+            "co_pagamento": "99",
+            "co_usuario": "elvis.rocha",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "13/12/2004",
+            "vl_pagamento": "42.35",
+            "dt_referencia_pagamento": "1/2/2004"
+        },
+        {
+            "co_pagamento": "100",
+            "co_usuario": "elvis.rocha",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "13/12/2004",
+            "vl_pagamento": "24.85",
+            "dt_referencia_pagamento": "1/1/2004"
+        },
+        {
+            "co_pagamento": "101",
+            "co_usuario": "elvis.rocha",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "13/12/2004",
+            "vl_pagamento": "24.85",
+            "dt_referencia_pagamento": "1/1/2004"
+        },
+        {
+            "co_pagamento": "102",
+            "co_usuario": "luciano.silva",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "12/1/2005",
+            "vl_pagamento": "75.53",
+            "dt_referencia_pagamento": "1/11/2004"
+        },
+        {
+            "co_pagamento": "103",
+            "co_usuario": "luciano.silva",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "12/1/2005",
+            "vl_pagamento": "66.67",
+            "dt_referencia_pagamento": "1/11/2004"
+        },
+        {
+            "co_pagamento": "104",
+            "co_usuario": "luciano.silva",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "12/1/2005",
+            "vl_pagamento": "107.8",
+            "dt_referencia_pagamento": "1/10/2004"
+        },
+        {
+            "co_pagamento": "105",
+            "co_usuario": "luciano.silva",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "12/1/2005",
+            "vl_pagamento": "27.82",
+            "dt_referencia_pagamento": "1/9/2004"
+        },
+        {
+            "co_pagamento": "106",
+            "co_usuario": "luciano.silva",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "12/1/2005",
+            "vl_pagamento": "51.62",
+            "dt_referencia_pagamento": "1/8/2004"
+        },
+        {
+            "co_pagamento": "107",
+            "co_usuario": "luciano.silva",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "12/1/2005",
+            "vl_pagamento": "345",
+            "dt_referencia_pagamento": "1/7/2004"
+        },
+        {
+            "co_pagamento": "108",
+            "co_usuario": "luciano.silva",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "12/1/2005",
+            "vl_pagamento": "180.25",
+            "dt_referencia_pagamento": "1/2/2004"
+        },
+        {
+            "co_pagamento": "109",
+            "co_usuario": "luciano.silva",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "12/1/2005",
+            "vl_pagamento": "180.25",
+            "dt_referencia_pagamento": "1/2/2004"
+        },
+        {
+            "co_pagamento": "110",
+            "co_usuario": "luciano.silva",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "12/1/2005",
+            "vl_pagamento": "72.1",
+            "dt_referencia_pagamento": "1/1/2004"
+        },
+        {
+            "co_pagamento": "111",
+            "co_usuario": "luciano.silva",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "12/1/2005",
+            "vl_pagamento": "72.1",
+            "dt_referencia_pagamento": "1/1/2004"
+        },
+        {
+            "co_pagamento": "112",
+            "co_usuario": "rodrigo.vilela",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "13/1/2005",
+            "vl_pagamento": "324",
+            "dt_referencia_pagamento": "1/10/2004"
+        },
+        {
+            "co_pagamento": "113",
+            "co_usuario": "rodrigo.vilela",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "13/1/2005",
+            "vl_pagamento": "191.4",
+            "dt_referencia_pagamento": "1/9/2004"
+        },
+        {
+            "co_pagamento": "114",
+            "co_usuario": "rodrigo.vilela",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "13/1/2005",
+            "vl_pagamento": "133.4",
+            "dt_referencia_pagamento": "1/8/2004"
+        },
+        {
+            "co_pagamento": "115",
+            "co_usuario": "rodrigo.vilela",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "13/1/2005",
+            "vl_pagamento": "133.4",
+            "dt_referencia_pagamento": "1/8/2004"
+        },
+        {
+            "co_pagamento": "116",
+            "co_usuario": "rodrigo.vilela",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "13/1/2005",
+            "vl_pagamento": "153.6",
+            "dt_referencia_pagamento": "1/2/2004"
+        },
+        {
+            "co_pagamento": "117",
+            "co_usuario": "rodrigo.vilela",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "13/1/2005",
+            "vl_pagamento": "153.6",
+            "dt_referencia_pagamento": "1/2/2004"
+        },
+        {
+            "co_pagamento": "118",
+            "co_usuario": "frederico.zapelini",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "4/4/2005",
+            "vl_pagamento": "131.6",
+            "dt_referencia_pagamento": "1/3/2005"
+        },
+        {
+            "co_pagamento": "119",
+            "co_usuario": "denis.santos",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "18/5/2005",
+            "vl_pagamento": "20.2",
+            "dt_referencia_pagamento": "1/11/2004"
+        },
+        {
+            "co_pagamento": "120",
+            "co_usuario": "denis.santos",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "18/5/2005",
+            "vl_pagamento": "20.2",
+            "dt_referencia_pagamento": "1/11/2004"
+        },
+        {
+            "co_pagamento": "121",
+            "co_usuario": "denis.santos",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "18/5/2005",
+            "vl_pagamento": "31.88",
+            "dt_referencia_pagamento": "1/12/2004"
+        },
+        {
+            "co_pagamento": "122",
+            "co_usuario": "denis.santos",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "18/5/2005",
+            "vl_pagamento": "42.2",
+            "dt_referencia_pagamento": "1/1/2005"
+        },
+        {
+            "co_pagamento": "123",
+            "co_usuario": "denis.santos",
+            "tp_pagamento": "sm",
+            "dt_pagamento": "18/5/2005",
+            "vl_pagamento": "6.46",
+            "dt_referencia_pagamento": "1/2/2005"
+        },
+        {
+            "co_pagamento": "124",
+            "co_usuario": "denis.santos",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "18/5/2005",
+            "vl_pagamento": "189",
+            "dt_referencia_pagamento": "1/2/2005"
+        },
+        {
+            "co_pagamento": "125",
+            "co_usuario": "denis.santos",
+            "tp_pagamento": "fs",
+            "dt_pagamento": "18/5/2005",
+            "vl_pagamento": "317.7",
+            "dt_referencia_pagamento": "1/3/2005"
+        }
+    ]
+}

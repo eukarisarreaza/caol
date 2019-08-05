@@ -1,0 +1,508 @@
+{
+    "RECORDS": [
+        {
+            "idconhecimento": "1",
+            "assunto": "Editor de HTML Web",
+            "conhecimento": "Com esse editor de HTML todo feito em javascript você consegue alterar um conteúdo em formato web como se fosse word. Colocando negrito, sublinhado, itálico, etc.<br>Ideal para publishers e editores de conteúdo em geral.<br><br>Genial e funciona muito bem. ",
+            "url": "",
+            "tags": "javascript editor html publisher publicador",
+            "usuario": "carlos.arruda",
+            "datahora": "20/4/2006 06:06:42"
+        },
+        {
+            "idconhecimento": "2",
+            "assunto": "Formatação financeira javascript",
+            "conhecimento": " Utilize esse javascript para formatação financeira, já preparado para o formato brasileiro. Ele coloca pontuação de ponto e vírgula no valor, automaticamente, de acordo com a quantidade de dígitos escritos.<br><br>Esse javascript impede a digitação direta de pontos e vírugulas.<br><br>Corrigido para permitir TAB e BACKSPACE.",
+            "url": "",
+            "tags": "Formatação financeira javascript financeiro",
+            "usuario": "luiz.paulo",
+            "datahora": "27/4/2006 11:57:29"
+        },
+        {
+            "idconhecimento": "3",
+            "assunto": "Calendário Javascript Cross-Browser",
+            "conhecimento": "Calendário javascript cross-browser.<br><br>Funciona em qualquer browser e é excelente. ",
+            "url": "",
+            "tags": "calendario calendário javascript cross-browser",
+            "usuario": "carlos.arruda",
+            "datahora": "25/4/2006 10:45:31"
+        },
+        {
+            "idconhecimento": "5",
+            "assunto": "Gráficos Flash Fusion Charts",
+            "conhecimento": "Pacote de SWF e FLA para geração de gráficos estatísticos. Ótimos para a geração de relatórios gerenciais. De fácil usabilidade e bonito de se ver.<br><br>Nos pacotes zipados tem o pacote Fusion Chart comprado pela Agence de versão 2.3. e alguns exemplos.",
+            "url": "www.fusioncharts.com/FusionCharts/Demos/NWReporting/",
+            "tags": "graficos gráficos flash fusion charts relatório",
+            "usuario": "carlos.arruda",
+            "datahora": "25/4/2006 05:19:37"
+        },
+        {
+            "idconhecimento": "6",
+            "assunto": "Botões com atalho javascript",
+            "conhecimento": "Com esse script javascript você consegue implementar botões com atalho como se fosse uma aplicação desktop normal.<br><br>Muito interessante para sistemas web que necessitam de velocidade na operação e para usuários que odeiam mouse, normalmente usuários antigos do tempo do clipper, delphi, etc.<br><br>Muito interessante.",
+            "url": "",
+            "tags": "javascript botões tecla atalho velocidade clipper delphi",
+            "usuario": "carlos.arruda",
+            "datahora": "27/4/2006 11:19:04"
+        },
+        {
+            "idconhecimento": "7",
+            "assunto": "Mensagem para help",
+            "conhecimento": "Com esse javascript com css você consegue apresentar uma explicação sobre um determinado link simplesmente colocando o mouse em cima, sem submeter a uma pop-up ou a uma outra página.",
+            "url": "200.189.79.162/upload_conhecimento/help_message/index.htm",
+            "tags": "javascript css help messagem mensagem ajuda",
+            "usuario": "carlos.arruda",
+            "datahora": "28/4/2006 05:00:48"
+        },
+        {
+            "idconhecimento": "9",
+            "assunto": "Usando XML DataSource no JasperReport",
+            "conhecimento": "Esta estratégia permite que dados definidos em documentos XML sejam carregados e processados pelo JasperReport, para a geração de relatórios em PDF. Este mecanismo é útil para o processamento e geração de relatório extremamente dinâmico, contendo, por exemplo, Collections dentro de Collections (Divercidade de informações de objetos dentro de outros). \r\nInicialmente deve definir o formato do documento XML a ser acessado e processado pela aplicação. Não precisa de arquivo \r\nDTD, bastando apenas usar as expressões XPath na definição de tais documentos XML. XPath nada mais é do que uma linguagem para organização de um documento XML, projetado para ser usada em ambos XSLT e XPointer. No meu caso o documento XML definido foi: \r\n\r\n<?xml version=\"1.0\" encoding=\"ISO-8859-1\" ?> \r\n<price> \r\n<discount value=\"Discount Band\">\r\n<division name=\"Division Name\">\r\n      <models>\r\n        <model>\r\n          <name>Model Description</name>\r\n          <optColor>NÃO</optColor>\r\n          <totalPrice>30.000,00</totalPrice>\r\n          <tableNumber>20345</tableNumber>\r\n          <validity>01/04/2006 a 05/04/2006</validity>\r\n        </model>\r\n      </models>\r\n</division>\r\n</discount>\r\n</price>\r\n\r\n\r\nNote que, podemos ter várias informações de MODELOS dentro de uma determinada DIVISÃO, e várias informações de DIVISÕES dentro de uma FAIXA DE DESCONTO. Percebam também que, podemos ter várias faixas de desconto para um determinado preço. Com isso, tem-se bastante dinamismo na geração de um relatório utilizando JasperReport. Vale acrescentar que, a expressão \"ENCODING=ISO-8859-1\" vem com intuito de permitir inserir textos com acentos no documento XML. Ex.: Texto -> NÃO. \r\n\r\nEste documento XML pode ser gerado e/ou acessado a partir de arquivo em disco, ou até mesmo em memória. Utilizando memória, aconselha-se utilizar \"ByteArrayInputStream\" para o processamento e carregamento do XML. Ex.: \r\n\r\n************* \r\nStringBuffer xml = new StringBuffer(); \r\nxml.append(\"<?xml version=\"1.0\" encoding=\"ISO-8859-1\"  ?>\"); \r\nxml.append(\"<price>\"); \r\n... \r\nxml.append(\"</price>\"); \r\nInputStream inputStream = new ByteArrayInputStream(xml.toString().getBytes()); \r\n************* \r\n\r\nO conteúdo de cada nó do XML é acessado como java.lang.String. Com isso, aconselha-se o processamento adequado de dados do tipo, por exemplo, DATA e PREÇO antes do envio dos mesmos ao documento XML. Ex.: 01/04/2006 ou 30.000,00. Isto é necessário pois no arquivo *.jrxml definido e gerado no IReport, tais campos deverão ser definidos como String, caso \r\ncontrário será lançado a exceção - ClassCastException. Lembre-se: valores do XML gerado é acessado como java.lang.String pelo JasperReport. \r\n\r\nApós a definição do formato do arquivo XML, seguindo o padrão das expressões XPath, vamos ao IReport para montar o \r\ndesigner do relatório. Não entrarei em detalhes na utilização do IReport, pois estou assumindo que o leitor tenha conhecimentos adequados para a utilização de tal recurso. As informações presentes aqui serão apenas relacionado ao processamento adequado do recurso em XML. \r\nOs campos de texto (Field) no IReport devem ser criados como String, sendo que o campo \"Field Description\", na criação destes campos, deve ser especificado exatamente o caminho (path) para acessar um determinado valor no documento XML. Ex.: \r\n\r\n************* \r\nField Name        Field Description                        Type \r\ndiscount            /price/discount@value               java.lang.String \r\ndivision            /price/discount/division@name    java.lang.String \r\n************* \r\n\r\nUtiliza-se símbolos para adicionar caminhos extras (extra path) no caminho base (base path) para definir o que será retornado no documento XML. Sendo eles: \r\n\r\n+:  adiciona um caminho a seguir do caminho base. \r\n@: retorna o valor do atributo. Este é seguido pelo nome exato do atributo. \r\n*:  retorna todos as tags identificadas caminho seguinte. \r\n\r\nExamples: \r\n\r\n/price/discount@value \r\n/price/discount/division/models/model+name \r\n/price/discount/division+models*model \r\n\r\nNo exemplo apresentado neste documento, temos (1) o nó <discount> em um novo grupo no IReport; (2) o nó <division> no grupo DETAIL; (3) e temos o nó <models> em um subreport. Este Subreport deverá estar presente no grupo DETAIL do relatório mestre. O Field \"models\" deve ser criado no relatório mestre como \"java.lang.Object\", cujo \"Field Description\" é \"/price/discount/division+models*model\", indicando qual nó da árvore definida no XML, deverá ser acessado por este subreport. \r\n\r\nAinda no relatório mestre, nas propriedades do subreport criado, na aba \"Subreport\", adiciona a expressão \"models\" (que no XML representa a Collection que usará um subreport) com o tipo \"datasource expression\". Já na aba \"Subreport\", adicione o caminho onde está o arquivo .jasper do subReport, com o Subreport Expression Class: \"java.lang.String\". No meu caso é utilizado o seguinte path: \r\n\"/br/com/toyota/dss/jasper/design/priceFreightItem.jasper\" \r\n\r\nAgora, no subreport (relatório detalhe), defina exatamente o que deve ser mostrado. No meu caso adicionei informações \r\ndos modelos definidos no XML. Para cada campo criado no subreport, também devem ser colocalos como java.lang.String e especificados os \"Field Description\". Só que agora o caminho (path) será iniciado a partir do path presente no DataSource definido no subreport no relatório mestre. Neste caso, será iniciado a partir do path: \"/models/model\", acrescimo do símbolo \r\n\"+\" e do campo a ser mostrado. Ficando:\r\n\"/models/model+name\" \r\n\r\n\r\n*** Source Code *** \r\n\r\n/** \r\n * Imports \r\n */ \r\nimport it.businesslogic.ireport.connection.JRXMLDataSource; \r\n\r\nimport java.io.ByteArrayInputStream; \r\nimport java.io.InputStream; \r\n\r\nimport net.sf.jasperreports.engine.JRExporter; \r\nimport net.sf.jasperreports.engine.JRExporterParameter; \r\nimport net.sf.jasperreports.engine.JasperFillManager; \r\nimport net.sf.jasperreports.engine.JasperPrint; \r\nimport net.sf.jasperreports.engine.export.JRPdfExporter; \r\n\r\n\r\n\r\n/** \r\n * Adiciona o conteúdo do XML em um StringBuffer. Note que para adicionar aspas duplas \" dentro do conteúdo da String, \r\n * utilizar a seguinte expressão regular: \" (barra invertida juntamente com aspas duplas). \r\n */ \r\nStringBuffer xml = new StringBuffer(); \r\nxml.append(\"<?xml version=\"1.0\" encoding=\"ISO-8859-1\"  ?>\"); \r\nxml.append(\"<price>\"); \r\n... \r\nxml.append(\"</price>\"); \r\n\r\n\r\n/** \r\n * Converte a String em InputStream. \r\n */ \r\nInputStream xmlDataSource = new ByteArrayInputStream(xml.toString().getBytes()); \r\n\r\n\r\n/** \r\n * Constrói objeto que permite acessar dados de um documento XML usando XPath expression. \r\n * Na construção deste objeto, é passado como parâmetro o xml a ser processado e o recordPath. \r\n * Este recordPath é uma String que define o caminho (path) mínimo requerido para definir um registro. \r\n * No exemplo utilizado neste doc, o recordPath é: \"/price/discount/division\" \r\n */ \r\nJRXMLDataSource jrxmlds = new JRXMLDataSource(xmlDataSource, recordPath); \r\n\r\n\r\n/** \r\n * Preenche o relatório, passando o .jasper do relatório mestre como Stream, o HashMap e o objeto JRXMLDataSource \r\n * criado anteriormente. \r\n */ \r\nJasperPrint print = JasperFillManager.fillReport(reportDesign, new HashMap(), jrxmlds); \r\n\r\n\r\n/** \r\n * Exporta em disco o relatório em PDF \r\n */ \r\nJRExporter exporter = new JRPdfExporter(); \r\nexporter.setParameter(JRExporterParameter.OUTPUT_FILE_NAME, outFileName); \r\nexporter.setParameter(JRExporterParameter.JASPER_PRINT, print); \r\nexporter.exportReport(); \r\n\r\n\r\n*** Considerações Finais *** \r\n\r\n- É necessário adicionar um grupo no IReport, colocando a expressão do primeiro nó com valores no documento XML definido. Isso quer dizer que iremos colocar o relatório mestre em um grupo em especial. No caso do exemplo mencionado neste doc, utiliza-se a expressão \"$F{discount}\" no campo \"Group expression\" da criação do grupo. Isso é necessário para permitir o processamento do primeiro nó do XML (mestre) várias vezes, seguindo exatamente a hierarquia do XML definido ou gerado. \r\n\r\n- Não é necessário a criação de conexões com o documento XML, como mencionado em algumas documentações a respeito. \r\n\r\n- Com o conceito apresentado acima, teremos um relatório em PDF com várias FAIXAS DE DESCONTO para um determinado PREÇO, várias DIVISÕES para cada FAIXA DE DESCONTO, e vários MODELOS para cada DIVISÃO. \r\n\r\n\r\n\r\n*** \r\nReferências Bibliograficas *** \r\n- http://www.w3.org/TR/xpath \r\n- http://ireport.sourceforge.net/cap7.html",
+            "url": "",
+            "tags": "IReport Jasper PDF Java XML",
+            "usuario": "marcio.paulino",
+            "datahora": "3/5/2006 11:31:26"
+        },
+        {
+            "idconhecimento": "10",
+            "assunto": "Valida CPF / CNPJ",
+            "conhecimento": "Script para validação de cpf e/ou cnpj, funciona com campo inibidor de pontuação, no caso de digitação, mas pode-se copiar e colar a informação no campo, funcionando da mesma forma o script de validação.<br><br>Ótimo e funciona já em vários sistemas desenvolvidos pela Agence.",
+            "url": "",
+            "tags": "javascript cpf cnpj valida validator validação",
+            "usuario": "carlos.arruda",
+            "datahora": "2/5/2006 03:53:44"
+        },
+        {
+            "idconhecimento": "11",
+            "assunto": "Timeout de Sessão",
+            "conhecimento": "Com esse script você adiciona um contador na barra do internet explorer de forma apresentar o tempo regressivo para o fim de uma sessão da página, ótimo para apresentar o tempo de \"vida\" do usuário naquela página web.",
+            "url": "",
+            "tags": "timeout session sessão countdown contador regressivo javascript",
+            "usuario": "carlos.arruda",
+            "datahora": "3/5/2006 09:41:00"
+        },
+        {
+            "idconhecimento": "13",
+            "assunto": "Pop-up Leve",
+            "conhecimento": "Esse script permite a apresentação de uma pop-up ultra-leve, uma layer escondida. Ficando dessa forma mais leve para o internauta que está navegando, sem outros \"browser\" aparecerem do nada para ele.",
+            "url": "",
+            "tags": "popup pop-up leve javacript pop up",
+            "usuario": "carlos.arruda",
+            "datahora": "12/5/2006 12:20:44"
+        },
+        {
+            "idconhecimento": "14",
+            "assunto": "Tabela HTML dinâmica",
+            "conhecimento": "Com esse script você consegue manipular tabelas HTMLs direto no browser, no cliente. \r\n\r\nManipulações do tipo ordenação de coluna, movimentação de coluna (posicionamento), marcação de linha em destaque, etc.\r\n\r\nInteressante por ser simples e leve de se usar em aplicações web. Utiliza javascript e DHTML.",
+            "url": "",
+            "tags": "javascript dhtml tabela dinâmica table ordena ordenação",
+            "usuario": "carlos.arruda",
+            "datahora": "12/5/2006 12:23:17"
+        },
+        {
+            "idconhecimento": "15",
+            "assunto": "Menu Right-Click",
+            "conhecimento": "Com esses scripts você pode gerar menus com o right-click do mouse. Bem utilizado para atalhos ou funções mais acessadas.\r\n\r\nInteressante também para esconder o código HTML de usuários comuns.",
+            "url": "",
+            "tags": "javascript right-click clique com a direita menu atalho",
+            "usuario": "carlos.arruda",
+            "datahora": "12/5/2006 12:17:20"
+        },
+        {
+            "idconhecimento": "16",
+            "assunto": "Seletor de grupos",
+            "conhecimento": "Com esse script é possível selecionar itens de um list-box e enviar para outro, criando dessa forma um grupo de itens desejado.",
+            "url": "",
+            "tags": "javascript seletor itens select list-box items",
+            "usuario": "carlos.arruda",
+            "datahora": "12/5/2006 11:33:48"
+        },
+        {
+            "idconhecimento": "17",
+            "assunto": "Blink de texto",
+            "conhecimento": "Com esse script é possível fazer um texto piscar sem problemas em todos os browser, era a antiga função blink do netscape.",
+            "url": "",
+            "tags": "blink javascript pisca-pisca piscar cross-browser",
+            "usuario": "carlos.arruda",
+            "datahora": "12/5/2006 12:15:58"
+        },
+        {
+            "idconhecimento": "21",
+            "assunto": "Formata Campos Padrão",
+            "conhecimento": "Nesse script é possível verificar uma série de tipos de campos formatáveis, cep, cpf, cnpj, etc. Todo feito com javascript.",
+            "url": "",
+            "tags": "javascript formata campos cnpj",
+            "usuario": "carlos.arruda",
+            "datahora": "15/5/2006 10:58:53"
+        },
+        {
+            "idconhecimento": "22",
+            "assunto": "Check All - Marcar tudo",
+            "conhecimento": "Com esse script é possível selecionar todos os checks listados em uma página.",
+            "url": "",
+            "tags": "javascript check all marcar tudo desmarcar tudo uncheck",
+            "usuario": "carlos.arruda",
+            "datahora": "16/5/2006 08:09:51"
+        },
+        {
+            "idconhecimento": "23",
+            "assunto": "Quebra de página HTML",
+            "conhecimento": "Com esse style sheet é possível provocar uma quebra de página no momento da impressão. \r\nDe forma que se é possível definir o local exato aonde será feita a quebra de página no relatório.\r\n\r\nIdeal para formatações específicas aonde um determinado conteúdo não deve ficar parte em uma e parte em outra página.\r\n\r\n<br style=\"page-break-before:always;\">",
+            "url": "",
+            "tags": "html quebra página pagina style sheet",
+            "usuario": "carlos.arruda",
+            "datahora": "4/12/2006 08:35:33"
+        },
+        {
+            "idconhecimento": "24",
+            "assunto": "Progress Bar",
+            "conhecimento": "Com esse script é possível gerar uma barra de progresso para aplicações web, de forma apresentar o andamento de algum processo.\r\nEle se apresenta num formato gráfico e percentual.",
+            "url": "",
+            "tags": "javascript dhtml progressbar progress bar barra de progresso percentual",
+            "usuario": "carlos.arruda",
+            "datahora": "18/5/2006 02:45:26"
+        },
+        {
+            "idconhecimento": "25",
+            "assunto": "Menu árvore",
+            "conhecimento": "Com esse script é possível criar um menu num formato hierárquico, como do windows explorer, de forma muito intuitiva e visual.\r\nDe fácil manipulação é muito indicado para apresentações de mapa do site e permissionamentos.",
+            "url": "",
+            "tags": "JavaScript tree menu, DHTML tree menu, client side tree menu, table of contents, site map, navigation, cross browser, arvore, árvore",
+            "usuario": "carlos.arruda",
+            "datahora": "22/5/2006 08:41:12"
+        },
+        {
+            "idconhecimento": "26",
+            "assunto": "Manual PHP",
+            "conhecimento": "Documentação de referência do PHP\r\nFunções e Bibliotecas",
+            "url": "",
+            "tags": "PHP manual",
+            "usuario": "rodrigo.moralles",
+            "datahora": "23/5/2006 06:51:39"
+        },
+        {
+            "idconhecimento": "27",
+            "assunto": "Gerador de login e senha",
+            "conhecimento": "Com esse script é possível geral uma tela de login e senha em HTML, com senha criptografada direto no HTML.\r\nInteressante para ser utilizado em apresentações de layout em provedores sem banco de dados.",
+            "url": "",
+            "tags": "javascript login senha usuario usuário password user html",
+            "usuario": "carlos.arruda",
+            "datahora": "26/5/2006 08:41:39"
+        },
+        {
+            "idconhecimento": "28",
+            "assunto": "CVS - Criação de Branchs através do Eclipse",
+            "conhecimento": "Artigo descrevendo a utilização da funcionalidade de criação de branchs no CVS através do Eclipse.",
+            "url": "www.eclipse.org/articles/Article-CVS-branching/eclipse_branch.html",
+            "tags": "CVS Branch Eclipse",
+            "usuario": "bruno.freitas",
+            "datahora": "26/5/2006 11:44:52"
+        },
+        {
+            "idconhecimento": "29",
+            "assunto": "UTL_FILE do Oracle",
+            "conhecimento": "Amigos,\r\n\r\nO UTL_FILE é uma biblioteca disponibilizada pelo banco de dados Oracle para manipulação de arquivos no próprio script pl/sql, de modo simples e seguro.\r\n\r\nAbaixo, quatro links de um artigo que demonstra na prática como deve ser feita a utilização desta biblioteca.\r\n\r\nhttp://www.imasters.com.br/artigo/971/oracle/utl_file\r\nhttp://www.imasters.com.br/artigo/990/oracle/utl_file_-_parte_ii\r\nhttp://www.imasters.com.br/artigo/1026/oracle/utl_file_-_parte_iii\r\nhttp://www.imasters.com.br/artigo/1035/oracle/utl_file_-_parte_final\r\n\r\nA propósito, o site www.imasters.com.br, em si, já é um bom ponto de partida para muitas buscas sobre assuntos práticos. Em geral a profundidade dos assuntos abordados é suficiente para permitir que prossigamos o desenvolvimento.\r\n\r\n[]s\r\n\r\nGuga",
+            "url": "",
+            "tags": "oracle utl_file pl/sql arquivo",
+            "usuario": "gustavo.gomes",
+            "datahora": "26/5/2006 02:11:42"
+        },
+        {
+            "idconhecimento": "30",
+            "assunto": "Menu cross-browser",
+            "conhecimento": "Com esse script é possível gerar o menu adotado como padrão nos sistemas web Agence, pois trata-se do primeiro menu cross-browser verdadeiramente. \r\nTestado em todos os browsers ele é fácil de se configurar e bonito de se ver.\r\n\r\nFoi baseado no menu do site da logitech.",
+            "url": "",
+            "tags": "menu cross-browser cross browser drop-down hierárquico hierarquico",
+            "usuario": "carlos.arruda",
+            "datahora": "8/6/2006 04:27:22"
+        },
+        {
+            "idconhecimento": "31",
+            "assunto": "Problemas de atualização com Hibernate 2",
+            "conhecimento": "Se estiver tendo problemas com atualização de dados com o Hibernate2 e a mensagem for esta:\r\na different object with the same identifier value was already associated with the session\r\n\r\npode ser poque está fazendo o seguinte:\r\n1. recupera os dados da base preenchendo o(s) objeto(s) bean usados para fazer o mapeamento\r\n2. converte esse objeto mapeado para um objeto DTO(cria um DTO e o preenche)\r\n3. passa o obj DTO para a apresentação e altera-se ou não o conteúdo desse obj\r\n4. prepara para salvar, converte o DTO para o obj mapeado\r\n5. chama o metodo update do hibernate\r\n6. ERROOOOOOO !!!\r\n\r\nSe estiver fazendo isso, o que vc deve fazer é dar um clear na sua sessão ( getHibernateTemplate().clear(); ) antes de invocar o update.\r\nMaaaaaaas deve-se tomar cuidado com isso, pois essa ação pode causar \"efeitos colaterais\" na sua aplicação.",
+            "url": "",
+            "tags": "java hibernate session update hibernate2 ",
+            "usuario": "lf.oliveira",
+            "datahora": "7/7/2006 05:05:04"
+        },
+        {
+            "idconhecimento": "32",
+            "assunto": "Javascript para retirar Zeros a esquerda de um número inteiro",
+            "conhecimento": "RETIRAR OS ZEROS A ESQUERDA DE UM NUMERO INTEIRO\r\nEssa funcao deve ser utilizada a partir de um metodo onblur de um campo onde os numeros devem ser inteiros",
+            "url": "",
+            "tags": "javascript js zeros esquerda inteiro",
+            "usuario": "rodrigo.toledo",
+            "datahora": "20/7/2006 12:04:40"
+        },
+        {
+            "idconhecimento": "33",
+            "assunto": "SMARTY",
+            "conhecimento": "Dois arquivos em formato pdf sobre SMARTY.\r\n\r\nSmarty-2.6.9-docs.pdf: traz uma documentação sobre Smarty.\r\nSmarty_SampleChapter.pdf: apresenta o sexto capítulo do livro \"Smarty: PHP Template Programming and Applications\".\r\n\r\nAlguns links interessantes:\r\nhttp://cirofeitosa.com.br/post/smarty-e-php-tudo-a-ver\r\nhttp://www.imasters.com.br/artigo/3418/mysql/smarty_e_banco_de_dados_mysql",
+            "url": "",
+            "tags": "smarty documentação funções",
+            "usuario": "michele.freitas",
+            "datahora": "25/7/2006 12:24:27"
+        },
+        {
+            "idconhecimento": "34",
+            "assunto": "Flash sem camada protetora do Internet Explorer",
+            "conhecimento": "Com esse script é possível permitir que não apareça a camada protetora de segurança do internet explorer, muito desagradável visto que o usuário fica obrigado a clicar uma primeira vez para depois pode utilizar o flash apresentado.\r\n\r\nIdeal para uso em menus flash.",
+            "url": "",
+            "tags": "flash javascript jscript internet explorer camada protetora borda",
+            "usuario": "carlos.arruda",
+            "datahora": "4/8/2006 09:24:21"
+        },
+        {
+            "idconhecimento": "35",
+            "assunto": "Solução do problema de LOCK no Progress Database",
+            "conhecimento": "Se por acaso alguém estiver desenvolvendo uma aplicação que utiliza os frameworks Spring  e Hibernate e estiver com problema ao consultar uma tabela e/ou registros no banco de dados Progress, cujo(s) registro(s) esteja(m) travado(s) (LOCK) como EXCLUSIVE-LOCK por outra aplicação por exemplo, e encontrar o erro: Failure getting record lock on a record from table XXX. Se acalme, isso é um problema de configuração do gerenciamente de transações do Spring. Este problema normalmente ocorre quando um método find* de um Service, por exemplo, está dentro de um método update de outro Service. Neste caso, ao executar o find o Spring assume/utiliza a mesma transação utilizada e configurada par ao método update do Service. Para resolver este problema, altere o nível de gerenciamento de transações do Spring para os métodos de busca (find*, buscar*, findAll*, etc.), normalmente no arquivo transactionContext.xml, para PROPAGATION_REQUIRES_NEW,ISOLATION_READ_UNCOMMITTED,readOnly. Com isso, será sempre criado uma transação nova p/ realizar a consulta (dirty read) e suspender temporariamente a transação setada para o método update do Service. Vale acrescentar que se ao invês de PROPAGATION_REQUIRES_NEW termos PROPAGATION_REQUIRED ou PROPAGATION_SUPPORTS, e um método find* estiver dentro de um método update* de um Service, e a tabela cujo find estiver acessando estiver como EXCLUSIVE LOCK, sem dúvida nenhuma será lançado o erro ilustrado acima (... record lock...)!",
+            "url": "",
+            "tags": "Error Lock Progress Spring",
+            "usuario": "marcio.paulino",
+            "datahora": "4/8/2006 11:41:35"
+        },
+        {
+            "idconhecimento": "36",
+            "assunto": "Usando XML Data Source no Jasper Report",
+            "conhecimento": "1.  Conceito\r\n\r\nEsta estratégia permite que dados definidos em documentos XML sejam carregados e processados pelo JasperReport, para a geração de relatórios em PDF. Este mecanismo é útil para o processamento e geração de relatório extremamente dinâmico, contendo, por exemplo, Collections dentro de Collections (Divercidade de informações de objetos dentro de outros).\r\n\r\nInicialmente deve definir o formato do documento XML a ser acessado e processado pela aplicação. Não precisa de arquivo DTD, bastando apenas usar as expressões XPath na definição de tais documentos XML. XPath nada mais é do que uma linguagem para organização de um documento XML, projetado para ser usada em ambos XSLT e XPointer. No meu caso o documento XML definido foi:\r\n\r\n<?xml version=1.0 encoding=ISO-8859-1 ?>\r\n<price>\r\n  <discount value=Discount Band>\r\n    <division name=Division Name>\r\n      <models>\r\n        <model>\r\n          <name>Model Description</name>\r\n          <optColor>NÃO</optColor>\r\n          <totalPrice>30.000,00</totalPrice>\r\n          <tableNumber>20345</tableNumber>\r\n          <validity>01/04/2006 a 05/04/2006</validity>\r\n        </model>\r\n      </models>\r\n    </division>\r\n  </discount>\r\n</price>\r\n\r\nNote que, podemos ter várias informações de MODELOS dentro de uma determinada DIVISÃO, e várias informações de DIVISÕES dentro de uma FAIXA DE DESCONTO. Percebam também que, podemos ter várias faixas de desconto para um determinado preço. Com isso, tem-se bastante dinamismo na geração de um relatório utilizando JasperReport. Vale acrescentar que, a expressão ENCODING=ISO-8859-1 vem com intuito de permitir inserir textos com acentos no documento XML. Ex.: Texto -> NÃO.\r\n\r\nEste documento XML pode ser gerado e/ou acessado a partir de arquivo em disco, ou até mesmo em memória. Utilizando memória, aconselha-se utilizar ByteArrayInputStream para o processamento e carregamento do XML. Ex.:\r\n\r\n*************\r\nStringBuffer xml = new StringBuffer();\r\nxml.append(<?xml version=1.0 encoding=ISO-8859-1  ?>);\r\nxml.append(<price>);\r\n...\r\nxml.append(</price>);\r\nInputStream inputStream = new ByteArrayInputStream(xml.toString().getBytes());\r\n*************\r\n\r\nO conteúdo de cada nó do XML é acessado como java.lang.String. Com isso, aconselha-se o processamento adequado de dados do tipo, por exemplo, DATA e PREÇO antes do envio dos mesmos ao documento XML. Ex.: 01/04/2006 ou 30.000,00. Isto é necessário pois no arquivo *.jrxml definido e gerado no IReport, tais campos deverão ser definidos como String, caso contrário será lançado a exceção - ClassCastException. Lembre-se: valores do XML gerado é acessado como java.lang.String pelo JasperReport.\r\n\r\nApós a definição do formato do arquivo XML, seguindo o padrão das expressões XPath, vamos ao IReport para montar o designer do relatório. Não entrarei em detalhes na utilização do IReport, pois estou assumindo que o leitor tenha conhecimentos adequados para a utilização de tal recurso. As informações presentes aqui serão apenas relacionado ao processamento adequado do recurso em XML.\r\n\r\nOs campos de texto (Field) no IReport devem ser criados como String, sendo que o campo Field Description, na criação destes campos, deve ser especificado exatamente o caminho (path) para acessar um determinado valor no documento XML. Ex.:\r\n\r\n*************\r\nField Name   \t Field Description   \t            Type\r\ndiscount   \t   /price/discount@value            java.lang.String\r\ndivision       /price/discount/division@name    java.lang.String\r\n*************\r\n\r\nUtiliza-se símbolos para adicionar caminhos extras (extra path) no caminho base (base path) para definir o que será retornado no documento XML. Sendo eles:\r\n\r\n+:  adiciona um caminho a seguir do caminho base.\r\n@:  retorna o valor do atributo. Este é seguido pelo nome exato do atributo.\r\n*:  retorna todos as tags identificadas caminho seguinte.\r\n\r\nExamples:\r\n\r\n/price/discount@value\r\n/price/discount/division/models/model+name\r\n/price/discount/division+models*model\r\n\r\nNo exemplo apresentado neste documento, temos (1) o nó <discount> em um novo grupo no IReport; (2) o nó <division> no grupo DETAIL; (3) e temos o nó <models> em um subreport. Este Subreport deverá estar presente no grupo DETAIL do relatório mestre. O Field models deve ser criado no relatório mestre como java.lang.Object, cujo Field Description é /price/discount/division+models*model, indicando qual nó da árvore definida no XML, deverá ser acessado por este subreport.\r\n\r\nAinda no relatório mestre, nas propriedades do subreport criado, na aba Subreport, adiciona a expressão models (que no XML representa a Collection que usará um subreport) com o tipo datasource expression. Já na aba Subreport, adicione o caminho onde está o arquivo .jasper do subReport, com o Subreport Expression Class: java.lang.String. No meu caso é utilizado o seguinte path: /br/com/toyota/dss/jasper/design/priceFreightItem.jasper\r\n\r\nAgora, no subreport (relatório detalhe), defina exatamente o que deve ser mostrado. No meu caso adicionei informações dos modelos definidos no XML. Para cada campo criado no subreport, também devem ser colocalos como java.lang.String e especificados os Field Description. Só que agora o caminho (path) será iniciado a partir do path presente no DataSource definido no subreport no relatório mestre. Neste caso, será iniciado a partir do path: /models/model, acrescimo do símbolo + e do campo a ser mostrado. Ficando: /models/model+name\r\n\r\n\r\n2.  Source Code\r\n\r\n/**\r\n * Imports\r\n */\r\nimport it.businesslogic.ireport.connection.JRXMLDataSource;\r\n\r\nimport java.io.ByteArrayInputStream;\r\nimport java.io.InputStream;\r\n\r\nimport net.sf.jasperreports.engine.JRExporter;\r\nimport net.sf.jasperreports.engine.JRExporterParameter;\r\nimport net.sf.jasperreports.engine.JasperFillManager;\r\nimport net.sf.jasperreports.engine.JasperPrint;\r\nimport net.sf.jasperreports.engine.export.JRPdfExporter;\r\n\r\n----\r\n\r\n/**\r\n * Adiciona o conteúdo do XML em um StringBuffer. Note que para adicionar aspas duplas () dentro do conteúdo da String,\r\n * utilizar a seguinte expressão regular:  (barra invertida juntamente com aspas duplas).\r\n */\r\nStringBuffer xml = new StringBuffer();\r\nxml.append(<?xml version=1.0 encoding=ISO-8859-1  ?>);\r\nxml.append(<price>);\r\n...\r\nxml.append(</price>);\r\n\r\n\r\n/**\r\n * Converte a String em InputStream.\r\n */\r\nInputStream xmlDataSource = new ByteArrayInputStream(xml.toString().getBytes());\r\n\r\n\r\n/**\r\n * Constrói objeto que permite acessar dados de um documento XML usando XPath expression.\r\n * Na construção deste objeto, é passado como parâmetro o xml a ser processado e o recordPath.\r\n * Este recordPath é uma String que define o caminho (path) mínimo requerido para definir um registro.\r\n * No exemplo utilizado neste doc, o recordPath é: /price/discount/division\r\n */\r\nJRXMLDataSource jrxmlds = new JRXMLDataSource(xmlDataSource, recordPath);\r\n\r\n\r\n/**\r\n * Preenche o relatório, passando o .jasper do relatório mestre como Stream, o HashMap e o objeto JRXMLDataSource\r\n * criado anteriormente.\r\n */\r\nJasperPrint print = JasperFillManager.fillReport(reportDesign, new HashMap(), jrxmlds);\r\n\r\n\r\n/**\r\n * Exporta em disco o relatório em PDF\r\n */\r\nJRExporter exporter = new JRPdfExporter();\r\nexporter.setParameter(JRExporterParameter.OUTPUT_FILE_NAME, outFileName);\r\nexporter.setParameter(JRExporterParameter.JASPER_PRINT, print);\r\nexporter.exportReport();\r\n\r\n\r\n3.  Considerações Finais\r\n\r\n- É necessário adicionar um grupo no IReport, colocando a expressão do primeiro nó com valores no documento XML definido. Isso quer dizer que iremos colocar o relatório mestre em um grupo em especial. No caso do exemplo mencionado neste doc, utiliza-se a expressão $F{discount} no campo Group expression da criação do grupo. Isso é necessário para permitir o processamento do primeiro nó do XML (mestre) várias vezes, seguindo exatamente a hierarquia do XML definido ou gerado.\r\n\r\n- Não é necessário a criação de conexões com o documento XML, como mencionado em algumas documentações a respeito.\r\n\r\n- Com o conceito apresentado acima, teremos um relatório em PDF com várias FAIXAS DE DESCONTO para um determinado PREÇO, várias DIVISÕES para cada FAIXA DE DESCONTO, e vários MODELOS para cada DIVISÃO.\r\n\r\n\r\n4.  Bibliotecas\r\n\r\n- commons-javaflow-20060411.jar\r\n- iReport.jar\r\n- itext-1.3.1.jar\r\n- jasperreports-1.2.2.jar\r\n\r\n\r\n5.  Referências Bibliográficas\r\n\r\n- http://www.w3.org/TR/xpath\r\n- http://ireport.sourceforge.net/cap7.html\r\n",
+            "url": "",
+            "tags": "Jasper IReport XML",
+            "usuario": "marcio.paulino",
+            "datahora": "4/8/2006 02:22:58"
+        },
+        {
+            "idconhecimento": "37",
+            "assunto": "Reiniciar contexto do jBoss",
+            "conhecimento": "Procedimento para reiniciar o contexto de uma aplicação no jBoss através do touch.\r\n\r\n1. Baixe o UnxTools - http://unxutils.sourceforge.net/UnxUtils.zip. Ele contém o utilitário touch.exe (portado para o Windows) e outros utilitários que possam vir a servir para outros fins.\r\n2. Extraia o conteúdo do zip para algum local.\r\n3. Crie um atalho para que o touch atualize a data de ultima modificação do web.xml da aplicação desejada (contexto do jBoss é reiniciado)\r\n\r\nexemplo:\r\nc:desenv\toolsUNXUTILSusrlocalwbin\touch.exe C:jboss-3.0.8-tomcat-4.1.24serverdefaultdeploysis.warWEB-INFweb.xml\r\n\r\nNa execução do atalho, o jBoss reconhece uma mudança no web.xml e reinicia o contexto da aplicação em questão.",
+            "url": "",
+            "tags": "jboss contexto ",
+            "usuario": "felipe.correa",
+            "datahora": "8/8/2006 04:26:16"
+        },
+        {
+            "idconhecimento": "38",
+            "assunto": "Profiling com JProfiler",
+            "conhecimento": "Documento que descreve como instalar e configurar o aplicativo JProfiler para rodar com JBoss. \r\nJProfiler é um aplicativo poderoso e com interface intuitiva com a finalidade de medir performance e detectar vazamentos de memória.\r\n\r\n\r\nURL: jprofiler http://download.ej-technologies.com/jprofiler/jprofiler_windows_4_2_1.exe",
+            "url": "",
+            "tags": "profiler jboss performance",
+            "usuario": "felipe.correa",
+            "datahora": "8/8/2006 04:40:42"
+        },
+        {
+            "idconhecimento": "39",
+            "assunto": "jMeter - Stress Test em uma Aplicação Web",
+            "conhecimento": "Guia breve de como configurar um stress-test em uma aplicação Web utilizando a ferramenta livre jMeter.",
+            "url": "",
+            "tags": "jMeter stress-test test",
+            "usuario": "felipe.correa",
+            "datahora": "8/8/2006 06:28:38"
+        },
+        {
+            "idconhecimento": "45",
+            "assunto": "Restauração de backup no Oracle",
+            "conhecimento": "Para realizar a restauração de dados no Oracle é necessário os seguintes passos:\r\n\r\n1) Execute (no prompt do dos) o comando de teste para simulação da importação:\r\nD:>imp userid=system/senha1 buffer=9999999 file=teste.dmp ignore=n show=y commit=y fromuser=SYS touser=RODRIGO log=testeLog.log\r\n(Os dados não são efetivamente inseridos devido ao parâmetro \"show=y\")\r\n2.Agora executamos o comando sem \"show\", executado no mesmo diretório onde o arquivo de exportação \"teste.dmp\" estará localizado:\r\nD:>imp userid=system/senha1 buffer=9999999 file=teste.dmp ignore=n commit=y fromuser=SYS touser=RODRIGO log=testeLog.log\r\n\r\nObs.: \r\n\tuserid -> usário e senha do sysdba do oracle\r\n\tfile=teste.dmp -> nome do backup onde estão os dados\r\n\tfromuser -> deverá ser obtido olhando o log da exportação testeLog.log\r\n\ttouser -> esquema do usuário que desejamos restaurar o backup\r\n\r\nAbs\r\nRodrigo Sousa",
+            "url": "",
+            "tags": "oracle",
+            "usuario": "rodrigo.sousa",
+            "datahora": "21/8/2006 07:04:33"
+        },
+        {
+            "idconhecimento": "46",
+            "assunto": "JToaster",
+            "conhecimento": "Para fazer aparecer uma janelinha igual ao do Messenger quando um usuário entra on line podemos usar o JToaster (http://jtoaster.sourceforge.net). Abaixo temos um exemplo de como usa-lo:\r\n\r\npackage br.com.toaster.teste;\r\n\r\nimport com.nitido.utils.toaster.Toaster;\r\n\r\n/**\r\n * @author Rodrigo Sousa\r\n *\r\n */\r\npublic class TesteToaster {\r\n\r\n\tpublic static void main(String[] args) {\r\n\t\tToaster t = new Toaster();\r\n\t\tt.showToaster( \"Olá!!!\");\r\n\t}\r\n}\r\n\r\nAbs\r\nRodrigo Sousa\r\n\r\nPS.: É necessário incluir a biblioteca em anexo no classpath do seu projeto.",
+            "url": "",
+            "tags": "java",
+            "usuario": "rodrigo.sousa",
+            "datahora": "29/8/2006 06:10:20"
+        },
+        {
+            "idconhecimento": "47",
+            "assunto": "Java5",
+            "conhecimento": "a versão java 5, codNome Tiger,  apresenta diversas melhorias como: sintaxe mais limpa, verificação de tipo em tempo de compilação e o que mais me chamou atenção as Anotações, alem de muitas outras. As anotações chamaram mais atenção por que frameworks como Hibernate e Spring também estão utilizando. Em anexo está um pdf que comenta sobre algumas novidades do Java 5. Abaixo segue alguns links para quem tiver interessado sobre anotações:\r\n\r\nIntrodução as Anotações Java \r\n\t-> http://www.developer.com/java/other/article.php/3556176\r\nDesenvolvendo Aplicações J2EE usando Anotações Hibernate e Spring MVC \r\n\t-> http://www.developer.com/java/ent/article.php/3577101\r\n\r\nPS.: Os links são para artigos em inglês pois é dificil achar bons artigos em português sobre o assunto.",
+            "url": "",
+            "tags": "java",
+            "usuario": "rodrigo.sousa",
+            "datahora": "21/8/2006 07:10:53"
+        },
+        {
+            "idconhecimento": "48",
+            "assunto": "Mentawai",
+            "conhecimento": "O objetivo do Mentawai é ser um framework web simples, flexível, prazeroso e produtivo. E também não menos poderoso que os outros. Ele  não usa xml e sim código Java para controlar o fluxo e a simplifica o uso de variáveis string estáticas para definir o status do processamento. Atualmente está na versão 1.4.1\r\nMais informações pode ser obtidas no endereço: http://www.mentaframework.org/index.jsp\r\nExemplo de sua utilização no endereço: http://www.mentaframework.org/mybooks.jsp\r\n\r\n",
+            "url": "",
+            "tags": "framework",
+            "usuario": "rodrigo.sousa",
+            "datahora": "21/8/2006 07:20:36"
+        },
+        {
+            "idconhecimento": "49",
+            "assunto": "Criptografia",
+            "conhecimento": "   O JAVA fornece uma API, desde a versão 1.2 do JSDK,  para proteção dos dados e validação dos mesmos. Isso é feito através do Message Digests e Assinaturas Digitais.\r\n   O Message Digests são funções hash que geram código de tamanho fixo que não pode ser descriptografado muito útil para a segurança de senhas. Devido ao fato de não poder ser descriptografado é necessário que o código hash seja gerado novamente e comparado com a sequência disponível anteriormente para verificarmos sua autenticidade. A API Java implementa dois algoritmos de Message Digest: o MD5 e o SHA-1.\r\n   As assinaturas digitais servem para autenticar o remetente da informação e se ter a garantia de que o dado é confiável. As assinaturas digitais trabalham com uma tríade: a assinatura em si, uma chave pública e uma chave privada. É de responsabilidade do remetente gerar a tríade e fornecer a chave pública aos destinatários de suas mensagens. No ato do envio, o remetente gera uma assinatura para o dado que deseja enviar usando a chave privada. O destinatário recebe o dado e a assinatura, e valida a informação usando sua chave pública. Se a validação for efetuada com sucesso, o destinatário tem a garantia de que a mensagem foi enviada por um remetente confiável, possuidor da chave privada.\r\n   Em anexo existe um arquivo compactado com o tutorial explicando a utilização de cada um e alguns exemplos.\r\n\r\nAbs.\r\nRodrigo Sousa",
+            "url": "",
+            "tags": "java criptografia",
+            "usuario": "rodrigo.sousa",
+            "datahora": "22/8/2006 05:10:09"
+        },
+        {
+            "idconhecimento": "50",
+            "assunto": "Configuração Branch",
+            "conhecimento": "Pessoal,\r\npara quem usa o cvs através do IDE Eclipse vai ai uma dica. \r\n\r\nQuando não aparecer um branch, vc deve fazer o seguinte:\r\n1) abre \"Versions\" e clica com o direito no módulo principal (por exemplo tmon) ...\r\nclica em \"Configure Branch and Versions\" ...\r\n2) abre o módulo para o qual vc está querendo o branch, no caso \"tmon\"\r\nabre alguma pasta que tenha um arquivo dentro, tipo a \"tmonWeb\"\r\nseleciona um dos arquivos tipo \".cvsignore\"\r\n3) clica em \"Add Selected Files\" e dá OK\r\n4) em \"Branches\", clica com o direito e seleciona \"Refresh Branches\"\r\nseleciona o módulo principal \"tmon\" e dá Finish.\r\n\r\nAbs.\r\nRodrigo Sousa\r\n",
+            "url": "",
+            "tags": "java eclipse",
+            "usuario": "rodrigo.sousa",
+            "datahora": "25/8/2006 04:46:29"
+        },
+        {
+            "idconhecimento": "51",
+            "assunto": "Migracao Hibernate 3",
+            "conhecimento": "Amigos,\r\n\r\nanalisando o processo de migração do Hibernate 2 para o Hibernate 3 destaquei alguns pontos importante no processo e os coloquei no documento em anexo Migração Hibernate 3. A fonte principal de pesquisa foi através do endereço http://www.hibernate.org/250.html, que também pode ser usado para solucionar dúvidas ou para buscar maiores informações. No documento em anexo não estão todas as melhorias do Hibernate 3 e sim algumas. Sugiro que antes de ler esse tutorial de migração que seja feita uma leitura sobre a arquitetura do Hibernate. Para uma breve introdução recomendo o tutorial Introdução ao Hibernate que segue em anexo ou através do endereço http://www.j2eebrasil.com.br/jsp/tutoriais/tutorial.jsp?idTutorial=003_002.\r\n\r\nAbs.\r\nRodrigo Sousa",
+            "url": "",
+            "tags": "java framework hibernate",
+            "usuario": "rodrigo.sousa",
+            "datahora": "29/8/2006 05:54:20"
+        },
+        {
+            "idconhecimento": "52",
+            "assunto": "Expressoes Regulares",
+            "conhecimento": "Pessoal,\r\n\r\nExpressões Regulares trata-se de um método formal para se especificar um padrão de texto a fim de achar um dada palavra (ou parte dela). De acordo com minhas fontes de conhecimento, a partir da versão 1.4 do J2SE Java contou com um bom suporte a expressões regulares. O assunto é muito extenso e por essa razão, abordarei apenas alguns dos caracteres mais usados e aceitos pela API do Java (java.util.regex). São eles: [^]?*+-.\r\n\r\n[ ]\r\nUm dos elementos do conjunto\r\n\r\nExpressão Regular: [rgp]ato -> Qualquer palavra com a primeira letra sendo ou \"r\" ou \"g\" ou \"p\", e as letras seguintes sendo \"ato\"\r\n\r\n\r\nClasse de caracteres pré-definidos. São eles:\r\n\r\nd : Um dígito,\r\nD : Algo que não seja um dígito,\r\ns : Um espaço em branco,\r\nS : Algo que não seja um espaço em branco,\r\nw : Qualquer letra, dígito ou underscore ( _ )\r\nW : Algo que não seja letra, dígito ou underscore\r\n\r\n^\r\nExclusão\r\n\r\nExpressão Regular: [^rgp]ato // Qualquer palavra cuja primeira letra NÃO é \"r\" nem \"g\" nem \"p\", sendo \"ato\" o resto da palavra\r\n\r\n?\r\nUma ou nenhuma vez, assim como * o ? é um elemento quantificador.\r\n\r\nExpressão regular: a? // Uma ou nenhuma ocorrência de \"a\"\r\n\r\n* \r\nQualquer cadeia de caractere.\r\n\r\nExpressão Regular: J*a // Qualquer coisa que comece com J e termine com a\r\n\r\n-\r\nIntervalo\r\n\r\nExpressão Regular: [P-T]ato // A primeira letra da palavra deve está entre P e T(inclusive P e T)\r\n\r\n+\r\nUma ou mais vezes, assim como * e ? o + é um elemento [i]quantificador[i].\r\n\r\nExpressão regular: a+ // Uma ou mais ocorrências de \"a\"\r\n\r\n.\r\nQualquer caractere\r\n\r\nExpressão Regular: Ju. // poderia ser Julia, Juliana\r\n\r\n\r\nAconselho o estudo deste pacote disponível em: http://java.sun.com/javase/6/docs/api/java/util/regex/package-summary.html\r\nNo pacote vc encontrará duas classes: Pattern e Matcher. Um objeto da classe Pattern contém a expressão regular desejada que será usada em uma comparação. Já um objeto da classe Matcher contém os métodos que validarão a String, dada uma expressão regular.\r\nExemplo:\r\n\tPattern padrao = Pattern.compile(\"Ro*\"); // expressão regular\r\n\tMatcher pesquisa = padrao.matcher(\"Rodrigo\"); //String a ser comparada\r\n\t\r\n\tif (pesquisa.matches()) \r\n\t{\r\n  \tSystem.out.println(\"Ok!!!\");\r\n\t}\r\n\t\r\n\tou \r\n\t\r\n\tif (Pattern.matches(\"Ro*\", \"Rodrigo\")) \r\n\t{\r\n  \tSystem.out.println(\"Ok!!!\");\r\n\t}\r\n\r\nAlém do estudo do pacote, recomendo a quem interessar o estudo de expressões regulares através do tutorial disponível em:\r\nhttp://java.sun.com/docs/books/tutorial/essential/regex/index.html\r\n\r\nAbs.\r\nRodrigo Sousa",
+            "url": "",
+            "tags": "java regular",
+            "usuario": "rodrigo.sousa",
+            "datahora": "30/8/2006 06:13:38"
+        },
+        {
+            "idconhecimento": "53",
+            "assunto": "IBatis",
+            "conhecimento": "Amigos,\r\n\r\nIbatis é um framework que pode ser usado com Java ou .Net. Resumidamente associa querys SQL ou stored procedures a Objetos (Java por exemplo) através de um XML de mapeamento. Para quem interessar sugiro dois links:\r\n\thttp://ibatis.apache.org\r\n\thttp://www.onjava.com/pub/a/onjava/2005/08/10/ibatisdao.html?page=1\r\nO Primeiro é a pagina oficial onde encontraremos todos os conceitos, dúvidas e tutoriais. O segundo link mostra como utilizar o framework  iBatis DAO  para auxiliar o desenvolvimento de aplicações que se utilizam do design pattern DAO para comunicação com o banco de dados e ainda detalha o desevolvimento de uma aplicação com o iBatis, focando no desenvolvimento de DAOs para JDBC, Hibernate e em XML.\r\n\r\nAbs.\r\nRodrigo Sousa",
+            "url": "",
+            "tags": "Ibatis java",
+            "usuario": "rodrigo.sousa",
+            "datahora": "31/8/2006 06:53:34"
+        },
+        {
+            "idconhecimento": "54",
+            "assunto": "Overview JavaServer Faces (JSF)",
+            "conhecimento": "JSF é uma tecnologia que incorpora características de um framework MVC para WEB e de um modelo de interfaces gráficas baseado em eventos. Por basear-se no padrão de projeto MVC, uma de suas melhores vantagens é a clara separação entre a visualização e regras de negócio (modelo).\r\n\r\nA idéia do padrão MVC é dividir uma aplicação em três camadas: modelo, visualização e controle. O modelo é responsável por representar os objetos de negócio, manter o estado da aplicação e fornecer ao controlador o acesso aos dados. A visualização representa a interface com o usuário, sendo responsável por definir a forma como os dados serão apresentados e encaminhar as ações dos usuários para o controlador. Já a camada de controle é responsável por fazer a ligação entre o modelo e a visualização, além de interpretar as ações do usuário e as traduzir para uma operação sobre o modelo, onde são realizadas mudanças e, então, gerar uma visualização apropriada.\r\n\r\nNo JSF, o controle é composto por um Servlet denominado FacesServlet, por arquivos de configuração e por um conjunto de manipuladores de ações e observadores de eventos. O FacesServlet é responsável por receber requisições da WEB, redirecioná-las para o modelo e então remeter uma resposta. Os arquivos de configuração são responsáveis por realizar associações e mapeamentos de ações e pela definição de regras de navegação. Os manipuladores de eventos são responsáveis por receber os dados vindos da camada de visualização, acessar o modelo, e então devolver o resultado para o FacesServlet.\r\n\r\nO modelo representa os objetos de negócio e executa uma lógica de negócio ao receber os dados vindos da camada de visualização. Finalmente, a visualização é composta por component trees(hierarquia de componentes UI), tornando possível unir um componente ao outro para formar interfaces mais complexas.\r\n\r\nPara mais informações, consulte o documento anexado.\r\n",
+            "url": "",
+            "tags": "Overview JSF",
+            "usuario": "marcio.paulino",
+            "datahora": "4/9/2006 04:23:40"
+        },
+        {
+            "idconhecimento": "55",
+            "assunto": "warnings jdbc progress",
+            "conhecimento": "Para retirar os warnings do driver do progress sem afetar os demais infos que tvz algumas aplicacoes possam necessitar, basta adicionar o trecho abaixo no arquivo log4j.xml dentro do diretorio jbossserverdefaultconf:\r\n\r\n- Para o hibernate versao 2\r\n  <category name=´net.sf.hibernate.impl.BatcherImpl´>\r\n    <priority value=\"ERROR\"/>\r\n  </category>\r\n\r\n- Para o hibernate versao 3\r\n  <category name=´org.hibernate.jdbc.AbstractBatcher´>\r\n    <priority value=\"ERROR\"/>\r\n  </category>\r\n\r\nDeve ser adicionado no trecho chamado ´Limit categories´\r\n\r\nObs: substituir no trecho ´net.sf.hibernate.impl.BatcherImpl´ os acentos por aspas dupla.",
+            "url": "",
+            "tags": "warnings progress jdbc log log4j",
+            "usuario": "francisco.ogatha",
+            "datahora": "5/9/2006 09:36:04"
+        },
+        {
+            "idconhecimento": "56",
+            "assunto": "crossbrowser - funcionamento de sites em Firefox",
+            "conhecimento": "Seguem algumas dicas para o funcionamento de sites no Firefox:\n- no estilo cursor, ao invés de colocar o valor hand, colocar o valor pointer. Ex: style=\"cursor:pointer;\"\n- nas imagens em hexadecimal, sempre colocar o #. Ex: bgcoor=\"#EAEAEA\"\n- nos Javascripts, na chamada dos formulários, sempre colocar o document. Ex: document.form1.submit();\n",
+            "url": "",
+            "tags": "crossbrowser - funcionamento de sites em Firefox",
+            "usuario": "marco.malaquias",
+            "datahora": "9/11/2006 12:40:24"
+        },
+        {
+            "idconhecimento": "57",
+            "assunto": "",
+            "conhecimento": "",
+            "url": "",
+            "tags": "",
+            "usuario": "wagner.alves",
+            "datahora": "13/11/2006 01:50:12"
+        },
+        {
+            "idconhecimento": "58",
+            "assunto": "Guia de consulta rápida para php, mysql, javascript e css.",
+            "conhecimento": "O site http://ql.aonic.net/ é um serviço web de busca que pode ser utilizado como um guia rápido para consultas, ele retorna a descrição resumida e um exemplo de uso das funções e comandos do mysql, php, javascript e css. ",
+            "url": "http://ql.aonic.net/",
+            "tags": "javascript mysql css php",
+            "usuario": "helsen.rossi",
+            "datahora": "1/12/2006 04:59:40"
+        },
+        {
+            "idconhecimento": "59",
+            "assunto": "Mysql Integridade Referencial",
+            "conhecimento": "Mysql possui vários tipos de tabelas: ISAM, MyISAM,HEAP,MERGE,InnoDB (a única que trabalha com FK) e BDB.\r\nno anexo tem uma demostração de como usar e como alterar um table para innodb.",
+            "url": "http://dev.mysql.com/doc/refman/4.1/pt/innodb-overview.html",
+            "tags": "mysql, integridade, Banco de Dados",
+            "usuario": "jefferson.silva",
+            "datahora": "19/12/2006 03:55:34"
+        },
+        {
+            "idconhecimento": "60",
+            "assunto": "WinSCP - Linux/Windows",
+            "conhecimento": "Cliente de server SFTP e SCP pelo protocolo SSH,  usando as facilidades do Windows, como se fosse o Windows Explorer.\r\nSua função principal é copiar arquivos entre um local e um computador remoto seguramente.\r\nCom funções de navegação por clique, recursos arrastar e soltar e botão direito do mouse, é possível realizar as principais funções com arquivos e diretórios em um servidor remoto. Facilita muito o gerenciamento de arquivos.\r\n\r\nOpen-Source\r\nTamanho:  1,68 MB\r\nSimples Instalação e Uso, uma mão na roda.\r\n",
+            "url": "http://fileforum.betanews.com/detail/972999301/1",
+            "tags": "WinSCP Linux SFTP SCP Gerenciador de Arquivos",
+            "usuario": "jefferson.silva",
+            "datahora": "18/1/2007 11:59:32"
+        },
+        {
+            "idconhecimento": "61",
+            "assunto": "Teste Web Browser (Selenium)",
+            "conhecimento": "O Selenium é um framework para realização de testes na web, ele realiza as navegações no browser simulando um usuário. O Mozilla Firefox possui um extensão chamada SeleniumIDE que permite que você grave uma navegação sua e então mande ele reproduzí-la automaticamente. Essa ferramenta exporta o código fonte da ação gravada para HTML, Java, C#, Ruby, Perl e Python. Em anexo um exemplo de teste exportado para HTML.",
+            "url": "http://wiki.openqa.org/download/attachments/400/Selenium+IDE.swf?version=1",
+            "tags": "Teste, Web, Selenium,",
+            "usuario": "tiago.stutz",
+            "datahora": "30/1/2007 08:53:38"
+        },
+        {
+            "idconhecimento": "62",
+            "assunto": "Desabilitando o click com a direita",
+            "conhecimento": "Depois de tentar com muitos métodos, scripts e outros, chegamos à conclusão de que nenhum método é perfeito e de que todos estes scripts que dizem que protegem o código fonte na verdade o único que fazem é bloquear o botão direito do mouse e do teclado. \r\n\r\nDe todos estes scripts e para quem gosta de usá-los, este é o que parece mais simples e melhor: \r\n\r\nbody oncontextmenu=\"return false\" onkeydown=\"return false\" // Isso entre sinal de \"menor\" e \"maior\".\r\n\r\nSimplesmente há que colocar estes atributos no body e o botão direito do mouse e o teclado ficarão inutilizados, sem que saia estas incômodas janelas dizendo, \"o botão direito foi inabilitado\" ou \"as imagens estão protegidas\".... \r\n\r\nEstes scripts talvez protejam as imagens de usuários inexperientes que simplesmente sabem navegar pela internet e pouco mais. Mas não impedirão um usuário experiente de conseguir copiar estas imagens em seu computador. Salvar estes scripts é tão fácil como fazer: \"Arquivo>Salvar como...\" e salvar a página completa com todas suas imagens. \r\n\r\nNo caso de que o script só proteja o botão direito, inclusive podemos selecionar a imagem e fazer Ctrl+C e logo cola-la em qualquer editor gráfico. \r\n\r\nE mesmo se tudo isso não funcionasse bem, ainda existe sempre a possibilidade de imprimir a tela, com o botão: \"Print Screen SysRq\" e logo Ctrl+V em qualquer editor gráfico. ",
+            "url": "",
+            "tags": "desabilita click direita proteção código fonte",
+            "usuario": "carlos.arruda",
+            "datahora": "31/1/2007 10:55:06"
+        },
+        {
+            "idconhecimento": "63",
+            "assunto": "Auto TAB",
+            "conhecimento": "Script que faz o TAB automático com a digitação.",
+            "url": "",
+            "tags": "auto tab digitação",
+            "usuario": "carlos.arruda",
+            "datahora": "25/6/2007 10:32:02"
+        },
+        {
+            "idconhecimento": "64",
+            "assunto": "PROGRESS - Importação de dados em modo mono usuário",
+            "conhecimento": "Cenário:\r\nRecebemos arquivos de descrição tabela e de dados do Progress (arquivos .df e .d) para importar.\r\n1. Tentamos importar a definição de dados e o processo transcorre normalmente.\r\n2. Ao importar os dados (.d) é acusado um dos possíveis erros\r\n\tErro1: Formato de número incompatível 44, 46\r\n\tErro2: Codificação inválida (, .)\r\n\r\nCausa:\r\nO modo com que o Progress startou não é o padrão que foi startado onde exportaram a tabela (Caso que ocorre com a Toyota, por exemplo).\r\n\r\nSolução:\r\nIniciamos o progress em modo mono-usuário e fazemos a importação do .df e .d através desse modo.\r\n\r\nProcedimento:\r\nColoque os 2 arquivos anexados na pasta PROGRESS/bin, ajuste os parâmetros que está no arquivo m_toios.pf (usuario, senha, e diretório onde o \r\narquivo .db do banco se encontra).\r\nExecute o .bat e ele iniciará uma ferramenta progress de execução de comando sql.\r\nClique no menu TOOLS -> Data administration, será iniciado o utilitário onde você fará a importação em modo mono-usuário.\r\nSe as configurações de quem exportou forem as padrões do progress, não dará mais o erro.\r\n",
+            "url": "",
+            "tags": "Progress Dados importação database",
+            "usuario": "felipe.correa",
+            "datahora": "23/7/2007 05:51:03"
+        },
+        {
+            "idconhecimento": "65",
+            "assunto": "PROGRESS - Importação de dados (.D e .DF)",
+            "conhecimento": "Cenário:\r\nRecebemos arquivos de descrição tabela e de dados do Progress (arquivos .df e .d) e desejamos importar para o banco Progress do nosso ambiente.\r\n\r\nProcedimento:\r\n1. Acesse o utilitário \"Data administration\" (encontrado no menu do Progress)\r\n2. Clique em \"Connect to existing database\" (1ª opção)\r\n\tem \"Physical name\": digite a localização do arquivo .db do banco de dados\r\n3. clique em options\r\n\tem \"User id\" digite o nome do usuário\r\n\tem \"Password\" digite a senha\r\n\tclique em \"Multiple Users\"\r\n\taperte \"OK\"\r\n4. Admin -> Load Data and Definitions -> Data Definitions (.df file...)\r\n\tem input file: coloque o caminho do arquivo .df e aperte OK\r\n\tps: Caso haja algum erro, delete a tabela utilizando o utilitário \"Data dictionary\" que pode ser acessado no menu Tools\r\n\r\n5. Admin -> Load Data and Definitions ->  Table Contents (.d file...)\r\n\tclique em \"Select Some\"\r\n\tDigite o nome da tabela pra importar os dados, e clique OK.\r\n\tEntre com o caminho do arquivo .d\r\n\tPressione OK\r\n",
+            "url": "",
+            "tags": "Progress database importação",
+            "usuario": "felipe.correa",
+            "datahora": "23/7/2007 05:52:15"
+        },
+        {
+            "idconhecimento": "66",
+            "assunto": "PROGRESS - Erro de max length or precision",
+            "conhecimento": "Cenário: Ao fazer uma consulta em uma tabela o banco retorna com o seguinte erro:\r\n15:56:53 [ERROR] [JDBC Progress Driver]:Column ROUTE in table PUB.PS has value exceeding its max length or precision\r\nNo caso, foi feita a consulta na tabela PS e a coluna ROUTE está com erro.\r\n\r\nSolução:\r\nAumentar consideravelmente o tamanho da coluna em questão.\r\n\r\nProcedimento:\r\n1. Acesse o utilitário \"Data Dictionary\" (encontrado no menu do Progress)\r\n2. Clique em \"Connect to existing database\" (1ª opção)\r\n\tem \"Physical name\": digite a localização do arquivo .db do banco de dados\r\n3. clique em options\r\n\tem \"User id\" digite o nome do usuário\r\n\tem \"Password\" digite a senha\r\n\tclique em \"Multiple Users\"\r\n\taperte \"OK\"\r\n4. Escolha a tabela em questão (no caso,  PS)\r\n5. Clique no penúltimo icone no topo da janela (FIELDS)\r\n6. Clique no menu Options -> SQL Properties -> Adjust Field Width.\r\n7. Selecione o campo que está dando problema (no caso, ROUTE) e aumente seu width para um valor maior e dê OK.\r\n8. Selecione no menu Edit -> Commit Transaction e confirme.\r\n9. Pare o serviço do Progress e inicie novamente (só assim serão efetivadas as alterações).\r\n10. Tente executar novamente a consulta e veja se continua dando o mesmo erro. Caso continue, aumente mais ainda o tamanho.\r\n",
+            "url": "",
+            "tags": "Progress max length erro",
+            "usuario": "felipe.correa",
+            "datahora": "23/7/2007 05:53:46"
+        },
+        {
+            "idconhecimento": "67",
+            "assunto": "Painéis Congelados em Jscript",
+            "conhecimento": "Com esse script é possível criar painéis congelados como uma planilha de excel. Deixando a linha do topo e a coluna da esquerda congeladas.\r\nÓtimo para grandes relatórios.",
+            "url": "http://www.javascripttoolbox.com/lib/scrollingdatagrid/",
+            "tags": "painel congelado painéis congelados excel",
+            "usuario": "carlos.arruda",
+            "datahora": "24/8/2007 11:52:23"
+        }
+    ]
+}

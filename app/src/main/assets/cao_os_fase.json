@@ -1,0 +1,76 @@
+{
+    "RECORDS": [
+        {
+            "co_fase": "1",
+            "descricao": "Construção do HTML / Protótipo",
+            "descricao_ingl": "HTML Construction",
+            "ordem": "6"
+        },
+        {
+            "co_fase": "2",
+            "descricao": "Documentação de Especificação",
+            "descricao_ingl": "Requirements Documentation",
+            "ordem": "20"
+        },
+        {
+            "co_fase": "4",
+            "descricao": "Análise e Projeto",
+            "descricao_ingl": "Analysis and Design",
+            "ordem": "40"
+        },
+        {
+            "co_fase": "5",
+            "descricao": "Codificação",
+            "descricao_ingl": "Implementation",
+            "ordem": "60"
+        },
+        {
+            "co_fase": "6",
+            "descricao": "Testes / Ajustes",
+            "descricao_ingl": "Test/Adjust",
+            "ordem": "70"
+        },
+        {
+            "co_fase": "7",
+            "descricao": "Implantação",
+            "descricao_ingl": "Deployment",
+            "ordem": "80"
+        },
+        {
+            "co_fase": "8",
+            "descricao": "Configuração de Ambiente",
+            "descricao_ingl": "Enviroment Configuration",
+            "ordem": "50"
+        },
+        {
+            "co_fase": "11",
+            "descricao": "Dimensionamento de Tempo TI",
+            "descricao_ingl": "Lifetime of the project estimation",
+            "ordem": "7"
+        },
+        {
+            "co_fase": "9",
+            "descricao": "Levantamento de Requisitos / Consultoria",
+            "descricao_ingl": "Requirements Definitions / Business Consult",
+            "ordem": "5"
+        },
+        {
+            "co_fase": "10",
+            "descricao": "Manual do Sistema",
+            "descricao_ingl": "System Instructions",
+            "ordem": "75"
+        },
+        {
+            "co_fase": "14",
+            "descricao": "Confecção de Plano de Testes",
+            "descricao_ingl": "Test Plan",
+            "ordem": "65"
+        },
+        {
+            "co_fase": "12",
+            "descricao": "Concepção Gráfica / Design do Site",
+            "descricao_ingl": "Web Site Design",
+            "ordem": "9"
+        }
+    ]
+}

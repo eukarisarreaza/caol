@@ -1,0 +1,44 @@
+{
+    "RECORDS": [
+        {
+            "idcategoria": "1",
+            "descricao": "Ambiente de Trabalho"
+        },
+        {
+            "idcategoria": "2",
+            "descricao": "Aprendizagem / Experiência"
+        },
+        {
+            "idcategoria": "3",
+            "descricao": "CAOL"
+        },
+        {
+            "idcategoria": "4",
+            "descricao": "Desafios"
+        },
+        {
+            "idcategoria": "5",
+            "descricao": "Finanças / Remuneração"
+        },
+        {
+            "idcategoria": "6",
+            "descricao": "Metologia de Desenvolvimento de Software"
+        },
+        {
+            "idcategoria": "7",
+            "descricao": "Perspectiva"
+        },
+        {
+            "idcategoria": "8",
+            "descricao": "Qualidade de Vida"
+        },
+        {
+            "idcategoria": "9",
+            "descricao": "Reconhecimento"
+        },
+        {
+            "idcategoria": "10",
+            "descricao": "Outros"
+        }
+    ]
+}

@@ -1,0 +1,7066 @@
+{
+    "RECORDS": [
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "16",
+            "nu_pontos": "127",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "2",
+            "nu_pontos": "78",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "3",
+            "nu_pontos": "38",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "5",
+            "nu_pontos": "88",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "9",
+            "nu_pontos": "66",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "21",
+            "nu_pontos": "30",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "16",
+            "nu_pontos": "20",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "18",
+            "nu_pontos": "48",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "12",
+            "nu_pontos": "28",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.lamego",
+            "co_menu": "25",
+            "nu_pontos": "127",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.lamego",
+            "co_menu": "9",
+            "nu_pontos": "20",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "16",
+            "nu_pontos": "54",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "9",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "civio.couto",
+            "co_menu": "25",
+            "nu_pontos": "124",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "21",
+            "nu_pontos": "10",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "mauricio.costa",
+            "co_menu": "25",
+            "nu_pontos": "60",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "7",
+            "nu_pontos": "32",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.lamego",
+            "co_menu": "1",
+            "nu_pontos": "104",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.braga",
+            "co_menu": "25",
+            "nu_pontos": "60",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "14",
+            "nu_pontos": "56",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.martins",
+            "co_menu": "25",
+            "nu_pontos": "58",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.martins",
+            "co_menu": "1",
+            "nu_pontos": "30",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cristiane.florio",
+            "co_menu": "25",
+            "nu_pontos": "56",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "co_menu": "25",
+            "nu_pontos": "62",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.gomes",
+            "co_menu": "25",
+            "nu_pontos": "52",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.gomes",
+            "co_menu": "1",
+            "nu_pontos": "30",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "lf.oliveira",
+            "co_menu": "25",
+            "nu_pontos": "54",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "lf.oliveira",
+            "co_menu": "1",
+            "nu_pontos": "24",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alessandro.yamada",
+            "co_menu": "25",
+            "nu_pontos": "127",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.moralles",
+            "co_menu": "25",
+            "nu_pontos": "127",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.moralles",
+            "co_menu": "1",
+            "nu_pontos": "32",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sousa",
+            "co_menu": "25",
+            "nu_pontos": "70",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sousa",
+            "co_menu": "1",
+            "nu_pontos": "36",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "25",
+            "nu_pontos": "8",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "frederico.zapelini",
+            "co_menu": "25",
+            "nu_pontos": "50",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "frederico.zapelini",
+            "co_menu": "1",
+            "nu_pontos": "32",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cyntia.nakamura",
+            "co_menu": "25",
+            "nu_pontos": "70",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.gomes",
+            "co_menu": "9",
+            "nu_pontos": "12",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.rubini",
+            "co_menu": "25",
+            "nu_pontos": "54",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "joe.colombo",
+            "co_menu": "25",
+            "nu_pontos": "80",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.rubini",
+            "co_menu": "1",
+            "nu_pontos": "26",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "joe.colombo",
+            "co_menu": "1",
+            "nu_pontos": "10",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eduardo.botelho",
+            "co_menu": "25",
+            "nu_pontos": "72",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "glauco.sassaki",
+            "co_menu": "25",
+            "nu_pontos": "62",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "glauco.sassaki",
+            "co_menu": "1",
+            "nu_pontos": "28",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "glauco.sassaki",
+            "co_menu": "14",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leandro.caracciolo",
+            "co_menu": "25",
+            "nu_pontos": "64",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leandro.caracciolo",
+            "co_menu": "14",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leandro.caracciolo",
+            "co_menu": "1",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "glauco.sassaki",
+            "co_menu": "5",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leandro.caracciolo",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "0"
+        },
+        {
+            "co_usuario": "francisco.ogatha",
+            "co_menu": "25",
+            "nu_pontos": "52",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "francisco.ogatha",
+            "co_menu": "1",
+            "nu_pontos": "28",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "co_menu": "25",
+            "nu_pontos": "56",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "co_menu": "9",
+            "nu_pontos": "16",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "co_menu": "1",
+            "nu_pontos": "12",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.oliveira",
+            "co_menu": "25",
+            "nu_pontos": "58",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.braga",
+            "co_menu": "1",
+            "nu_pontos": "24",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "denis.santos",
+            "co_menu": "25",
+            "nu_pontos": "52",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "denis.santos",
+            "co_menu": "1",
+            "nu_pontos": "28",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.moralles",
+            "co_menu": "18",
+            "nu_pontos": "8",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alessandro.yamada",
+            "co_menu": "18",
+            "nu_pontos": "14",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "11",
+            "nu_pontos": "40",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "12",
+            "nu_pontos": "12",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "26",
+            "nu_pontos": "36",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "6",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "25",
+            "nu_pontos": "26",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "19",
+            "nu_pontos": "8",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "15",
+            "nu_pontos": "24",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.lamego",
+            "co_menu": "5",
+            "nu_pontos": "8",
+            "in_processado": "0"
+        },
+        {
+            "co_usuario": "marcio.lamego",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "0"
+        },
+        {
+            "co_usuario": "cyntia.nakamura",
+            "co_menu": "8",
+            "nu_pontos": "12",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cyntia.nakamura",
+            "co_menu": "14",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cyntia.nakamura",
+            "co_menu": "1",
+            "nu_pontos": "22",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cyntia.nakamura",
+            "co_menu": "13",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cyntia.nakamura",
+            "co_menu": "18",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sousa",
+            "co_menu": "8",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "joe.colombo",
+            "co_menu": "5",
+            "nu_pontos": "18",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "joe.colombo",
+            "co_menu": "14",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "joe.colombo",
+            "co_menu": "9",
+            "nu_pontos": "20",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "joe.colombo",
+            "co_menu": "18",
+            "nu_pontos": "8",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.lamego",
+            "co_menu": "18",
+            "nu_pontos": "8",
+            "in_processado": "0"
+        },
+        {
+            "co_usuario": "eduardo.botelho",
+            "co_menu": "9",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "8",
+            "nu_pontos": "28",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cristiane.florio",
+            "co_menu": "1",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.oliveira",
+            "co_menu": "9",
+            "nu_pontos": "12",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.oliveira",
+            "co_menu": "1",
+            "nu_pontos": "10",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.moralles",
+            "co_menu": "21",
+            "nu_pontos": "22",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "civio.couto",
+            "co_menu": "1",
+            "nu_pontos": "24",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "mauricio.costa",
+            "co_menu": "1",
+            "nu_pontos": "8",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.areco",
+            "co_menu": "25",
+            "nu_pontos": "74",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.areco",
+            "co_menu": "9",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.areco",
+            "co_menu": "1",
+            "nu_pontos": "66",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.areco",
+            "co_menu": "8",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.areco",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "0"
+        },
+        {
+            "co_usuario": "alessandro.yamada",
+            "co_menu": "21",
+            "nu_pontos": "22",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "11",
+            "nu_pontos": "38",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "mauricio.costa",
+            "co_menu": "8",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "mauricio.costa",
+            "co_menu": "9",
+            "nu_pontos": "10",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "mauricio.costa",
+            "co_menu": "14",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "mauricio.costa",
+            "co_menu": "18",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "0"
+        },
+        {
+            "co_usuario": "civio.couto",
+            "co_menu": "18",
+            "nu_pontos": "12",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "civio.couto",
+            "co_menu": "14",
+            "nu_pontos": "8",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "civio.couto",
+            "co_menu": "5",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "civio.couto",
+            "co_menu": "9",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sousa",
+            "co_menu": "18",
+            "nu_pontos": "12",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "co_menu": "5",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "co_menu": "9",
+            "nu_pontos": "10",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "co_menu": "21",
+            "nu_pontos": "8",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.areco",
+            "co_menu": "14",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.areco",
+            "co_menu": "5",
+            "nu_pontos": "8",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.areco",
+            "co_menu": "20",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.areco",
+            "co_menu": "18",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cristiane.florio",
+            "co_menu": "18",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.lamego",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "0"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "16",
+            "nu_pontos": "16",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "14",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.lamego",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "0"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "16",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "19",
+            "nu_pontos": "2",
+            "in_processado": "0"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "24",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "11",
+            "nu_pontos": "14",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "21",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "25",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "lf.oliveira",
+            "co_menu": "8",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "lf.oliveira",
+            "co_menu": "21",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "lf.oliveira",
+            "co_menu": "5",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "lf.oliveira",
+            "co_menu": "9",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "lf.oliveira",
+            "co_menu": "18",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.rubini",
+            "co_menu": "14",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "23",
+            "nu_pontos": "8",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "7",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "mauricio.costa",
+            "co_menu": "5",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "7",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "francisco.ogatha",
+            "co_menu": "8",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "7",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.martins",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "0"
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "co_menu": "1",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "joe.colombo",
+            "co_menu": "8",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "18",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "3",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "2",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "9",
+            "nu_pontos": "8",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "co_menu": "18",
+            "nu_pontos": "6",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "francisco.ogatha",
+            "co_menu": "5",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "francisco.ogatha",
+            "co_menu": "14",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "francisco.ogatha",
+            "co_menu": "9",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "joe.colombo",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "francisco.ogatha",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cristiane.florio",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cristiane.florio",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cristiane.florio",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "15",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alessandro.yamada",
+            "co_menu": "1",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.oliveira",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "0"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "22",
+            "nu_pontos": "10",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.gomes",
+            "co_menu": "18",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eduardo.botelho",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sousa",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sousa",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "20",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "civio.couto",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.oliveira",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "0"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "1",
+            "nu_pontos": "10",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.oliveira",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "0"
+        },
+        {
+            "co_usuario": "rodrigo.oliveira",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "0"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "12",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sousa",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sousa",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "13",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.paulino",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.gomes",
+            "co_menu": "8",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.gomes",
+            "co_menu": "5",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.braga",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.paulino",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.paulino",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.braga",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "civio.couto",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "7",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "3",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "4",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "denis.santos",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "denis.santos",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "11",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "co_menu": "20",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "co_menu": "13",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.martins",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "0"
+        },
+        {
+            "co_usuario": "ricardo.martins",
+            "co_menu": "9",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "glauco.sassaki",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cristiane.florio",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cristiane.florio",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "francisco.ogatha",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.moralles",
+            "co_menu": "14",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.moralles",
+            "co_menu": "5",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eduardo.botelho",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cyntia.nakamura",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.braga",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "24",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "3",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "11",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.martins",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.braga",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "12",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "4",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "6",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "3",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eduardo.botelho",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "15",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "12",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "6",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.rubini",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonatan.perim",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "co_menu": "14",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "co_menu": "8",
+            "nu_pontos": "4",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "7",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonatan.perim",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonatan.perim",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonatan.perim",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonatan.perim",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.rubini",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "10",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonatan.perim",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonatan.perim",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonatan.perim",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonatan.perim",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.paulino",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cyntia.nakamura",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "4",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "26",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "dimas.junior",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "dimas.junior",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "dimas.junior",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "dimas.junior",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "denis.santos",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cyntia.nakamura",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.rubini",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.paulino",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "glauco.sassaki",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alessandro.yamada",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "dimas.junior",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.paulino",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "24",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "dimas.junior",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.moralles",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "12",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "denis.santos",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "26",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.areco",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eduardo.botelho",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.marinho",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.marinho",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.marinho",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.marinho",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.marinho",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "24",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "23",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "10",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "glauco.sassaki",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.marinho",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.marinho",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.rubini",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.rubini",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sousa",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.marinho",
+            "co_menu": "6",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.marinho",
+            "co_menu": "3",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leandro.caracciolo",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alessandro.yamada",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "frederico.zapelini",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.moralles",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "lf.oliveira",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.pires",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.pires",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.pires",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.pires",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.pires",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.pires",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.pires",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.pires",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "3",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "26",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "4",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "14",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "26",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cyntia.nakamura",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "7",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "civio.couto",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.pires",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.gomes",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "lf.oliveira",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sousa",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "3",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.rubini",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.areco",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.moralles",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "30",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.moralles",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.moralles",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "frederico.zapelini",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "32",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "31",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "28",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "28",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "lf.oliveira",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "30",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "lf.oliveira",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_menu": "35",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.gomes",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.pires",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.moralles",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.moralles",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "35",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_menu": "28",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.paulino",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.paulino",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.paulino",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.paulino",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sousa",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.paulino",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cyntia.nakamura",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cyntia.nakamura",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "cyntia.nakamura",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "francisco.ogatha",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "15",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sousa",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "frederico.zapelini",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "co_menu": "35",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.pires",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "lf.oliveira",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alex.wassano",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alex.wassano",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alex.wassano",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alex.wassano",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alex.wassano",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alex.wassano",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alex.wassano",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "6",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "30",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alex.wassano",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alex.wassano",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "lf.oliveira",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "31",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "30",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "32",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.rubini",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "15",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "11",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.correa",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "daniel.pires",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "michele.freitas",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "michele.freitas",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "michele.freitas",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "michele.freitas",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "michele.freitas",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "michele.freitas",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "michele.freitas",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "michele.freitas",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "michele.freitas",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "michele.freitas",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "michele.freitas",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "michele.freitas",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "michele.freitas",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "og.menezes",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "og.menezes",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "og.menezes",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.correa",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.chahad",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.chahad",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.chahad",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.correa",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.chahad",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.correa",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "og.menezes",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "paulo.moacir",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "michele.freitas",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.chahad",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.chahad",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "paulo.moacir",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "paulo.moacir",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.rubini",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.rubini",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.correa",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.correa",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.correa",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "co_menu": "35",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.chahad",
+            "co_menu": "4",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wagner.alves",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.chahad",
+            "co_menu": "19",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.chahad",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wagner.alves",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wagner.alves",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wagner.alves",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wagner.alves",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wagner.alves",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wagner.alves",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wagner.alves",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "6",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sousa",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sousa",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "23",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.correa",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.correa",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "abner.silva",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "abner.silva",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "abner.silva",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "abner.silva",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "abner.silva",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "abner.silva",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "abner.silva",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "paulo.moacir",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "3",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "abner.silva",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "abner.silva",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "abner.silva",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.correa",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "frederico.zapelini",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "abner.silva",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "abner.silva",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "4",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "frederico.zapelini",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "abner.silva",
+            "co_menu": "35",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "abner.silva",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "12",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "3",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "4",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "7",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "19",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "26",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.areco",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "35",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "co_menu": "35",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wagner.alves",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "francisco.ogatha",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "francisco.ogatha",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "frederico.zapelini",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefferson.silva",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefferson.silva",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefferson.silva",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefferson.silva",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefferson.silva",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefferson.silva",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefferson.silva",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefferson.silva",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leandro.caracciolo",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "15",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "4",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "3",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "15",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefferson.silva",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "7",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefferson.silva",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefferson.silva",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_menu": "26",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "26",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "3",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "6",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wagner.alves",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "raphael.araujo",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "raphael.araujo",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "raphael.araujo",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.correa",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "raphael.araujo",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "raphael.araujo",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "raphael.araujo",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "helsen.rossi",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "helsen.rossi",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "helsen.rossi",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "helsen.rossi",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "helsen.rossi",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "helsen.rossi",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "helsen.rossi",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "helsen.rossi",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "helsen.rossi",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "helsen.rossi",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "helsen.rossi",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "helsen.rossi",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "28",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "helsen.rossi",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefferson.silva",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.areco",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "raphael.araujo",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alessandro.gonzalez",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alessandro.gonzalez",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefferson.silva",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "30",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "28",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "7",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.correa",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "3",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "4",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "19",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wagner.alves",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wagner.alves",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "32",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "agence.ms",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "agence.ms",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "agence.ms",
+            "co_menu": "15",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "agence.ms",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "agence.ms",
+            "co_menu": "3",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alex.wassano",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alex.wassano",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alex.wassano",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alessandro.gonzalez",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alessandro.gonzalez",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alessandro.gonzalez",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alessandro.gonzalez",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alessandro.gonzalez",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alessandro.gonzalez",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "agence.ms",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "3",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "4",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "19",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "28",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "tiago.stutz",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "tiago.stutz",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "tiago.stutz",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "tiago.stutz",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "tiago.stutz",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "tiago.stutz",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "tiago.stutz",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "tiago.stutz",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "tiago.stutz",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "tiago.stutz",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "tiago.stutz",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "tiago.stutz",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "agence.ms",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "agence.ms",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "agence.ms",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "agence.ms",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "raphael.araujo",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alex.wassano",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "19",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "28",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "raphael.araujo",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "3",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "7",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "28",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "4",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "19",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "davys.fellipe",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "davys.fellipe",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "davys.fellipe",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "davys.fellipe",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.cezar",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.cezar",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.cezar",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.cezar",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.cezar",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.cezar",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.cezar",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.cezar",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "raphael.araujo",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "raphael.araujo",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "agence.ms",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "agence.ms",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.silva",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.silva",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.silva",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.silva",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.silva",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.silva",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.cezar",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.silva",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.cezar",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.cezar",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "agence.ms",
+            "co_menu": "26",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "davys.fellipe",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "davys.fellipe",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "davys.fellipe",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefferson.silva",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_menu": "19",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "davys.fellipe",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.silva",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wagner.alves",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "davys.fellipe",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "francisco.ogatha",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.silva",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.soler",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "heber.moreira",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "heber.moreira",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "heber.moreira",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "heber.moreira",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "heber.moreira",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.burile",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.burile",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.burile",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.burile",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.burile",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.burile",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.burile",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "heber.moreira",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "tiago.stutz",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.burile",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.burile",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.silva",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.silva",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.silva",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.cezar",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rafael.sierra",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rafael.sierra",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rafael.sierra",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rafael.sierra",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rafael.sierra",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rafael.sierra",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rafael.sierra",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rafael.sierra",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rafael.sierra",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rafael.sierra",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rafael.sierra",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leonardo.silva",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leonardo.silva",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leonardo.silva",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leonardo.silva",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leonardo.silva",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.luz",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.luz",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.luz",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.luz",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.luz",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.luz",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.luz",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.luz",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.luz",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leonardo.silva",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "wagner.alves",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.luz",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.luz",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alfeu.vilela",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alfeu.vilela",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alfeu.vilela",
+            "co_menu": "7",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alfeu.vilela",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alfeu.vilela",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leonardo.silva",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leonardo.silva",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leonardo.silva",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alfeu.vilela",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alfeu.vilela",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.luz",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "davys.fellipe",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "davys.fellipe",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alfeu.vilela",
+            "co_menu": "3",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcelo.luz",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_menu": "12",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.oliveira",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.oliveira",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.oliveira",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.oliveira",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.oliveira",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.oliveira",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.oliveira",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.oliveira",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "co_menu": "4",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "co_menu": "3",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jesse.lucas",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jesse.lucas",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.oliveira",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jesse.lucas",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "11",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "co_menu": "7",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.burile",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gabriel.verta",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.oliveira",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gabriel.verta",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jesse.lucas",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jesse.lucas",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jesse.lucas",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gabriel.verta",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gabriel.verta",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "28",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camilo.silveira",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camilo.silveira",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "evandro.santos",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "evandro.santos",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gabriel.verta",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gabriel.verta",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camilo.silveira",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "evandro.santos",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "evandro.santos",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "evandro.santos",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "evandro.santos",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "evandro.santos",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camilo.silveira",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.buquio",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.buquio",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "26",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.buquio",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.buquio",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.buquio",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.buquio",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.buquio",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "camilo.silveira",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gabriel.verta",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.cortez",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.cortez",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.cortez",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.cortez",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.cortez",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.cortez",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefter.fontes",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefter.fontes",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.cortez",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefter.fontes",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefter.fontes",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefter.fontes",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefter.fontes",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefter.fontes",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefter.fontes",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jefter.fontes",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.buquio",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.buquio",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.buquio",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gabriel.verta",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.perez",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.perez",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.perez",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.perez",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rafael.sierra",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.bandeira",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.bandera",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.bandera",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.bandera",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.bandera",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.bandera",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.bandera",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.miranda",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.miranda",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.miranda",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.miranda",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "regiane.domingo",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "regiane.domingo",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "regiane.domingo",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "regiane.domingo",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "regiane.domingo",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "regiane.domingo",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "regiane.domingo",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "regiane.domingo",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.miranda",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.miranda",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.miranda",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.cortez",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.miranda",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.perez",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "regiane.domingo",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "regiane.domingo",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "agence.ms",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "agence.ms",
+            "co_menu": "11",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "evandro.santos",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "co_menu": "19",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "luiz.cortez",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "francisco.ogatha",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.perez",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gabriel.verta",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonas.morais",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonas.morais",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonas.morais",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonas.morais",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonas.morais",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.bandera",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.bandera",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.bandera",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.bandera",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabio.martins",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonas.morais",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonas.morais",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabio.martins",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabio.martins",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabio.martins",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabio.martins",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabio.martins",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabio.martins",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabio.martins",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.bandera",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "agence.ms",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "felipe.correa",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "co_menu": "7",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_menu": "15",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.perez",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sansao",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sansao",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sansao",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sansao",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sansao",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.perez",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.perez",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.perez",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "angelina.oshiro",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "angelina.oshiro",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "angelina.oshiro",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "angelina.oshiro",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "angelina.oshiro",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "angelina.oshiro",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sansao",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fabio.martins",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sansao",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sansao",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "co_menu": "33",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gabriel.verta",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.tinchant",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.tinchant",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.tinchant",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.tinchant",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.tinchant",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "gustavo.buquio",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ravi.rauber",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ravi.rauber",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "co_menu": "28",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andrew.silva",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andrew.silva",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "alfeu.vilela",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "angelina.oshiro",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.tinchant",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "marcio.oliveira",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "angelina.oshiro",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "angelina.oshiro",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernando.cezar",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "ricardo.perez",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andrew.silva",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andrew.silva",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andrew.silva",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leandro.duprat",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leandro.duprat",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "contato",
+            "co_menu": "19",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andrew.silva",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "co_menu": "22",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "co_menu": "15",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leandro.duprat",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andrew.silva",
+            "co_menu": "5",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leandro.duprat",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leandro.duprat",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leandro.duprat",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leandro.duprat",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "leandro.duprat",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.miranda",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sansao",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sansao",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "rodrigo.miranda",
+            "co_menu": "29",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonas.morais",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "vanessa.souza",
+            "co_menu": "25",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "vanessa.souza",
+            "co_menu": "13",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "vanessa.souza",
+            "co_menu": "9",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "vanessa.souza",
+            "co_menu": "18",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "jonas.morais",
+            "co_menu": "1",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "silvio.maraes",
+            "co_menu": "16",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.tinchant",
+            "co_menu": "8",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.tinchant",
+            "co_menu": "20",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.tinchant",
+            "co_menu": "21",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "andre.tinchant",
+            "co_menu": "34",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "co_menu": "2",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "co_menu": "7",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "silvio.maraes",
+            "co_menu": "7",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        },
+        {
+            "co_usuario": "silvio.maraes",
+            "co_menu": "27",
+            "nu_pontos": "2",
+            "in_processado": "1"
+        }
+    ]
+}

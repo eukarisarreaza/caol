@@ -1,0 +1,474 @@
+{
+    "RECORDS": [
+        {
+            "idocorrencia": "1",
+            "co_os": "653",
+            "co_usuario": "carlos.arruda",
+            "data": "15/12/2005 15:18:00",
+            "tipo": "Interna",
+            "descricao": "Fechamento teste da OS de historico de ocorrências.<br>Novo texto digitado por aqui.<br><br>Um pouco mais de texto, agora com \"ASPAS\".<br>Att.;<br>Carlos",
+            "responsavel": "",
+            "data_fechamento": "15/12/2005 15:19:00"
+        },
+        {
+            "idocorrencia": "2",
+            "co_os": "633",
+            "co_usuario": "bruno.freitas",
+            "data": "7/11/2005 09:00:00",
+            "tipo": "Externa",
+            "descricao": "Disponibilização de uma cópia das bases de homologação para ajuste do ambiente de desenvolvimento e testes.",
+            "responsavel": "Toyota - Sullivan/Paulo",
+            "data_fechamento": ""
+        },
+        {
+            "idocorrencia": "3",
+            "co_os": "633",
+            "co_usuario": "bruno.freitas",
+            "data": "25/11/2005 09:00:00",
+            "tipo": "Externa",
+            "descricao": "Validação do documento com especificação de alterações necessárias nas bases de dados.",
+            "responsavel": "Toyota - Alexandre/Cláudia",
+            "data_fechamento": "5/12/2005 18:00:00"
+        },
+        {
+            "idocorrencia": "4",
+            "co_os": "633",
+            "co_usuario": "bruno.freitas",
+            "data": "7/12/2005 09:00:00",
+            "tipo": "Externa",
+            "descricao": "Disponibilização de bases de homologação do sistema 2Know.",
+            "responsavel": "Paulo",
+            "data_fechamento": "9/12/2005 18:00:00"
+        },
+        {
+            "idocorrencia": "5",
+            "co_os": "633",
+            "co_usuario": "bruno.freitas",
+            "data": "7/12/2005 09:00:00",
+            "tipo": "Interna",
+            "descricao": "Problema com a máquina de Rodrigo Areco.<br>",
+            "responsavel": "Rodrigo Areco",
+            "data_fechamento": "9/12/2005 10:00:00"
+        },
+        {
+            "idocorrencia": "6",
+            "co_os": "633",
+            "co_usuario": "bruno.freitas",
+            "data": "5/12/2005 09:00:00",
+            "tipo": "Externa",
+            "descricao": "Problema de Produção (Inclusão HILUX) - Esse problema interrompe as atividades do analista Fernando, responsável pelo Upgrade SVD.",
+            "responsavel": "Leonides Fernando/Francisco Ogatha",
+            "data_fechamento": "12/12/2005 12:00:00"
+        },
+        {
+            "idocorrencia": "14",
+            "co_os": "633",
+            "co_usuario": "bruno.freitas",
+            "data": "19/12/2005 10:00:00",
+            "tipo": "Externa",
+            "descricao": "Dúvidas sobre a estrutura e utilização da tabela RAMO-ATIVIDADE.",
+            "responsavel": "Alexandre",
+            "data_fechamento": ""
+        },
+        {
+            "idocorrencia": "15",
+            "co_os": "587",
+            "co_usuario": "bruno.freitas",
+            "data": "5/12/2005 09:00:00",
+            "tipo": "Externa",
+            "descricao": "Aguardando homologação da versão do sistema com as adequações para o SLT (1.1).",
+            "responsavel": "Carlos Gaudêncio",
+            "data_fechamento": ""
+        },
+        {
+            "idocorrencia": "16",
+            "co_os": "650",
+            "co_usuario": "bruno.freitas",
+            "data": "5/12/2005 09:00:00",
+            "tipo": "Externa",
+            "descricao": "Aguardando homologação da versão do sistema com as adequações para o SLT (1.1).",
+            "responsavel": "Carlos Gaudêncio",
+            "data_fechamento": ""
+        },
+        {
+            "idocorrencia": "17",
+            "co_os": "665",
+            "co_usuario": "bruno.freitas",
+            "data": "5/12/2005 09:00:00",
+            "tipo": "Externa",
+            "descricao": "Aguardando homologação da versão do sistema com as adequações para o SLT (1.1), e migração das bases de dados para o Oracle.",
+            "responsavel": "Carlos Gaudêncio",
+            "data_fechamento": ""
+        },
+        {
+            "idocorrencia": "18",
+            "co_os": "633",
+            "co_usuario": "bruno.freitas",
+            "data": "22/12/2005 09:00:00",
+            "tipo": "Interna",
+            "descricao": "Fernando auxiliando Denis na configuração de ambiente (bases de dados) para implementação e testes das funcionalidades do Upgrade.",
+            "responsavel": "Fernando/Denis",
+            "data_fechamento": "22/12/2005 18:00:00"
+        },
+        {
+            "idocorrencia": "19",
+            "co_os": "633",
+            "co_usuario": "bruno.freitas",
+            "data": "3/1/2006 10:00:00",
+            "tipo": "Externa",
+            "descricao": "Versão 1 da fase 1 do projeto disponibilizada em ambiente de homologação da Toyota.",
+            "responsavel": "Bruno Freitas",
+            "data_fechamento": ""
+        },
+        {
+            "idocorrencia": "20",
+            "co_os": "665",
+            "co_usuario": "bruno.freitas",
+            "data": "3/1/2006 09:00:00",
+            "tipo": "Interna",
+            "descricao": "Aguardando versão SIS-SLT.",
+            "responsavel": "Civio",
+            "data_fechamento": "3/1/2006 15:00:00"
+        },
+        {
+            "idocorrencia": "21",
+            "co_os": "633",
+            "co_usuario": "bruno.freitas",
+            "data": "9/1/2006 09:00:00",
+            "tipo": "Externa",
+            "descricao": "- Depois de realizados acertos para instalação do pacote no ambiente de homologação da Toyota, a fase 1 do projeto foi liberada para testes da Ti Toyota e posterior teste com os usuários.",
+            "responsavel": "Toyota (Paula)",
+            "data_fechamento": ""
+        },
+        {
+            "idocorrencia": "22",
+            "co_os": "194",
+            "co_usuario": "bruno.freitas",
+            "data": "14/2/2006 15:00:00",
+            "tipo": "Externa",
+            "descricao": "Envio de email alertando sobre proximidade das datas de envio de dados para TMC.",
+            "responsavel": "ToyotA",
+            "data_fechamento": ""
+        },
+        {
+            "idocorrencia": "23",
+            "co_os": "735",
+            "co_usuario": "bruno.freitas",
+            "data": "17/2/2006 18:00:00",
+            "tipo": "Interna",
+            "descricao": "Envio de documentação de requistos de hardware.",
+            "responsavel": "Bruno",
+            "data_fechamento": "17/2/2006 18:00:00"
+        },
+        {
+            "idocorrencia": "24",
+            "co_os": "735",
+            "co_usuario": "bruno.freitas",
+            "data": "24/2/2006 14:00:00",
+            "tipo": "Interna",
+            "descricao": "Envio de configuração para acesso do IdeasGroup ao CVS - Repositório de fontes",
+            "responsavel": "Bruno",
+            "data_fechamento": "24/2/2006 14:00:00"
+        },
+        {
+            "idocorrencia": "25",
+            "co_os": "735",
+            "co_usuario": "bruno.freitas",
+            "data": "17/2/2006 15:00:00",
+            "tipo": "Externa",
+            "descricao": "Recebimento de documento com especificação geral do projeto OpenKube.<br>Recebimento das classes e sqls da entidade user (Ideas).",
+            "responsavel": "Tomas - Ideas",
+            "data_fechamento": "17/2/2006 15:00:00"
+        },
+        {
+            "idocorrencia": "26",
+            "co_os": "735",
+            "co_usuario": "bruno.freitas",
+            "data": "22/2/2006 18:30:00",
+            "tipo": "Externa",
+            "descricao": "- Recebimento do esqueleto (Visio) do módulo KRh",
+            "responsavel": "Tomás - Ideas",
+            "data_fechamento": "22/2/2006 18:30:00"
+        },
+        {
+            "idocorrencia": "27",
+            "co_os": "735",
+            "co_usuario": "bruno.freitas",
+            "data": "3/3/2006 19:00:00",
+            "tipo": "Externa",
+            "descricao": "- Recebimento das classes e sqls da entidade endereço.<br>- Recebimento do esqueleto (Visio) do módulo KProject.",
+            "responsavel": "Tomás - Ideas",
+            "data_fechamento": "3/3/2006 19:00:00"
+        },
+        {
+            "idocorrencia": "28",
+            "co_os": "735",
+            "co_usuario": "bruno.freitas",
+            "data": "7/3/2006 10:00:00",
+            "tipo": "Externa",
+            "descricao": "- Recebimento de telas do módulo kRh (50%).",
+            "responsavel": "Marcelo - Ideas",
+            "data_fechamento": ""
+        },
+        {
+            "idocorrencia": "29",
+            "co_os": "735",
+            "co_usuario": "bruno.freitas",
+            "data": "8/3/2006 11:00:00",
+            "tipo": "Interna",
+            "descricao": "- Envio de email para Agence e IdeasGroup com relatório de recebimento de documentação.",
+            "responsavel": "Bruno",
+            "data_fechamento": "8/3/2006 11:00:00"
+        },
+        {
+            "idocorrencia": "30",
+            "co_os": "790",
+            "co_usuario": "bruno.freitas",
+            "data": "3/5/2006 09:00:00",
+            "tipo": "Externa",
+            "descricao": "Enviado email com dúvidas sobre a utilização de dados da ANFAVEA já armazenados nas bases Toyota (SqlServer).",
+            "responsavel": "Alexandre - Toyota",
+            "data_fechamento": "25/5/2006 17:00:00"
+        },
+        {
+            "idocorrencia": "31",
+            "co_os": "994",
+            "co_usuario": "bruno.freitas",
+            "data": "5/3/2007 16:00:00",
+            "tipo": "Externa",
+            "descricao": "Problemas de integração do modelo projetado no sistema com as bases Anhanguera.<br><br>A principio, teríamos uma PEA associada a uma matriz e não a uma unidade, porém, a modelagem da base do SIAE impossibilita essa associação, já que todas as matrizes são diretamente relacionadas a uma unidade.",
+            "responsavel": "NA",
+            "data_fechamento": "5/3/2007 16:00:00"
+        },
+        {
+            "idocorrencia": "32",
+            "co_os": "994",
+            "co_usuario": "anapaula.chiodaro",
+            "data": "14/3/2007 17:00:00",
+            "tipo": "Interna",
+            "descricao": "- Atualização do protótipo em função de aprimoramento de operação, fruto de reunião de acompanhamento realizada em 13/03/07.",
+            "responsavel": "Ana Paula F. M. Chiodaro",
+            "data_fechamento": "14/3/2007 17:34:00"
+        },
+        {
+            "idocorrencia": "33",
+            "co_os": "1057",
+            "co_usuario": "anapaula.chiodaro",
+            "data": "16/3/2007 14:54:00",
+            "tipo": "Externa",
+            "descricao": "Realizado follow up junto ao departamento de TI do grupo.<br><br>- Informação obtida: A instalação do NBS em São Paulo e na Bahia será concluída no final do mês de abril. Finalizada essa etapa, a empresa deseja retomar contato para conversar sobre outros projetos (Novo follow up agendado para o final do mês de abril).",
+            "responsavel": "Ana Paula F. M. Chiodaro",
+            "data_fechamento": "16/3/2007 15:00:00"
+        },
+        {
+            "idocorrencia": "34",
+            "co_os": "938",
+            "co_usuario": "anapaula.chiodaro",
+            "data": "19/3/2007 18:36:00",
+            "tipo": "Externa",
+            "descricao": "- Reativação do projeto: o cliente desisitiu de produzir o site em parceria com o patrocinador e decidiu retomar a cotação com a Agence.",
+            "responsavel": "Ana Paula F. M. Chiodaro",
+            "data_fechamento": "19/3/2007 18:40:00"
+        },
+        {
+            "idocorrencia": "35",
+            "co_os": "842",
+            "co_usuario": "anapaula.chiodaro",
+            "data": "19/3/2007 18:38:00",
+            "tipo": "Externa",
+            "descricao": "- Follow up para tentativa de reativação do projeto.",
+            "responsavel": "Follow up",
+            "data_fechamento": "19/3/2007 18:40:00"
+        },
+        {
+            "idocorrencia": "36",
+            "co_os": "994",
+            "co_usuario": "anapaula.chiodaro",
+            "data": "4/4/2007 08:00:00",
+            "tipo": "Externa",
+            "descricao": "- Implantação parcial do SAPP (Cadastro de PEA).<br>- Reunião  de Acompanhamento do Projeto (Ana Paula, Bruno, Inês, Marcio Lodis, Franco Pietro, Erik).",
+            "responsavel": "Ana Paula F. M Chiodaro / Bruno Freitas",
+            "data_fechamento": "4/4/2007 18:00:00"
+        },
+        {
+            "idocorrencia": "37",
+            "co_os": "994",
+            "co_usuario": "anapaula.chiodaro",
+            "data": "9/4/2007 10:30:00",
+            "tipo": "Externa",
+            "descricao": "Problemas na preparação do ambiente PHP 5 para realização da implantação parcial do sistema SAPP na Anhanguera:<br><br>* Alinhamento com Marcelo Michelotto acerca da versão da tecnologia PHP utilizada na construção do sistema (conversa telefônica).<br><br>- Ficou estipulado que a  implantação parcial do SAPP (cadastro de PEA) será realizada em servidor provisório (micro normal com ambiente PHP 5 instalado), para posteriormente migrar para um servidor mais adequado ao porte projeto. ",
+            "responsavel": "Ana Paula F. M. Chiodaro",
+            "data_fechamento": "9/4/2007 13:00:00"
+        },
+        {
+            "idocorrencia": "38",
+            "co_os": "1074",
+            "co_usuario": "anapaula.chiodaro",
+            "data": "11/4/2007 11:00:00",
+            "tipo": "Interna",
+            "descricao": "- Proposta comercial enviada: ferramenta de comunicação e atendimento ao cliente (Website / Intranet). ",
+            "responsavel": "Ana Paula F. M. Chiodaro",
+            "data_fechamento": "11/4/2007 13:00:00"
+        },
+        {
+            "idocorrencia": "39",
+            "co_os": "1074",
+            "co_usuario": "anapaula.chiodaro",
+            "data": "10/4/2007 10:30:00",
+            "tipo": "Interna",
+            "descricao": "* Propostas Comerciais enviadas:<br><br>- Refactoring/ Redesign website dinâmico<br>- Recatoring / redesign website estático<br>- Manutenção Mensal (faturamento mensal de horas livres, valor hora pré-estipulado)",
+            "responsavel": "Ana Paula F. M. Chiodaro",
+            "data_fechamento": "10/4/2007 13:00:00"
+        },
+        {
+            "idocorrencia": "40",
+            "co_os": "1049",
+            "co_usuario": "anapaula.chiodaro",
+            "data": "13/4/2007 09:30:00",
+            "tipo": "Externa",
+            "descricao": "- Follow up - Aroldo Galves - posicionamento sobre o andamento do projeto (telefone). <br>- Pendência: enviar cronograma atualizado  e data prevista para a conclusão do projeto. ",
+            "responsavel": "Ana Paula F. M. Chiodaro",
+            "data_fechamento": "13/4/2007 10:00:00"
+        },
+        {
+            "idocorrencia": "41",
+            "co_os": "1055",
+            "co_usuario": "bruno.freitas",
+            "data": "22/5/2007 10:00:00",
+            "tipo": "Externa",
+            "descricao": "Report de erro no sistema SACCES de produção (cadastro de seção).<br><br>Impacto no desenvolvimento das novas funcionalidades.",
+            "responsavel": "Agence/Toyota",
+            "data_fechamento": "23/5/2007 17:00:00"
+        },
+        {
+            "idocorrencia": "42",
+            "co_os": "1055",
+            "co_usuario": "bruno.freitas",
+            "data": "22/5/2007 10:00:00",
+            "tipo": "Externa",
+            "descricao": "Report de erro no sistema SACCES de produção (cadastro de seção).<br><br>Impacto no desenvolvimento das novas funcionalidades.",
+            "responsavel": "Agence/Toyota",
+            "data_fechamento": "23/5/2007 17:00:00"
+        },
+        {
+            "idocorrencia": "43",
+            "co_os": "1055",
+            "co_usuario": "bruno.freitas",
+            "data": "22/5/2007 10:00:00",
+            "tipo": "Externa",
+            "descricao": "Report de erro no sistema SACCES de produção (cadastro de seção).<br><br>Impacto no desenvolvimento das novas funcionalidades.",
+            "responsavel": "Agence/Toyota",
+            "data_fechamento": "23/5/2007 17:00:00"
+        },
+        {
+            "idocorrencia": "44",
+            "co_os": "1055",
+            "co_usuario": "bruno.freitas",
+            "data": "22/5/2007 10:00:00",
+            "tipo": "Externa",
+            "descricao": "Report de erro no sistema SACCES de produção (cadastro de seção).<br><br>Impacto no desenvolvimento das novas funcionalidades.",
+            "responsavel": "Agence/Toyota",
+            "data_fechamento": "23/5/2007 17:00:00"
+        },
+        {
+            "idocorrencia": "45",
+            "co_os": "1055",
+            "co_usuario": "bruno.freitas",
+            "data": "22/5/2007 10:00:00",
+            "tipo": "Externa",
+            "descricao": "Report de erro no sistema SACCES de produção (cadastro de seção).<br><br>Impacto no desenvolvimento das novas funcionalidades.",
+            "responsavel": "Agence/Toyota",
+            "data_fechamento": "23/5/2007 17:00:00"
+        },
+        {
+            "idocorrencia": "46",
+            "co_os": "1055",
+            "co_usuario": "bruno.freitas",
+            "data": "22/5/2007 10:00:00",
+            "tipo": "Externa",
+            "descricao": "Report de erro no sistema SACCES de produção (cadastro de seção).<br><br>Impacto no desenvolvimento das novas funcionalidades.",
+            "responsavel": "Agence/Toyota",
+            "data_fechamento": "23/5/2007 17:00:00"
+        },
+        {
+            "idocorrencia": "47",
+            "co_os": "1055",
+            "co_usuario": "bruno.freitas",
+            "data": "22/5/2007 10:00:00",
+            "tipo": "Externa",
+            "descricao": "Report de erro no sistema SACCES de produção (cadastro de seção).<br><br>Impacto no desenvolvimento das novas funcionalidades.",
+            "responsavel": "Agence/Toyota",
+            "data_fechamento": "23/5/2007 17:00:00"
+        },
+        {
+            "idocorrencia": "48",
+            "co_os": "1055",
+            "co_usuario": "bruno.freitas",
+            "data": "22/5/2007 10:00:00",
+            "tipo": "Externa",
+            "descricao": "Report de erro no sistema SACCES de produção (cadastro de seção).<br><br>Impacto no desenvolvimento das novas funcionalidades.",
+            "responsavel": "Agence/Toyota",
+            "data_fechamento": "23/5/2007 17:00:00"
+        },
+        {
+            "idocorrencia": "49",
+            "co_os": "994",
+            "co_usuario": "anapaula.chiodaro",
+            "data": "29/5/2007 15:00:00",
+            "tipo": "Externa",
+            "descricao": "- Reunião Anhanguera (DDE, TI, Diretoria) para redefinição de prazos e prioridades do projeto, em função do atraso gerado pelas alterações de copo e infra-estrutura sofridas na primeira etapa do projeto.",
+            "responsavel": "Ana Paula F. M Chiodaro / Brno Freitas",
+            "data_fechamento": "29/5/2007 18:00:00"
+        },
+        {
+            "idocorrencia": "50",
+            "co_os": "1173",
+            "co_usuario": "rodrigo.miranda",
+            "data": "3/7/2007 08:00:00",
+            "tipo": "Interna",
+            "descricao": "Preparação do desktop deixado aqui para desenvolvimento.",
+            "responsavel": "Rodrigo Miranda",
+            "data_fechamento": ""
+        },
+        {
+            "idocorrencia": "51",
+            "co_os": "1147",
+            "co_usuario": "carlos.arruda",
+            "data": "22/6/2007 12:00:00",
+            "tipo": "Externa",
+            "descricao": "Ambiente de teste da Support Comm ZION foi solicitado para que pudéssemos dar continuidade ao desenvolvimento.",
+            "responsavel": "Marcelo / Felipe",
+            "data_fechamento": ""
+        },
+        {
+            "idocorrencia": "52",
+            "co_os": "994",
+            "co_usuario": "anapaula.chiodaro",
+            "data": "11/7/2007 09:00:00",
+            "tipo": "Interna",
+            "descricao": "- Implantaçã dos módulos de \"Registro de Diário de Classe\" e \"Consulta de PEA\" (visualização e impressão).",
+            "responsavel": "Ana Paula Chiodaro / Rafael Sierra",
+            "data_fechamento": "13/7/2007 18:00:00"
+        },
+        {
+            "idocorrencia": "53",
+            "co_os": "1175",
+            "co_usuario": "anapaula.chiodaro",
+            "data": "24/7/2007 13:00:00",
+            "tipo": "Externa",
+            "descricao": "Retorno ao cliente sobre solicitação de posicionamento quanto ao cronograma do projeto.<br><br>",
+            "responsavel": "Ana Paula F. M. Chiodaro",
+            "data_fechamento": "24/7/2007 13:15:00"
+        },
+        {
+            "idocorrencia": "54",
+            "co_os": "994",
+            "co_usuario": "anapaula.chiodaro",
+            "data": "30/7/2007 09:00:00",
+            "tipo": "Externa",
+            "descricao": "- Nova parametrização total de cursos e disciplinas executada pela Ti da Anhanguera (Marcio Lodis). O trabalho foi realizado em função das alterações das matrizes no SIAE (foram alteradas mais de 600 matrizes).<br><br>",
+            "responsavel": "Ana Paula F. M. Chiodaro / Marcio Lodis",
+            "data_fechamento": "30/7/2007 20:00:00"
+        }
+    ]
+}

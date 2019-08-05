@@ -1,0 +1,20 @@
+{
+    "RECORDS": [
+        {
+            "co_idioma": "1",
+            "ds_idioma": "Inglês"
+        },
+        {
+            "co_idioma": "2",
+            "ds_idioma": "Francês"
+        },
+        {
+            "co_idioma": "3",
+            "ds_idioma": "Espanhol"
+        },
+        {
+            "co_idioma": "4",
+            "ds_idioma": "Alemão"
+        }
+    ]
+}

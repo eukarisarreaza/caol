@@ -1,0 +1,32 @@
+{
+    "RECORDS": [
+        {
+            "co_status_atual": "3",
+            "ds_status": "Desenvolvimento Autorizado"
+        },
+        {
+            "co_status_atual": "4",
+            "ds_status": "Em Desenvolvimento"
+        },
+        {
+            "co_status_atual": "5",
+            "ds_status": "Pendente no Cliente"
+        },
+        {
+            "co_status_atual": "6",
+            "ds_status": "Desenvolvimento Concluído"
+        },
+        {
+            "co_status_atual": "7",
+            "ds_status": "Cancelada"
+        },
+        {
+            "co_status_atual": "12",
+            "ds_status": "Implantado - Em Garantia"
+        },
+        {
+            "co_status_atual": "13",
+            "ds_status": "Implantado - Ok"
+        }
+    ]
+}

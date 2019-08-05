@@ -1,0 +1,16 @@
+{
+    "RECORDS": [
+        {
+            "co_escritorio": "1",
+            "local": "SP"
+        },
+        {
+            "co_escritorio": "2",
+            "local": "MS"
+        },
+        {
+            "co_escritorio": "3",
+            "local": "DF"
+        }
+    ]
+}

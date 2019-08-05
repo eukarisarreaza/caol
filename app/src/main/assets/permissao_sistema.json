@@ -1,0 +1,1212 @@
+{
+    "RECORDS": [
+        {
+            "co_usuario": "rodrigo.vilela",
+            "co_tipo_usuario": "1",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "civio.couto",
+            "co_tipo_usuario": "17",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "michel.moura",
+            "co_tipo_usuario": "1",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "5/7/2004 19:39:43"
+        },
+        {
+            "co_usuario": "roberto.medeiros",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "14/1/2004 19:25:15"
+        },
+        {
+            "co_usuario": "denis.santos",
+            "co_tipo_usuario": "18",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "fabio.stevanelli",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "co_tipo_usuario": "1",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "alessandro.yamada",
+            "co_tipo_usuario": "17",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "co_tipo_usuario": "0",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "pana.esquivel",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "21/6/2004 18:13:14"
+        },
+        {
+            "co_usuario": "gustavo.alvares",
+            "co_tipo_usuario": "5",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "daniel.braga",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "rui.hayashi",
+            "co_tipo_usuario": "1",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "leonardo.aguiar",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "1/10/2003 09:08:10"
+        },
+        {
+            "co_usuario": "edo.virgolim",
+            "co_tipo_usuario": "9",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "27/7/2004 09:33:17"
+        },
+        {
+            "co_usuario": "rodrigo.lopes",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "luciano.silva",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "kaleb.reis",
+            "co_tipo_usuario": "5",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "5/7/2004 19:38:40"
+        },
+        {
+            "co_usuario": "joe.colombo",
+            "co_tipo_usuario": "1",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "gustavo.gomes",
+            "co_tipo_usuario": "17",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "levi.marques",
+            "co_tipo_usuario": "6",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "elvis.rocha",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "daniel.bispo",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "27/10/2003 16:54:24"
+        },
+        {
+            "co_usuario": "patricia.bezerra",
+            "co_tipo_usuario": "8",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "1/12/2003 19:19:38"
+        },
+        {
+            "co_usuario": "alan.scofield",
+            "co_tipo_usuario": "8",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "17/3/2004 17:53:23"
+        },
+        {
+            "co_usuario": "beatriz.arruda",
+            "co_tipo_usuario": "0",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "28/10/2003 11:07:29"
+        },
+        {
+            "co_usuario": "marcelo.moreto",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "17/3/2004 17:53:52"
+        },
+        {
+            "co_usuario": "amarildo.souza",
+            "co_tipo_usuario": "8",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "3/5/2004 19:02:01"
+        },
+        {
+            "co_usuario": "gesian.bender",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "17/3/2004 17:54:30"
+        },
+        {
+            "co_usuario": "ricardo.martins",
+            "co_tipo_usuario": "1",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "jeferson.golfetto",
+            "co_tipo_usuario": "3",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "15/6/2004 21:54:55"
+        },
+        {
+            "co_usuario": "nixon.santos",
+            "co_tipo_usuario": "4",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "guilherme.marinho",
+            "co_tipo_usuario": "0",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "contato",
+            "co_tipo_usuario": "0",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "domicio.junior",
+            "co_tipo_usuario": "8",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "eduardo.botelho",
+            "co_tipo_usuario": "15",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "amanda.mendes",
+            "co_tipo_usuario": "10",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "lucas.marin",
+            "co_tipo_usuario": "4",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "janaina.vieira",
+            "co_tipo_usuario": "4",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "paulo.lima",
+            "co_tipo_usuario": "3",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "20/7/2004 17:09:30"
+        },
+        {
+            "co_usuario": "breno.damasceno",
+            "co_tipo_usuario": "3",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "co_tipo_usuario": "13",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "lidnaldo.machado",
+            "co_tipo_usuario": "5",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "3/8/2004 09:58:32"
+        },
+        {
+            "co_usuario": "luis.morales",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "eder.lima",
+            "co_tipo_usuario": "4",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "rodrigo.moralles",
+            "co_tipo_usuario": "16",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "jesliel.rocha",
+            "co_tipo_usuario": "5",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "frederico.zapelini",
+            "co_tipo_usuario": "14",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "co_tipo_usuario": "12",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "paulo.monteiro",
+            "co_tipo_usuario": "3",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "rodrigo.thome",
+            "co_tipo_usuario": "3",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "teste",
+            "co_tipo_usuario": "5",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "4/10/2004 13:33:31"
+        },
+        {
+            "co_usuario": "teste",
+            "co_tipo_usuario": "0",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "4/10/2004 14:00:52"
+        },
+        {
+            "co_usuario": "victor.rades",
+            "co_tipo_usuario": "3",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "teste1",
+            "co_tipo_usuario": "5",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "4/10/2004 14:44:05"
+        },
+        {
+            "co_usuario": "teste1",
+            "co_tipo_usuario": "3",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "4/10/2004 15:36:29"
+        },
+        {
+            "co_usuario": "teste1",
+            "co_tipo_usuario": "0",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "4/10/2004 16:27:29"
+        },
+        {
+            "co_usuario": "niv",
+            "co_tipo_usuario": "3",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": "4/10/2004 17:15:59"
+        },
+        {
+            "co_usuario": "mauricio.costa",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "novoteste",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "teste.nivaldo",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "teste.usuario",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "lf.oliveira",
+            "co_tipo_usuario": "16",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "luciano.ribeiro",
+            "co_tipo_usuario": "3",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "rodrigo.oliveira",
+            "co_tipo_usuario": "5",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "cyntia.nakamura",
+            "co_tipo_usuario": "6",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "rodrigo.sousa",
+            "co_tipo_usuario": "15",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "thiago.jost",
+            "co_tipo_usuario": "4",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "co_tipo_usuario": "1",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "marcio.lamego",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "pedro.moretti",
+            "co_tipo_usuario": "5",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "carlos.viana",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "cristiane.florio",
+            "co_tipo_usuario": "5",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "leandro.caracciolo",
+            "co_tipo_usuario": "10",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "ricardo.rubini",
+            "co_tipo_usuario": "15",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "teste.usu2",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "julio.santos",
+            "co_tipo_usuario": "4",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "francisco.ogatha",
+            "co_tipo_usuario": "16",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "rodrigo.paulino",
+            "co_tipo_usuario": "5",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "glauco.sassaki",
+            "co_tipo_usuario": "9",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "rodrigo.areco",
+            "co_tipo_usuario": "12",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "marcio.paulino",
+            "co_tipo_usuario": "15",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "co_tipo_usuario": "1",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "jonatan.perim",
+            "co_tipo_usuario": "5",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "dimas.junior",
+            "co_tipo_usuario": "11",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "co_tipo_usuario": "13",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "contato",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "fernando.marinho",
+            "co_tipo_usuario": "1",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "camila.candido",
+            "co_tipo_usuario": "14",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "daniel.pires",
+            "co_tipo_usuario": "15",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "co_tipo_usuario": "9",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "co_tipo_usuario": "13",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "co_tipo_usuario": "1",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "alex.wassano",
+            "co_tipo_usuario": "5",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "felipe.correa",
+            "co_tipo_usuario": "16",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "contato",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "og.menezes",
+            "co_tipo_usuario": "5",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "michele.freitas",
+            "co_tipo_usuario": "14",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "felipe.chahad",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "paulo.moacir",
+            "co_tipo_usuario": "11",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "co_tipo_usuario": "14",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "wagner.alves",
+            "co_tipo_usuario": "15",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "abner.silva",
+            "co_tipo_usuario": "9",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "jefferson.silva",
+            "co_tipo_usuario": "16",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "raphael.araujo",
+            "co_tipo_usuario": "13",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "helsen.rossi",
+            "co_tipo_usuario": "6",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "alessandro.gonzalez",
+            "co_tipo_usuario": "5",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "agence.ms",
+            "co_tipo_usuario": "1",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "tiago.stutz",
+            "co_tipo_usuario": "14",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "davys.fellipe",
+            "co_tipo_usuario": "14",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "fernando.cezar",
+            "co_tipo_usuario": "14",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "contato",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "ricardo.silva",
+            "co_tipo_usuario": "14",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "co_tipo_usuario": "16",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "rodrigo.soler",
+            "co_tipo_usuario": "14",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "heber.moreira",
+            "co_tipo_usuario": "15",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "ricardo.burile",
+            "co_tipo_usuario": "9",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "contato",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "moises.rovani",
+            "co_tipo_usuario": "15",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "rafael.sierra",
+            "co_tipo_usuario": "13",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "leonardo.silva",
+            "co_tipo_usuario": "14",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "marcelo.luz",
+            "co_tipo_usuario": "13",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "alfeu.vilela",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "jonas.morais",
+            "co_tipo_usuario": "12",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "contato",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "co_tipo_usuario": "1",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "marcio.oliveira",
+            "co_tipo_usuario": "10",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "contato",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "jesse.lucas",
+            "co_tipo_usuario": "13",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "gabriel.verta",
+            "co_tipo_usuario": "13",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "camilo.silveira",
+            "co_tipo_usuario": "9",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "evandro.santos",
+            "co_tipo_usuario": "16",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "co_tipo_usuario": "13",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "gustavo.buquio",
+            "co_tipo_usuario": "15",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "contato",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "luiz.cortez",
+            "co_tipo_usuario": "16",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "jefter.fontes",
+            "co_tipo_usuario": "5",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "ricardo.perez",
+            "co_tipo_usuario": "12",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "andre.bandera",
+            "co_tipo_usuario": "4",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "contato",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "vanessa.souza",
+            "co_tipo_usuario": "11",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "contato",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "rodrigo.miranda",
+            "co_tipo_usuario": "15",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "regiane.domingo",
+            "co_tipo_usuario": "5",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "contato",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "fabio.martins",
+            "co_tipo_usuario": "6",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "caio.salim",
+            "co_tipo_usuario": "9",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "rodrigo.sansao",
+            "co_tipo_usuario": "12",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "angelina.oshiro",
+            "co_tipo_usuario": "11",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "andre.tinchant",
+            "co_tipo_usuario": "14",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "ravi.rauber",
+            "co_tipo_usuario": "4",
+            "co_sistema": "1",
+            "in_ativo": "N",
+            "co_usuario_atualizacao": "contato",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "andrew.silva",
+            "co_tipo_usuario": "10",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "carlos.arruda",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "leandro.duprat",
+            "co_tipo_usuario": "12",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "contato",
+            "dt_atualizacao": ""
+        },
+        {
+            "co_usuario": "silvio.maraes",
+            "co_tipo_usuario": "2",
+            "co_sistema": "1",
+            "in_ativo": "S",
+            "co_usuario_atualizacao": "contato",
+            "dt_atualizacao": ""
+        }
+    ]
+}

@@ -1,0 +1,742 @@
+{
+    "RECORDS": [
+        {
+            "id_fatura_pag": "1",
+            "co_fatura": "1",
+            "dt_efetuado": "31/1/2007",
+            "valor_pago": "6576.79"
+        },
+        {
+            "id_fatura_pag": "2",
+            "co_fatura": "4",
+            "dt_efetuado": "7/2/2007",
+            "valor_pago": "816"
+        },
+        {
+            "id_fatura_pag": "3",
+            "co_fatura": "6",
+            "dt_efetuado": "11/1/2007",
+            "valor_pago": "8084"
+        },
+        {
+            "id_fatura_pag": "4",
+            "co_fatura": "7",
+            "dt_efetuado": "11/1/2007",
+            "valor_pago": "8203.47"
+        },
+        {
+            "id_fatura_pag": "5",
+            "co_fatura": "8",
+            "dt_efetuado": "6/2/2007",
+            "valor_pago": "2928.23"
+        },
+        {
+            "id_fatura_pag": "6",
+            "co_fatura": "2",
+            "dt_efetuado": "7/2/2007",
+            "valor_pago": "9910.99"
+        },
+        {
+            "id_fatura_pag": "7",
+            "co_fatura": "3",
+            "dt_efetuado": "7/2/2007",
+            "valor_pago": "9560.77"
+        },
+        {
+            "id_fatura_pag": "8",
+            "co_fatura": "5",
+            "dt_efetuado": "7/2/2007",
+            "valor_pago": "6913.6"
+        },
+        {
+            "id_fatura_pag": "9",
+            "co_fatura": "10",
+            "dt_efetuado": "14/2/2007",
+            "valor_pago": "1700"
+        },
+        {
+            "id_fatura_pag": "10",
+            "co_fatura": "9",
+            "dt_efetuado": "27/2/2007",
+            "valor_pago": "2808"
+        },
+        {
+            "id_fatura_pag": "11",
+            "co_fatura": "11",
+            "dt_efetuado": "21/2/2007",
+            "valor_pago": "1700"
+        },
+        {
+            "id_fatura_pag": "12",
+            "co_fatura": "12",
+            "dt_efetuado": "15/3/2007",
+            "valor_pago": "7632"
+        },
+        {
+            "id_fatura_pag": "13",
+            "co_fatura": "13",
+            "dt_efetuado": "15/3/2007",
+            "valor_pago": "9222"
+        },
+        {
+            "id_fatura_pag": "14",
+            "co_fatura": "15",
+            "dt_efetuado": "16/3/2007",
+            "valor_pago": "6913.63"
+        },
+        {
+            "id_fatura_pag": "15",
+            "co_fatura": "18",
+            "dt_efetuado": "16/3/2007",
+            "valor_pago": "3424"
+        },
+        {
+            "id_fatura_pag": "16",
+            "co_fatura": "21",
+            "dt_efetuado": "20/3/2007",
+            "valor_pago": "1700"
+        },
+        {
+            "id_fatura_pag": "17",
+            "co_fatura": "24",
+            "dt_efetuado": "23/3/2007",
+            "valor_pago": "5225.6"
+        },
+        {
+            "id_fatura_pag": "18",
+            "co_fatura": "14",
+            "dt_efetuado": "28/3/2007",
+            "valor_pago": "2808"
+        },
+        {
+            "id_fatura_pag": "19",
+            "co_fatura": "29",
+            "dt_efetuado": "29/3/2007",
+            "valor_pago": "3146.4"
+        },
+        {
+            "id_fatura_pag": "20",
+            "co_fatura": "26",
+            "dt_efetuado": "29/3/2007",
+            "valor_pago": "7420.01"
+        },
+        {
+            "id_fatura_pag": "21",
+            "co_fatura": "27",
+            "dt_efetuado": "29/3/2007",
+            "valor_pago": "6684.98"
+        },
+        {
+            "id_fatura_pag": "22",
+            "co_fatura": "30",
+            "dt_efetuado": "29/3/2007",
+            "valor_pago": "759.36"
+        },
+        {
+            "id_fatura_pag": "23",
+            "co_fatura": "20",
+            "dt_efetuado": "2/4/2007",
+            "valor_pago": "1700"
+        },
+        {
+            "id_fatura_pag": "24",
+            "co_fatura": "32",
+            "dt_efetuado": "5/4/2007",
+            "valor_pago": "2000"
+        },
+        {
+            "id_fatura_pag": "25",
+            "co_fatura": "31",
+            "dt_efetuado": "5/4/2007",
+            "valor_pago": "2800"
+        },
+        {
+            "id_fatura_pag": "26",
+            "co_fatura": "28",
+            "dt_efetuado": "12/4/2007",
+            "valor_pago": "6913.6"
+        },
+        {
+            "id_fatura_pag": "27",
+            "co_fatura": "25",
+            "dt_efetuado": "13/4/2007",
+            "valor_pago": "652.8"
+        },
+        {
+            "id_fatura_pag": "28",
+            "co_fatura": "42",
+            "dt_efetuado": "23/4/2007",
+            "valor_pago": "2744"
+        },
+        {
+            "id_fatura_pag": "29",
+            "co_fatura": "33",
+            "dt_efetuado": "27/4/2007",
+            "valor_pago": "2376"
+        },
+        {
+            "id_fatura_pag": "30",
+            "co_fatura": "38",
+            "dt_efetuado": "27/4/2007",
+            "valor_pago": "982.38"
+        },
+        {
+            "id_fatura_pag": "31",
+            "co_fatura": "34",
+            "dt_efetuado": "2/5/2007",
+            "valor_pago": "15330"
+        },
+        {
+            "id_fatura_pag": "32",
+            "co_fatura": "46",
+            "dt_efetuado": "3/5/2007",
+            "valor_pago": "2790.83"
+        },
+        {
+            "id_fatura_pag": "33",
+            "co_fatura": "40",
+            "dt_efetuado": "19/4/2007",
+            "valor_pago": "1700"
+        },
+        {
+            "id_fatura_pag": "34",
+            "co_fatura": "39",
+            "dt_efetuado": "4/5/2007",
+            "valor_pago": "1700"
+        },
+        {
+            "id_fatura_pag": "35",
+            "co_fatura": "51",
+            "dt_efetuado": "4/5/2007",
+            "valor_pago": "2976"
+        },
+        {
+            "id_fatura_pag": "36",
+            "co_fatura": "53",
+            "dt_efetuado": "8/5/2007",
+            "valor_pago": "2000"
+        },
+        {
+            "id_fatura_pag": "37",
+            "co_fatura": "41",
+            "dt_efetuado": "7/5/2007",
+            "valor_pago": "2170"
+        },
+        {
+            "id_fatura_pag": "38",
+            "co_fatura": "48",
+            "dt_efetuado": "9/5/2007",
+            "valor_pago": "11130"
+        },
+        {
+            "id_fatura_pag": "39",
+            "co_fatura": "49",
+            "dt_efetuado": "9/5/2007",
+            "valor_pago": "11186.6"
+        },
+        {
+            "id_fatura_pag": "40",
+            "co_fatura": "56",
+            "dt_efetuado": "10/5/2007",
+            "valor_pago": "685.44"
+        },
+        {
+            "id_fatura_pag": "41",
+            "co_fatura": "47",
+            "dt_efetuado": "14/5/2007",
+            "valor_pago": "1970"
+        },
+        {
+            "id_fatura_pag": "42",
+            "co_fatura": "50",
+            "dt_efetuado": "14/5/2007",
+            "valor_pago": "2800"
+        },
+        {
+            "id_fatura_pag": "43",
+            "co_fatura": "43",
+            "dt_efetuado": "16/5/2007",
+            "valor_pago": "6913.6"
+        },
+        {
+            "id_fatura_pag": "44",
+            "co_fatura": "37",
+            "dt_efetuado": "21/5/2007",
+            "valor_pago": "2376"
+        },
+        {
+            "id_fatura_pag": "45",
+            "co_fatura": "45",
+            "dt_efetuado": "30/5/2007",
+            "valor_pago": "9766.96"
+        },
+        {
+            "id_fatura_pag": "46",
+            "co_fatura": "61",
+            "dt_efetuado": "31/5/2007",
+            "valor_pago": "2744"
+        },
+        {
+            "id_fatura_pag": "48",
+            "co_fatura": "60",
+            "dt_efetuado": "1/6/2007",
+            "valor_pago": "6913.6"
+        },
+        {
+            "id_fatura_pag": "49",
+            "co_fatura": "52",
+            "dt_efetuado": "16/5/2007",
+            "valor_pago": "7498"
+        },
+        {
+            "id_fatura_pag": "50",
+            "co_fatura": "69",
+            "dt_efetuado": "11/6/2007",
+            "valor_pago": "488"
+        },
+        {
+            "id_fatura_pag": "51",
+            "co_fatura": "62",
+            "dt_efetuado": "12/6/2007",
+            "valor_pago": "2790.83"
+        },
+        {
+            "id_fatura_pag": "52",
+            "co_fatura": "67",
+            "dt_efetuado": "12/6/2007",
+            "valor_pago": "10070"
+        },
+        {
+            "id_fatura_pag": "53",
+            "co_fatura": "68",
+            "dt_efetuado": "12/6/2007",
+            "valor_pago": "10918"
+        },
+        {
+            "id_fatura_pag": "54",
+            "co_fatura": "66",
+            "dt_efetuado": "15/6/2007",
+            "valor_pago": "2923.5"
+        },
+        {
+            "id_fatura_pag": "55",
+            "co_fatura": "59",
+            "dt_efetuado": "18/5/2007",
+            "valor_pago": "1700"
+        },
+        {
+            "id_fatura_pag": "56",
+            "co_fatura": "58",
+            "dt_efetuado": "17/5/2007",
+            "valor_pago": "1700"
+        },
+        {
+            "id_fatura_pag": "57",
+            "co_fatura": "75",
+            "dt_efetuado": "21/6/2007",
+            "valor_pago": "7498"
+        },
+        {
+            "id_fatura_pag": "58",
+            "co_fatura": "76",
+            "dt_efetuado": "25/6/2007",
+            "valor_pago": "350"
+        },
+        {
+            "id_fatura_pag": "59",
+            "co_fatura": "78",
+            "dt_efetuado": "27/6/2007",
+            "valor_pago": "2640"
+        },
+        {
+            "id_fatura_pag": "60",
+            "co_fatura": "79",
+            "dt_efetuado": "28/6/2007",
+            "valor_pago": "802.37"
+        },
+        {
+            "id_fatura_pag": "61",
+            "co_fatura": "73",
+            "dt_efetuado": "25/6/2007",
+            "valor_pago": "2837.52"
+        },
+        {
+            "id_fatura_pag": "62",
+            "co_fatura": "22",
+            "dt_efetuado": "27/3/2007",
+            "valor_pago": "2618"
+        },
+        {
+            "id_fatura_pag": "63",
+            "co_fatura": "23",
+            "dt_efetuado": "27/3/2007",
+            "valor_pago": "2481.99"
+        },
+        {
+            "id_fatura_pag": "64",
+            "co_fatura": "84",
+            "dt_efetuado": "11/7/2007",
+            "valor_pago": "1240"
+        },
+        {
+            "id_fatura_pag": "65",
+            "co_fatura": "86",
+            "dt_efetuado": "11/7/2007",
+            "valor_pago": "8421.46"
+        },
+        {
+            "id_fatura_pag": "66",
+            "co_fatura": "70",
+            "dt_efetuado": "20/6/2007",
+            "valor_pago": "6425"
+        },
+        {
+            "id_fatura_pag": "67",
+            "co_fatura": "95",
+            "dt_efetuado": "12/7/2007",
+            "valor_pago": "3056"
+        },
+        {
+            "id_fatura_pag": "68",
+            "co_fatura": "88",
+            "dt_efetuado": "12/7/2007",
+            "valor_pago": "3424"
+        },
+        {
+            "id_fatura_pag": "69",
+            "co_fatura": "85",
+            "dt_efetuado": "12/7/2007",
+            "valor_pago": "9646"
+        },
+        {
+            "id_fatura_pag": "70",
+            "co_fatura": "83",
+            "dt_efetuado": "13/7/2007",
+            "valor_pago": "2833.33"
+        },
+        {
+            "id_fatura_pag": "71",
+            "co_fatura": "80",
+            "dt_efetuado": "13/7/2007",
+            "valor_pago": "640"
+        },
+        {
+            "id_fatura_pag": "72",
+            "co_fatura": "89",
+            "dt_efetuado": "12/7/2007",
+            "valor_pago": "2166.67"
+        },
+        {
+            "id_fatura_pag": "73",
+            "co_fatura": "63",
+            "dt_efetuado": "16/7/2007",
+            "valor_pago": "22725.2"
+        },
+        {
+            "id_fatura_pag": "74",
+            "co_fatura": "96",
+            "dt_efetuado": "17/7/2007",
+            "valor_pago": "2912"
+        },
+        {
+            "id_fatura_pag": "75",
+            "co_fatura": "97",
+            "dt_efetuado": "17/7/2007",
+            "valor_pago": "1700"
+        },
+        {
+            "id_fatura_pag": "76",
+            "co_fatura": "77",
+            "dt_efetuado": "17/7/2007",
+            "valor_pago": "3595"
+        },
+        {
+            "id_fatura_pag": "77",
+            "co_fatura": "99",
+            "dt_efetuado": "17/7/2007",
+            "valor_pago": "3595.25"
+        },
+        {
+            "id_fatura_pag": "78",
+            "co_fatura": "81",
+            "dt_efetuado": "20/7/2007",
+            "valor_pago": "400"
+        },
+        {
+            "id_fatura_pag": "79",
+            "co_fatura": "90",
+            "dt_efetuado": "20/7/2007",
+            "valor_pago": "150"
+        },
+        {
+            "id_fatura_pag": "80",
+            "co_fatura": "94",
+            "dt_efetuado": "20/7/2007",
+            "valor_pago": "2900"
+        },
+        {
+            "id_fatura_pag": "81",
+            "co_fatura": "65",
+            "dt_efetuado": "23/7/2007",
+            "valor_pago": "1970"
+        },
+        {
+            "id_fatura_pag": "82",
+            "co_fatura": "101",
+            "dt_efetuado": "25/7/2007",
+            "valor_pago": "630"
+        },
+        {
+            "id_fatura_pag": "83",
+            "co_fatura": "93",
+            "dt_efetuado": "26/7/2007",
+            "valor_pago": "6425"
+        },
+        {
+            "id_fatura_pag": "84",
+            "co_fatura": "82",
+            "dt_efetuado": "27/7/2007",
+            "valor_pago": "2923.5"
+        },
+        {
+            "id_fatura_pag": "85",
+            "co_fatura": "92",
+            "dt_efetuado": "1/8/2007",
+            "valor_pago": "2568"
+        },
+        {
+            "id_fatura_pag": "86",
+            "co_fatura": "107",
+            "dt_efetuado": "2/8/2007",
+            "valor_pago": "2640"
+        },
+        {
+            "id_fatura_pag": "87",
+            "co_fatura": "104",
+            "dt_efetuado": "7/8/2007",
+            "valor_pago": "9275"
+        },
+        {
+            "id_fatura_pag": "88",
+            "co_fatura": "105",
+            "dt_efetuado": "9/8/2007",
+            "valor_pago": "2166.67"
+        },
+        {
+            "id_fatura_pag": "89",
+            "co_fatura": "109",
+            "dt_efetuado": "9/8/2007",
+            "valor_pago": "6720"
+        },
+        {
+            "id_fatura_pag": "90",
+            "co_fatura": "100",
+            "dt_efetuado": "2/8/2007",
+            "valor_pago": "2837.52"
+        },
+        {
+            "id_fatura_pag": "91",
+            "co_fatura": "110",
+            "dt_efetuado": "14/8/2007",
+            "valor_pago": "3056"
+        },
+        {
+            "id_fatura_pag": "92",
+            "co_fatura": "111",
+            "dt_efetuado": "17/8/2007",
+            "valor_pago": "2912"
+        },
+        {
+            "id_fatura_pag": "93",
+            "co_fatura": "112",
+            "dt_efetuado": "17/8/2007",
+            "valor_pago": "1700"
+        },
+        {
+            "id_fatura_pag": "94",
+            "co_fatura": "103",
+            "dt_efetuado": "17/8/2007",
+            "valor_pago": "9450"
+        },
+        {
+            "id_fatura_pag": "95",
+            "co_fatura": "87",
+            "dt_efetuado": "20/8/2007",
+            "valor_pago": "2955"
+        },
+        {
+            "id_fatura_pag": "96",
+            "co_fatura": "116",
+            "dt_efetuado": "20/8/2007",
+            "valor_pago": "1380"
+        },
+        {
+            "id_fatura_pag": "97",
+            "co_fatura": "102",
+            "dt_efetuado": "23/8/2007",
+            "valor_pago": "54620.7"
+        },
+        {
+            "id_fatura_pag": "98",
+            "co_fatura": "122",
+            "dt_efetuado": "23/8/2007",
+            "valor_pago": "2640"
+        },
+        {
+            "id_fatura_pag": "99",
+            "co_fatura": "123",
+            "dt_efetuado": "27/8/2007",
+            "valor_pago": "630"
+        },
+        {
+            "id_fatura_pag": "100",
+            "co_fatura": "124",
+            "dt_efetuado": "3/8/2007",
+            "valor_pago": "936.66"
+        },
+        {
+            "id_fatura_pag": "101",
+            "co_fatura": "115",
+            "dt_efetuado": "27/8/2007",
+            "valor_pago": "2900"
+        },
+        {
+            "id_fatura_pag": "102",
+            "co_fatura": "125",
+            "dt_efetuado": "29/8/2007",
+            "valor_pago": "595.2"
+        },
+        {
+            "id_fatura_pag": "103",
+            "co_fatura": "57",
+            "dt_efetuado": "30/8/2007",
+            "valor_pago": "7500"
+        },
+        {
+            "id_fatura_pag": "104",
+            "co_fatura": "117",
+            "dt_efetuado": "30/8/2007",
+            "valor_pago": "1961.3"
+        },
+        {
+            "id_fatura_pag": "105",
+            "co_fatura": "118",
+            "dt_efetuado": "30/8/2007",
+            "valor_pago": "498.2"
+        },
+        {
+            "id_fatura_pag": "106",
+            "co_fatura": "119",
+            "dt_efetuado": "30/8/2007",
+            "valor_pago": "498.2"
+        },
+        {
+            "id_fatura_pag": "107",
+            "co_fatura": "120",
+            "dt_efetuado": "30/8/2007",
+            "valor_pago": "498.2"
+        },
+        {
+            "id_fatura_pag": "108",
+            "co_fatura": "121",
+            "dt_efetuado": "30/8/2007",
+            "valor_pago": "1502.45"
+        },
+        {
+            "id_fatura_pag": "109",
+            "co_fatura": "108",
+            "dt_efetuado": "4/9/2007",
+            "valor_pago": "2923.5"
+        },
+        {
+            "id_fatura_pag": "110",
+            "co_fatura": "145",
+            "dt_efetuado": "5/9/2007",
+            "valor_pago": "936.66"
+        },
+        {
+            "id_fatura_pag": "111",
+            "co_fatura": "144",
+            "dt_efetuado": "6/9/2007",
+            "valor_pago": "6720"
+        },
+        {
+            "id_fatura_pag": "112",
+            "co_fatura": "137",
+            "dt_efetuado": "11/9/2007",
+            "valor_pago": "5699.99"
+        },
+        {
+            "id_fatura_pag": "113",
+            "co_fatura": "126",
+            "dt_efetuado": "12/9/2007",
+            "valor_pago": "2837.52"
+        },
+        {
+            "id_fatura_pag": "114",
+            "co_fatura": "142",
+            "dt_efetuado": "12/9/2007",
+            "valor_pago": "2923.5"
+        },
+        {
+            "id_fatura_pag": "115",
+            "co_fatura": "143",
+            "dt_efetuado": "12/9/2007",
+            "valor_pago": "3144.35"
+        },
+        {
+            "id_fatura_pag": "116",
+            "co_fatura": "128",
+            "dt_efetuado": "13/9/2007",
+            "valor_pago": "10282"
+        },
+        {
+            "id_fatura_pag": "117",
+            "co_fatura": "129",
+            "dt_efetuado": "13/9/2007",
+            "valor_pago": "9752"
+        },
+        {
+            "id_fatura_pag": "118",
+            "co_fatura": "150",
+            "dt_efetuado": "13/9/2007",
+            "valor_pago": "2539.77"
+        },
+        {
+            "id_fatura_pag": "119",
+            "co_fatura": "160",
+            "dt_efetuado": "17/9/2007",
+            "valor_pago": "2640"
+        },
+        {
+            "id_fatura_pag": "120",
+            "co_fatura": "140",
+            "dt_efetuado": "18/9/2007",
+            "valor_pago": "5785"
+        },
+        {
+            "id_fatura_pag": "121",
+            "co_fatura": "141",
+            "dt_efetuado": "18/9/2007",
+            "valor_pago": "4485.6"
+        },
+        {
+            "id_fatura_pag": "122",
+            "co_fatura": "147",
+            "dt_efetuado": "19/9/2007",
+            "valor_pago": "2899.99"
+        },
+        {
+            "id_fatura_pag": "123",
+            "co_fatura": "146",
+            "dt_efetuado": "18/9/2007",
+            "valor_pago": "2166.67"
+        },
+        {
+            "id_fatura_pag": "124",
+            "co_fatura": "162",
+            "dt_efetuado": "19/9/2007",
+            "valor_pago": "536"
+        }
+    ]
+}

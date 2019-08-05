@@ -1,0 +1,354 @@
+{
+    "RECORDS": [
+        {
+            "id": "1",
+            "co_usuario": "joe.colombo",
+            "data_solic": "7/6/2005",
+            "mes": "09/2003",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "2",
+            "co_usuario": "joe.colombo",
+            "data_solic": "7/6/2005",
+            "mes": "10/2003",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "3",
+            "co_usuario": "joe.colombo",
+            "data_solic": "7/6/2005",
+            "mes": "12/2003",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "4",
+            "co_usuario": "joe.colombo",
+            "data_solic": "7/6/2005",
+            "mes": "01/2004",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "5",
+            "co_usuario": "joe.colombo",
+            "data_solic": "7/6/2005",
+            "mes": "02/2004",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "6",
+            "co_usuario": "joe.colombo",
+            "data_solic": "7/6/2005",
+            "mes": "03/2004",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "7",
+            "co_usuario": "joe.colombo",
+            "data_solic": "7/6/2005",
+            "mes": "05/2004",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "8",
+            "co_usuario": "joe.colombo",
+            "data_solic": "7/6/2005",
+            "mes": "07/2004",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "9",
+            "co_usuario": "joe.colombo",
+            "data_solic": "7/6/2005",
+            "mes": "08/2004",
+            "valor": "55.32",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "10",
+            "co_usuario": "joe.colombo",
+            "data_solic": "7/6/2005",
+            "mes": "12/2004",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "11",
+            "co_usuario": "joe.colombo",
+            "data_solic": "7/6/2005",
+            "mes": "01/2005",
+            "valor": "13.54",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "12",
+            "co_usuario": "joe.colombo",
+            "data_solic": "7/6/2005",
+            "mes": "02/2005",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "13",
+            "co_usuario": "joe.colombo",
+            "data_solic": "7/6/2005",
+            "mes": "03/2005",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "14",
+            "co_usuario": "joe.colombo",
+            "data_solic": "7/6/2005",
+            "mes": "05/2005",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "19",
+            "co_usuario": "teste.usuario",
+            "data_solic": "8/6/2005",
+            "mes": "04/2005",
+            "valor": "7,32",
+            "is_solic": "S",
+            "is_pg": "",
+            "is_horas": ""
+        },
+        {
+            "id": "20",
+            "co_usuario": "leandro.caracciolo",
+            "data_solic": "8/6/2005",
+            "mes": "05/2005",
+            "valor": "117,66",
+            "is_solic": "S",
+            "is_pg": "P",
+            "is_horas": ""
+        },
+        {
+            "id": "23",
+            "co_usuario": "marcio.lamego",
+            "data_solic": "16/8/2005",
+            "mes": "05/2005",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "24",
+            "co_usuario": "lf.oliveira",
+            "data_solic": "30/1/2006",
+            "mes": "10/2005",
+            "valor": "37,32",
+            "is_solic": "S",
+            "is_pg": "P",
+            "is_horas": ""
+        },
+        {
+            "id": "25",
+            "co_usuario": "lf.oliveira",
+            "data_solic": "2/3/2006",
+            "mes": "02/2006",
+            "valor": "153,85",
+            "is_solic": "S",
+            "is_pg": "P",
+            "is_horas": ""
+        },
+        {
+            "id": "26",
+            "co_usuario": "lf.oliveira",
+            "data_solic": "2/3/2006",
+            "mes": "10/2005",
+            "valor": "37,32",
+            "is_solic": "S",
+            "is_pg": "P",
+            "is_horas": ""
+        },
+        {
+            "id": "27",
+            "co_usuario": "lf.oliveira",
+            "data_solic": "27/4/2006",
+            "mes": "01/2005",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "28",
+            "co_usuario": "lf.oliveira",
+            "data_solic": "27/4/2006",
+            "mes": "02/2005",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "29",
+            "co_usuario": "lf.oliveira",
+            "data_solic": "27/4/2006",
+            "mes": "03/2005",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "30",
+            "co_usuario": "lf.oliveira",
+            "data_solic": "27/4/2006",
+            "mes": "04/2005",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "31",
+            "co_usuario": "lf.oliveira",
+            "data_solic": "27/4/2006",
+            "mes": "05/2005",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "32",
+            "co_usuario": "lf.oliveira",
+            "data_solic": "27/4/2006",
+            "mes": "06/2005",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "33",
+            "co_usuario": "lf.oliveira",
+            "data_solic": "27/4/2006",
+            "mes": "07/2005",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "34",
+            "co_usuario": "nivaldo.junior",
+            "data_solic": "8/5/2006",
+            "mes": "07/2005",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "35",
+            "co_usuario": "nivaldo.junior",
+            "data_solic": "8/5/2006",
+            "mes": "08/2005",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "36",
+            "co_usuario": "nivaldo.junior",
+            "data_solic": "8/5/2006",
+            "mes": "09/2005",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "37",
+            "co_usuario": "nivaldo.junior",
+            "data_solic": "8/5/2006",
+            "mes": "10/2005",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "38",
+            "co_usuario": "nivaldo.junior",
+            "data_solic": "8/5/2006",
+            "mes": "11/2005",
+            "valor": "0",
+            "is_solic": "",
+            "is_pg": "",
+            "is_horas": "H"
+        },
+        {
+            "id": "39",
+            "co_usuario": "ricardo.rubini",
+            "data_solic": "1/6/2006",
+            "mes": "05/2006",
+            "valor": "152,63",
+            "is_solic": "S",
+            "is_pg": "P",
+            "is_horas": ""
+        },
+        {
+            "id": "40",
+            "co_usuario": "francisco.ogatha",
+            "data_solic": "5/6/2006",
+            "mes": "03/2006",
+            "valor": "70.702777777778",
+            "is_solic": "",
+            "is_pg": "P",
+            "is_horas": ""
+        },
+        {
+            "id": "41",
+            "co_usuario": "francisco.ogatha",
+            "data_solic": "7/7/2006",
+            "mes": "06/2006",
+            "valor": "80.052777777778",
+            "is_solic": "",
+            "is_pg": "P",
+            "is_horas": ""
+        }
+    ]
+}

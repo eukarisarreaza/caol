@@ -1,0 +1,744 @@
+{
+    "RECORDS": [
+        {
+            "co_atividade": "1",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "2",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "3",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "4",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "5",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "5"
+        },
+        {
+            "co_atividade": "6",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "5"
+        },
+        {
+            "co_atividade": "7",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "8",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "9",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "10",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "11",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "12",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "5"
+        },
+        {
+            "co_atividade": "13",
+            "ds_atividade": "reuniao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "14",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "15",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "16",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "17",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "18",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "19",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "20",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "21",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "22",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "23",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "24",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "25",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "26",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "27",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "5"
+        },
+        {
+            "co_atividade": "28",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "29",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "30",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "31",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "5"
+        },
+        {
+            "co_atividade": "32",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "33",
+            "ds_atividade": "reuniao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "34",
+            "ds_atividade": "reuniao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "35",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "36",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "37",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "38",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "39",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "40",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "41",
+            "ds_atividade": "agendamento",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "42",
+            "ds_atividade": "agendamento",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "43",
+            "ds_atividade": "visita",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "44",
+            "ds_atividade": "elaboracao de proposta",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "45",
+            "ds_atividade": "fechamento de negocio",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "46",
+            "ds_atividade": "reuniao",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "47",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "48",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "49",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "50",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "51",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "52",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "53",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "54",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "5"
+        },
+        {
+            "co_atividade": "55",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "56",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "57",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "58",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "5"
+        },
+        {
+            "co_atividade": "59",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "60",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "61",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "62",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "63",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "64",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "65",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "66",
+            "ds_atividade": "agendamento",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "67",
+            "ds_atividade": "agendamento",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "68",
+            "ds_atividade": "visita",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "69",
+            "ds_atividade": "visita",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "70",
+            "ds_atividade": "elaboracao de proposta",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "71",
+            "ds_atividade": "elaboracao de proposta",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "72",
+            "ds_atividade": "elaboracao de proposta",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "73",
+            "ds_atividade": "fechamento de negocio",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "74",
+            "ds_atividade": "outros",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "75",
+            "ds_atividade": "agendamento",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "76",
+            "ds_atividade": "agendamento",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "77",
+            "ds_atividade": "visita",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "78",
+            "ds_atividade": "visita",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "79",
+            "ds_atividade": "visita",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "80",
+            "ds_atividade": "elaboracao de proposta",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "81",
+            "ds_atividade": "elaboracao de proposta",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "82",
+            "ds_atividade": "fechamento de negocio",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "83",
+            "ds_atividade": "outros",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "84",
+            "ds_atividade": "agendamento",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "85",
+            "ds_atividade": "agendamento",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "86",
+            "ds_atividade": "visita",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "87",
+            "ds_atividade": "visita",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "88",
+            "ds_atividade": "elaboracao de proposta",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "89",
+            "ds_atividade": "elaboracao de proposta",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "90",
+            "ds_atividade": "fechamento de negocio",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "91",
+            "ds_atividade": "fechamento de negocio",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "92",
+            "ds_atividade": "outros",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "93",
+            "ds_atividade": "outros",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "94",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "95",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "96",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "5"
+        },
+        {
+            "co_atividade": "97",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "98",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "5"
+        },
+        {
+            "co_atividade": "99",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "5"
+        },
+        {
+            "co_atividade": "100",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "101",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "102",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "103",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "104",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "105",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "106",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "107",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "108",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "109",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "110",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "111",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "112",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "113",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "114",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "115",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "116",
+            "ds_atividade": "agendamento",
+            "co_tipo_usuario": "8"
+        },
+        {
+            "co_atividade": "117",
+            "ds_atividade": "outros",
+            "co_tipo_usuario": "8"
+        },
+        {
+            "co_atividade": "118",
+            "ds_atividade": "outros",
+            "co_tipo_usuario": "8"
+        },
+        {
+            "co_atividade": "119",
+            "ds_atividade": "outros",
+            "co_tipo_usuario": "8"
+        },
+        {
+            "co_atividade": "120",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "121",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "122",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "123",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "124",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "125",
+            "ds_atividade": "reuniao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "126",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "127",
+            "ds_atividade": "reuniao",
+            "co_tipo_usuario": "5"
+        },
+        {
+            "co_atividade": "128",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "5"
+        },
+        {
+            "co_atividade": "129",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "130",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "131",
+            "ds_atividade": "reuniao",
+            "co_tipo_usuario": "5"
+        },
+        {
+            "co_atividade": "132",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "5"
+        },
+        {
+            "co_atividade": "133",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "134",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "135",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "136",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "137",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "138",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "139",
+            "ds_atividade": "reuniao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "140",
+            "ds_atividade": "reuniao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "141",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "142",
+            "ds_atividade": "reuniao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "143",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "144",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "145",
+            "ds_atividade": "reuniao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "146",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "147",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "148",
+            "ds_atividade": "analise e codificacao",
+            "co_tipo_usuario": "2"
+        }
+    ]
+}

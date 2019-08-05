@@ -1,0 +1,804 @@
+{
+    "RECORDS": [
+        {
+            "id": "1",
+            "nome": "Listagem das Ocorrências",
+            "co_sistema": "193"
+        },
+        {
+            "id": "2",
+            "nome": "Inclusão de Ocorrências",
+            "co_sistema": "193"
+        },
+        {
+            "id": "3",
+            "nome": "Autenticação de Usuários",
+            "co_sistema": "193"
+        },
+        {
+            "id": "4",
+            "nome": "Área de Cadastros",
+            "co_sistema": "193"
+        },
+        {
+            "id": "5",
+            "nome": "Estatísticas",
+            "co_sistema": "193"
+        },
+        {
+            "id": "6",
+            "nome": "UC_cadastro de sistemas",
+            "co_sistema": "193"
+        },
+        {
+            "id": "7",
+            "nome": "UC_cadastro de módulo",
+            "co_sistema": "193"
+        },
+        {
+            "id": "8",
+            "nome": "UC_cadastro de cliente",
+            "co_sistema": "193"
+        },
+        {
+            "id": "9",
+            "nome": "UC_Cadastro de Chamados",
+            "co_sistema": "193"
+        },
+        {
+            "id": "10",
+            "nome": "UC_Cadastro de Mensagens",
+            "co_sistema": "193"
+        },
+        {
+            "id": "11",
+            "nome": "UC_Chamados Abertos",
+            "co_sistema": "193"
+        },
+        {
+            "id": "12",
+            "nome": "UC_Estatísiticas do Chamado",
+            "co_sistema": "193"
+        },
+        {
+            "id": "13",
+            "nome": "UC_Cadastro de Usuário",
+            "co_sistema": "193"
+        },
+        {
+            "id": "14",
+            "nome": "UC_Troca de Senha",
+            "co_sistema": "193"
+        },
+        {
+            "id": "15",
+            "nome": "UC - Cadastro de Cliente - Geral",
+            "co_sistema": "131"
+        },
+        {
+            "id": "16",
+            "nome": "UC-Cadastro de Cliene - Dados do Cliente",
+            "co_sistema": "131"
+        },
+        {
+            "id": "17",
+            "nome": "UC-cadastro de cliente - Preparação",
+            "co_sistema": "131"
+        },
+        {
+            "id": "18",
+            "nome": "UC- Cadastro de Cliente - Contatos",
+            "co_sistema": "131"
+        },
+        {
+            "id": "19",
+            "nome": "UC- Cadastro de Cliente - Diretorias",
+            "co_sistema": "131"
+        },
+        {
+            "id": "20",
+            "nome": "UC-Cadastro de Clinte - Frota",
+            "co_sistema": "131"
+        },
+        {
+            "id": "21",
+            "nome": "UC-Cadastro de Cliente - Frota de Interesse",
+            "co_sistema": "131"
+        },
+        {
+            "id": "22",
+            "nome": "UC-Cadastro de Cliente - Compra",
+            "co_sistema": "131"
+        },
+        {
+            "id": "23",
+            "nome": "UC-Cadastro de Cliente - Adm. Frota",
+            "co_sistema": "131"
+        },
+        {
+            "id": "24",
+            "nome": "UC-Cadastro de Cliente - Outros",
+            "co_sistema": "131"
+        },
+        {
+            "id": "25",
+            "nome": "UC-Cadastro de Marcas e Modelos",
+            "co_sistema": "131"
+        },
+        {
+            "id": "26",
+            "nome": "UC-Cadastro de E-mail MKT",
+            "co_sistema": "131"
+        },
+        {
+            "id": "27",
+            "nome": "UC-Agenda do Consultor",
+            "co_sistema": "131"
+        },
+        {
+            "id": "28",
+            "nome": "UC-Parametrização de Qual. de Info.",
+            "co_sistema": "131"
+        },
+        {
+            "id": "29",
+            "nome": "UC-Estratégica",
+            "co_sistema": "131"
+        },
+        {
+            "id": "30",
+            "nome": "UC - Agendamento",
+            "co_sistema": "131"
+        },
+        {
+            "id": "31",
+            "nome": "UC- Relatório Performance Consultores",
+            "co_sistema": "131"
+        },
+        {
+            "id": "32",
+            "nome": "UC- Cadastro de Usuário",
+            "co_sistema": "131"
+        },
+        {
+            "id": "33",
+            "nome": "UC- Troca de Senha",
+            "co_sistema": "131"
+        },
+        {
+            "id": "34",
+            "nome": "UC-TCC-1",
+            "co_sistema": "192"
+        },
+        {
+            "id": "35",
+            "nome": "UC-TCC-2",
+            "co_sistema": "192"
+        },
+        {
+            "id": "36",
+            "nome": "UC-TCC-3",
+            "co_sistema": "192"
+        },
+        {
+            "id": "37",
+            "nome": "UC-TCC-4",
+            "co_sistema": "192"
+        },
+        {
+            "id": "38",
+            "nome": "UC-TCC-5",
+            "co_sistema": "192"
+        },
+        {
+            "id": "39",
+            "nome": "UC-TCC-6",
+            "co_sistema": "192"
+        },
+        {
+            "id": "40",
+            "nome": "UC-TCC-7",
+            "co_sistema": "192"
+        },
+        {
+            "id": "41",
+            "nome": "UC-TCC-8",
+            "co_sistema": "192"
+        },
+        {
+            "id": "42",
+            "nome": "UC-TCC-9",
+            "co_sistema": "192"
+        },
+        {
+            "id": "43",
+            "nome": "UC-TCC-10",
+            "co_sistema": "192"
+        },
+        {
+            "id": "44",
+            "nome": "UC-TCC-11",
+            "co_sistema": "192"
+        },
+        {
+            "id": "45",
+            "nome": "UC-TCC-12",
+            "co_sistema": "192"
+        },
+        {
+            "id": "46",
+            "nome": "UC-TCC-13",
+            "co_sistema": "192"
+        },
+        {
+            "id": "47",
+            "nome": "UC-TCC-14",
+            "co_sistema": "192"
+        },
+        {
+            "id": "48",
+            "nome": "UC-TCC-15",
+            "co_sistema": "192"
+        },
+        {
+            "id": "49",
+            "nome": "UC-TCC-16",
+            "co_sistema": "192"
+        },
+        {
+            "id": "50",
+            "nome": "UC-TCC-17",
+            "co_sistema": "192"
+        },
+        {
+            "id": "51",
+            "nome": "UC-TCC-18",
+            "co_sistema": "192"
+        },
+        {
+            "id": "52",
+            "nome": "UC-TCC-19",
+            "co_sistema": "192"
+        },
+        {
+            "id": "53",
+            "nome": "UC-TCC-20",
+            "co_sistema": "192"
+        },
+        {
+            "id": "54",
+            "nome": "UC - Manter Seção",
+            "co_sistema": "166"
+        },
+        {
+            "id": "55",
+            "nome": "UC - Manter Célula",
+            "co_sistema": "166"
+        },
+        {
+            "id": "56",
+            "nome": "UC - Manter Item de Custo",
+            "co_sistema": "166"
+        },
+        {
+            "id": "57",
+            "nome": "UC - Importação e Alocação",
+            "co_sistema": "166"
+        },
+        {
+            "id": "58",
+            "nome": "UC - Alteração Custo Padrão",
+            "co_sistema": "166"
+        },
+        {
+            "id": "59",
+            "nome": "UC- Manter Grupo",
+            "co_sistema": "166"
+        },
+        {
+            "id": "60",
+            "nome": "UC - Consulta Base de Alocação EH",
+            "co_sistema": "166"
+        },
+        {
+            "id": "61",
+            "nome": "UC - Consulta Custo CC",
+            "co_sistema": "166"
+        },
+        {
+            "id": "62",
+            "nome": "UC - Consulta custos sub-cc",
+            "co_sistema": "166"
+        },
+        {
+            "id": "63",
+            "nome": "UC- Consulta Custo Modelo",
+            "co_sistema": "166"
+        },
+        {
+            "id": "64",
+            "nome": "UC- Consulta Compra",
+            "co_sistema": "166"
+        },
+        {
+            "id": "65",
+            "nome": "UC - Consulta Kit Parte",
+            "co_sistema": "166"
+        },
+        {
+            "id": "66",
+            "nome": "UC - Cadastrar Portas",
+            "co_sistema": "162"
+        },
+        {
+            "id": "67",
+            "nome": "UC- Cadastrar Devices",
+            "co_sistema": "162"
+        },
+        {
+            "id": "68",
+            "nome": "UC- Cadastrar Grupos de Devices",
+            "co_sistema": "162"
+        },
+        {
+            "id": "69",
+            "nome": "UC - Atribuir Grupos",
+            "co_sistema": "162"
+        },
+        {
+            "id": "70",
+            "nome": "UC - Cadastrar Parâmetros Globais",
+            "co_sistema": "162"
+        },
+        {
+            "id": "71",
+            "nome": "UC - Gerar Relatórios",
+            "co_sistema": "162"
+        },
+        {
+            "id": "72",
+            "nome": "UC - Monitorar Grupos",
+            "co_sistema": "162"
+        },
+        {
+            "id": "73",
+            "nome": "Cadastrar/Alterar Dados Gerais do Dealer (General)",
+            "co_sistema": "94"
+        },
+        {
+            "id": "74",
+            "nome": "Cadastrar/Alterar Dados de Acionista (Share Holder)",
+            "co_sistema": "94"
+        },
+        {
+            "id": "75",
+            "nome": "Cadastrar/Alterar Dados de Vendas (Whole Sales)",
+            "co_sistema": "94"
+        },
+        {
+            "id": "76",
+            "nome": "Cadastrar/Alterar Dados de Performance",
+            "co_sistema": "94"
+        },
+        {
+            "id": "77",
+            "nome": "Cadastrar/Alterar Dados de Faturamento (Financial)",
+            "co_sistema": "94"
+        },
+        {
+            "id": "78",
+            "nome": "Cadastrar/Alterar Dados de Faturamento Pós-vendas (After Sales)",
+            "co_sistema": "94"
+        },
+        {
+            "id": "79",
+            "nome": "Emissão do BluePrint",
+            "co_sistema": "94"
+        },
+        {
+            "id": "80",
+            "nome": "Cadastrar/Alterar Dados de Locations",
+            "co_sistema": "94"
+        },
+        {
+            "id": "81",
+            "nome": "Cadastrar/Alterar Dados de Divisions",
+            "co_sistema": "94"
+        },
+        {
+            "id": "82",
+            "nome": "Cadastrar/Alterar Dados para Rank Sales",
+            "co_sistema": "94"
+        },
+        {
+            "id": "83",
+            "nome": "Chamados --> Novo Chamado",
+            "co_sistema": "103"
+        },
+        {
+            "id": "84",
+            "nome": "Chamados --> Meus Chamados - Usuário",
+            "co_sistema": "103"
+        },
+        {
+            "id": "85",
+            "nome": "Chamados --> Meus Chamados - Analistas",
+            "co_sistema": "103"
+        },
+        {
+            "id": "86",
+            "nome": "Chamados - Rastreamento de Chamados",
+            "co_sistema": "103"
+        },
+        {
+            "id": "87",
+            "nome": "Chamados --> Chamados Abertos e em Andamento",
+            "co_sistema": "103"
+        },
+        {
+            "id": "88",
+            "nome": "Administração --> Manutenção de Enquete",
+            "co_sistema": "103"
+        },
+        {
+            "id": "89",
+            "nome": "Administração --> Manutenção de Usuários",
+            "co_sistema": "103"
+        },
+        {
+            "id": "90",
+            "nome": "Administração --> Manutenção de SLA",
+            "co_sistema": "103"
+        },
+        {
+            "id": "91",
+            "nome": "Administração --> Manutenção de Mensagens",
+            "co_sistema": "103"
+        },
+        {
+            "id": "92",
+            "nome": "Administração --> Manutenção de Problemas",
+            "co_sistema": "103"
+        },
+        {
+            "id": "93",
+            "nome": "Administração --> CEI - Controle de Equipamentos de Informática",
+            "co_sistema": "103"
+        },
+        {
+            "id": "94",
+            "nome": "Administração --> Manutenção de Fornecedores",
+            "co_sistema": "103"
+        },
+        {
+            "id": "95",
+            "nome": "Administração --> Manutenção de Especialidades",
+            "co_sistema": "103"
+        },
+        {
+            "id": "96",
+            "nome": "Administração --> Horário Analista",
+            "co_sistema": "103"
+        },
+        {
+            "id": "97",
+            "nome": "Administração --> Acerto de Horas - Analistas",
+            "co_sistema": "103"
+        },
+        {
+            "id": "98",
+            "nome": "Administração --> Menutenção de Servidores",
+            "co_sistema": "103"
+        },
+        {
+            "id": "99",
+            "nome": "Administração --> Manutenção de Categorias",
+            "co_sistema": "103"
+        },
+        {
+            "id": "100",
+            "nome": "Administração --> Controle de Vulnerabilidades",
+            "co_sistema": "103"
+        },
+        {
+            "id": "101",
+            "nome": "Administração --> Trouble Report",
+            "co_sistema": "103"
+        },
+        {
+            "id": "102",
+            "nome": "Administração --> Cadastro de Pesquisas",
+            "co_sistema": "103"
+        },
+        {
+            "id": "103",
+            "nome": "Consultas --> Resultado das Enquetes",
+            "co_sistema": "103"
+        },
+        {
+            "id": "104",
+            "nome": "Consultas --> Estatisticas do Chamados",
+            "co_sistema": "103"
+        },
+        {
+            "id": "105",
+            "nome": "Consultas --> Pesquisa Avançada de CEI",
+            "co_sistema": "103"
+        },
+        {
+            "id": "106",
+            "nome": "Consultas --> Horas Trabalhadas",
+            "co_sistema": "103"
+        },
+        {
+            "id": "107",
+            "nome": "Consultas --> Relatório Mensal",
+            "co_sistema": "103"
+        },
+        {
+            "id": "108",
+            "nome": "Consultas --> Trouble Report",
+            "co_sistema": "103"
+        },
+        {
+            "id": "109",
+            "nome": "Consultas --> Gráficos Mensais",
+            "co_sistema": "103"
+        },
+        {
+            "id": "110",
+            "nome": "Consultas --> Resultado das Pesquisas",
+            "co_sistema": "103"
+        },
+        {
+            "id": "111",
+            "nome": "Consultas --> Pesquisa de Feriados",
+            "co_sistema": "103"
+        },
+        {
+            "id": "112",
+            "nome": "Cadastro de Matriz",
+            "co_sistema": "207"
+        },
+        {
+            "id": "113",
+            "nome": "cadastro de filiais",
+            "co_sistema": "207"
+        },
+        {
+            "id": "114",
+            "nome": "cadastro de Departamentos",
+            "co_sistema": "207"
+        },
+        {
+            "id": "115",
+            "nome": "cadastro de Colaboradores",
+            "co_sistema": "207"
+        },
+        {
+            "id": "116",
+            "nome": "Cadastro de Tipos de Horas",
+            "co_sistema": "207"
+        },
+        {
+            "id": "117",
+            "nome": "Cadastro de Funções",
+            "co_sistema": "207"
+        },
+        {
+            "id": "118",
+            "nome": "Cadastro de Competências",
+            "co_sistema": "207"
+        },
+        {
+            "id": "119",
+            "nome": "Grupos do tipo de Caminhão - backend",
+            "co_sistema": "210"
+        },
+        {
+            "id": "120",
+            "nome": "Tipo de Caminhão - Backend",
+            "co_sistema": "210"
+        },
+        {
+            "id": "121",
+            "nome": "Cadastro de Parceiros - backend",
+            "co_sistema": "210"
+        },
+        {
+            "id": "122",
+            "nome": "Anunciantes do Consulta Frete - Backend",
+            "co_sistema": "210"
+        },
+        {
+            "id": "123",
+            "nome": "Consulta de Anunciantes - backend",
+            "co_sistema": "210"
+        },
+        {
+            "id": "124",
+            "nome": "cadastro de usuário - backend",
+            "co_sistema": "210"
+        },
+        {
+            "id": "125",
+            "nome": "alteração de senha - backend",
+            "co_sistema": "210"
+        },
+        {
+            "id": "126",
+            "nome": "Consulta Frete",
+            "co_sistema": "210"
+        },
+        {
+            "id": "127",
+            "nome": "Anunciar Carga",
+            "co_sistema": "210"
+        },
+        {
+            "id": "128",
+            "nome": "Anunciar Caminhão",
+            "co_sistema": "210"
+        },
+        {
+            "id": "129",
+            "nome": "Meus Anúncios",
+            "co_sistema": "210"
+        },
+        {
+            "id": "130",
+            "nome": "Minhas Buscas",
+            "co_sistema": "210"
+        },
+        {
+            "id": "131",
+            "nome": "Parceiros",
+            "co_sistema": "210"
+        },
+        {
+            "id": "132",
+            "nome": "UC-TCC-21",
+            "co_sistema": "192"
+        },
+        {
+            "id": "133",
+            "nome": "UC-TCC-22",
+            "co_sistema": "192"
+        },
+        {
+            "id": "134",
+            "nome": "UC-TCC-23",
+            "co_sistema": "192"
+        },
+        {
+            "id": "135",
+            "nome": "UC-TCC-24",
+            "co_sistema": "192"
+        },
+        {
+            "id": "136",
+            "nome": "UC-TCC-25",
+            "co_sistema": "192"
+        },
+        {
+            "id": "137",
+            "nome": "UC-TCC-26",
+            "co_sistema": "192"
+        },
+        {
+            "id": "138",
+            "nome": "UC-TCC-27",
+            "co_sistema": "192"
+        },
+        {
+            "id": "139",
+            "nome": "UC-TCC-28",
+            "co_sistema": "192"
+        },
+        {
+            "id": "140",
+            "nome": "Manutenção de Carta Toyota",
+            "co_sistema": "192"
+        },
+        {
+            "id": "141",
+            "nome": "Casos de Uso",
+            "co_sistema": "222"
+        },
+        {
+            "id": "142",
+            "nome": "Relação de Casos de Uso do SAPP",
+            "co_sistema": "240"
+        },
+        {
+            "id": "143",
+            "nome": "UC-SAPP-1 - Cadastro de Unidade",
+            "co_sistema": "240"
+        },
+        {
+            "id": "144",
+            "nome": "UC-SAPP-2 - Cadastro de Curso",
+            "co_sistema": "240"
+        },
+        {
+            "id": "145",
+            "nome": "UC-SAPP-3 - Cadastro de Disciplina",
+            "co_sistema": "240"
+        },
+        {
+            "id": "146",
+            "nome": "UC-SAPP-4 - Cadastro de Curso por Unidade",
+            "co_sistema": "240"
+        },
+        {
+            "id": "147",
+            "nome": "UC-SAPP-5 - Cadastro de Matrizes",
+            "co_sistema": "240"
+        },
+        {
+            "id": "148",
+            "nome": "UC-SAPP-6 - Parametrização de Carga Horária / Matriz",
+            "co_sistema": "240"
+        },
+        {
+            "id": "149",
+            "nome": "UC-SAPP-7 - Parametrização da Quantidade de Turmas por Matriz",
+            "co_sistema": "240"
+        },
+        {
+            "id": "150",
+            "nome": "UC-SAPP-8 - Parametrização Curso/Professor",
+            "co_sistema": "240"
+        },
+        {
+            "id": "151",
+            "nome": "UC-SAPP-9 - Cadastro de Plano de Ensino e Aprendizagem",
+            "co_sistema": "240"
+        },
+        {
+            "id": "152",
+            "nome": "UC-SAPP-10 - Parametrização da Quantidade de Alunos por Livro",
+            "co_sistema": "240"
+        },
+        {
+            "id": "153",
+            "nome": "UC-SPO-1 - Cadastro de Tipo de Empresa",
+            "co_sistema": "249"
+        },
+        {
+            "id": "154",
+            "nome": "UC-SPO-2 - Parametrização de Tipo de Empresa",
+            "co_sistema": "249"
+        },
+        {
+            "id": "155",
+            "nome": "UC-SPO-3 - Cadastro de Preços",
+            "co_sistema": "249"
+        },
+        {
+            "id": "156",
+            "nome": "UC-SPO-4 - Efetuar Pedido",
+            "co_sistema": "249"
+        },
+        {
+            "id": "157",
+            "nome": "UC-SPO-5 - Consultar Tipo de Empresa",
+            "co_sistema": "249"
+        },
+        {
+            "id": "158",
+            "nome": "UC-SPO-6 - Consultar Preços Cadastrados",
+            "co_sistema": "249"
+        },
+        {
+            "id": "159",
+            "nome": "UC-SPO-7 - Cadastro de Usuário",
+            "co_sistema": "249"
+        },
+        {
+            "id": "160",
+            "nome": "UC-SPO-8 - Troca de Senha",
+            "co_sistema": "249"
+        }
+    ]
+}

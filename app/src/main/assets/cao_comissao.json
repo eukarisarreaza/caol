@@ -1,0 +1,544 @@
+{
+    "RECORDS": [
+        {
+            "co_comissao": "1",
+            "co_fatura": "1",
+            "dt_efetuado": "5/2/2007"
+        },
+        {
+            "co_comissao": "2",
+            "co_fatura": "6",
+            "dt_efetuado": "11/1/2007"
+        },
+        {
+            "co_comissao": "3",
+            "co_fatura": "7",
+            "dt_efetuado": "11/1/2007"
+        },
+        {
+            "co_comissao": "4",
+            "co_fatura": "8",
+            "dt_efetuado": "7/2/2007"
+        },
+        {
+            "co_comissao": "5",
+            "co_fatura": "2",
+            "dt_efetuado": "7/2/2007"
+        },
+        {
+            "co_comissao": "6",
+            "co_fatura": "3",
+            "dt_efetuado": "7/2/2007"
+        },
+        {
+            "co_comissao": "7",
+            "co_fatura": "10",
+            "dt_efetuado": "21/3/2007"
+        },
+        {
+            "co_comissao": "8",
+            "co_fatura": "21",
+            "dt_efetuado": "21/3/2007"
+        },
+        {
+            "co_comissao": "9",
+            "co_fatura": "11",
+            "dt_efetuado": "21/3/2007"
+        },
+        {
+            "co_comissao": "10",
+            "co_fatura": "18",
+            "dt_efetuado": "21/3/2007"
+        },
+        {
+            "co_comissao": "11",
+            "co_fatura": "5",
+            "dt_efetuado": "21/3/2007"
+        },
+        {
+            "co_comissao": "12",
+            "co_fatura": "15",
+            "dt_efetuado": "21/3/2007"
+        },
+        {
+            "co_comissao": "13",
+            "co_fatura": "9",
+            "dt_efetuado": "21/3/2007"
+        },
+        {
+            "co_comissao": "14",
+            "co_fatura": "4",
+            "dt_efetuado": "21/3/2007"
+        },
+        {
+            "co_comissao": "15",
+            "co_fatura": "12",
+            "dt_efetuado": "21/3/2007"
+        },
+        {
+            "co_comissao": "16",
+            "co_fatura": "13",
+            "dt_efetuado": "21/3/2007"
+        },
+        {
+            "co_comissao": "17",
+            "co_fatura": "14",
+            "dt_efetuado": "28/3/2007"
+        },
+        {
+            "co_comissao": "18",
+            "co_fatura": "24",
+            "dt_efetuado": "28/3/2007"
+        },
+        {
+            "co_comissao": "19",
+            "co_fatura": "26",
+            "dt_efetuado": "29/3/2007"
+        },
+        {
+            "co_comissao": "20",
+            "co_fatura": "27",
+            "dt_efetuado": "29/3/2007"
+        },
+        {
+            "co_comissao": "21",
+            "co_fatura": "30",
+            "dt_efetuado": "3/4/2007"
+        },
+        {
+            "co_comissao": "22",
+            "co_fatura": "29",
+            "dt_efetuado": "3/4/2007"
+        },
+        {
+            "co_comissao": "23",
+            "co_fatura": "20",
+            "dt_efetuado": "3/4/2007"
+        },
+        {
+            "co_comissao": "24",
+            "co_fatura": "22",
+            "dt_efetuado": "3/4/2007"
+        },
+        {
+            "co_comissao": "25",
+            "co_fatura": "23",
+            "dt_efetuado": "3/4/2007"
+        },
+        {
+            "co_comissao": "26",
+            "co_fatura": "16",
+            "dt_efetuado": "3/4/2007"
+        },
+        {
+            "co_comissao": "27",
+            "co_fatura": "17",
+            "dt_efetuado": "3/4/2007"
+        },
+        {
+            "co_comissao": "28",
+            "co_fatura": "32",
+            "dt_efetuado": "5/4/2007"
+        },
+        {
+            "co_comissao": "29",
+            "co_fatura": "31",
+            "dt_efetuado": "16/4/2007"
+        },
+        {
+            "co_comissao": "30",
+            "co_fatura": "28",
+            "dt_efetuado": "3/5/2007"
+        },
+        {
+            "co_comissao": "31",
+            "co_fatura": "25",
+            "dt_efetuado": "3/5/2007"
+        },
+        {
+            "co_comissao": "32",
+            "co_fatura": "33",
+            "dt_efetuado": "3/5/2007"
+        },
+        {
+            "co_comissao": "33",
+            "co_fatura": "38",
+            "dt_efetuado": "3/5/2007"
+        },
+        {
+            "co_comissao": "34",
+            "co_fatura": "40",
+            "dt_efetuado": "4/5/2007"
+        },
+        {
+            "co_comissao": "35",
+            "co_fatura": "39",
+            "dt_efetuado": "4/5/2007"
+        },
+        {
+            "co_comissao": "36",
+            "co_fatura": "51",
+            "dt_efetuado": "9/5/2007"
+        },
+        {
+            "co_comissao": "37",
+            "co_fatura": "34",
+            "dt_efetuado": "9/5/2007"
+        },
+        {
+            "co_comissao": "38",
+            "co_fatura": "41",
+            "dt_efetuado": "9/5/2007"
+        },
+        {
+            "co_comissao": "39",
+            "co_fatura": "48",
+            "dt_efetuado": "9/5/2007"
+        },
+        {
+            "co_comissao": "40",
+            "co_fatura": "49",
+            "dt_efetuado": "9/5/2007"
+        },
+        {
+            "co_comissao": "41",
+            "co_fatura": "47",
+            "dt_efetuado": "15/5/2007"
+        },
+        {
+            "co_comissao": "42",
+            "co_fatura": "50",
+            "dt_efetuado": "15/5/2007"
+        },
+        {
+            "co_comissao": "43",
+            "co_fatura": "53",
+            "dt_efetuado": "15/5/2007"
+        },
+        {
+            "co_comissao": "44",
+            "co_fatura": "46",
+            "dt_efetuado": "15/5/2007"
+        },
+        {
+            "co_comissao": "45",
+            "co_fatura": "37",
+            "dt_efetuado": "22/5/2007"
+        },
+        {
+            "co_comissao": "46",
+            "co_fatura": "45",
+            "dt_efetuado": "30/5/2007"
+        },
+        {
+            "co_comissao": "47",
+            "co_fatura": "43",
+            "dt_efetuado": "4/6/2007"
+        },
+        {
+            "co_comissao": "48",
+            "co_fatura": "60",
+            "dt_efetuado": "4/6/2007"
+        },
+        {
+            "co_comissao": "49",
+            "co_fatura": "42",
+            "dt_efetuado": "4/6/2007"
+        },
+        {
+            "co_comissao": "50",
+            "co_fatura": "61",
+            "dt_efetuado": "4/6/2007"
+        },
+        {
+            "co_comissao": "51",
+            "co_fatura": "56",
+            "dt_efetuado": "6/6/2007"
+        },
+        {
+            "co_comissao": "52",
+            "co_fatura": "66",
+            "dt_efetuado": "15/6/2007"
+        },
+        {
+            "co_comissao": "53",
+            "co_fatura": "62",
+            "dt_efetuado": "15/6/2007"
+        },
+        {
+            "co_comissao": "54",
+            "co_fatura": "63",
+            "dt_efetuado": "18/6/2007"
+        },
+        {
+            "co_comissao": "55",
+            "co_fatura": "59",
+            "dt_efetuado": "18/6/2007"
+        },
+        {
+            "co_comissao": "56",
+            "co_fatura": "58",
+            "dt_efetuado": "18/6/2007"
+        },
+        {
+            "co_comissao": "57",
+            "co_fatura": "67",
+            "dt_efetuado": "18/6/2007"
+        },
+        {
+            "co_comissao": "58",
+            "co_fatura": "68",
+            "dt_efetuado": "18/6/2007"
+        },
+        {
+            "co_comissao": "59",
+            "co_fatura": "52",
+            "dt_efetuado": "21/6/2007"
+        },
+        {
+            "co_comissao": "60",
+            "co_fatura": "75",
+            "dt_efetuado": "21/6/2007"
+        },
+        {
+            "co_comissao": "61",
+            "co_fatura": "79",
+            "dt_efetuado": "2/7/2007"
+        },
+        {
+            "co_comissao": "62",
+            "co_fatura": "73",
+            "dt_efetuado": "2/7/2007"
+        },
+        {
+            "co_comissao": "63",
+            "co_fatura": "69",
+            "dt_efetuado": "2/7/2007"
+        },
+        {
+            "co_comissao": "64",
+            "co_fatura": "76",
+            "dt_efetuado": "2/7/2007"
+        },
+        {
+            "co_comissao": "65",
+            "co_fatura": "80",
+            "dt_efetuado": "13/7/2007"
+        },
+        {
+            "co_comissao": "66",
+            "co_fatura": "83",
+            "dt_efetuado": "16/7/2007"
+        },
+        {
+            "co_comissao": "67",
+            "co_fatura": "89",
+            "dt_efetuado": "17/7/2007"
+        },
+        {
+            "co_comissao": "68",
+            "co_fatura": "96",
+            "dt_efetuado": "17/7/2007"
+        },
+        {
+            "co_comissao": "69",
+            "co_fatura": "97",
+            "dt_efetuado": "17/7/2007"
+        },
+        {
+            "co_comissao": "70",
+            "co_fatura": "84",
+            "dt_efetuado": "17/7/2007"
+        },
+        {
+            "co_comissao": "71",
+            "co_fatura": "85",
+            "dt_efetuado": "17/7/2007"
+        },
+        {
+            "co_comissao": "72",
+            "co_fatura": "86",
+            "dt_efetuado": "17/7/2007"
+        },
+        {
+            "co_comissao": "73",
+            "co_fatura": "81",
+            "dt_efetuado": "20/7/2007"
+        },
+        {
+            "co_comissao": "74",
+            "co_fatura": "90",
+            "dt_efetuado": "20/7/2007"
+        },
+        {
+            "co_comissao": "75",
+            "co_fatura": "88",
+            "dt_efetuado": "2/8/2007"
+        },
+        {
+            "co_comissao": "76",
+            "co_fatura": "78",
+            "dt_efetuado": "2/8/2007"
+        },
+        {
+            "co_comissao": "77",
+            "co_fatura": "95",
+            "dt_efetuado": "2/8/2007"
+        },
+        {
+            "co_comissao": "78",
+            "co_fatura": "101",
+            "dt_efetuado": "2/8/2007"
+        },
+        {
+            "co_comissao": "79",
+            "co_fatura": "94",
+            "dt_efetuado": "7/8/2007"
+        },
+        {
+            "co_comissao": "80",
+            "co_fatura": "104",
+            "dt_efetuado": "7/8/2007"
+        },
+        {
+            "co_comissao": "81",
+            "co_fatura": "77",
+            "dt_efetuado": "8/8/2007"
+        },
+        {
+            "co_comissao": "82",
+            "co_fatura": "109",
+            "dt_efetuado": "17/8/2007"
+        },
+        {
+            "co_comissao": "83",
+            "co_fatura": "82",
+            "dt_efetuado": "17/8/2007"
+        },
+        {
+            "co_comissao": "84",
+            "co_fatura": "92",
+            "dt_efetuado": "17/8/2007"
+        },
+        {
+            "co_comissao": "85",
+            "co_fatura": "105",
+            "dt_efetuado": "17/8/2007"
+        },
+        {
+            "co_comissao": "86",
+            "co_fatura": "103",
+            "dt_efetuado": "17/8/2007"
+        },
+        {
+            "co_comissao": "87",
+            "co_fatura": "70",
+            "dt_efetuado": "17/8/2007"
+        },
+        {
+            "co_comissao": "88",
+            "co_fatura": "93",
+            "dt_efetuado": "17/8/2007"
+        },
+        {
+            "co_comissao": "89",
+            "co_fatura": "111",
+            "dt_efetuado": "17/8/2007"
+        },
+        {
+            "co_comissao": "90",
+            "co_fatura": "99",
+            "dt_efetuado": "17/8/2007"
+        },
+        {
+            "co_comissao": "91",
+            "co_fatura": "107",
+            "dt_efetuado": "23/8/2007"
+        },
+        {
+            "co_comissao": "92",
+            "co_fatura": "124",
+            "dt_efetuado": "30/8/2007"
+        },
+        {
+            "co_comissao": "93",
+            "co_fatura": "117",
+            "dt_efetuado": "30/8/2007"
+        },
+        {
+            "co_comissao": "94",
+            "co_fatura": "118",
+            "dt_efetuado": "30/8/2007"
+        },
+        {
+            "co_comissao": "95",
+            "co_fatura": "119",
+            "dt_efetuado": "30/8/2007"
+        },
+        {
+            "co_comissao": "96",
+            "co_fatura": "120",
+            "dt_efetuado": "30/8/2007"
+        },
+        {
+            "co_comissao": "97",
+            "co_fatura": "121",
+            "dt_efetuado": "30/8/2007"
+        },
+        {
+            "co_comissao": "98",
+            "co_fatura": "87",
+            "dt_efetuado": "30/8/2007"
+        },
+        {
+            "co_comissao": "99",
+            "co_fatura": "102",
+            "dt_efetuado": "23/8/2007"
+        },
+        {
+            "co_comissao": "100",
+            "co_fatura": "57",
+            "dt_efetuado": "30/8/2007"
+        },
+        {
+            "co_comissao": "101",
+            "co_fatura": "115",
+            "dt_efetuado": "30/8/2007"
+        },
+        {
+            "co_comissao": "102",
+            "co_fatura": "145",
+            "dt_efetuado": "10/9/2007"
+        },
+        {
+            "co_comissao": "103",
+            "co_fatura": "125",
+            "dt_efetuado": "14/9/2007"
+        },
+        {
+            "co_comissao": "104",
+            "co_fatura": "100",
+            "dt_efetuado": "14/9/2007"
+        },
+        {
+            "co_comissao": "105",
+            "co_fatura": "110",
+            "dt_efetuado": "14/9/2007"
+        },
+        {
+            "co_comissao": "106",
+            "co_fatura": "123",
+            "dt_efetuado": "14/9/2007"
+        },
+        {
+            "co_comissao": "107",
+            "co_fatura": "108",
+            "dt_efetuado": "19/9/2007"
+        },
+        {
+            "co_comissao": "108",
+            "co_fatura": "142",
+            "dt_efetuado": "19/9/2007"
+        }
+    ]
+}

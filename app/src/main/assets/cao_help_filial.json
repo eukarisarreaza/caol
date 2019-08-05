@@ -1,0 +1,592 @@
+{
+    "RECORDS": [
+        {
+            "co_filial": "1",
+            "no_filial": "Xapuri Motors",
+            "co_cliente": "3",
+            "estado": "AC"
+        },
+        {
+            "co_filial": "2",
+            "no_filial": "Alpha Trevo",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "3",
+            "no_filial": "Apediá",
+            "co_cliente": "3",
+            "estado": "RO"
+        },
+        {
+            "co_filial": "4",
+            "no_filial": "Autoforte",
+            "co_cliente": "3",
+            "estado": "AL"
+        },
+        {
+            "co_filial": "5",
+            "no_filial": "River Car",
+            "co_cliente": "3",
+            "estado": "AM"
+        },
+        {
+            "co_filial": "6",
+            "no_filial": "Tama",
+            "co_cliente": "3",
+            "estado": "MA"
+        },
+        {
+            "co_filial": "7",
+            "no_filial": "Toyonorte",
+            "co_cliente": "3",
+            "estado": "RN"
+        },
+        {
+            "co_filial": "8",
+            "no_filial": "União",
+            "co_cliente": "3",
+            "estado": "SE"
+        },
+        {
+            "co_filial": "9",
+            "no_filial": "Caltabiano",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "10",
+            "no_filial": "Caltabiano Berrini",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "11",
+            "no_filial": "CarHouse",
+            "co_cliente": "3",
+            "estado": "RS"
+        },
+        {
+            "co_filial": "12",
+            "no_filial": "Carvalho",
+            "co_cliente": "3",
+            "estado": "PB"
+        },
+        {
+            "co_filial": "13",
+            "no_filial": "Collection Litoral",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "14",
+            "no_filial": "Collection",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "15",
+            "no_filial": "Mallon Motors",
+            "co_cliente": "3",
+            "estado": "SC"
+        },
+        {
+            "co_filial": "16",
+            "no_filial": "Tsusho",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "17",
+            "no_filial": "Continental",
+            "co_cliente": "3",
+            "estado": "SC"
+        },
+        {
+            "co_filial": "18",
+            "no_filial": "Diamantina",
+            "co_cliente": "3",
+            "estado": "BA"
+        },
+        {
+            "co_filial": "19",
+            "no_filial": "Via-Láctea",
+            "co_cliente": "3",
+            "estado": "MT"
+        },
+        {
+            "co_filial": "20",
+            "no_filial": "Douramotors",
+            "co_cliente": "3",
+            "estado": "MS"
+        },
+        {
+            "co_filial": "21",
+            "no_filial": "Espaço Motors",
+            "co_cliente": "3",
+            "estado": "PR"
+        },
+        {
+            "co_filial": "22",
+            "no_filial": "Toyofic",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "23",
+            "no_filial": "Flórida",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "24",
+            "no_filial": "Futura",
+            "co_cliente": "3",
+            "estado": "MG"
+        },
+        {
+            "co_filial": "25",
+            "no_filial": "Toyobrás",
+            "co_cliente": "3",
+            "estado": "SC"
+        },
+        {
+            "co_filial": "26",
+            "no_filial": "Zeni Motors",
+            "co_cliente": "3",
+            "estado": "PR"
+        },
+        {
+            "co_filial": "27",
+            "no_filial": "Green Motors",
+            "co_cliente": "3",
+            "estado": "RJ"
+        },
+        {
+            "co_filial": "28",
+            "no_filial": "Green Motors Norte",
+            "co_cliente": "3",
+            "estado": "RJ"
+        },
+        {
+            "co_filial": "29",
+            "no_filial": "Green Automóveis",
+            "co_cliente": "3",
+            "estado": "MT"
+        },
+        {
+            "co_filial": "30",
+            "no_filial": "Green Veículos",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "31",
+            "no_filial": "Green Center",
+            "co_cliente": "3",
+            "estado": "MT"
+        },
+        {
+            "co_filial": "32",
+            "no_filial": "Green Minas",
+            "co_cliente": "3",
+            "estado": "MG"
+        },
+        {
+            "co_filial": "33",
+            "no_filial": "Toyobel",
+            "co_cliente": "3",
+            "estado": "PA"
+        },
+        {
+            "co_filial": "34",
+            "no_filial": "Guebor",
+            "co_cliente": "3",
+            "estado": "BA"
+        },
+        {
+            "co_filial": "35",
+            "no_filial": "Carhouse Center",
+            "co_cliente": "3",
+            "estado": "RS"
+        },
+        {
+            "co_filial": "36",
+            "no_filial": "Imperial",
+            "co_cliente": "3",
+            "estado": "MG"
+        },
+        {
+            "co_filial": "37",
+            "no_filial": "Inter Japan",
+            "co_cliente": "3",
+            "estado": "RJ"
+        },
+        {
+            "co_filial": "38",
+            "no_filial": "Inter Japan SP",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "39",
+            "no_filial": "Jabur Toyopar",
+            "co_cliente": "3",
+            "estado": "PR"
+        },
+        {
+            "co_filial": "40",
+            "no_filial": "JMC",
+            "co_cliente": "3",
+            "estado": "MG"
+        },
+        {
+            "co_filial": "41",
+            "no_filial": "Kampai",
+            "co_cliente": "3",
+            "estado": "MS"
+        },
+        {
+            "co_filial": "42",
+            "no_filial": "Saga Motors",
+            "co_cliente": "3",
+            "estado": "GO"
+        },
+        {
+            "co_filial": "43",
+            "no_filial": "Kurumá",
+            "co_cliente": "3",
+            "estado": "ES"
+        },
+        {
+            "co_filial": "44",
+            "no_filial": "Kurumá Norte",
+            "co_cliente": "3",
+            "estado": "ES"
+        },
+        {
+            "co_filial": "45",
+            "no_filial": "Kyoto Motors",
+            "co_cliente": "3",
+            "estado": "DF"
+        },
+        {
+            "co_filial": "46",
+            "no_filial": "Lagoa Sul",
+            "co_cliente": "3",
+            "estado": "RS"
+        },
+        {
+            "co_filial": "47",
+            "no_filial": "Lince",
+            "co_cliente": "3",
+            "estado": "GO"
+        },
+        {
+            "co_filial": "48",
+            "no_filial": "Izzo",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "49",
+            "no_filial": "Maggi Motors",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "50",
+            "no_filial": "Expoente",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "51",
+            "no_filial": "Orion",
+            "co_cliente": "3",
+            "estado": "MT"
+        },
+        {
+            "co_filial": "52",
+            "no_filial": "Motolândia",
+            "co_cliente": "3",
+            "estado": "RS"
+        },
+        {
+            "co_filial": "53",
+            "no_filial": "Motors Shopping",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "54",
+            "no_filial": "Nagoya Motors",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "55",
+            "no_filial": "Newland Car",
+            "co_cliente": "3",
+            "estado": "CE"
+        },
+        {
+            "co_filial": "56",
+            "no_filial": "Newland",
+            "co_cliente": "3",
+            "estado": "CE"
+        },
+        {
+            "co_filial": "57",
+            "no_filial": "Nippokar",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "58",
+            "no_filial": "Nissey",
+            "co_cliente": "3",
+            "estado": "RO"
+        },
+        {
+            "co_filial": "59",
+            "no_filial": "Nova Quality",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "60",
+            "no_filial": "Osaka",
+            "co_cliente": "3",
+            "estado": "MG"
+        },
+        {
+            "co_filial": "61",
+            "no_filial": "Riva",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "62",
+            "no_filial": "Ramires",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "63",
+            "no_filial": "Savoy Sul",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "64",
+            "no_filial": "SGA",
+            "co_cliente": "3",
+            "estado": "RJ"
+        },
+        {
+            "co_filial": "65",
+            "no_filial": "Shogun",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "66",
+            "no_filial": "S-Line",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "67",
+            "no_filial": "Sorte",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "68",
+            "no_filial": "Sossai",
+            "co_cliente": "3",
+            "estado": "ES"
+        },
+        {
+            "co_filial": "69",
+            "no_filial": "Sperandio",
+            "co_cliente": "3",
+            "estado": "SC"
+        },
+        {
+            "co_filial": "70",
+            "no_filial": "Stéfani Motors",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "71",
+            "no_filial": "Strada Motors",
+            "co_cliente": "3",
+            "estado": "SC"
+        },
+        {
+            "co_filial": "72",
+            "no_filial": "Sun North",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "73",
+            "no_filial": "Tarpan",
+            "co_cliente": "3",
+            "estado": "SC"
+        },
+        {
+            "co_filial": "74",
+            "no_filial": "Terrasol",
+            "co_cliente": "3",
+            "estado": "RS"
+        },
+        {
+            "co_filial": "75",
+            "no_filial": "T-Line",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "76",
+            "no_filial": "Topázio",
+            "co_cliente": "3",
+            "estado": "BA"
+        },
+        {
+            "co_filial": "77",
+            "no_filial": "Toycás",
+            "co_cliente": "3",
+            "estado": "PR"
+        },
+        {
+            "co_filial": "78",
+            "no_filial": "Toyodrive",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "79",
+            "no_filial": "Toyolex Caruaru",
+            "co_cliente": "3",
+            "estado": "PE"
+        },
+        {
+            "co_filial": "80",
+            "no_filial": "Toyolex",
+            "co_cliente": "3",
+            "estado": "PE"
+        },
+        {
+            "co_filial": "81",
+            "no_filial": "Toyopabra",
+            "co_cliente": "3",
+            "estado": "PR"
+        },
+        {
+            "co_filial": "82",
+            "no_filial": "Toyoserra",
+            "co_cliente": "3",
+            "estado": "RJ"
+        },
+        {
+            "co_filial": "83",
+            "no_filial": "Sulpar",
+            "co_cliente": "3",
+            "estado": "PR"
+        },
+        {
+            "co_filial": "84",
+            "no_filial": "Toyoville",
+            "co_cliente": "3",
+            "estado": "SC"
+        },
+        {
+            "co_filial": "85",
+            "no_filial": "Toysan",
+            "co_cliente": "3",
+            "estado": "PR"
+        },
+        {
+            "co_filial": "86",
+            "no_filial": "Traçado",
+            "co_cliente": "3",
+            "estado": "PR"
+        },
+        {
+            "co_filial": "87",
+            "no_filial": "André Ribeiro",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "88",
+            "no_filial": "Via japan",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "89",
+            "no_filial": "Zappellini",
+            "co_cliente": "3",
+            "estado": "SC"
+        },
+        {
+            "co_filial": "93",
+            "no_filial": "Comart",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "94",
+            "no_filial": "Kawaii",
+            "co_cliente": "3",
+            "estado": "MG"
+        },
+        {
+            "co_filial": "95",
+            "no_filial": "Grand Motors",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "96",
+            "no_filial": "Casa Motors Ltda",
+            "co_cliente": "3",
+            "estado": "GO"
+        },
+        {
+            "co_filial": "97",
+            "no_filial": "Benarros",
+            "co_cliente": "3",
+            "estado": "SE"
+        },
+        {
+            "co_filial": "98",
+            "no_filial": "Genovez",
+            "co_cliente": "3",
+            "estado": "SC"
+        },
+        {
+            "co_filial": "99",
+            "no_filial": "United",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "100",
+            "no_filial": "Malabar",
+            "co_cliente": "3",
+            "estado": "SP"
+        },
+        {
+            "co_filial": "102",
+            "no_filial": "Viviane Motors",
+            "co_cliente": "3",
+            "estado": "SP"
+        }
+    ]
+}

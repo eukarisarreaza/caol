@@ -1,0 +1,214 @@
+{
+    "RECORDS": [
+        {
+            "co_menu": "1",
+            "ds_menu": "Horas Trabalhadas",
+            "ds_pagina": "main.php",
+            "ds_imagem": "img/menu/procurar_email.gif"
+        },
+        {
+            "co_menu": "2",
+            "ds_menu": "Horas Trabalhadas - Por Usuários",
+            "ds_pagina": "consultas.php",
+            "ds_imagem": "img/menu/procurar_email.gif"
+        },
+        {
+            "co_menu": "3",
+            "ds_menu": "Daily Report",
+            "ds_pagina": "consulta_dr.php",
+            "ds_imagem": "img/menu/procurar_email.gif"
+        },
+        {
+            "co_menu": "4",
+            "ds_menu": "Performance - Por Usuários",
+            "ds_pagina": "consulta_performance.php",
+            "ds_imagem": "img/menu/procurar_email.gif"
+        },
+        {
+            "co_menu": "5",
+            "ds_menu": "Minhas OS",
+            "ds_pagina": "os_minha.php",
+            "ds_imagem": "img/menu/procurar_email.gif"
+        },
+        {
+            "co_menu": "6",
+            "ds_menu": "OS por Analista Responsável",
+            "ds_pagina": "os_por_analista.php",
+            "ds_imagem": "img/menu/procurar_email.gif"
+        },
+        {
+            "co_menu": "7",
+            "ds_menu": "Cadastro de Cliente",
+            "ds_pagina": "cadastro_cliente.php",
+            "ds_imagem": "img/menu/fichario.gif"
+        },
+        {
+            "co_menu": "8",
+            "ds_menu": "Cadastro de Sistema",
+            "ds_pagina": "cadastro_sistema.php",
+            "ds_imagem": "img/menu/fichario.gif"
+        },
+        {
+            "co_menu": "9",
+            "ds_menu": "Cadastro de OS",
+            "ds_pagina": "cadastro_os.php",
+            "ds_imagem": "img/menu/fichario.gif"
+        },
+        {
+            "co_menu": "10",
+            "ds_menu": "Parametrização de Bônus",
+            "ds_pagina": "parametriza_bonus.php",
+            "ds_imagem": "img/menu/fichario.gif"
+        },
+        {
+            "co_menu": "11",
+            "ds_menu": "Parametrização de Custos",
+            "ds_pagina": "parametriza_custos.php",
+            "ds_imagem": "img/menu/fichario.gif"
+        },
+        {
+            "co_menu": "12",
+            "ds_menu": "Cadastro de Usuário",
+            "ds_pagina": "cadastra_usuario.php",
+            "ds_imagem": "img/menu/info_pessoa.gif"
+        },
+        {
+            "co_menu": "13",
+            "ds_menu": "Troca de Senha",
+            "ds_pagina": "senha.php",
+            "ds_imagem": "img/menu/info_pessoa.gif"
+        },
+        {
+            "co_menu": "14",
+            "ds_menu": "Acompanhamento de Sistema",
+            "ds_pagina": "consulta_acompanhamento_sis.php",
+            "ds_imagem": "img/menu/procurar_email.gif"
+        },
+        {
+            "co_menu": "15",
+            "ds_menu": "Correção de Horários",
+            "ds_pagina": "correcao_horario.php",
+            "ds_imagem": "img/menu/fichario.gif"
+        },
+        {
+            "co_menu": "16",
+            "ds_menu": "Minha Agenda",
+            "ds_pagina": "main_consult.php",
+            "ds_imagem": "img/menu/procurar_email.gif"
+        },
+        {
+            "co_menu": "17",
+            "ds_menu": "Clientes",
+            "ds_pagina": "consulta_cliente_calendario.php",
+            "ds_imagem": "img/menu/procurar_email.gif"
+        },
+        {
+            "co_menu": "18",
+            "ds_menu": "Listagem de Usuário",
+            "ds_pagina": "listagem_usuario.php",
+            "ds_imagem": "img/menu/info_pessoa.gif"
+        },
+        {
+            "co_menu": "19",
+            "ds_menu": "Cadastro de Boleto",
+            "ds_pagina": "cadastro_boleto.php",
+            "ds_imagem": "img/menu/fichario.gif"
+        },
+        {
+            "co_menu": "20",
+            "ds_menu": "Cadastro de Ítens do Menu",
+            "ds_pagina": "cadastro_item_sistema.php",
+            "ds_imagem": "img/menu/fichario.gif"
+        },
+        {
+            "co_menu": "21",
+            "ds_menu": "Cadastro de Chamado",
+            "ds_pagina": "cadastro_chamado.php",
+            "ds_imagem": "img/menu/fichario.gif"
+        },
+        {
+            "co_menu": "22",
+            "ds_menu": "Correção de DR",
+            "ds_pagina": "correcao_dr.php",
+            "ds_imagem": "img/menu/fichario.gif"
+        },
+        {
+            "co_menu": "23",
+            "ds_menu": "Cadastro de Feriados",
+            "ds_pagina": "cadastro_feriados.php",
+            "ds_imagem": "img/menu/fichario.gif"
+        },
+        {
+            "co_menu": "24",
+            "ds_menu": "Manutenção de Script",
+            "ds_pagina": "manutencao_script.php",
+            "ds_imagem": "img/menu/fichario.gif"
+        },
+        {
+            "co_menu": "25",
+            "ds_menu": "Chamados Pendentes",
+            "ds_pagina": "chamado_pendente.php",
+            "ds_imagem": "img/menu/procurar_email.gif"
+        },
+        {
+            "co_menu": "26",
+            "ds_menu": "Banco de Horas / Bônus",
+            "ds_pagina": "consulta_bonus.php",
+            "ds_imagem": "img/menu/procurar_email.gif"
+        },
+        {
+            "co_menu": "27",
+            "ds_menu": "Noticias",
+            "ds_pagina": "noticia.php",
+            "ds_imagem": "img/menu/procurar_email.gif"
+        },
+        {
+            "co_menu": "28",
+            "ds_menu": "Cadastro de Notícia",
+            "ds_pagina": "cadastro_noticia.php",
+            "ds_imagem": "img/menu/fichario.gif"
+        },
+        {
+            "co_menu": "29",
+            "ds_menu": "Biblioteca",
+            "ds_pagina": "cons_biblioteca.php",
+            "ds_imagem": "img/menu/procurar_email.gif"
+        },
+        {
+            "co_menu": "30",
+            "ds_menu": "Biblioteca - Pendente de voto",
+            "ds_pagina": "cons_biblioteca_voto.php",
+            "ds_imagem": "img/menu/procurar_email.gif"
+        },
+        {
+            "co_menu": "31",
+            "ds_menu": "Ombudsman",
+            "ds_pagina": "cons_ombudsman.php",
+            "ds_imagem": "img/menu/procurar_email.gif"
+        },
+        {
+            "co_menu": "32",
+            "ds_menu": "Despesas",
+            "ds_pagina": "consulta_despesas.php",
+            "ds_imagem": "img/menu/procurar_email.gif"
+        },
+        {
+            "co_menu": "33",
+            "ds_menu": "Cadastro de Conhecimento",
+            "ds_pagina": "cadastro_conhecimento.php",
+            "ds_imagem": "img/menu/fichario.gif"
+        },
+        {
+            "co_menu": "34",
+            "ds_menu": "Cadastro de Ombudsman",
+            "ds_pagina": "cadastro_ombudsman.php",
+            "ds_imagem": "img/menu/fichario.gif"
+        },
+        {
+            "co_menu": "35",
+            "ds_menu": "Cadastro de Chamado HD",
+            "ds_pagina": "adm_chamado.php",
+            "ds_imagem": "img/menu/fichario.gif"
+        }
+    ]
+}

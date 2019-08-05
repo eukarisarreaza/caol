@@ -1,0 +1,484 @@
+{
+    "RECORDS": [
+        {
+            "co_conhecimento": "29",
+            "ds_conhecimento": "ASP",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "28",
+            "ds_conhecimento": "VB .NET",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "27",
+            "ds_conhecimento": "VB",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "26",
+            "ds_conhecimento": "PHP",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "25",
+            "ds_conhecimento": "Perl",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "24",
+            "ds_conhecimento": "ColdFusion",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "23",
+            "ds_conhecimento": "C#",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "22",
+            "ds_conhecimento": "JavaScript",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "21",
+            "ds_conhecimento": "JSP",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "20",
+            "ds_conhecimento": "Java",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "19",
+            "ds_conhecimento": "XSLT",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "18",
+            "ds_conhecimento": "XML",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "17",
+            "ds_conhecimento": "WML/WAP",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "16",
+            "ds_conhecimento": "HTML",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "14",
+            "ds_conhecimento": "Unix",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "13",
+            "ds_conhecimento": "Linux",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "12",
+            "ds_conhecimento": "Win95/98",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "11",
+            "ds_conhecimento": "WinNT",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "10",
+            "ds_conhecimento": "WinXP",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "4",
+            "ds_conhecimento": "MySQL",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "3",
+            "ds_conhecimento": "DB2",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "1",
+            "ds_conhecimento": "MS SQL SERVER",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "2",
+            "ds_conhecimento": "Oracle",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "30",
+            "ds_conhecimento": "VBScript",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "31",
+            "ds_conhecimento": "SQL",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "32",
+            "ds_conhecimento": "PL/SQL",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "33",
+            "ds_conhecimento": "WinXP",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "34",
+            "ds_conhecimento": "WinNT",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "35",
+            "ds_conhecimento": "Linux",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "36",
+            "ds_conhecimento": "Unix",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "37",
+            "ds_conhecimento": "Win95/98",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "38",
+            "ds_conhecimento": "Apache",
+            "co_sistema": "5"
+        },
+        {
+            "co_conhecimento": "39",
+            "ds_conhecimento": "TCP/IP",
+            "co_sistema": "5"
+        },
+        {
+            "co_conhecimento": "40",
+            "ds_conhecimento": "Roteamento",
+            "co_sistema": "5"
+        },
+        {
+            "co_conhecimento": "41",
+            "ds_conhecimento": "Hardware/Manutençã",
+            "co_sistema": "5"
+        },
+        {
+            "co_conhecimento": "42",
+            "ds_conhecimento": "Banco_windows 2003",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "43",
+            "ds_conhecimento": "sop_os/2",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "44",
+            "ds_conhecimento": "lp_phiton",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "45",
+            "ds_conhecimento": "outros_outros",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "46",
+            "ds_conhecimento": "Banco_Sistema Operac",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "47",
+            "ds_conhecimento": "Banco_Sistema Operac",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "48",
+            "ds_conhecimento": "Banco_Sistema Operac",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "49",
+            "ds_conhecimento": "sop_Sistema Operacio",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "50",
+            "ds_conhecimento": "lp_Linguagens de pro",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "51",
+            "ds_conhecimento": "outros_Outros Conhec",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "52",
+            "ds_conhecimento": "outros_Outros Conhec",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "53",
+            "ds_conhecimento": "Banco_outro 4",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "54",
+            "ds_conhecimento": "sop_outro 2",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "55",
+            "ds_conhecimento": "lp_outro 3",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "56",
+            "ds_conhecimento": "outros_outro 5",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "57",
+            "ds_conhecimento": "Banco_outros 4",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "58",
+            "ds_conhecimento": "sop_outros 2",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "59",
+            "ds_conhecimento": "lp_outros 3",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "60",
+            "ds_conhecimento": "outros_outros 5",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "61",
+            "ds_conhecimento": "sop_mais um",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "62",
+            "ds_conhecimento": "sop_sop_mais um",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "63",
+            "ds_conhecimento": "sop_sop_sop_mais um",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "64",
+            "ds_conhecimento": "sop_sop_sop_sop_mais",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "65",
+            "ds_conhecimento": "Banco_TESTE",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "66",
+            "ds_conhecimento": "sop_DDDD",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "67",
+            "ds_conhecimento": "lp_TTT",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "68",
+            "ds_conhecimento": "outros_KKK",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "69",
+            "ds_conhecimento": "Banco_TESTE,tetetete",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "70",
+            "ds_conhecimento": "lp_lp_TTT",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "71",
+            "ds_conhecimento": "sop_asdasd,a22132132",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "72",
+            "ds_conhecimento": "lp_lp_lp_TTT,asdasd",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "73",
+            "ds_conhecimento": "outros_12312312",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "74",
+            "ds_conhecimento": "sop_asdasd,a22132132",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "75",
+            "ds_conhecimento": "sop_asdasd,a22132132",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "76",
+            "ds_conhecimento": "sop_teseteteete,oooo",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "77",
+            "ds_conhecimento": "lp_lp,tep",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "78",
+            "ds_conhecimento": "outros_e",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "79",
+            "ds_conhecimento": "sop_teseteteete,oooo",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "80",
+            "ds_conhecimento": "sopp_Solaris",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "81",
+            "ds_conhecimento": "sop_GGGGGGGGG",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "82",
+            "ds_conhecimento": "Banco_TESTE,tetetete",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "83",
+            "ds_conhecimento": "sopp_Solaris,trtrtrt",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "84",
+            "ds_conhecimento": "sop_KKKKK",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "85",
+            "ds_conhecimento": "Banco_INTERBASE",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "86",
+            "ds_conhecimento": "lp_LOGO",
+            "co_sistema": "3"
+        },
+        {
+            "co_conhecimento": "87",
+            "ds_conhecimento": "sop_SOLARIS",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "88",
+            "ds_conhecimento": "Banco_INTERBASE,Post",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "89",
+            "ds_conhecimento": "Banco_INTERBASE,Post",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "90",
+            "ds_conhecimento": "Banco_ieieieieie",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "91",
+            "ds_conhecimento": "Banco_ieieieieie,trt",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "92",
+            "ds_conhecimento": "Banco_OUTRO BANCO",
+            "co_sistema": "1"
+        },
+        {
+            "co_conhecimento": "93",
+            "ds_conhecimento": "sop_SOLARIS2",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "94",
+            "ds_conhecimento": "outros_CISCO",
+            "co_sistema": "5"
+        },
+        {
+            "co_conhecimento": "95",
+            "ds_conhecimento": "sopp_LUNIX",
+            "co_sistema": "2"
+        },
+        {
+            "co_conhecimento": "96",
+            "ds_conhecimento": "sop_SLALALALALA",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "97",
+            "ds_conhecimento": "sop_SLALALALALA,trtr",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "98",
+            "ds_conhecimento": "sop_askdjaskdjasdkas",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "99",
+            "ds_conhecimento": "sop_LLALALALALALALA,",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "100",
+            "ds_conhecimento": "sop_LLALALALALALALA,",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "101",
+            "ds_conhecimento": "sop_LLALALALALALALA,",
+            "co_sistema": "4"
+        },
+        {
+            "co_conhecimento": "102",
+            "ds_conhecimento": "Banco_firebird;postg",
+            "co_sistema": "1"
+        }
+    ]
+}

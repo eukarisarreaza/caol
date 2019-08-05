@@ -1,0 +1,619 @@
+{
+    "RECORDS": [
+        {
+            "co_usuario": "marcio.lamego",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "pedro.moretti",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "alessandro.yamada",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "joe.colombo",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "paulo.monteiro",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "ricardo.martins",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "luciano.ribeiro",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "carlos.viana",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "rui.hayashi",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "cyntia.nakamura",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "cristiane.florio",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "leandro.caracciolo",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "ricardo.rubini",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "lf.oliveira",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "luciano.silva",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "levi.marques",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "guilherme.marinho",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "elvis.rocha",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "rodrigo.moralles",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "teste.usu2",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "domicio.junior",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "denis.santos",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "frederico.zapelini",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "gustavo.gomes",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "jesliel.rocha",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "mauricio.costa",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "eduardo.botelho",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "nixon.santos",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "lucas.marin",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "daniel.braga",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "rodrigo.sousa",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "teste.usuario",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "thiago.jost",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "julio.santos",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "francisco.ogatha",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "rodrigo.vilela",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "civio.couto",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "rodrigo.paulino",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "glauco.sassaki",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "rodrigo.areco",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "marcio.paulino",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "jonatan.perim",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "dimas.junior",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "rodrigo.oliveira",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "contato",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "fernando.marinho",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "daniel.pires",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "janaina.vieira",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "gustavo.alvares",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "alex.wassano",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "rodrigo.lopes",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "felipe.correa",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "og.menezes",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "michele.freitas",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "felipe.chahad",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "paulo.moacir",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "wagner.alves",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "abner.silva",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "jefferson.silva",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "raphael.araujo",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "helsen.rossi",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "alessandro",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "alessandro.gonzalez",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "agence.ms",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "tiago.stutz",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "davys.fellipe",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "13:00"
+        },
+        {
+            "co_usuario": "fernando.cezar",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "ricardo.silva",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "rodrigo.soler",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "heber.moreira",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "ricardo.burile",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "moises.andrade",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "moises.rovani",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "rafael.sierra",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "leonardo.silva",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "marcelo.luz",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "alfeu.vilela",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "marcio.oliveira",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "jesse.lucas",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "gabriel.verta",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "13:00"
+        },
+        {
+            "co_usuario": "camilo.silveira",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "evandro.santos",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "13:00"
+        },
+        {
+            "co_usuario": "gustavo.buquio",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "luiz.cortez",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "jefter.fontes",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "ricardo.perez",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "13:00"
+        },
+        {
+            "co_usuario": "andre.bandeira",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "andre.bandera",
+            "almoco_saida_hora": "",
+            "almoco_volta_hora": ""
+        },
+        {
+            "co_usuario": "rodrigo.miranda",
+            "almoco_saida_hora": "12:30",
+            "almoco_volta_hora": "13:30"
+        },
+        {
+            "co_usuario": "regiane.domingo",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "jonas.morais",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "fabio.martins",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "13:00"
+        },
+        {
+            "co_usuario": "rodrigo.sansao",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "13:00"
+        },
+        {
+            "co_usuario": "angelina.oshiro",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "andre.tinchant",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "13:00"
+        },
+        {
+            "co_usuario": "ravi.rauber",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "andrew.silva",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "13:00"
+        },
+        {
+            "co_usuario": "leandro.duprat",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "vanessa.souza",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        },
+        {
+            "co_usuario": "silvio.maraes",
+            "almoco_saida_hora": "12:00",
+            "almoco_volta_hora": "14:00"
+        }
+    ]
+}

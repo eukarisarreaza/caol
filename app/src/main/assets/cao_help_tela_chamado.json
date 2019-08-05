@@ -1,0 +1,106 @@
+{
+    "RECORDS": [
+        {
+            "co_tela": "1",
+            "co_cliente": "0",
+            "co_sistema": "0",
+            "ds_tela": "Login"
+        },
+        {
+            "co_tela": "2",
+            "co_cliente": "0",
+            "co_sistema": "0",
+            "ds_tela": "Pedido - Cliente"
+        },
+        {
+            "co_tela": "3",
+            "co_cliente": "0",
+            "co_sistema": "0",
+            "ds_tela": "Pedido - Itens do Pedido"
+        },
+        {
+            "co_tela": "4",
+            "co_cliente": "0",
+            "co_sistema": "0",
+            "ds_tela": "Pedido - Documentação"
+        },
+        {
+            "co_tela": "5",
+            "co_cliente": "0",
+            "co_sistema": "0",
+            "ds_tela": "Pedido - Finalizar"
+        },
+        {
+            "co_tela": "6",
+            "co_cliente": "0",
+            "co_sistema": "0",
+            "ds_tela": "Pedidos Pendentes"
+        },
+        {
+            "co_tela": "7",
+            "co_cliente": "0",
+            "co_sistema": "0",
+            "ds_tela": "Pedido - Reativação de Item"
+        },
+        {
+            "co_tela": "8",
+            "co_cliente": "0",
+            "co_sistema": "0",
+            "ds_tela": "Solicitação - Carta de Isenção de ICMS"
+        },
+        {
+            "co_tela": "9",
+            "co_cliente": "0",
+            "co_sistema": "0",
+            "ds_tela": "Solicitação - Carta de Correção"
+        },
+        {
+            "co_tela": "10",
+            "co_cliente": "0",
+            "co_sistema": "0",
+            "ds_tela": "Solicitação - Cancelamento de Faturamento"
+        },
+        {
+            "co_tela": "11",
+            "co_cliente": "0",
+            "co_sistema": "0",
+            "ds_tela": "Consulta - Carta de Isenção"
+        },
+        {
+            "co_tela": "12",
+            "co_cliente": "0",
+            "co_sistema": "0",
+            "ds_tela": "Consulta - Carta de Correção"
+        },
+        {
+            "co_tela": "13",
+            "co_cliente": "0",
+            "co_sistema": "0",
+            "ds_tela": "Consulta - Cancelamento de Faturamento"
+        },
+        {
+            "co_tela": "14",
+            "co_cliente": "0",
+            "co_sistema": "0",
+            "ds_tela": "Consulta - Comissão"
+        },
+        {
+            "co_tela": "15",
+            "co_cliente": "0",
+            "co_sistema": "0",
+            "ds_tela": "Consulta - Preços e Fretes"
+        },
+        {
+            "co_tela": "16",
+            "co_cliente": "0",
+            "co_sistema": "0",
+            "ds_tela": "Consulta - Documentos Enviados"
+        },
+        {
+            "co_tela": "17",
+            "co_cliente": "0",
+            "co_sistema": "0",
+            "ds_tela": "Consulta - Pedidos"
+        }
+    ]
+}

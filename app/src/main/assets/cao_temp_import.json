@@ -1,0 +1,1872 @@
+{
+    "RECORDS": [
+        {
+            "codigo": "1",
+            "descricao": "ABASTECIMENTO DE AGUA E ESGOTAMENTO SANITARIO"
+        },
+        {
+            "codigo": "2",
+            "descricao": "ABATE E FRIGORIF BOVINOS"
+        },
+        {
+            "codigo": "3",
+            "descricao": "ABATE E PREPAR AVES E PEQUENOS ANIMAIS, CONSERVAS"
+        },
+        {
+            "codigo": "4",
+            "descricao": "ABATE E PREPARACAO DE ANIMAIS NAO ESPECIF"
+        },
+        {
+            "codigo": "5",
+            "descricao": "AGENCIAMENTO E LOCACAO DE MAO-DE-OBRA"
+        },
+        {
+            "codigo": "6",
+            "descricao": "AGENCIAS DE TURISMO E DE VENDA DE PASSAGENS"
+        },
+        {
+            "codigo": "7",
+            "descricao": "AGROPECUARIA"
+        },
+        {
+            "codigo": "8",
+            "descricao": "AGROPECUARIA1"
+        },
+        {
+            "codigo": "9",
+            "descricao": "ATIVIDADES DA CONSTRUCAO NAO ESPECIF"
+        },
+        {
+            "codigo": "10",
+            "descricao": "ATIVIDADES ESPECIFICAS DA CONSTRUCAO"
+        },
+        {
+            "codigo": "11",
+            "descricao": "BEBIDAS"
+        },
+        {
+            "codigo": "12",
+            "descricao": "BENEFIC FIBRAS TEXTEIS VEGETAIS"
+        },
+        {
+            "codigo": "13",
+            "descricao": "BENEFIC MATERIAIS TEXTEIS DE ORIGEM ANIMAL"
+        },
+        {
+            "codigo": "14",
+            "descricao": "BENEFIC PRODS ALIMENTARES DE ORIGEM VEGETAL"
+        },
+        {
+            "codigo": "15",
+            "descricao": "BENEFICIAMENTO DE BORRACHA NATURAL"
+        },
+        {
+            "codigo": "16",
+            "descricao": "BENEFICIAMENTO DE COUROS E PELES"
+        },
+        {
+            "codigo": "17",
+            "descricao": "BENEFICIAMENTO DE MINERAIS NAO-METALICOS"
+        },
+        {
+            "codigo": "18",
+            "descricao": "BENEFICIAMENTO DE SUCATA METALICA"
+        },
+        {
+            "codigo": "19",
+            "descricao": "BORRACHA"
+        },
+        {
+            "codigo": "20",
+            "descricao": "CALCADOS"
+        },
+        {
+            "codigo": "21",
+            "descricao": "CALD PESADA P INDS MEC,CONST NAVAL,VEICUL FERROVIA"
+        },
+        {
+            "codigo": "22",
+            "descricao": "COM ATAC PRODS QUIMICOS USO AGROPEC ALIM P ANIMAIS"
+        },
+        {
+            "codigo": "23",
+            "descricao": "COM ATACAD ARTIGOS DE ARMARINHO"
+        },
+        {
+            "codigo": "24",
+            "descricao": "COM ATACAD ARTIGOS NAO ESPECIFICADOS"
+        },
+        {
+            "codigo": "25",
+            "descricao": "COM ATACAD BORRACHA, PLASTICO, ESPUMA E SEUS ARTEF"
+        },
+        {
+            "codigo": "26",
+            "descricao": "COM ATACAD CALCADOS"
+        },
+        {
+            "codigo": "27",
+            "descricao": "COM ATACAD CERAIS BENEFICIADOS E LEGUMINOSAS"
+        },
+        {
+            "codigo": "28",
+            "descricao": "COM ATACAD EQUIPS INFORMATICA, PECAS E ACESSORIOS"
+        },
+        {
+            "codigo": "29",
+            "descricao": "COM ATACAD FERRAGEN,FERRAMENT,PROD METALUG,CUTELAR"
+        },
+        {
+            "codigo": "30",
+            "descricao": "COM ATACAD FERRAGENS,FERRAM,PRODS METALURG,VIDROS"
+        },
+        {
+            "codigo": "31",
+            "descricao": "COM ATACAD MAQS, APARELHOS E EQUIPS"
+        },
+        {
+            "codigo": "32",
+            "descricao": "COM ATACAD MAQS,APAREL E EQUIPS PARA USO INDL"
+        },
+        {
+            "codigo": "33",
+            "descricao": "COM ATACAD MATERIAL ELETRICO E ELETRONICO"
+        },
+        {
+            "codigo": "34",
+            "descricao": "COM ATACAD MATERIAL PARA PINTURA"
+        },
+        {
+            "codigo": "35",
+            "descricao": "COM ATACAD MERCADORIAS EM GERAL"
+        },
+        {
+            "codigo": "36",
+            "descricao": "COM ATACAD PAPEL,PAPELAO,CARTOLIN,CARTAO,ART ESCOL"
+        },
+        {
+            "codigo": "37",
+            "descricao": "COM ATACAD PECAS E ACESSORIOS PARA VEICULOS"
+        },
+        {
+            "codigo": "38",
+            "descricao": "COM ATACAD VIDROS, ESPELHOS, VITRAIS E MOLDURAS"
+        },
+        {
+            "codigo": "39",
+            "descricao": "COM ATACADISTA DE BEBIDAS"
+        },
+        {
+            "codigo": "40",
+            "descricao": "COM ATACADISTA PERFUMARIA E HIGIENE PESSOAL"
+        },
+        {
+            "codigo": "41",
+            "descricao": "COM ATACADISTA PESCADOS,CRUSTACEOS,MOLUSCOS"
+        },
+        {
+            "codigo": "42",
+            "descricao": "COM ATACADISTA PRODS ALIMENTICIOS INDUSTRIALIZADOS"
+        },
+        {
+            "codigo": "43",
+            "descricao": "COM ATACADISTA PRODS ALIMENTICIOS NAO ESPEC"
+        },
+        {
+            "codigo": "44",
+            "descricao": "COM ATACADISTA PRODS E RESIDUOS ORIG VEG E ANIMAL"
+        },
+        {
+            "codigo": "45",
+            "descricao": "COM ATACADISTA PRODS QUIMICOS NAO ESPECIFICADOS"
+        },
+        {
+            "codigo": "46",
+            "descricao": "COM VAREJ DE APAR E EQUIPS P COMUNIC,PEC E ACESS"
+        },
+        {
+            "codigo": "47",
+            "descricao": "COM VAREJ DE ART DESPORTIVOS,CACA,PESCA E CAMPING"
+        },
+        {
+            "codigo": "48",
+            "descricao": "COM VAREJ DE EQUIPS DE INFORMATICA,PEC E ACESS"
+        },
+        {
+            "codigo": "49",
+            "descricao": "COM VAREJ DE PRODS DE HIGIENE,LIMPEZA E CONS DOMIC"
+        },
+        {
+            "codigo": "50",
+            "descricao": "COM VAREJ FERRAGENS,FERRAMENTAS,PRODS MET,CUTELAR"
+        },
+        {
+            "codigo": "51",
+            "descricao": "COM VAREJ MAQS,APAR EQUIPS ODONTO-MED-HOSP LABORAT"
+        },
+        {
+            "codigo": "52",
+            "descricao": "COM VAREJISTA DE MATERIAL ELETRICO E ELETRONICO"
+        },
+        {
+            "codigo": "53",
+            "descricao": "COMERCIO ATACADISTA"
+        },
+        {
+            "codigo": "54",
+            "descricao": "COMERCIO ATACADISTA (OUTROS)"
+        },
+        {
+            "codigo": "55",
+            "descricao": "COMERCIO VAREJISTA"
+        },
+        {
+            "codigo": "56",
+            "descricao": "COMERCIO VAREJISTA DE ARTIGOS NAO ESPECIFICADOS"
+        },
+        {
+            "codigo": "57",
+            "descricao": "COMERCIO VAREJISTA DE ARTIGOS USADOS"
+        },
+        {
+            "codigo": "58",
+            "descricao": "COMERCIO VAREJISTA DE BOMBAS E COMPRESSORES"
+        },
+        {
+            "codigo": "59",
+            "descricao": "COMERCIO VAREJISTA DE MATERIAL DE CONSTRUCAO"
+        },
+        {
+            "codigo": "60",
+            "descricao": "COMERCIO VAREJISTA DE PECAS E ACESS PARA VEICULOS"
+        },
+        {
+            "codigo": "61",
+            "descricao": "COMERCIO VAREJISTA DE PRODS ALIMENT NAO ESPEC"
+        },
+        {
+            "codigo": "62",
+            "descricao": "COMERCIO VAREJISTA DE PRODS QUIMS NAO ESPECIF"
+        },
+        {
+            "codigo": "63",
+            "descricao": "COMERCIO VAREJISTA DE VEICULOS"
+        },
+        {
+            "codigo": "64",
+            "descricao": "CONCRET ESTRUTURAS,ARMACOES FERRO, FORMA P CONCRET"
+        },
+        {
+            "codigo": "65",
+            "descricao": "CONFEC ARTEFS LONA E DE TECIDOS DE ACABAM ESPECIAL"
+        },
+        {
+            "codigo": "66",
+            "descricao": "CONFEC ARTEFS TECIDOS NAO ESPECIF"
+        },
+        {
+            "codigo": "67",
+            "descricao": "CONFEC PECAS INTERIORES DO VESTUARIO"
+        },
+        {
+            "codigo": "68",
+            "descricao": "CONFEC ROUPAS"
+        },
+        {
+            "codigo": "69",
+            "descricao": "CONFEC ROUPAS DE CAMA, MESA, COPA E BANHO"
+        },
+        {
+            "codigo": "70",
+            "descricao": "CONFEC ROUPAS DO VESTUARIO INFANTO-JUVENIL"
+        },
+        {
+            "codigo": "71",
+            "descricao": "CONFEC ROUPAS E AGASALHOS NAO ESPECIF"
+        },
+        {
+            "codigo": "72",
+            "descricao": "CONFEC ROUPAS P BANHO"
+        },
+        {
+            "codigo": "73",
+            "descricao": "CONFEC ROUPAS PROFISSIONAIS E P SEGURANCA TRABALHO"
+        },
+        {
+            "codigo": "74",
+            "descricao": "CONFECCAO DE PARTES E COMPONENTES P CALCADOS"
+        },
+        {
+            "codigo": "75",
+            "descricao": "CONSTRUCAO"
+        },
+        {
+            "codigo": "76",
+            "descricao": "CONSTRUCAO CIVIL NAO ESPECIF"
+        },
+        {
+            "codigo": "77",
+            "descricao": "CONSTRUCAO DE EDIFICIOS"
+        },
+        {
+            "codigo": "78",
+            "descricao": "CONSTRUCAO DE GRANDES ESTRUTURAS E OBRAS DE ARTE"
+        },
+        {
+            "codigo": "79",
+            "descricao": "CONSTRUCAO E REPAR EMBARARC E ESTRUTS FLUTUANTES"
+        },
+        {
+            "codigo": "80",
+            "descricao": "CONSTRUCAO E REPARACAO DE AVIOES"
+        },
+        {
+            "codigo": "81",
+            "descricao": "COOPERATIVAS DE BENEF, INDUSTRIALIZAC E COMERCIALI"
+        },
+        {
+            "codigo": "82",
+            "descricao": "COOPERATIVAS DE PRODUCAO"
+        },
+        {
+            "codigo": "83",
+            "descricao": "CULTURA DE CANA-DE-ACUCAR"
+        },
+        {
+            "codigo": "84",
+            "descricao": "CULTURA DE CEREAIS, LEGUMINOSAS E OLEAGINOSAS"
+        },
+        {
+            "codigo": "85",
+            "descricao": "CULTURA DE SEMENTES E MUDAS"
+        },
+        {
+            "codigo": "86",
+            "descricao": "DECORACAO AMBIENTES - CONSULTORIA TECNICA E PROJET"
+        },
+        {
+            "codigo": "87",
+            "descricao": "DESTILACAO ALCOOL P PROCES CANA-DE-ACUCAR,MANDIOCA"
+        },
+        {
+            "codigo": "88",
+            "descricao": "DIVERSAS"
+        },
+        {
+            "codigo": "89",
+            "descricao": "EDICAO DE JORNAIS"
+        },
+        {
+            "codigo": "90",
+            "descricao": "EDICAO DE LIVROS E MANUAIS"
+        },
+        {
+            "codigo": "91",
+            "descricao": "EDICAO DE PERIODICOS"
+        },
+        {
+            "codigo": "92",
+            "descricao": "EDITORIAL E GRAFICA"
+        },
+        {
+            "codigo": "93",
+            "descricao": "ENTIDADE DE CLASSE E SINDICAIS"
+        },
+        {
+            "codigo": "94",
+            "descricao": "ENTIDADES DE CLASSE E SINDICAIS"
+        },
+        {
+            "codigo": "95",
+            "descricao": "ESCRIT GERENCIA ADMINISTRAC EMPRESAS PRESTAD SERV"
+        },
+        {
+            "codigo": "96",
+            "descricao": "ESCRIT GERENCIA E ADMINIST NAO ESPECIFICADOS"
+        },
+        {
+            "codigo": "97",
+            "descricao": "ESCRIT GERENCIA E ADMINISTR EMPRESAS INDUSTRIAIS"
+        },
+        {
+            "codigo": "98",
+            "descricao": "EXECUCAO DE SERVICOS GRAFICOS NAO ESPECIF"
+        },
+        {
+            "codigo": "99",
+            "descricao": "EXECUCAO DE TRABALHOS EM PEDRAS"
+        },
+        {
+            "codigo": "100",
+            "descricao": "EXPLORAC LOCAIS INSTALAC PARA DIVERSAO,RECREAC,ESPOR"
+        },
+        {
+            "codigo": "101",
+            "descricao": "EXPORTACAO DE PRODUTOS"
+        },
+        {
+            "codigo": "102",
+            "descricao": "EXTRACAO COMBUSTIVEIS MINERAIS NAO ESPECIF"
+        },
+        {
+            "codigo": "103",
+            "descricao": "EXTRACAO MINERAIS"
+        },
+        {
+            "codigo": "104",
+            "descricao": "EXTRACAO MINERAIS NAO-METALICOS NAO ESPECIF"
+        },
+        {
+            "codigo": "105",
+            "descricao": "EXTRACAO MINERAIS P FAB DE ADUBOS E FERTILIZANTES"
+        },
+        {
+            "codigo": "106",
+            "descricao": "EXTRACAO PEDRAS E MATERIAIS EM BRUTO P CONSTRUCAO"
+        },
+        {
+            "codigo": "107",
+            "descricao": "FAB ACESS DO VESTUARIO"
+        },
+        {
+            "codigo": "108",
+            "descricao": "FAB ACESS PROFISSIONAIS E P SEGURANCA NO TRABALHO"
+        },
+        {
+            "codigo": "109",
+            "descricao": "FAB ACESS TEXTEIS P CONFECCOES"
+        },
+        {
+            "codigo": "110",
+            "descricao": "FAB ANTENAS P TRANSMISSAO E RECEPCAO DE IMAGEM-SOM"
+        },
+        {
+            "codigo": "111",
+            "descricao": "FAB APARS E EQUIPS DE SINALIZACAO,ALARME E PUBLIC"
+        },
+        {
+            "codigo": "112",
+            "descricao": "FAB APARS E EQUIPS DE TELEFONIA E RADIOTELEFONIA"
+        },
+        {
+            "codigo": "113",
+            "descricao": "FAB APARS E EQUIPS ELETRICOS P FINS ELETROQUIMICOS"
+        },
+        {
+            "codigo": "114",
+            "descricao": "FAB APARS E EQUIPS ODONTO-MEDICO-HOSPITALARES"
+        },
+        {
+            "codigo": "115",
+            "descricao": "FAB APARS E UTENSILIOS ELETRICOS P FINS INDS E COM"
+        },
+        {
+            "codigo": "116",
+            "descricao": "FAB APARS ELETRICOS P USOS DOMESTICO E PESSOAL"
+        },
+        {
+            "codigo": "117",
+            "descricao": "FAB APARS FOTOGRAF E CINEMATOGRAF, PECAS E ACESS"
+        },
+        {
+            "codigo": "118",
+            "descricao": "FAB APARS P RECEPCAO E REPRODUCAO DE IMAGEM E SOM"
+        },
+        {
+            "codigo": "119",
+            "descricao": "FAB APARS P TRANSMISSAO DE IMAGEM E SOM"
+        },
+        {
+            "codigo": "120",
+            "descricao": "FAB ARTEFS BAMBU, VIME,JUNCO, XAXIM,PALHA TRANCADA"
+        },
+        {
+            "codigo": "121",
+            "descricao": "FAB ARTEFS BORRACHA P VEICULOS, MAQS E APARS"
+        },
+        {
+            "codigo": "122",
+            "descricao": "FAB ARTEFS CERAMICOS OU DE BARRO COZIDO P CONSTRUC"
+        },
+        {
+            "codigo": "123",
+            "descricao": "FAB ARTEFS CERAMICOS OU EM BARRO COZIDO P USO DOM"
+        },
+        {
+            "codigo": "124",
+            "descricao": "FAB ARTEFS COLCHOARIA"
+        },
+        {
+            "codigo": "125",
+            "descricao": "FAB ARTEFS COUROS,PELES E ASSEMELHADOS NAO ESPECIF"
+        },
+        {
+            "codigo": "126",
+            "descricao": "FAB ARTEFS DE CIMENTO NAO ESPECIF"
+        },
+        {
+            "codigo": "127",
+            "descricao": "FAB ARTEFS DE CIMENTO P CONSTRUCAO"
+        },
+        {
+            "codigo": "128",
+            "descricao": "FAB ARTEFS DE CORTICA"
+        },
+        {
+            "codigo": "129",
+            "descricao": "FAB ARTEFS DE CUTELARIA"
+        },
+        {
+            "codigo": "130",
+            "descricao": "FAB ARTEFS DE ESCRITORIO"
+        },
+        {
+            "codigo": "131",
+            "descricao": "FAB ARTEFS DE FIBROCIMENTO"
+        },
+        {
+            "codigo": "132",
+            "descricao": "FAB ARTEFS DE METAL ESTAMPADO"
+        },
+        {
+            "codigo": "133",
+            "descricao": "FAB ARTEFS DE METAL P ESCRITORIO E USO PESSOAL"
+        },
+        {
+            "codigo": "134",
+            "descricao": "FAB ARTEFS DE VIDRO E CRISTAL P IND MAT ELETRICO"
+        },
+        {
+            "codigo": "135",
+            "descricao": "FAB ARTEFS DE VIDRO E CRISTAL, NAO ESPECIF"
+        },
+        {
+            "codigo": "136",
+            "descricao": "FAB ARTEFS DE VIDRO E DE CRISTAL P USO DOMESTICO"
+        },
+        {
+            "codigo": "137",
+            "descricao": "FAB ARTEFS DE VIDRO P EMBALAGEM E ACONDICIONAMENTO"
+        },
+        {
+            "codigo": "138",
+            "descricao": "FAB ARTEFS DIVERSOS NAO ESPECIF"
+        },
+        {
+            "codigo": "139",
+            "descricao": "FAB ARTEFS E EQUIPS P CACA E PESCA"
+        },
+        {
+            "codigo": "140",
+            "descricao": "FAB ARTEFS E EQUIPS P ESPORTE"
+        },
+        {
+            "codigo": "141",
+            "descricao": "FAB ARTEFS E EQUIPS P JOGOS RECREATIVOS"
+        },
+        {
+            "codigo": "142",
+            "descricao": "FAB ARTEFS ESCOLARES"
+        },
+        {
+            "codigo": "143",
+            "descricao": "FAB ARTEFS FUNILARIA DE FERRO,ACO,METAIS NAO FERRO"
+        },
+        {
+            "codigo": "144",
+            "descricao": "FAB ARTEFS MADEIRA E CARPINTARIA NAO ESPECIF"
+        },
+        {
+            "codigo": "145",
+            "descricao": "FAB ARTEFS MADEIRA NAO ESPECIF"
+        },
+        {
+            "codigo": "146",
+            "descricao": "FAB ARTEFS MADEIRA TORNEADA"
+        },
+        {
+            "codigo": "147",
+            "descricao": "FAB ARTEFS MAT PLASTICO P USOS DOMESTICO E PESSOAL"
+        },
+        {
+            "codigo": "148",
+            "descricao": "FAB ARTEFS MATERIAL PLASTICO NAO ESPECIF"
+        },
+        {
+            "codigo": "149",
+            "descricao": "FAB ARTEFS MATERIAL PLASTICO P EMBALAGEM E ACONDIC"
+        },
+        {
+            "codigo": "150",
+            "descricao": "FAB ARTEFS MATERIAL PLASTICO P IND CONSTRUCAO"
+        },
+        {
+            "codigo": "151",
+            "descricao": "FAB ARTEFS MATERIAL PLASTICO P IND MAT ELETRICO"
+        },
+        {
+            "codigo": "152",
+            "descricao": "FAB ARTEFS MATERIAL PLASTICO P IND MECANICA"
+        },
+        {
+            "codigo": "153",
+            "descricao": "FAB ARTEFS P TRANSPORTE DE OBJETOS DE USO PESSOAL"
+        },
+        {
+            "codigo": "154",
+            "descricao": "FAB ARTEFS PAPEL, PAPELAO, CARTAO NAO ESPECIF"
+        },
+        {
+            "codigo": "155",
+            "descricao": "FAB ARTEFS PAPEL,PAPELAO,CARTAO E CARTOLINA P ESCR"
+        },
+        {
+            "codigo": "156",
+            "descricao": "FAB ARTEFS PAPEL,PAPELAO,CARTAO,CARTOLINA P REVEST"
+        },
+        {
+            "codigo": "157",
+            "descricao": "FAB ARTEFS SERRALHERIA, CALDEIRARIA NAO ESPECIF"
+        },
+        {
+            "codigo": "158",
+            "descricao": "FAB ARTEFS TAPECARIA"
+        },
+        {
+            "codigo": "159",
+            "descricao": "FAB ARTEFS TEXTEIS NAO ESPECIF"
+        },
+        {
+            "codigo": "160",
+            "descricao": "FAB ARTEFS TREFILADOS DE FERRO,ACO,METAIS NAO-FERR"
+        },
+        {
+            "codigo": "161",
+            "descricao": "FAB ARTEFS, PECAS E ORNATOS DE GESSO E ESTUQUE"
+        },
+        {
+            "codigo": "162",
+            "descricao": "FAB ARTFS BORRACHA P USO INDUSTRIAL"
+        },
+        {
+            "codigo": "163",
+            "descricao": "FAB ARTFS BORRACHA P USO PESSOAL E DOMESTICO"
+        },
+        {
+            "codigo": "164",
+            "descricao": "FAB ARTFS SELARIA EM COURO E ASSEMELHAD P ANIMAIS"
+        },
+        {
+            "codigo": "165",
+            "descricao": "FAB AVIAMENTOS P COSTURA"
+        },
+        {
+            "codigo": "166",
+            "descricao": "FAB BALAS, CARAMELOS, PASTILHAS E DROPS"
+        },
+        {
+            "codigo": "167",
+            "descricao": "FAB BANCOS E ESTOFADOS P VEICULOS"
+        },
+        {
+            "codigo": "168",
+            "descricao": "FAB BICICLETAS, TRICICLOS E CICLOMOTORES"
+        },
+        {
+            "codigo": "169",
+            "descricao": "FAB BIJUTERIAS"
+        },
+        {
+            "codigo": "170",
+            "descricao": "FAB BRINQUEDOS, PECAS E ACESS"
+        },
+        {
+            "codigo": "171",
+            "descricao": "FAB CABINES E CARROCARIAS P VEICS RODOVIARIOS"
+        },
+        {
+            "codigo": "172",
+            "descricao": "FAB CAFE SOLUVEL"
+        },
+        {
+            "codigo": "173",
+            "descricao": "FAB CAIXAS DE MADEIRA"
+        },
+        {
+            "codigo": "174",
+            "descricao": "FAB CALCADOS DE COURO E ASSEMELHADOS"
+        },
+        {
+            "codigo": "175",
+            "descricao": "FAB CALCADOS DE PLASTICO"
+        },
+        {
+            "codigo": "176",
+            "descricao": "FAB CALCADOS DE TECIDO"
+        },
+        {
+            "codigo": "177",
+            "descricao": "FAB CALCADOS P DANCA E ESPORTES"
+        },
+        {
+            "codigo": "178",
+            "descricao": "FAB CALDEIRAS GERADORAS DE VAPOR"
+        },
+        {
+            "codigo": "179",
+            "descricao": "FAB CARNEIROS HIDRAULICOS,BOMBAS CENTRIF,VALVULAS"
+        },
+        {
+            "codigo": "180",
+            "descricao": "FAB CELULOSE,PASTA MECANICA,TERMOMECANICA,E ARTEFS"
+        },
+        {
+            "codigo": "181",
+            "descricao": "FAB CERAMICA P SERVICO DE MESA"
+        },
+        {
+            "codigo": "182",
+            "descricao": "FAB CERAS NATURAIS"
+        },
+        {
+            "codigo": "183",
+            "descricao": "FAB CHAPAS,PLACAS MADEIRA AGLOMERADA OU PRENSADA"
+        },
+        {
+            "codigo": "184",
+            "descricao": "FAB CHAPEUS, GORROS, BOINAS E BONES"
+        },
+        {
+            "codigo": "185",
+            "descricao": "FAB CIGARROS"
+        },
+        {
+            "codigo": "186",
+            "descricao": "FAB COFRES,CAIXAS DE SEGURANCA,PORTAS BLINDADAS"
+        },
+        {
+            "codigo": "187",
+            "descricao": "FAB COLAS, ADESIVOS, SELANTES E AFINS"
+        },
+        {
+            "codigo": "188",
+            "descricao": "FAB COMPONENTES ELETRICOS"
+        },
+        {
+            "codigo": "189",
+            "descricao": "FAB CONCENTRADOS AROMATICOS NATURAIS,ARTIF,SINTET"
+        },
+        {
+            "codigo": "190",
+            "descricao": "FAB CONDUTORES ELETRICOS"
+        },
+        {
+            "codigo": "191",
+            "descricao": "FAB CORANTES E PIGMENTOS"
+        },
+        {
+            "codigo": "192",
+            "descricao": "FAB CORDOARIA"
+        },
+        {
+            "codigo": "193",
+            "descricao": "FAB CORREIAS DE COURO,SEUS ARTEFS E ASSEMELH P MAQ"
+        },
+        {
+            "codigo": "194",
+            "descricao": "FAB CRONOMETROS E RELOGIOS, PEÇAS E ACESS"
+        },
+        {
+            "codigo": "195",
+            "descricao": "FAB CRONOMETROS,RELOGIOS ELETRONICOS,PECAS E ACESS"
+        },
+        {
+            "codigo": "196",
+            "descricao": "FAB DE CAL"
+        },
+        {
+            "codigo": "197",
+            "descricao": "FAB DE CLINQUER E CIMENTO"
+        },
+        {
+            "codigo": "198",
+            "descricao": "FAB DE PAPEL P FINS SANITARIOS"
+        },
+        {
+            "codigo": "199",
+            "descricao": "FAB DE PEÇAS P MAQS, APARS E EQUIPS NAO ESPECIF"
+        },
+        {
+            "codigo": "200",
+            "descricao": "FAB DEFENSIVOS AGRICOLAS"
+        },
+        {
+            "codigo": "201",
+            "descricao": "FAB DERIVADOS DO BENEFIC DO CACAU"
+        },
+        {
+            "codigo": "202",
+            "descricao": "FAB DESINFETANTES"
+        },
+        {
+            "codigo": "203",
+            "descricao": "FAB DOCES EM MASSA, PASTA OU EM CALDA"
+        },
+        {
+            "codigo": "204",
+            "descricao": "FAB E ENGARRAF AGUARDENTE DE CANA-DE-ACUCAR"
+        },
+        {
+            "codigo": "205",
+            "descricao": "FAB E ENGARRAF CERVEJAS E CHOPES"
+        },
+        {
+            "codigo": "206",
+            "descricao": "FAB E ENGARRAF DE VINHOS DE UVA"
+        },
+        {
+            "codigo": "207",
+            "descricao": "FAB E ENGARRAF LICORES E OUTRAS BEBIDAS ALCOOLICAS"
+        },
+        {
+            "codigo": "208",
+            "descricao": "FAB E ENGARRAF REFRIGERANTES"
+        },
+        {
+            "codigo": "209",
+            "descricao": "FAB EMBALAG METALICAS DE FERRO,ACO E MET NAO FERRO"
+        },
+        {
+            "codigo": "210",
+            "descricao": "FAB EMBALAGENS DE PAPEL,PAPELAO,CARTAO E CARTOLINA"
+        },
+        {
+            "codigo": "211",
+            "descricao": "FAB EQUIPS DE TRANSMISSAO P FINS INDUSTRIAIS"
+        },
+        {
+            "codigo": "212",
+            "descricao": "FAB EQUIPS DE USO DO BEBE"
+        },
+        {
+            "codigo": "213",
+            "descricao": "FAB EQUIPS PERIFERICOS P MAIS ELETRONICAS"
+        },
+        {
+            "codigo": "214",
+            "descricao": "FAB ESPELHOS"
+        },
+        {
+            "codigo": "215",
+            "descricao": "FAB ESPUMA DE MATERIAL PLASTICO"
+        },
+        {
+            "codigo": "216",
+            "descricao": "FAB ESPUMA E ARTEFS DE ESPUMA DE BORRACHA"
+        },
+        {
+            "codigo": "217",
+            "descricao": "FAB ESQUADRIAS,PECAS DE MADEIRA P INSTALACOES INDS"
+        },
+        {
+            "codigo": "218",
+            "descricao": "FAB ESQUADRIAS,PORTOES,PORTAS,MARCOS DE METAL"
+        },
+        {
+            "codigo": "219",
+            "descricao": "FAB ESTOPA, MATS P ESTOFO E RECUP RESIDUOS TEXTEIS"
+        },
+        {
+            "codigo": "220",
+            "descricao": "FAB ESTRUTURAS METALICAS"
+        },
+        {
+            "codigo": "221",
+            "descricao": "FAB ESTRUTURAS PRE-MOLDADAS DE CIMENTO ARMADO"
+        },
+        {
+            "codigo": "222",
+            "descricao": "FAB FARINHAS E SEUS DERIVADOS"
+        },
+        {
+            "codigo": "223",
+            "descricao": "FAB FERMENTO, LEVEDURAS E COALHOS"
+        },
+        {
+            "codigo": "224",
+            "descricao": "FAB FERRAGENS"
+        },
+        {
+            "codigo": "225",
+            "descricao": "FAB FERRAGENS ELETROTECN P INST DE REDE ELETRICA"
+        },
+        {
+            "codigo": "226",
+            "descricao": "FAB FERRAMENTAS MANUAIS"
+        },
+        {
+            "codigo": "227",
+            "descricao": "FAB FERTILIZANTES"
+        },
+        {
+            "codigo": "228",
+            "descricao": "FAB FIBRA E LA DE VIDRO E DE SEUS ARTEFS"
+        },
+        {
+            "codigo": "229",
+            "descricao": "FAB FIOS E FIBRAS ARTIFICIAIS E SINTETICAS"
+        },
+        {
+            "codigo": "230",
+            "descricao": "FAB FITAS MAGNETICAS GRAVADAS"
+        },
+        {
+            "codigo": "231",
+            "descricao": "FAB FORMAS E MODELOS DE MADEIRA"
+        },
+        {
+            "codigo": "232",
+            "descricao": "FAB FOSFOROS DE SEGURANCA E ARTIGOS PIROTECNICOS"
+        },
+        {
+            "codigo": "233",
+            "descricao": "FAB GELO"
+        },
+        {
+            "codigo": "234",
+            "descricao": "FAB GOMAS DE MASCAR"
+        },
+        {
+            "codigo": "235",
+            "descricao": "FAB GRANALHA"
+        },
+        {
+            "codigo": "236",
+            "descricao": "FAB INSTRUMENTOS MUSICAIS, PECAS E ACESS"
+        },
+        {
+            "codigo": "237",
+            "descricao": "FAB INSTRUMENTOS OTICOS, PECAS E ACESS"
+        },
+        {
+            "codigo": "238",
+            "descricao": "FAB INSTRUMS E ACESS ODONTO-MEDICO-HOSPITALARES"
+        },
+        {
+            "codigo": "239",
+            "descricao": "FAB INSTRUMS,APARS DE MEDICAO P USO TECNICO E PROF"
+        },
+        {
+            "codigo": "240",
+            "descricao": "FAB LAMINADOS E PLACAS DE BORRACHA"
+        },
+        {
+            "codigo": "241",
+            "descricao": "FAB LAMINADOS MATERIAL PLASTICO"
+        },
+        {
+            "codigo": "242",
+            "descricao": "FAB LAMPADAS, PECAS E ACESS"
+        },
+        {
+            "codigo": "243",
+            "descricao": "FAB LINHAS E FIOS P COSER E BORDAR,TINTUR DE FIOS"
+        },
+        {
+            "codigo": "244",
+            "descricao": "FAB MANILHAS,CANOS,TUBOS E CONEXOES DE MAT PLASTIC"
+        },
+        {
+            "codigo": "245",
+            "descricao": "FAB MAQS APARS E EQUIPS P BENEF DE PRODS AGRICOLAS"
+        },
+        {
+            "codigo": "246",
+            "descricao": "FAB MAQS APARS E MATERIAIS P AGRICULTURA"
+        },
+        {
+            "codigo": "247",
+            "descricao": "FAB MAQS APARS E MATS P CRIACAO ANIMAL"
+        },
+        {
+            "codigo": "248",
+            "descricao": "FAB MAQS E APAR P IND GRAFICA E DE ARTEFS DE PAPEL"
+        },
+        {
+            "codigo": "249",
+            "descricao": "FAB MAQS E APARS DE TERRAPLENAGEM E PAVIMENTACAO"
+        },
+        {
+            "codigo": "250",
+            "descricao": "FAB MAQS E APARS P IND DA CONSTRUCAO"
+        },
+        {
+            "codigo": "251",
+            "descricao": "FAB MAQS E APARS P IND DA MADEIRA"
+        },
+        {
+            "codigo": "252",
+            "descricao": "FAB MAQS E APARS P IND DE ARTS DE PLAST E BORRACHA"
+        },
+        {
+            "codigo": "253",
+            "descricao": "FAB MAQS E APARS P IND DE CELULOSE,PAPEL E PAPELAO"
+        },
+        {
+            "codigo": "254",
+            "descricao": "FAB MAQS E APARS P IND DE FUMO"
+        },
+        {
+            "codigo": "255",
+            "descricao": "FAB MAQS E APARS P IND DE OBRAS EM METAIS"
+        },
+        {
+            "codigo": "256",
+            "descricao": "FAB MAQS E APARS P IND DE PRODS ALIMENTARES"
+        },
+        {
+            "codigo": "257",
+            "descricao": "FAB MAQS E APARS P IND DO ACUCAR,DESTILACAO ALCOOL"
+        },
+        {
+            "codigo": "258",
+            "descricao": "FAB MAQS E APARS P IND METALURGICA"
+        },
+        {
+            "codigo": "259",
+            "descricao": "FAB MAQS E APARS P IND TEXTIL E DE CONFECCOES"
+        },
+        {
+            "codigo": "260",
+            "descricao": "FAB MAQS E APARS P MINER,PEDREIRAS,EXTRAC PETROLEO"
+        },
+        {
+            "codigo": "261",
+            "descricao": "FAB MAQS E APARS P USO DOMESTICO"
+        },
+        {
+            "codigo": "262",
+            "descricao": "FAB MAQS MOTRIZES NAO ELETRICAS"
+        },
+        {
+            "codigo": "263",
+            "descricao": "FAB MAQS, APARS E EQUIPS NAO ESPECIF"
+        },
+        {
+            "codigo": "264",
+            "descricao": "FAB MAQS, APARS E EQUIPS P INSTALACOES HIDRAULICAS"
+        },
+        {
+            "codigo": "265",
+            "descricao": "FAB MAQS, APARS E UTENS P ESCRITORIO"
+        },
+        {
+            "codigo": "266",
+            "descricao": "FAB MAQS,APARS DE SIST ELETRONICOS P PROC DE DADOS"
+        },
+        {
+            "codigo": "267",
+            "descricao": "FAB MAQS,APARS E EQUIPS P INSTALACOES TERMICAS"
+        },
+        {
+            "codigo": "268",
+            "descricao": "FAB MAQS,APARS E EQUIPS P POSTOS DE GASOLINA"
+        },
+        {
+            "codigo": "269",
+            "descricao": "FAB MAQS,APARS E EQUIPS REFRIGERACAO E VENTILACAO"
+        },
+        {
+            "codigo": "270",
+            "descricao": "FAB MAQS,APARS P EXERCICIO-ARTES,ESPORTES,OFICIOS"
+        },
+        {
+            "codigo": "271",
+            "descricao": "FAB MAQS,APARS P GERACAO,TRANSMIS,DISTR DE ENERGIA"
+        },
+        {
+            "codigo": "272",
+            "descricao": "FAB MAQS,APARS SIST ELETRON P AUTOMACAO GERENCIAL"
+        },
+        {
+            "codigo": "273",
+            "descricao": "FAB MASSAS"
+        },
+        {
+            "codigo": "274",
+            "descricao": "FAB MATERIAIS ABRASIVOS"
+        },
+        {
+            "codigo": "275",
+            "descricao": "FAB MATERIAIS IMPRESSOS NAO ESPECIF"
+        },
+        {
+            "codigo": "276",
+            "descricao": "FAB MATERIAL BELICO E EQUIPS MILITARES NAO ESPECIF"
+        },
+        {
+            "codigo": "277",
+            "descricao": "FAB MATERIAL DE CONSUMO ODONTO-MEDICO-HOSPITALARES"
+        },
+        {
+            "codigo": "278",
+            "descricao": "FAB MATERIAL ELETRICO P VEICULOS, PECAS E ACESS"
+        },
+        {
+            "codigo": "279",
+            "descricao": "FAB MATERIAL ELETRONICO BASICO"
+        },
+        {
+            "codigo": "280",
+            "descricao": "FAB MATERIAL FOTOGRAFICO"
+        },
+        {
+            "codigo": "281",
+            "descricao": "FAB MATERIAL IMPRESSO DE SEGURANCA"
+        },
+        {
+            "codigo": "282",
+            "descricao": "FAB MATERIAL IMPRESSO P USO ESCOLAR"
+        },
+        {
+            "codigo": "283",
+            "descricao": "FAB MATERIAL IMPRESSO P USOS INDL, COML E PUBLICIT"
+        },
+        {
+            "codigo": "284",
+            "descricao": "FAB MATERIAL OTICO"
+        },
+        {
+            "codigo": "285",
+            "descricao": "FAB MATERIAL P INSTALACOES ELETRICAS"
+        },
+        {
+            "codigo": "286",
+            "descricao": "FAB MATERIAL P RECONDICIONAMENTO DE PNEUMATICOS"
+        },
+        {
+            "codigo": "287",
+            "descricao": "FAB MATERIAL REFRATARIO"
+        },
+        {
+            "codigo": "288",
+            "descricao": "FAB MEIAS"
+        },
+        {
+            "codigo": "289",
+            "descricao": "FAB MODULADOS DE MADEIRA"
+        },
+        {
+            "codigo": "290",
+            "descricao": "FAB MOLDURAS E EXECUCAO DE OBRAS DE TALHA"
+        },
+        {
+            "codigo": "291",
+            "descricao": "FAB MOTORES ELETRICOS"
+        },
+        {
+            "codigo": "292",
+            "descricao": "FAB MOVEIS DE MADEIRA OU COM SUA PREDOMINANCIA"
+        },
+        {
+            "codigo": "293",
+            "descricao": "FAB MOVEIS DE METAL OU COM SUA PREDOMINANCIA"
+        },
+        {
+            "codigo": "294",
+            "descricao": "FAB MOVEIS E PECAS DO MOBILIARIO NAO ESPECIF"
+        },
+        {
+            "codigo": "295",
+            "descricao": "FAB MOVEIS MAT PLASTICO OU COM SUA PREDOMINANCIA"
+        },
+        {
+            "codigo": "296",
+            "descricao": "FAB OLEOS E GRAXAS LUBRIFICANTES E ADITIVOS"
+        },
+        {
+            "codigo": "297",
+            "descricao": "FAB OLEOS ESSEN VEGETAIS, DERIV DESTILACAO MADEIRA"
+        },
+        {
+            "codigo": "298",
+            "descricao": "FAB PAES, BOLOS, BISCOITOS, TORTAS"
+        },
+        {
+            "codigo": "299",
+            "descricao": "FAB PAINEIS E PLACAS P PROPAGANDA E SINALIZACAO"
+        },
+        {
+            "codigo": "300",
+            "descricao": "FAB PAPEL P EMBALAGEM E ACONDICIONAMENTO"
+        },
+        {
+            "codigo": "301",
+            "descricao": "FAB PAPEL P IMPRESSAO, ESCRITA E DESENHO"
+        },
+        {
+            "codigo": "302",
+            "descricao": "FAB PAPELAO, CARTAO E CARTOLINA"
+        },
+        {
+            "codigo": "303",
+            "descricao": "FAB PECAS E ACESS MATERIAL PLASTICO P VEICULOS"
+        },
+        {
+            "codigo": "304",
+            "descricao": "FAB PECAS E ACESS P MAQS E APARS ELETRICOS"
+        },
+        {
+            "codigo": "305",
+            "descricao": "FAB PECAS E ACESS P MAQS MOTRIZES NAO-ELETRICAS"
+        },
+        {
+            "codigo": "306",
+            "descricao": "FAB PECAS E ACESS P MAQS, APARS P INFORMATICA"
+        },
+        {
+            "codigo": "307",
+            "descricao": "FAB PECAS E ACESS P TRATORES E APARS TERRAPLENAGEM"
+        },
+        {
+            "codigo": "308",
+            "descricao": "FAB PECAS E ACESS P VEIC AUTOMOTORES RODOVIARIOS"
+        },
+        {
+            "codigo": "309",
+            "descricao": "FAB PECAS PAPEL, PAPELAO, CARTAO P MAQS E TRANSPOR"
+        },
+        {
+            "codigo": "310",
+            "descricao": "FAB PECAS,ACESS P APARS DE COMUNICACAO,IMAGEM,SOM"
+        },
+        {
+            "codigo": "311",
+            "descricao": "FAB PERSIANAS E ARTEFS DO MOBILIARIO"
+        },
+        {
+            "codigo": "312",
+            "descricao": "FAB PILHAS, ACUMULADORES E SEUS COMPLEMENTOS"
+        },
+        {
+            "codigo": "313",
+            "descricao": "FAB PLASTIFICANTES"
+        },
+        {
+            "codigo": "314",
+            "descricao": "FAB PNEUMATICOS,CAMARAS-DE-AR E RECONDIC PNEUMATIC"
+        },
+        {
+            "codigo": "315",
+            "descricao": "FAB PO METALICO E DE PECAS SINTERIZADAS"
+        },
+        {
+            "codigo": "316",
+            "descricao": "FAB POLVORAS, EXPLOSIVOS E DETONANTES"
+        },
+        {
+            "codigo": "317",
+            "descricao": "FAB POS ALIMENTICIOS"
+        },
+        {
+            "codigo": "318",
+            "descricao": "FAB PRODS ALIMENTARES NAO ESPECIF"
+        },
+        {
+            "codigo": "319",
+            "descricao": "FAB PRODS CERAMICOS NAO ESPECIF"
+        },
+        {
+            "codigo": "320",
+            "descricao": "FAB PRODS DA MANDIOCA"
+        },
+        {
+            "codigo": "321",
+            "descricao": "FAB PRODS DE MINERAIS NAO-METALICOS NAO ESPECIF"
+        },
+        {
+            "codigo": "322",
+            "descricao": "FAB PRODS DE PERFUMARIA, COSMETICOS"
+        },
+        {
+            "codigo": "323",
+            "descricao": "FAB PRODS DESTILACAO DO CARVAO MINERAL"
+        },
+        {
+            "codigo": "324",
+            "descricao": "FAB PRODS DO REFINO DO PETROLEO"
+        },
+        {
+            "codigo": "325",
+            "descricao": "FAB PRODS FARMACEUTICOS"
+        },
+        {
+            "codigo": "326",
+            "descricao": "FAB PRODS ORG BASICOS-INTERMED,PETROQ,DERIV CARVAO"
+        },
+        {
+            "codigo": "327",
+            "descricao": "FAB PRODS P HIGIENE PESSOAL"
+        },
+        {
+            "codigo": "328",
+            "descricao": "FAB PRODS PADRON TREFILAD DE FERRO,ACO,MET NAO FER"
+        },
+        {
+            "codigo": "329",
+            "descricao": "FAB PRODS QUIMICOS NAO ESPECIF"
+        },
+        {
+            "codigo": "330",
+            "descricao": "FAB PRODS VETERINARIOS"
+        },
+        {
+            "codigo": "331",
+            "descricao": "FAB QUIMICOS ORGANICOS"
+        },
+        {
+            "codigo": "332",
+            "descricao": "FAB QUIMICOS INORGANICOS"
+        },
+        {
+            "codigo": "333",
+            "descricao": "FAB RACOES BALANCEADAS E ALIMENTOS PREP P ANIMAIS"
+        },
+        {
+            "codigo": "334",
+            "descricao": "FAB RESINAS"
+        },
+        {
+            "codigo": "335",
+            "descricao": "FAB RESINAS TERMOPLASTICAS"
+        },
+        {
+            "codigo": "336",
+            "descricao": "FAB REVESTIMENTOS CERAMICOS"
+        },
+        {
+            "codigo": "337",
+            "descricao": "FAB SABOES E DETERGENTES"
+        },
+        {
+            "codigo": "338",
+            "descricao": "FAB SALTOS E SOLADOS DE BORRACHA P CALCADOS"
+        },
+        {
+            "codigo": "339",
+            "descricao": "FAB SOMBRINHAS, GUARDA-CHUVAS E GUARDA-SOIS"
+        },
+        {
+            "codigo": "340",
+            "descricao": "FAB SORVETES, TORTAS E BOLOS GELADOS E COBERTURAS"
+        },
+        {
+            "codigo": "341",
+            "descricao": "FAB TANQUES,RESERVATORIOS E RECIPENTES METALICOS"
+        },
+        {
+            "codigo": "342",
+            "descricao": "FAB TECIDOS ESPECIAIS"
+        },
+        {
+            "codigo": "343",
+            "descricao": "FAB TINTAS,ESMALTES,LACAS,VERNIZES,SOLVENTES,SECAN"
+        },
+        {
+            "codigo": "344",
+            "descricao": "FAB TRATORES P TRABALHOS AGRICOLAS"
+        },
+        {
+            "codigo": "345",
+            "descricao": "FAB URNAS E CAIXOES MORTUARIOS"
+        },
+        {
+            "codigo": "346",
+            "descricao": "FAB UTENSILIOS E FERRAM P MAQS, MATRIZES DE METAL"
+        },
+        {
+            "codigo": "347",
+            "descricao": "FAB VASSOURAS,BROXAS,PINCEIS,ESCOVAS E ESPANADORES"
+        },
+        {
+            "codigo": "348",
+            "descricao": "FAB VEICULOS AUTOMOTORES RODOVIARIOS"
+        },
+        {
+            "codigo": "349",
+            "descricao": "FAB VEICULOS RODOVIARIOS NAO ESPECIF"
+        },
+        {
+            "codigo": "350",
+            "descricao": "FAB VELAS"
+        },
+        {
+            "codigo": "351",
+            "descricao": "FAB VIDRO DE SEGURANÇA"
+        },
+        {
+            "codigo": "352",
+            "descricao": "FAB VINAGRES"
+        },
+        {
+            "codigo": "353",
+            "descricao": "FARMACIAS,DROGARIAS,FLORAS MEDICINAIS E ERVANARIOS"
+        },
+        {
+            "codigo": "354",
+            "descricao": "FIACAO DE ALGODAO"
+        },
+        {
+            "codigo": "355",
+            "descricao": "FIACAO DE LA"
+        },
+        {
+            "codigo": "356",
+            "descricao": "FIACAO E TECEL COM FIBRAS ARTIFICIAIS E SINTETICAS"
+        },
+        {
+            "codigo": "357",
+            "descricao": "GASEIFICACAO E ENGARRAF AGUAS MINERAIS"
+        },
+        {
+            "codigo": "358",
+            "descricao": "GERACAO E DISTRIBUICAO DE ENERGIA ELETRICA"
+        },
+        {
+            "codigo": "359",
+            "descricao": "HIGIENE,LIMPEZA OUTR SERV EXECUTADO PREDIO DOMICIL"
+        },
+        {
+            "codigo": "360",
+            "descricao": "HOLDIN - CONTROLADORAS PARTICIPACOES SOCIETARIAS"
+        },
+        {
+            "codigo": "361",
+            "descricao": "HOTEIS E MOTEIS"
+        },
+        {
+            "codigo": "362",
+            "descricao": "IMPORTACAO E EXPORTACAO DE PRODUTOS"
+        },
+        {
+            "codigo": "363",
+            "descricao": "IMPORTACAO,COMERCIO ATACADISTA DE PRODS IMPORTADOS"
+        },
+        {
+            "codigo": "364",
+            "descricao": "IMPRESSAO DE JORNAIS, LIVROS, PERIODICOS"
+        },
+        {
+            "codigo": "365",
+            "descricao": "IMPRESSAO TIPOGRAFICA, LITOGRAFICA E OFF SET"
+        },
+        {
+            "codigo": "366",
+            "descricao": "INSTALACOES"
+        },
+        {
+            "codigo": "367",
+            "descricao": "JOALHERIA E OURIVESARIA"
+        },
+        {
+            "codigo": "368",
+            "descricao": "JOALHERIAS,RELOJOARIAS E COM VAREJ DE BIJUTERIAS"
+        },
+        {
+            "codigo": "369",
+            "descricao": "LAVANDERIAS E TINTURARIAS"
+        },
+        {
+            "codigo": "370",
+            "descricao": "LIMPEZA PUBLICA, REMOCAO E BENEFICIAMENTO DO LIXO"
+        },
+        {
+            "codigo": "371",
+            "descricao": "LIVR E BANCAS JORNAIS,COM DE LIVROS,JORNAIS E REV"
+        },
+        {
+            "codigo": "372",
+            "descricao": "LOTEAMENTO E INCORPORACAO DE IMOVEIS"
+        },
+        {
+            "codigo": "373",
+            "descricao": "MATERIAL ELETRICO, ELETRONICO E DE COMUNICACAO"
+        },
+        {
+            "codigo": "374",
+            "descricao": "MECANICA"
+        },
+        {
+            "codigo": "375",
+            "descricao": "METALURGIA METAIS PRECIOSOS,SUAS LIGAS E TRANSFORM"
+        },
+        {
+            "codigo": "376",
+            "descricao": "METALURGICA"
+        },
+        {
+            "codigo": "377",
+            "descricao": "METALURGICA-1"
+        },
+        {
+            "codigo": "378",
+            "descricao": "MOAGEM DE CANA, FAB E REFINACAO DE ACUCAR"
+        },
+        {
+            "codigo": "379",
+            "descricao": "MOBILIARIO"
+        },
+        {
+            "codigo": "380",
+            "descricao": "MONTAGEM DE ESTRUTURAS, PRE-MOLDADOS E TRELICADOS"
+        },
+        {
+            "codigo": "381",
+            "descricao": "MONTAGENS INDUSTRIAIS E INSTALACAO DE MAQS E EQUIP"
+        },
+        {
+            "codigo": "382",
+            "descricao": "PADARIAS, BONBONNIERES, CONFEITARIAS"
+        },
+        {
+            "codigo": "383",
+            "descricao": "PAPEL, PAPELAO E CELULOSE"
+        },
+        {
+            "codigo": "384",
+            "descricao": "PREPARACAO DE ALIMENTOS CONSERVADOS"
+        },
+        {
+            "codigo": "385",
+            "descricao": "PREPARACAO DE ALIMENTOS E CONSERVAS NAO ESPECIF"
+        },
+        {
+            "codigo": "386",
+            "descricao": "PREPARACAO DE CONSERVAS DE CARNE E SUBPRODUTOS"
+        },
+        {
+            "codigo": "387",
+            "descricao": "PREPARACAO DE ESPECIARIAS E CONDIMENTOS"
+        },
+        {
+            "codigo": "388",
+            "descricao": "PREPARACAO DO SAL P ALIMENTACAO"
+        },
+        {
+            "codigo": "389",
+            "descricao": "PROD CONSERVAS DE FRUTAS E LEGUMES"
+        },
+        {
+            "codigo": "390",
+            "descricao": "PROD FERRO-GUSA E FERRO-ESPONJA"
+        },
+        {
+            "codigo": "391",
+            "descricao": "PROD FORJADOS DE ACO"
+        },
+        {
+            "codigo": "392",
+            "descricao": "PROD FORJADOS DE METAIS NAO-FERROSOS E SUAS LIGAS"
+        },
+        {
+            "codigo": "393",
+            "descricao": "PROD FUNDIDOS DE FERRO E ACO"
+        },
+        {
+            "codigo": "394",
+            "descricao": "PROD FUNDIDOS DE METAIS NAO-FERROSOS E SUAS LIGAS"
+        },
+        {
+            "codigo": "395",
+            "descricao": "PROD LAMIN PLANOS E NAO-PLANOS DE ACO AO CARBONO"
+        },
+        {
+            "codigo": "396",
+            "descricao": "PROD LAMINADOS E EXTRUDADOS DE METAIS NAO-FERROSOS"
+        },
+        {
+            "codigo": "397",
+            "descricao": "PROD LAMINAS DE MADEIRA OU DE MADEIRA FOLHEADA"
+        },
+        {
+            "codigo": "398",
+            "descricao": "PROD LIGAS DE METAIS NAO-FERROSOS EM FORMAS PRIMAR"
+        },
+        {
+            "codigo": "399",
+            "descricao": "PROD MATRIZES P IMPRESSAO"
+        },
+        {
+            "codigo": "400",
+            "descricao": "PROD METAIS NAO-FERROSOS EM FORMAS PRIMARIAS"
+        },
+        {
+            "codigo": "401",
+            "descricao": "PROD PREPARACOES P LIMPEZA E POLIMENTO"
+        },
+        {
+            "codigo": "402",
+            "descricao": "PROD RELAMINADOS E RETREFILAD METAIS NAO-FERROSOS"
+        },
+        {
+            "codigo": "403",
+            "descricao": "PROD RELAMINADOS,TREFILADOS E RETREFILADOS DE ACO"
+        },
+        {
+            "codigo": "404",
+            "descricao": "PROD SOLDAS E ANODOS P GALVANOPLASTIA"
+        },
+        {
+            "codigo": "405",
+            "descricao": "PROD TECIDOS ACABADOS"
+        },
+        {
+            "codigo": "406",
+            "descricao": "PROD TUBOS COM COSTURA"
+        },
+        {
+            "codigo": "407",
+            "descricao": "PRODUTOS ALIMENTARES"
+        },
+        {
+            "codigo": "408",
+            "descricao": "PRODUTOS DE MATERIAS PLASTICAS"
+        },
+        {
+            "codigo": "409",
+            "descricao": "PRODUTOS DE MINERAIS NAO-METALICOS"
+        },
+        {
+            "codigo": "410",
+            "descricao": "PRODUTOS FARMACEUTICOS E VETERINARIOS"
+        },
+        {
+            "codigo": "411",
+            "descricao": "QUIMICA"
+        },
+        {
+            "codigo": "412",
+            "descricao": "REPARACAO E MANUTENCAO DE MOTORES E VEICULOS RODOV"
+        },
+        {
+            "codigo": "413",
+            "descricao": "REPARACAO OU MANUTENCAO DE MAQS APARS E EQUIPS"
+        },
+        {
+            "codigo": "414",
+            "descricao": "REPARACAO OU MANUTENCAO DE MAQS, APARS E EQUIPS"
+        },
+        {
+            "codigo": "415",
+            "descricao": "REPARACAO,MANUTENCAO E INSTALACAO DE MAQS E APAREL"
+        },
+        {
+            "codigo": "416",
+            "descricao": "RESFRIAMENTO, PREPARACAO E FAB PRODS DO LEITE"
+        },
+        {
+            "codigo": "417",
+            "descricao": "RESTAURANT,CHURRASCAR,PIZZARIAS,CANTINAS,PENSOES"
+        },
+        {
+            "codigo": "418",
+            "descricao": "SERRARIAS"
+        },
+        {
+            "codigo": "419",
+            "descricao": "SERV ADMINIST,LOCAC,ARRENDAMEN BENS-SERV NAO ESPEC"
+        },
+        {
+            "codigo": "420",
+            "descricao": "SERV AUX PRESTADOS EMPRESA,ENTIDADE E PESSOAS"
+        },
+        {
+            "codigo": "421",
+            "descricao": "SERV AUX PRESTADOS EMPRESAS,ENTIDADES,PESS NAO ESP"
+        },
+        {
+            "codigo": "422",
+            "descricao": "SERV AUX PROD PELICULA CINEMATOGRAF,FITA PARA VIDEO"
+        },
+        {
+            "codigo": "423",
+            "descricao": "SERV AUXIL HIGIENE LIMPEZA,DECORAC OUTR PARA PREDIOS"
+        },
+        {
+            "codigo": "424",
+            "descricao": "SERV AUXILIARES PRESTADOS EMPRESAS,ENTIDAD,PESSOAS"
+        },
+        {
+            "codigo": "425",
+            "descricao": "SERV DE VIGILANCIA, SEGURANCA E INVESTIGACAO"
+        },
+        {
+            "codigo": "426",
+            "descricao": "SERV DESPACHANTES, AVALIADORES E PERITOS"
+        },
+        {
+            "codigo": "427",
+            "descricao": "SERV ESCRIT JURID,CONTAB,AUDITOR,ASSESSOR FINANC"
+        },
+        {
+            "codigo": "428",
+            "descricao": "SERV ESCRITORIO ARQUITETURA,ENGENH,URBANIS,PAISAG"
+        },
+        {
+            "codigo": "429",
+            "descricao": "SERV LOCAC,ARRENDAMENTO E INTERMEDIACAO BENS IMOV"
+        },
+        {
+            "codigo": "430",
+            "descricao": "SERV PROCESSAMENTO DE DADOS PARA TERCEIROS"
+        },
+        {
+            "codigo": "431",
+            "descricao": "SERVICOS ARMAZENAGEM"
+        },
+        {
+            "codigo": "432",
+            "descricao": "SERVICOS AUXILIARES COMERCIO NAO ESPECIFICADOS"
+        },
+        {
+            "codigo": "433",
+            "descricao": "SERVICOS AUXILIARES DE SAUDE NAO ESPECIFICADOS"
+        },
+        {
+            "codigo": "434",
+            "descricao": "SERVICOS AUXILIARES DE SEGUROS E CAPITALIZACAO"
+        },
+        {
+            "codigo": "435",
+            "descricao": "SERVICOS AUXILIARES DIVERSOS"
+        },
+        {
+            "codigo": "436",
+            "descricao": "SERVICOS AUXILIARES FINANCEIROS"
+        },
+        {
+            "codigo": "437",
+            "descricao": "SERVICOS COMUNITARIOS E SOCIAIS NAO ESPECIFICADOS"
+        },
+        {
+            "codigo": "438",
+            "descricao": "SERVICOS DE ALIMENTACAO"
+        },
+        {
+            "codigo": "439",
+            "descricao": "SERVICOS DE ALIMENTACAO NAO ESPECIFICADOS"
+        },
+        {
+            "codigo": "440",
+            "descricao": "SERVICOS DE DIVULGACAO E PROMOCAO"
+        },
+        {
+            "codigo": "441",
+            "descricao": "SERVICOS DE GALVANOTECNICA"
+        },
+        {
+            "codigo": "442",
+            "descricao": "SERVICOS DE LABORATORIOS"
+        },
+        {
+            "codigo": "443",
+            "descricao": "SERVICOS DE RADIODIFUSAO"
+        },
+        {
+            "codigo": "444",
+            "descricao": "SERVICOS DE REPARACAO, MANUTENCAO E INSTALACAO"
+        },
+        {
+            "codigo": "445",
+            "descricao": "SERVICOS DE TELECOMUNICACOES"
+        },
+        {
+            "codigo": "446",
+            "descricao": "SERVICOS DE TRANSPORTES"
+        },
+        {
+            "codigo": "447",
+            "descricao": "SERVICOS INDUSTRIAIS DE USINAGEM E SOLDAS"
+        },
+        {
+            "codigo": "448",
+            "descricao": "SERVICOS POSTAIS E TELEGRAFICOS"
+        },
+        {
+            "codigo": "449",
+            "descricao": "SERVICOS PUBLICIDADE E PROPAGANDA"
+        },
+        {
+            "codigo": "450",
+            "descricao": "SERVICOS REPARACAO,MANUTEN E INSTAL NAO ESPECIFIC"
+        },
+        {
+            "codigo": "451",
+            "descricao": "SERVICOS SOCIAIS DA INDUSTRIA E DE COMERCIO"
+        },
+        {
+            "codigo": "452",
+            "descricao": "SERVICOS TECNICOS ESPECIALIZADOS AUXIL. CONSTRUCAO"
+        },
+        {
+            "codigo": "453",
+            "descricao": "SEVICOS AUXILIARES DO TRANSPORTE AEREO"
+        },
+        {
+            "codigo": "454",
+            "descricao": "TECELAGEM DE MALHA"
+        },
+        {
+            "codigo": "455",
+            "descricao": "TECELAGEM PLANA"
+        },
+        {
+            "codigo": "456",
+            "descricao": "TECELAGEM POLIPROP,POLIET E OUTROS MATS PLASTICOS"
+        },
+        {
+            "codigo": "457",
+            "descricao": "TECNICO-PROFISSIONALIZANTE"
+        },
+        {
+            "codigo": "458",
+            "descricao": "TERRAPLENAGEM, PAVIMENTAC ESTRADAS E VIAS URBANAS"
+        },
+        {
+            "codigo": "459",
+            "descricao": "TEXTIL"
+        },
+        {
+            "codigo": "460",
+            "descricao": "TINGIMENTO E ESTAMPARIA"
+        },
+        {
+            "codigo": "461",
+            "descricao": "TORREFACAO E MOAGEM DE CAFE"
+        },
+        {
+            "codigo": "462",
+            "descricao": "TRANSPORTE AEREO REGULAR E REGIONAL"
+        },
+        {
+            "codigo": "463",
+            "descricao": "TRANSPORTE DE CARGA EM GERAL"
+        },
+        {
+            "codigo": "464",
+            "descricao": "TRANSPORTE RODOVIARIO"
+        },
+        {
+            "codigo": "465",
+            "descricao": "TRANSPORTE RODOVIARIO DE PASSAGEIROS"
+        },
+        {
+            "codigo": "466",
+            "descricao": "TRATAMENTO TERMICO E QUIMICO DE METAIS"
+        },
+        {
+            "codigo": "467",
+            "descricao": "VESTUARIO, ARTEFATOS DE TECIDOS E DE VIAGEM"
+        }
+    ]
+}

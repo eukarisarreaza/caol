@@ -1,0 +1,16 @@
+{
+    "RECORDS": [
+        {
+            "idtipo": "1",
+            "descricao": "Elogio"
+        },
+        {
+            "idtipo": "2",
+            "descricao": "Reclamação"
+        },
+        {
+            "idtipo": "3",
+            "descricao": "Sugestão"
+        }
+    ]
+}

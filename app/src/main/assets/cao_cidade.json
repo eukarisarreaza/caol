@@ -1,0 +1,1364 @@
+{
+    "RECORDS": [
+        {
+            "co_cidade": "1",
+            "no_cidade": "São Paulo",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "2",
+            "no_cidade": "Brasília",
+            "co_uf": "2"
+        },
+        {
+            "co_cidade": "3",
+            "no_cidade": "Campo Grande",
+            "co_uf": "3"
+        },
+        {
+            "co_cidade": "4",
+            "no_cidade": "São Bernardo do Campo",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "5",
+            "no_cidade": "Osasco",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "6",
+            "no_cidade": "ADAMANTINA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "7",
+            "no_cidade": "AGUAI",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "8",
+            "no_cidade": "AGUAS DA PRATA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "9",
+            "no_cidade": "AGUDOS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "10",
+            "no_cidade": "ALUMINIO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "11",
+            "no_cidade": "ALVARES MACHADO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "12",
+            "no_cidade": "AMERICANA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "13",
+            "no_cidade": "AMERICO BRASILIENSE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "14",
+            "no_cidade": "AMPARO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "15",
+            "no_cidade": "ANALANDIA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "16",
+            "no_cidade": "ARACARIGUAMA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "17",
+            "no_cidade": "ARACATUBA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "18",
+            "no_cidade": "ARACOIABA DA SERRA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "19",
+            "no_cidade": "ARARAQUARA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "20",
+            "no_cidade": "ARARAS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "21",
+            "no_cidade": "ARAUCARIA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "22",
+            "no_cidade": "ARTUR NOGUEIRA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "23",
+            "no_cidade": "ARUJA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "24",
+            "no_cidade": "ASSIS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "25",
+            "no_cidade": "ATIBAIA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "26",
+            "no_cidade": "AVARE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "27",
+            "no_cidade": "BADY BASSITT",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "28",
+            "no_cidade": "BALSAMO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "29",
+            "no_cidade": "BARIRI",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "30",
+            "no_cidade": "BARRA BONITA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "31",
+            "no_cidade": "BARRA MANSA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "32",
+            "no_cidade": "BARRETOS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "33",
+            "no_cidade": "BARUERI",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "34",
+            "no_cidade": "BASTOS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "35",
+            "no_cidade": "BATATAIS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "36",
+            "no_cidade": "BAURU",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "37",
+            "no_cidade": "BELO HORIZONTE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "38",
+            "no_cidade": "BILAC",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "39",
+            "no_cidade": "BIRIGUI",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "40",
+            "no_cidade": "BIRITIBA MIRIM",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "41",
+            "no_cidade": "BOITUVA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "42",
+            "no_cidade": "BOM JESUS DOS PERDOES",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "43",
+            "no_cidade": "BOTUCATU",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "44",
+            "no_cidade": "BRAGANCA PAULISTA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "45",
+            "no_cidade": "BRODOSQUI",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "46",
+            "no_cidade": "BROTAS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "47",
+            "no_cidade": "BURITAMA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "48",
+            "no_cidade": "CABRALIA PAULISTA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "49",
+            "no_cidade": "CABREUVA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "50",
+            "no_cidade": "CACAPAVA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "51",
+            "no_cidade": "CAIEIRAS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "52",
+            "no_cidade": "CAJAMAR",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "53",
+            "no_cidade": "CAJURU",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "54",
+            "no_cidade": "CAMPINA DO MONTE ALEGRE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "55",
+            "no_cidade": "CAMPINAS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "56",
+            "no_cidade": "CAMPO LIMPO PAULISTA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "57",
+            "no_cidade": "CAMPOS DO JORDAO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "58",
+            "no_cidade": "CAPIVARI",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "59",
+            "no_cidade": "CARAGUATATUBA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "60",
+            "no_cidade": "CARAPICUIBA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "61",
+            "no_cidade": "CASA BRANCA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "62",
+            "no_cidade": "CATANDUVA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "63",
+            "no_cidade": "CAXIAS DO SUL",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "64",
+            "no_cidade": "CERQUEIRA CESAR",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "65",
+            "no_cidade": "CERQUILHO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "66",
+            "no_cidade": "CESARIO LANGE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "67",
+            "no_cidade": "CHARQUEADA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "68",
+            "no_cidade": "CHAVANTES",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "69",
+            "no_cidade": "CORDEIROPOLIS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "70",
+            "no_cidade": "COSMOPOLIS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "71",
+            "no_cidade": "COTIA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "72",
+            "no_cidade": "CRAVINHOS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "73",
+            "no_cidade": "CRUZEIRO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "74",
+            "no_cidade": "CUBATAO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "75",
+            "no_cidade": "CURITIBA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "76",
+            "no_cidade": "DIADEMA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "77",
+            "no_cidade": "DOIS CORREGOS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "78",
+            "no_cidade": "DRACENA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "79",
+            "no_cidade": "DUQUE DE CAXIAS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "80",
+            "no_cidade": "ELIAS FAUSTO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "81",
+            "no_cidade": "EMBU",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "82",
+            "no_cidade": "EMBU-GUACU",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "83",
+            "no_cidade": "ESPIRITO SANTO DO PINHAL",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "84",
+            "no_cidade": "ESTIVA GERBI",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "85",
+            "no_cidade": "FERNANDOPOLIS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "86",
+            "no_cidade": "FERRAZ DE VASCONCELOS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "87",
+            "no_cidade": "FLORIDA PAULISTA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "88",
+            "no_cidade": "FRANCA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "89",
+            "no_cidade": "FRANCO DA ROCHA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "90",
+            "no_cidade": "GALIA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "91",
+            "no_cidade": "GARCA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "92",
+            "no_cidade": "GETULINA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "93",
+            "no_cidade": "GOIANIA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "94",
+            "no_cidade": "GUAPIACU",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "95",
+            "no_cidade": "GUARA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "96",
+            "no_cidade": "GUARARAPES",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "97",
+            "no_cidade": "GUARAREMA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "98",
+            "no_cidade": "GUARATINGUETA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "99",
+            "no_cidade": "GUARUJA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "100",
+            "no_cidade": "GUARULHOS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "101",
+            "no_cidade": "HOLAMBRA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "102",
+            "no_cidade": "HORTOLANDIA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "103",
+            "no_cidade": "IBATE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "104",
+            "no_cidade": "IGARAPAVA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "105",
+            "no_cidade": "IGARATA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "106",
+            "no_cidade": "INDAIATUBA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "107",
+            "no_cidade": "IPATINGA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "108",
+            "no_cidade": "IPERO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "109",
+            "no_cidade": "IPEUNA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "110",
+            "no_cidade": "IRACEMAPOLIS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "111",
+            "no_cidade": "ITAJOBI",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "112",
+            "no_cidade": "ITAPECERICA DA SERRA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "113",
+            "no_cidade": "ITAPETININGA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "114",
+            "no_cidade": "ITAPEVA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "115",
+            "no_cidade": "ITAPEVI",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "116",
+            "no_cidade": "ITAPIRA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "117",
+            "no_cidade": "ITAPOLIS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "118",
+            "no_cidade": "ITAPUI",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "119",
+            "no_cidade": "ITAQUAQUECETUBA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "120",
+            "no_cidade": "ITATIBA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "121",
+            "no_cidade": "ITIRAPINA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "122",
+            "no_cidade": "ITU",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "123",
+            "no_cidade": "ITUPEVA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "124",
+            "no_cidade": "ITUVERAVA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "125",
+            "no_cidade": "JACAREI",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "126",
+            "no_cidade": "JAGUARIUNA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "127",
+            "no_cidade": "JALES",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "128",
+            "no_cidade": "JANDIRA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "129",
+            "no_cidade": "JARDINOPOLIS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "130",
+            "no_cidade": "JARINU",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "131",
+            "no_cidade": "JAU",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "132",
+            "no_cidade": "JOSE BONIFACIO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "133",
+            "no_cidade": "JUNDIAI",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "134",
+            "no_cidade": "LARANJAL PAULISTA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "135",
+            "no_cidade": "LEME",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "136",
+            "no_cidade": "LENCOIS PAULISTA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "137",
+            "no_cidade": "LIMEIRA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "138",
+            "no_cidade": "LINS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "139",
+            "no_cidade": "LORENA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "140",
+            "no_cidade": "LOUVEIRA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "141",
+            "no_cidade": "LUCELIA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "142",
+            "no_cidade": "LUIS ANTONIO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "143",
+            "no_cidade": "MAIRINQUE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "144",
+            "no_cidade": "MAIRIPORA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "145",
+            "no_cidade": "MANAUS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "146",
+            "no_cidade": "MARACAI",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "147",
+            "no_cidade": "MARILIA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "148",
+            "no_cidade": "MATAO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "149",
+            "no_cidade": "MAUA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "150",
+            "no_cidade": "MIRASSOL",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "151",
+            "no_cidade": "MOCOCA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "152",
+            "no_cidade": "MOGI DAS CRUZES",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "153",
+            "no_cidade": "MOGI-GUACU",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "154",
+            "no_cidade": "MOGI-MIRIM",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "155",
+            "no_cidade": "MONGAGUA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "156",
+            "no_cidade": "MONTE ALTO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "157",
+            "no_cidade": "MONTE APRAZIVEL",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "158",
+            "no_cidade": "MONTE-MOR",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "159",
+            "no_cidade": "MORUNGABA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "160",
+            "no_cidade": "NEVES PAULISTA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "161",
+            "no_cidade": "NIPOA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "162",
+            "no_cidade": "NOVA EUROPA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "163",
+            "no_cidade": "NOVA ODESSA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "164",
+            "no_cidade": "OLIMPIA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "165",
+            "no_cidade": "ORIENTE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "166",
+            "no_cidade": "ORLANDIA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "167",
+            "no_cidade": "OSWALDO CRUZ",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "168",
+            "no_cidade": "OURINHOS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "169",
+            "no_cidade": "PACAEMBU",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "170",
+            "no_cidade": "PALMITAL",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "171",
+            "no_cidade": "PANORAMA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "172",
+            "no_cidade": "PARAGUACU PAULISTA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "173",
+            "no_cidade": "PARDINHO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "174",
+            "no_cidade": "PARIQUERA-ACU",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "175",
+            "no_cidade": "PATROCINIO PAULISTA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "176",
+            "no_cidade": "PAULINIA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "177",
+            "no_cidade": "PEDREIRA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "178",
+            "no_cidade": "PENAPOLIS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "179",
+            "no_cidade": "PIEDADE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "180",
+            "no_cidade": "PILAR DO SUL",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "181",
+            "no_cidade": "PINDAMONHANGABA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "182",
+            "no_cidade": "PINDORAMA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "183",
+            "no_cidade": "PIRACAIA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "184",
+            "no_cidade": "PIRACICABA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "185",
+            "no_cidade": "PIRAJU",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "186",
+            "no_cidade": "PIRAPORA DO BOM JESUS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "187",
+            "no_cidade": "PIRAPOZINHO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "188",
+            "no_cidade": "PIRASSUNUNGA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "189",
+            "no_cidade": "POA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "190",
+            "no_cidade": "POMPEIA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "191",
+            "no_cidade": "PONTA GROSSA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "192",
+            "no_cidade": "PONTAL",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "193",
+            "no_cidade": "PORTO FELIZ",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "194",
+            "no_cidade": "PORTO FERREIRA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "195",
+            "no_cidade": "POTIRENDABA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "196",
+            "no_cidade": "PRESIDENTE EPITACIO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "197",
+            "no_cidade": "PRESIDENTE PRUDENTE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "198",
+            "no_cidade": "PRESIDENTE VENCESLAU",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "199",
+            "no_cidade": "PROMISSAO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "200",
+            "no_cidade": "QUINTANA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "201",
+            "no_cidade": "RAFARD",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "202",
+            "no_cidade": "RANCHARIA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "203",
+            "no_cidade": "REGISTRO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "204",
+            "no_cidade": "RIBEIRAO BONITO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "205",
+            "no_cidade": "RIBEIRAO DO SUL",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "206",
+            "no_cidade": "RIBEIRAO GRANDE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "207",
+            "no_cidade": "RIBEIRAO PIRES",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "208",
+            "no_cidade": "RIBEIRAO PRETO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "209",
+            "no_cidade": "RINOPOLIS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "210",
+            "no_cidade": "RIO CLARO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "211",
+            "no_cidade": "RIO DAS PEDRAS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "212",
+            "no_cidade": "RIO GRANDE DA SERRA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "213",
+            "no_cidade": "ROSEIRA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "214",
+            "no_cidade": "SALTINHO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "215",
+            "no_cidade": "SALTO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "216",
+            "no_cidade": "SALTO DE PIRAPORA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "217",
+            "no_cidade": "SALTO GRANDE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "218",
+            "no_cidade": "SANTA BARBARA D OESTE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "219",
+            "no_cidade": "SANTA BRANCA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "220",
+            "no_cidade": "SANTA CRUZ DAS PALMEIRAS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "221",
+            "no_cidade": "SANTA CRUZ DO RIO PARDO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "222",
+            "no_cidade": "SANTA GERTRUDES",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "223",
+            "no_cidade": "SANTA ISABEL",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "224",
+            "no_cidade": "SANTA RITA DO PASSA QUATRO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "225",
+            "no_cidade": "SANTANA DO PARNAIBA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "226",
+            "no_cidade": "SANTO ANASTACIO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "227",
+            "no_cidade": "SANTO ANDRE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "228",
+            "no_cidade": "SANTO ANTONIO DO PINHAL",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "229",
+            "no_cidade": "SANTOS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "230",
+            "no_cidade": "SAO CAETANO DO SUL",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "231",
+            "no_cidade": "SAO CARLOS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "232",
+            "no_cidade": "SAO JOAO DA BOA VISTA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "233",
+            "no_cidade": "SAO JOAQUIM DA BARRA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "234",
+            "no_cidade": "SAO JOSE DO RIO PARDO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "235",
+            "no_cidade": "SAO JOSE DO RIO PRETO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "236",
+            "no_cidade": "SAO JOSE DOS CAMPOS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "237",
+            "no_cidade": "SAO MANUEL",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "238",
+            "no_cidade": "SAO MIGUEL ARCANJO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "239",
+            "no_cidade": "SAO PEDRO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "240",
+            "no_cidade": "SAO ROQUE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "241",
+            "no_cidade": "SAO SEBASTIAO DA GRAMA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "242",
+            "no_cidade": "SAO VICENTE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "243",
+            "no_cidade": "SARAPUI",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "244",
+            "no_cidade": "SERRANA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "245",
+            "no_cidade": "SERTAOZINHO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "246",
+            "no_cidade": "SOROCABA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "247",
+            "no_cidade": "SUMARE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "248",
+            "no_cidade": "SUZANO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "249",
+            "no_cidade": "TABATINGA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "250",
+            "no_cidade": "TABOAO DA SERRA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "251",
+            "no_cidade": "TAMBAU",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "252",
+            "no_cidade": "TANABI",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "253",
+            "no_cidade": "TAPIRATIBA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "254",
+            "no_cidade": "TAQUARITINGA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "255",
+            "no_cidade": "TATUI",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "256",
+            "no_cidade": "TAUBATE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "257",
+            "no_cidade": "TIETE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "258",
+            "no_cidade": "TREMEMBE",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "259",
+            "no_cidade": "TUPA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "260",
+            "no_cidade": "VALENTIM GENTIL",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "261",
+            "no_cidade": "VALINHOS",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "262",
+            "no_cidade": "VALPARAISO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "263",
+            "no_cidade": "VARGEM",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "264",
+            "no_cidade": "VARGEM GRANDE DO SUL",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "265",
+            "no_cidade": "VARGEM GRANDE PAULISTA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "266",
+            "no_cidade": "VARZEA PAULISTA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "267",
+            "no_cidade": "VINHEDO",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "268",
+            "no_cidade": "VOTORANTIM",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "269",
+            "no_cidade": "VOTUPORANGA",
+            "co_uf": "1"
+        },
+        {
+            "co_cidade": "270",
+            "no_cidade": "Rio Branco",
+            "co_uf": "4"
+        },
+        {
+            "co_cidade": "271",
+            "no_cidade": "Rio de Janeiro",
+            "co_uf": "5"
+        },
+        {
+            "co_cidade": "272",
+            "no_cidade": "Cuiabá",
+            "co_uf": "6"
+        }
+    ]
+}

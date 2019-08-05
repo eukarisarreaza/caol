@@ -1,0 +1,219 @@
+{
+    "RECORDS": [
+        {
+            "co_atividade": "1",
+            "ds_atividade": "Agendamento",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "2",
+            "ds_atividade": "Visita",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "3",
+            "ds_atividade": "Elaboração de Proposta",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "4",
+            "ds_atividade": "Fechamento de Negócio",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "5",
+            "ds_atividade": "Outros",
+            "co_tipo_usuario": "0"
+        },
+        {
+            "co_atividade": "6",
+            "ds_atividade": "Agendamento",
+            "co_tipo_usuario": "6"
+        },
+        {
+            "co_atividade": "7",
+            "ds_atividade": "Visita",
+            "co_tipo_usuario": "6"
+        },
+        {
+            "co_atividade": "8",
+            "ds_atividade": "Elaboração de Proposta",
+            "co_tipo_usuario": "6"
+        },
+        {
+            "co_atividade": "9",
+            "ds_atividade": "Fechamento de Negócio",
+            "co_tipo_usuario": "6"
+        },
+        {
+            "co_atividade": "10",
+            "ds_atividade": "Outros",
+            "co_tipo_usuario": "6"
+        },
+        {
+            "co_atividade": "11",
+            "ds_atividade": "Agendamento",
+            "co_tipo_usuario": "7"
+        },
+        {
+            "co_atividade": "12",
+            "ds_atividade": "Visita",
+            "co_tipo_usuario": "7"
+        },
+        {
+            "co_atividade": "13",
+            "ds_atividade": "Elaboração de Proposta",
+            "co_tipo_usuario": "7"
+        },
+        {
+            "co_atividade": "14",
+            "ds_atividade": "Fechamento de Negócio",
+            "co_tipo_usuario": "7"
+        },
+        {
+            "co_atividade": "15",
+            "ds_atividade": "Outros",
+            "co_tipo_usuario": "7"
+        },
+        {
+            "co_atividade": "16",
+            "ds_atividade": "Agendamento",
+            "co_tipo_usuario": "8"
+        },
+        {
+            "co_atividade": "17",
+            "ds_atividade": "Visita",
+            "co_tipo_usuario": "8"
+        },
+        {
+            "co_atividade": "18",
+            "ds_atividade": "Elaboração de Proposta",
+            "co_tipo_usuario": "8"
+        },
+        {
+            "co_atividade": "19",
+            "ds_atividade": "Fechamento de Negócio",
+            "co_tipo_usuario": "8"
+        },
+        {
+            "co_atividade": "20",
+            "ds_atividade": "Outros",
+            "co_tipo_usuario": "8"
+        },
+        {
+            "co_atividade": "21",
+            "ds_atividade": "Reunião",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "22",
+            "ds_atividade": "Análise e Codificação",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "23",
+            "ds_atividade": "Reunião",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "24",
+            "ds_atividade": "Análise e Codificação",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "25",
+            "ds_atividade": "Reunião",
+            "co_tipo_usuario": "3"
+        },
+        {
+            "co_atividade": "26",
+            "ds_atividade": "Análise e Codificação",
+            "co_tipo_usuario": "3"
+        },
+        {
+            "co_atividade": "27",
+            "ds_atividade": "Reunião",
+            "co_tipo_usuario": "4"
+        },
+        {
+            "co_atividade": "28",
+            "ds_atividade": "Análise e Codificação",
+            "co_tipo_usuario": "4"
+        },
+        {
+            "co_atividade": "29",
+            "ds_atividade": "Reunião",
+            "co_tipo_usuario": "5"
+        },
+        {
+            "co_atividade": "30",
+            "ds_atividade": "Análise e Codificação",
+            "co_tipo_usuario": "5"
+        },
+        {
+            "co_atividade": "31",
+            "ds_atividade": "Reunião",
+            "co_tipo_usuario": "9"
+        },
+        {
+            "co_atividade": "32",
+            "ds_atividade": "Análise e Codificação",
+            "co_tipo_usuario": "9"
+        },
+        {
+            "co_atividade": "33",
+            "ds_atividade": "Outros",
+            "co_tipo_usuario": "1"
+        },
+        {
+            "co_atividade": "34",
+            "ds_atividade": "Outros",
+            "co_tipo_usuario": "2"
+        },
+        {
+            "co_atividade": "35",
+            "ds_atividade": "Outros",
+            "co_tipo_usuario": "3"
+        },
+        {
+            "co_atividade": "36",
+            "ds_atividade": "Outros",
+            "co_tipo_usuario": "4"
+        },
+        {
+            "co_atividade": "37",
+            "ds_atividade": "Outros",
+            "co_tipo_usuario": "5"
+        },
+        {
+            "co_atividade": "38",
+            "ds_atividade": "Outros",
+            "co_tipo_usuario": "9"
+        },
+        {
+            "co_atividade": "39",
+            "ds_atividade": "Agendamento",
+            "co_tipo_usuario": "10"
+        },
+        {
+            "co_atividade": "40",
+            "ds_atividade": "Visita",
+            "co_tipo_usuario": "10"
+        },
+        {
+            "co_atividade": "41",
+            "ds_atividade": "Elaboração de Proposta",
+            "co_tipo_usuario": "10"
+        },
+        {
+            "co_atividade": "42",
+            "ds_atividade": "Fechamento de Negócio",
+            "co_tipo_usuario": "10"
+        },
+        {
+            "co_atividade": "43",
+            "ds_atividade": "Outros",
+            "co_tipo_usuario": "10"
+        }
+    ]
+}

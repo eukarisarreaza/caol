@@ -1,0 +1,16 @@
+{
+    "RECORDS": [
+        {
+            "co_status_agendamento": "1",
+            "ds_status_agendamento": "Agendado"
+        },
+        {
+            "co_status_agendamento": "2",
+            "ds_status_agendamento": "Atendido"
+        },
+        {
+            "co_status_agendamento": "3",
+            "ds_status_agendamento": "Cancelado"
+        }
+    ]
+}

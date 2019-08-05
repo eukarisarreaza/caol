@@ -1,0 +1,1889 @@
+{
+    "RECORDS": [
+        {
+            "co_item": "4",
+            "ds_item": "Consultas -&gt; Minha Agenda",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "5",
+            "ds_item": "Consultas -> Horas Trabalhadas",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "6",
+            "ds_item": "Consultas -> Horas Trabalhadas - Por Usuários",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "7",
+            "ds_item": "Consultas -> Banco de Horas / Bônus",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "8",
+            "ds_item": "Consultas -> Banco de Horas - Por usuários",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "9",
+            "ds_item": "Consultas -> Daily Report",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "10",
+            "ds_item": "Consultas -> Performance - Por Consultor",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "11",
+            "ds_item": "Consultas -> Acompanhamento de Sistema",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "12",
+            "ds_item": "Consultas -> Minhas OS",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "13",
+            "ds_item": "Consultas -> OS por Analista Responsável",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "14",
+            "ds_item": "Consultas -> Relatório de Chamado HD",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "15",
+            "ds_item": "Administração -> Cadastro de Cliente",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "16",
+            "ds_item": "Administração -> Cadastro de Sistema",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "17",
+            "ds_item": "Administração -> Cadastro de OS",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "18",
+            "ds_item": "Administração -> Cadastro de Boleto",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "20",
+            "ds_item": "Administração -> Cadastro de Ítens do Menu",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "21",
+            "ds_item": "Administração -&gt; Cadastro de Chamado",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "22",
+            "ds_item": "Administração -&gt; Correção de DR",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "23",
+            "ds_item": "Administração -&gt; Correção de Horários",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "24",
+            "ds_item": "Administração -&gt; Parametrização de Bônus",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "25",
+            "ds_item": "Administração -> Cadastro de Despesas",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "26",
+            "ds_item": "Administração -&gt; Manutenção de Script",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "27",
+            "ds_item": "Administração -> Cadastro de Feriados",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "28",
+            "ds_item": "Usuário -&gt; Cadastro de Usuário",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "29",
+            "ds_item": "Usuário -&gt; Listagem de Usuário",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "30",
+            "ds_item": "Usuário -&gt; Troca de Senha",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "32",
+            "ds_item": "Cadastros -&gt; Subconta",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "33",
+            "ds_item": "Cadastros -&gt; Partes",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "34",
+            "ds_item": "Cadastros -&gt; Advogados",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "35",
+            "ds_item": "Cadastros -> Naturezas do Feito",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "36",
+            "ds_item": "Cadastros -&gt; Motivo de Cancelamento",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "37",
+            "ds_item": "Cadastros -&gt; Tipo de Procedimento",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "38",
+            "ds_item": "Cadastros -&gt; Comarcas",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "39",
+            "ds_item": "Cadastros -&gt; Varas",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "40",
+            "ds_item": "Cadastros -&gt; Banco",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "41",
+            "ds_item": "Administração -&gt; Emissão de Guia (Boleto)",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "42",
+            "ds_item": "Administração -&gt; Reemissão de Guia (Boleto)",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "43",
+            "ds_item": "Administração -&gt; Emissão de Guia (Depósito Retroativo)",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "44",
+            "ds_item": "Administração -&gt; Solicitação de Liberação",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "45",
+            "ds_item": "Administração -&gt; Solicitação Arquivada",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "46",
+            "ds_item": "Administração -&gt; Reimpressão de Alvarás",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "47",
+            "ds_item": "Administração -&gt; Alvarás para Liberação",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "48",
+            "ds_item": "Administração -&gt; Comprovante de Liberação",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "49",
+            "ds_item": "Administração -&gt; Conciliação Pedido de Liberação",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "50",
+            "ds_item": "Administração -&gt; Parametrização de Índices",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "51",
+            "ds_item": "Administração -&gt; Carga do Arquivo de Retorno",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "52",
+            "ds_item": "Administração -&gt; Controle de Investimentos",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "53",
+            "ds_item": "Administração -> Transferência de Subconta",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "54",
+            "ds_item": "Administração -&gt; Penhora de Sequência",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "55",
+            "ds_item": "Administração -&gt; Alteração de Dados de Sequência",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "56",
+            "ds_item": "Cancelamentos -&gt; Guia (Boleto)",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "57",
+            "ds_item": "Cancelamentos -&gt; Alvarás Liberados",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "58",
+            "ds_item": "Cancelamentos -&gt; Solicitação de Liberações",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "59",
+            "ds_item": "Cancelamentos -&gt; Solicitação Arquivada",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "60",
+            "ds_item": "Cancelamentos -&gt; Subconta",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "61",
+            "ds_item": "Cancelamentos -&gt; Remoção de Cancelamento de Subconta",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "62",
+            "ds_item": "Consultas -&gt; Processos",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "63",
+            "ds_item": "Consultas -&gt; Alterização para Liberação de DJ",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "64",
+            "ds_item": "Consultas -&gt; Altorização para Liberação de DJ - Versão Presidente",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "65",
+            "ds_item": "Consultas -&gt; Pedidos de Liberação Efetuados",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "66",
+            "ds_item": "Consultas -&gt; Subconta Cadastrada",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "67",
+            "ds_item": "Consultas -&gt; Guias Emitidas e Depositadas",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "68",
+            "ds_item": "Consultas -&gt; Extrato de Subconta",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "69",
+            "ds_item": "Consultas -&gt; Consolidado e Analítico de Saldo de Comarcas",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "70",
+            "ds_item": "Usuários -> Cadastro de Usuário",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "71",
+            "ds_item": "Usuários -&gt; Troca de Senha",
+            "co_sistema": "102"
+        },
+        {
+            "co_item": "75",
+            "ds_item": "Home -> Carro 0km",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "76",
+            "ds_item": "Home -> 0km -> Chevrolet",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "77",
+            "ds_item": "Home -> 0km -> Toyota",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "78",
+            "ds_item": "Home -> 0km -> Lexus",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "79",
+            "ds_item": "Home -> 0km -> Mercedes Benz",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "80",
+            "ds_item": "Home -> 0km -> Chrysler",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "81",
+            "ds_item": "Home -> 0km -> Dodge",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "82",
+            "ds_item": "Home -> 0km -> Jeep",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "83",
+            "ds_item": "Home -> 0km -> Land Rover",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "84",
+            "ds_item": "Home -> 0km -> Chevrolet -> Celta",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "85",
+            "ds_item": "Home -> 0km -> Chevrolet -> Classic",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "86",
+            "ds_item": "Home -> 0km -> Chevrolet -> Montana",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "87",
+            "ds_item": "Home -> 0km -> Chevrolet -> Corsa",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "88",
+            "ds_item": "Home -> 0km -> Chevrolet -> Meriva",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "89",
+            "ds_item": "Home -> 0km -> Chevrolet -> Astra",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "90",
+            "ds_item": "Home -> 0km -> Chevrolet -> Zafira",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "91",
+            "ds_item": "Home -> 0km -> Chevrolet -> Vectra",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "92",
+            "ds_item": "Home -> 0km -> Chevrolet -> Ômega",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "93",
+            "ds_item": "Home -> 0km -> Chevrolet -> S10",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "94",
+            "ds_item": "Home -> 0km -> Chevrolet -> Blazer",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "95",
+            "ds_item": "Home -> 0km -> Toyota -> Corolla",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "96",
+            "ds_item": "Home -> 0km -> Toyota -> Hilux",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "97",
+            "ds_item": "Home -> 0km -> Toyota -> Rav 4",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "98",
+            "ds_item": "Home -> 0km -> Toyota -> Fielder",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "99",
+            "ds_item": "Home -> 0km -> Toyota -> Camry",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "100",
+            "ds_item": "Home -> 0km -> Toyota -> Land Cruiser Prado",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "101",
+            "ds_item": "Home -> 0km -> Lexus -> LS 430",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "102",
+            "ds_item": "Home -> 0km -> Lexus -> ES 330",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "103",
+            "ds_item": "Home -> 0km -> Mercedes Benz -> Sedãs",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "104",
+            "ds_item": "Home -> 0km -> Mercedes Benz -> Touring",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "105",
+            "ds_item": "Home -> 0km -> Mercedes Benz -> Cupês",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "106",
+            "ds_item": "Home -> 0km -> Mercedes Benz -> Conversíveis",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "107",
+            "ds_item": "Home -> 0km -> Mercedes Benz -> Sport Utility",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "108",
+            "ds_item": "Home -> 0km -> Mercedes Benz -> Off Road",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "109",
+            "ds_item": "Home -> 0km -> Chrysler -> PT Cruiser Limited",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "110",
+            "ds_item": "Home -> 0km -> Chrysler -> Grand Caravan",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "111",
+            "ds_item": "Home -> 0km -> Dodge -> Dodge Ram 2500",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "112",
+            "ds_item": "Home -> 0km -> Jeep -> Grand Cherokee",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "113",
+            "ds_item": "Home -> 0km -> Jeep -> Jeep Cherokee Sport",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "114",
+            "ds_item": "Home -> 0km -> Land Rover -> Defender",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "115",
+            "ds_item": "Home -> 0km -> Land Rover -> Freelander",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "116",
+            "ds_item": "Home -> 0km -> Land Rover -> Discovery",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "117",
+            "ds_item": "Home -> 0km -> Land Rover -> Range Rover",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "118",
+            "ds_item": "Home -> Carros semi-novos",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "119",
+            "ds_item": "Home -> Avaliação semi-novos",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "120",
+            "ds_item": "Home -> Acessórios",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "121",
+            "ds_item": "Home -> Acessórios -> Chevrolet",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "122",
+            "ds_item": "Home -> Acessórios -> Toyota",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "123",
+            "ds_item": "Home -> Acessórios -> Lexus",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "124",
+            "ds_item": "Home -> Acessórios -> Mercedes Benz",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "125",
+            "ds_item": "Home -> Acessórios -> Chrysler",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "126",
+            "ds_item": "Home -> Acessórios -> Dodge",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "127",
+            "ds_item": "Home -> Acessórios -> Jeep",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "128",
+            "ds_item": "Home -> Acessórios -> Land Rover",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "129",
+            "ds_item": "Home -> Acessórios -> Land Rover -> Defender",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "130",
+            "ds_item": "Home -> Acessórios -> Land Rover -> Discovery 2",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "131",
+            "ds_item": "Home -> Acessórios -> Land Rover -> Discovery 3",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "132",
+            "ds_item": "Home -> Acessórios -> Land Rover -> Range Rover",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "133",
+            "ds_item": "Home -> Acessórios -> Land Rover -> Freelander",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "134",
+            "ds_item": "Home -> Peças",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "135",
+            "ds_item": "Home -> Peças -> Chevrolet",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "136",
+            "ds_item": "Home -> Peças -> Toyota",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "137",
+            "ds_item": "Home -> Peças -> Lexus",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "138",
+            "ds_item": "Home -> Peças -> Mercedes Benz",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "139",
+            "ds_item": "Home -> Peças -> Chrysler",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "140",
+            "ds_item": "Home -> Peças -> Dodge",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "141",
+            "ds_item": "Home -> Peças -> Jeep",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "142",
+            "ds_item": "Home -> Peças -> Land Rover",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "143",
+            "ds_item": "Home -> Oficina",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "144",
+            "ds_item": "Home -> Oficina -> Chevrolet",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "145",
+            "ds_item": "Home -> Oficina -> Toyota",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "146",
+            "ds_item": "Home -> Oficina -> Lexus",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "147",
+            "ds_item": "Home -> Oficina -> Mercedes Benz",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "148",
+            "ds_item": "Home -> Oficina -> Chrysler",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "149",
+            "ds_item": "Home -> Oficina -> Dodge",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "150",
+            "ds_item": "Home -> Oficina -> Jeep",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "151",
+            "ds_item": "Home -> Oficina -> Land Rover",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "152",
+            "ds_item": "Home -> Venda Direta",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "153",
+            "ds_item": "Home -> Blindados",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "154",
+            "ds_item": "Home -> Blindados -> Contato",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "155",
+            "ds_item": "Home -> Esportes",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "156",
+            "ds_item": "Home -> Esportes -> Notícias",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "157",
+            "ds_item": "Home -> Divirta-se",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "158",
+            "ds_item": "Home -> Divirta-se -> Wallpapers",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "159",
+            "ds_item": "Home -> Divirta-se ->  Screensavers",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "160",
+            "ds_item": "Home -> Divirta-se -> Vídeos",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "161",
+            "ds_item": "Home -> Boutique",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "162",
+            "ds_item": "Home -> Saque",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "163",
+            "ds_item": "Home -> RH",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "164",
+            "ds_item": "Home -> Responsabilidade Social",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "165",
+            "ds_item": "Home -> Quem Somos",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "166",
+            "ds_item": "Home -> Lojas",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "167",
+            "ds_item": "Home -> Lojas -> Caltabiano GM Pacaembu",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "168",
+            "ds_item": "Home -> Lojas -> Caltabiano GM Clélia",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "169",
+            "ds_item": "Home -> Lojas -> Caltabiano Toyota Pacaembu",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "170",
+            "ds_item": "Home -> Lojas -> Caltabiano Toyota Berrini",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "171",
+            "ds_item": "Home -> Lojas -> Caltabiano Mercedes/Chrysler/Dodge/Jeep",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "172",
+            "ds_item": "Home -> Lojas -> Calmac Land Rover",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "173",
+            "ds_item": "Home -> Lojas -> Caltabiano Blindados",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "174",
+            "ds_item": "Home -> Contato",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "175",
+            "ds_item": "Home -> Chevrolet",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "176",
+            "ds_item": "Home -> Chevrolet -> Sobre a Chevrolet",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "177",
+            "ds_item": "Home -> Chevrolet -> Notícias",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "178",
+            "ds_item": "Home -> Toyota",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "179",
+            "ds_item": "Home -> Toyota -> Sobre a Toyota",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "180",
+            "ds_item": "Home -> Toyota -> Notícias",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "181",
+            "ds_item": "Home -> Lexus",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "182",
+            "ds_item": "Home -> Lexus -> Sobre a Lexus",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "183",
+            "ds_item": "Home -> Lexus -> Notícias",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "184",
+            "ds_item": "Home -> Mercedes Benz",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "185",
+            "ds_item": "Home -> Mercedes Benz -> Sobre a Mercedes",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "186",
+            "ds_item": "Home -> Mercedes Benz -> Notícias",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "187",
+            "ds_item": "Home -> Mercedes Benz -> Atendimento ao Cliente",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "188",
+            "ds_item": "Home -> Chrysler",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "189",
+            "ds_item": "Home -> Chrysler -> Sobre a Chrysler",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "190",
+            "ds_item": "Home -> Chrysler -> Notícias",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "191",
+            "ds_item": "Home -> Dodge",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "192",
+            "ds_item": "Home -> Dodge -> Sobre a Dodge",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "193",
+            "ds_item": "Home -> Dodge -> Notícias",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "194",
+            "ds_item": "Home -> Jeep",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "195",
+            "ds_item": "Home -> Jeep -> Sobre o Jeep",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "196",
+            "ds_item": "Home -> Jeep -> Notícias",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "197",
+            "ds_item": "Home -> Land Rover",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "198",
+            "ds_item": "Home -> Land Rover -> Sobre a Land Rover",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "199",
+            "ds_item": "Home -> Land Rover -> Test Drive",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "200",
+            "ds_item": "Operação -> Cadastro de Seção",
+            "co_sistema": "166"
+        },
+        {
+            "co_item": "201",
+            "ds_item": "Operação -> Cadastro de Celula",
+            "co_sistema": "0"
+        },
+        {
+            "co_item": "202",
+            "ds_item": "Operação -> Cadastro de Item de Custo",
+            "co_sistema": "0"
+        },
+        {
+            "co_item": "203",
+            "ds_item": "Operação -> Importação e Alocação",
+            "co_sistema": "0"
+        },
+        {
+            "co_item": "204",
+            "ds_item": "Operação -> Alteração de Custo Padrão",
+            "co_sistema": "0"
+        },
+        {
+            "co_item": "205",
+            "ds_item": "Operação -> Cadastro de Grupo C/C",
+            "co_sistema": "0"
+        },
+        {
+            "co_item": "206",
+            "ds_item": "Operação -> Cadstro de Itens de Depreciação",
+            "co_sistema": "0"
+        },
+        {
+            "co_item": "207",
+            "ds_item": "Operação -> Envio de Arquivos Para SFT",
+            "co_sistema": "0"
+        },
+        {
+            "co_item": "208",
+            "ds_item": "Operação -> Geração de Arquivos de Saída",
+            "co_sistema": "0"
+        },
+        {
+            "co_item": "209",
+            "ds_item": " Consulta -> Base de Alocação E.H.",
+            "co_sistema": "0"
+        },
+        {
+            "co_item": "210",
+            "ds_item": "Consulta -> Custos por C/C",
+            "co_sistema": "0"
+        },
+        {
+            "co_item": "211",
+            "ds_item": "Consulta -> Custos por Sub-C/C",
+            "co_sistema": "0"
+        },
+        {
+            "co_item": "212",
+            "ds_item": "Consulta -> Custo por Modelo",
+            "co_sistema": "0"
+        },
+        {
+            "co_item": "213",
+            "ds_item": "Consulta -> Compra -  Matéria Prima e Peças",
+            "co_sistema": "0"
+        },
+        {
+            "co_item": "214",
+            "ds_item": "Consulta -> Kit e Partes",
+            "co_sistema": "0"
+        },
+        {
+            "co_item": "215",
+            "ds_item": "Sair",
+            "co_sistema": "0"
+        },
+        {
+            "co_item": "216",
+            "ds_item": "Administração -> Cadastro de Clientes",
+            "co_sistema": "131"
+        },
+        {
+            "co_item": "217",
+            "ds_item": "Administração -> Cadastro de Marcas e Modelos",
+            "co_sistema": "131"
+        },
+        {
+            "co_item": "218",
+            "ds_item": "Administração ->  Cadastro de e-mails",
+            "co_sistema": "131"
+        },
+        {
+            "co_item": "220",
+            "ds_item": "Administração -> Agenda do Consultor",
+            "co_sistema": "131"
+        },
+        {
+            "co_item": "221",
+            "ds_item": "Administração -> Param. de Qualidade de Informações",
+            "co_sistema": "131"
+        },
+        {
+            "co_item": "222",
+            "ds_item": "Consultas -> Estratégica",
+            "co_sistema": "131"
+        },
+        {
+            "co_item": "223",
+            "ds_item": "Consultas -> Agendamentos",
+            "co_sistema": "131"
+        },
+        {
+            "co_item": "224",
+            "ds_item": "Consultas -> Performance de Cadastros de Consultores",
+            "co_sistema": "131"
+        },
+        {
+            "co_item": "225",
+            "ds_item": "Usuário -> Cadastro de Usuário",
+            "co_sistema": "131"
+        },
+        {
+            "co_item": "226",
+            "ds_item": "Usuário ->  Troca de Senha",
+            "co_sistema": "131"
+        },
+        {
+            "co_item": "227",
+            "ds_item": "Sair",
+            "co_sistema": "131"
+        },
+        {
+            "co_item": "228",
+            "ds_item": "Operação -> Cadastro de Celula",
+            "co_sistema": "166"
+        },
+        {
+            "co_item": "229",
+            "ds_item": "Operação -> Cadastro de Item de Custo",
+            "co_sistema": "166"
+        },
+        {
+            "co_item": "230",
+            "ds_item": "Operação -> Importação e Alocação",
+            "co_sistema": "166"
+        },
+        {
+            "co_item": "231",
+            "ds_item": "Operação -> Alteração de Custo Padrão",
+            "co_sistema": "166"
+        },
+        {
+            "co_item": "232",
+            "ds_item": "Operação -> Cadastro de Grupo C/C",
+            "co_sistema": "166"
+        },
+        {
+            "co_item": "233",
+            "ds_item": "Operação -> Cadstro de Itens de Depreciação",
+            "co_sistema": "166"
+        },
+        {
+            "co_item": "234",
+            "ds_item": "Operação -> Envio de Arquivos Para SFT",
+            "co_sistema": "166"
+        },
+        {
+            "co_item": "235",
+            "ds_item": "Operação -> Geração de Arquivos de Saída",
+            "co_sistema": "166"
+        },
+        {
+            "co_item": "236",
+            "ds_item": "Consultas -> Base de Alocação E. H.",
+            "co_sistema": "166"
+        },
+        {
+            "co_item": "237",
+            "ds_item": "Consultas -> Custos por C/C",
+            "co_sistema": "166"
+        },
+        {
+            "co_item": "238",
+            "ds_item": "Consultas ->  Custos por Sub-C/C",
+            "co_sistema": "166"
+        },
+        {
+            "co_item": "239",
+            "ds_item": "Consultas -> Custo Modelo",
+            "co_sistema": "166"
+        },
+        {
+            "co_item": "240",
+            "ds_item": "Consultas -> Compra - Matéria Prima e Peças",
+            "co_sistema": "166"
+        },
+        {
+            "co_item": "241",
+            "ds_item": "Consultas -> Custo de Partes SMS",
+            "co_sistema": "166"
+        },
+        {
+            "co_item": "242",
+            "ds_item": "Sair",
+            "co_sistema": "166"
+        },
+        {
+            "co_item": "243",
+            "ds_item": "Consultas -> Chamados Pendentes",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "244",
+            "ds_item": "Administração ->  Cadastro de Sistemas",
+            "co_sistema": "199"
+        },
+        {
+            "co_item": "245",
+            "ds_item": "Administração -> Cadastro de Módulos",
+            "co_sistema": "199"
+        },
+        {
+            "co_item": "246",
+            "ds_item": "Administração -> Cadastro de Cliente",
+            "co_sistema": "199"
+        },
+        {
+            "co_item": "247",
+            "ds_item": "Administração -> Cadastro de Chamados",
+            "co_sistema": "199"
+        },
+        {
+            "co_item": "248",
+            "ds_item": "Administração -> Cadastro de Mensagens",
+            "co_sistema": "199"
+        },
+        {
+            "co_item": "249",
+            "ds_item": "Consultas -> Chamados Abertos",
+            "co_sistema": "199"
+        },
+        {
+            "co_item": "250",
+            "ds_item": "Consultas -> Estatísticas do Chamado",
+            "co_sistema": "199"
+        },
+        {
+            "co_item": "251",
+            "ds_item": "Usuário -> Cadastro de Usuário",
+            "co_sistema": "199"
+        },
+        {
+            "co_item": "252",
+            "ds_item": "Usuário -> Troca de Senha",
+            "co_sistema": "199"
+        },
+        {
+            "co_item": "253",
+            "ds_item": "Pedido --> Novo Pedido",
+            "co_sistema": "93"
+        },
+        {
+            "co_item": "254",
+            "ds_item": "Pedido --> Pedido Pendente",
+            "co_sistema": "93"
+        },
+        {
+            "co_item": "255",
+            "ds_item": "Pedido --> Itens Rejeitados",
+            "co_sistema": "93"
+        },
+        {
+            "co_item": "256",
+            "ds_item": "Solicitação --> Carta de Isenção de ICMS",
+            "co_sistema": "93"
+        },
+        {
+            "co_item": "257",
+            "ds_item": "Solicitação --> Carta de Correção",
+            "co_sistema": "93"
+        },
+        {
+            "co_item": "258",
+            "ds_item": "Solicitação --> Cancelamento de Faturamento",
+            "co_sistema": "93"
+        },
+        {
+            "co_item": "259",
+            "ds_item": "Consultas --> Carta de Isenção de ICMS",
+            "co_sistema": "93"
+        },
+        {
+            "co_item": "260",
+            "ds_item": "Consultas --> Carta de Correção",
+            "co_sistema": "93"
+        },
+        {
+            "co_item": "261",
+            "ds_item": "Consultas --> Cancelamento de Faturamento",
+            "co_sistema": "93"
+        },
+        {
+            "co_item": "262",
+            "ds_item": "Consultas --> Comissionamento",
+            "co_sistema": "93"
+        },
+        {
+            "co_item": "263",
+            "ds_item": "Consultas --> Pedidos",
+            "co_sistema": "93"
+        },
+        {
+            "co_item": "264",
+            "ds_item": "Consultas --> Preços e Fretes",
+            "co_sistema": "93"
+        },
+        {
+            "co_item": "265",
+            "ds_item": "Consultas --> Carteira de Pedidos",
+            "co_sistema": "93"
+        },
+        {
+            "co_item": "266",
+            "ds_item": "Login",
+            "co_sistema": "93"
+        },
+        {
+            "co_item": "268",
+            "ds_item": "Tela Principal",
+            "co_sistema": "177"
+        },
+        {
+            "co_item": "269",
+            "ds_item": "Inclusão ocorrência",
+            "co_sistema": "177"
+        },
+        {
+            "co_item": "270",
+            "ds_item": "Detalhe ocorrência - Principal",
+            "co_sistema": "177"
+        },
+        {
+            "co_item": "271",
+            "ds_item": "Detalhe ocorrência - Andamentos",
+            "co_sistema": "177"
+        },
+        {
+            "co_item": "272",
+            "ds_item": "Detalhe ocorrência - Anexos",
+            "co_sistema": "177"
+        },
+        {
+            "co_item": "273",
+            "ds_item": "Consultas -> Biblioteca",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "274",
+            "ds_item": "Administração -> Cadastro de Conhecimento",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "275",
+            "ds_item": "Consultas -> Biblioteca - Pendentes de Voto",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "276",
+            "ds_item": "Administração -> Cadastro Ombudsman",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "277",
+            "ds_item": "Consultas -> Ombudsman",
+            "co_sistema": "91"
+        },
+        {
+            "co_item": "278",
+            "ds_item": "Website",
+            "co_sistema": "181"
+        },
+        {
+            "co_item": "279",
+            "ds_item": "Consultar Carga",
+            "co_sistema": "210"
+        },
+        {
+            "co_item": "280",
+            "ds_item": "Consultar Caminhão",
+            "co_sistema": "210"
+        },
+        {
+            "co_item": "281",
+            "ds_item": "Anunciar Carga",
+            "co_sistema": "210"
+        },
+        {
+            "co_item": "282",
+            "ds_item": "Anunciar Caminhão",
+            "co_sistema": "210"
+        },
+        {
+            "co_item": "283",
+            "ds_item": "Minhas Buscas",
+            "co_sistema": "210"
+        },
+        {
+            "co_item": "284",
+            "ds_item": "Meus Anúncios",
+            "co_sistema": "210"
+        },
+        {
+            "co_item": "285",
+            "ds_item": "Parceiros",
+            "co_sistema": "210"
+        },
+        {
+            "co_item": "286",
+            "ds_item": "Anunciar Carga --> Anunciar Várias Cargas",
+            "co_sistema": "210"
+        },
+        {
+            "co_item": "287",
+            "ds_item": "Anunciar Caminhão --> Anunciar Vários Caminhões",
+            "co_sistema": "210"
+        },
+        {
+            "co_item": "288",
+            "ds_item": "Chamados -> Operação -> Reg. Chamado",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "289",
+            "ds_item": "Chamados -> Administração -> Man. Produtos",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "290",
+            "ds_item": "Chamados -> Administração -> Man. Itens Produto",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "291",
+            "ds_item": "Chamados -> Administração -> Man. SLA",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "292",
+            "ds_item": "Chamados -> Administração -> Par. Receb. Email",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "293",
+            "ds_item": "Chamados -> Administração -> Man. Valor/Hora",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "294",
+            "ds_item": "Chamados -> Administração -> Man. Centro Custos",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "295",
+            "ds_item": "Chamados -> Administração -> Man. Atividades",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "296",
+            "ds_item": "Chamados -> Administração -> Man. Grupos",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "297",
+            "ds_item": "Chamados -> Administração -> Man. Tipo Chamado",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "298",
+            "ds_item": "Chamados -> Consultas -> Chamados",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "299",
+            "ds_item": "Chamados -> Consultas -> Rel. Geral",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "300",
+            "ds_item": "Chamados -> Consultas -> Rel. Faturamento",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "301",
+            "ds_item": "Chamados -> Consultas -> Rel. Estatístico",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "302",
+            "ds_item": "Cadastros -> Veículos",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "303",
+            "ds_item": "Chamados > Meus Chamados - Usuário",
+            "co_sistema": "103"
+        },
+        {
+            "co_item": "304",
+            "ds_item": "Cadastros -> Preços Fipe",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "305",
+            "ds_item": "Cadastros -> Fornecedores de Serviços",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "306",
+            "ds_item": "Cadastros -> Ramos de Atividade",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "307",
+            "ds_item": "Cadastros -> Modalidade de Serviço",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "308",
+            "ds_item": "Cadastros -> Itens de Check-list",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "309",
+            "ds_item": "Cadastros -> Serviços de Manutenção",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "310",
+            "ds_item": "Cadastros -> Peças / Lubrificantes",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "311",
+            "ds_item": "Cadastros -> Unidades",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "312",
+            "ds_item": "Cadastros -> Cores",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "313",
+            "ds_item": "Cadastros -> Cidades",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "314",
+            "ds_item": "Cadastros -> Centro de Custos",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "315",
+            "ds_item": "Cadastros -> Divisão",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "316",
+            "ds_item": "Cadastros -> Frotas",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "317",
+            "ds_item": "Cadastros -> Modelos",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "318",
+            "ds_item": "Cadastros -> Motivos de Recusa",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "319",
+            "ds_item": "Cadastros -> Motivos de Infração",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "320",
+            "ds_item": "Cadastros -> Motivos de Desativação do Veículo",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "321",
+            "ds_item": "Cadastros -> Combustível",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "322",
+            "ds_item": "Cadastros -> Parametrização De Tempo E Indisponibilidade De Veículo",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "323",
+            "ds_item": "Cadastros -> Unidade de Medida",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "324",
+            "ds_item": "Comercial > Empresas",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "325",
+            "ds_item": "Usuário -> Cadastro de Usuários",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "326",
+            "ds_item": "Serviços -> Solicitação de Veículos",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "327",
+            "ds_item": "Serviços -> Autorização de Veículo",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "328",
+            "ds_item": "Comercial > Prospects",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "329",
+            "ds_item": "Comercial > Propostas",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "330",
+            "ds_item": "Serviços -> Saída de Veículos",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "331",
+            "ds_item": "Serviços -> Entrada de Veículos",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "332",
+            "ds_item": "Serviços -> Liberação de Veículos Entrados",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "333",
+            "ds_item": "Serviços -> Entrada IPVA e Seguro Obrigatório",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "334",
+            "ds_item": "Serviços -> Entrada de Multas",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "335",
+            "ds_item": "Serviços -> Entrada de Sinistros",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "336",
+            "ds_item": "Serviços -> Multas em Processo de Recurso",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "337",
+            "ds_item": "Serviços -> Entrada de Notas de Abastecimento",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "338",
+            "ds_item": "Serviços -> Emissão De Contrato De Comodato",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "339",
+            "ds_item": "Serviços -> Solicitação/Edição de OS",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "340",
+            "ds_item": "Serviços -> Quadro de OS",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "341",
+            "ds_item": "Consultas -> Veículos Disponíveis",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "342",
+            "ds_item": "Consultas -> Patrimônio",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "343",
+            "ds_item": "Consultas -> Solicitação de Veículo",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "344",
+            "ds_item": "Consultas -> Multas",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "345",
+            "ds_item": "Consultas -> Sinistros",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "346",
+            "ds_item": "Consultas -> IPVA e Seguro",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "347",
+            "ds_item": "Consultas -> Abastecimentos",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "348",
+            "ds_item": "Consultas -> Notas de Serviço",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "349",
+            "ds_item": "Consultas -> Gastos",
+            "co_sistema": "152"
+        },
+        {
+            "co_item": "350",
+            "ds_item": "Comercial > Op. de Negocios",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "351",
+            "ds_item": "Comercial > Painel de Controle",
+            "co_sistema": "207"
+        },
+        {
+            "co_item": "352",
+            "ds_item": "Chamados > Solicitação de Acesso Pendente de Autorização",
+            "co_sistema": "103"
+        },
+        {
+            "co_item": "353",
+            "ds_item": "Chamados > Chamados Abertos e em Andamento",
+            "co_sistema": "103"
+        },
+        {
+            "co_item": "354",
+            "ds_item": "Chamados > Chamados Pendentes",
+            "co_sistema": "103"
+        },
+        {
+            "co_item": "355",
+            "ds_item": "SAPP",
+            "co_sistema": "240"
+        },
+        {
+            "co_item": "356",
+            "ds_item": "Consultas > Consulta PEA",
+            "co_sistema": "240"
+        },
+        {
+            "co_item": "357",
+            "ds_item": "Operação > Efetuar Pedido",
+            "co_sistema": "249"
+        },
+        {
+            "co_item": "358",
+            "ds_item": "Administração > Cadastro Tipo Empresa",
+            "co_sistema": "249"
+        },
+        {
+            "co_item": "359",
+            "ds_item": "Administração > Parametrização Tipo Empresa",
+            "co_sistema": "249"
+        },
+        {
+            "co_item": "360",
+            "ds_item": "Administração > Cadastro de Preços",
+            "co_sistema": "249"
+        },
+        {
+            "co_item": "361",
+            "ds_item": "Consultas > Tipos de Empresas",
+            "co_sistema": "249"
+        },
+        {
+            "co_item": "362",
+            "ds_item": "Consultas > Preços Cadastrados",
+            "co_sistema": "249"
+        },
+        {
+            "co_item": "363",
+            "ds_item": "Usuários > Cadastro de Usuários",
+            "co_sistema": "249"
+        },
+        {
+            "co_item": "364",
+            "ds_item": "Usuários > Troca de Senha",
+            "co_sistema": "249"
+        },
+        {
+            "co_item": "365",
+            "ds_item": "Usuários -> Cadastro de Usuário",
+            "co_sistema": "258"
+        },
+        {
+            "co_item": "366",
+            "ds_item": "Usuários -> Troca de Senha",
+            "co_sistema": "258"
+        },
+        {
+            "co_item": "367",
+            "ds_item": "Administração -> Manutenção de Concessionárias",
+            "co_sistema": "258"
+        },
+        {
+            "co_item": "368",
+            "ds_item": "Administração -> Manutenção de Vídeos",
+            "co_sistema": "258"
+        },
+        {
+            "co_item": "369",
+            "ds_item": "Administração -> Manutenção de Links para Treinamento Online",
+            "co_sistema": "258"
+        },
+        {
+            "co_item": "370",
+            "ds_item": "Administração -> Manutenção de Tutoriais",
+            "co_sistema": "258"
+        },
+        {
+            "co_item": "371",
+            "ds_item": "Administração -> Manutenção de Notícias",
+            "co_sistema": "258"
+        },
+        {
+            "co_item": "372",
+            "ds_item": "Administração -> Manutenção de Enquetes",
+            "co_sistema": "258"
+        },
+        {
+            "co_item": "373",
+            "ds_item": "Administração -> Módulo de Importação",
+            "co_sistema": "252"
+        },
+        {
+            "co_item": "374",
+            "ds_item": "Administração -> Manutenção de SLA",
+            "co_sistema": "252"
+        },
+        {
+            "co_item": "375",
+            "ds_item": "Consultas -> Pedidos",
+            "co_sistema": "252"
+        },
+        {
+            "co_item": "376",
+            "ds_item": "Consultas -> Relatórios Gerais",
+            "co_sistema": "252"
+        },
+        {
+            "co_item": "377",
+            "ds_item": "Usuário -> Cadastro de Usuário",
+            "co_sistema": "252"
+        },
+        {
+            "co_item": "378",
+            "ds_item": "Usuário -> Troca de Senha",
+            "co_sistema": "252"
+        },
+        {
+            "co_item": "379",
+            "ds_item": "Usuário -> Cadastro de Usuário TIM",
+            "co_sistema": "262"
+        },
+        {
+            "co_item": "380",
+            "ds_item": "Administração -> Manutenção de Operadoras",
+            "co_sistema": "262"
+        },
+        {
+            "co_item": "381",
+            "ds_item": "Administração -> Manutenção de Territórios",
+            "co_sistema": "262"
+        },
+        {
+            "co_item": "382",
+            "ds_item": "Administração -> Manutenção de PDV",
+            "co_sistema": "262"
+        },
+        {
+            "co_item": "383",
+            "ds_item": "Administração -> Canal Loja TIM -> Manutenção de Questões de Avaliação",
+            "co_sistema": "262"
+        },
+        {
+            "co_item": "384",
+            "ds_item": "Administração -> Canal Loja TIM -> Manutenção de Classificação de Situação",
+            "co_sistema": "262"
+        },
+        {
+            "co_item": "385",
+            "ds_item": "Administração -> Canal Loja TIM -> Manutenção de Pilares",
+            "co_sistema": "262"
+        },
+        {
+            "co_item": "386",
+            "ds_item": "Administração -> Canal Loja TIM -> Manutenção de Critérios de Avaliação",
+            "co_sistema": "262"
+        },
+        {
+            "co_item": "387",
+            "ds_item": "Operação > Cadastro de Fator para Conta Contábil",
+            "co_sistema": "166"
+        }
+    ]
+}

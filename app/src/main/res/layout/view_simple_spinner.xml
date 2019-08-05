@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/label"
+        android:singleLine="true"
+        android:padding="@dimen/margen_extra_corto"
+        android:gravity="start"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="marquee"
+        android:background="@drawable/item_efecto"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/subtitulo_size"
+        android:text="prueba"
+        android:textAlignment="inherit"
+/>

@@ -1,0 +1,228 @@
+{
+    "RECORDS": [
+        {
+            "co_tipo_custo": "1",
+            "descricao": "Material de Escritório"
+        },
+        {
+            "co_tipo_custo": "5",
+            "descricao": "Aluguel"
+        },
+        {
+            "co_tipo_custo": "3",
+            "descricao": "Luz"
+        },
+        {
+            "co_tipo_custo": "4",
+            "descricao": "Telefonia"
+        },
+        {
+            "co_tipo_custo": "6",
+            "descricao": "Condomínio"
+        },
+        {
+            "co_tipo_custo": "7",
+            "descricao": "Sala de Reunião"
+        },
+        {
+            "co_tipo_custo": "8",
+            "descricao": "Manutenção Predial"
+        },
+        {
+            "co_tipo_custo": "9",
+            "descricao": "Estacionamento"
+        },
+        {
+            "co_tipo_custo": "10",
+            "descricao": "Pró-Labore"
+        },
+        {
+            "co_tipo_custo": "11",
+            "descricao": "Ajuda de Custo Amarildo"
+        },
+        {
+            "co_tipo_custo": "12",
+            "descricao": "Comissão Consultores Inativos"
+        },
+        {
+            "co_tipo_custo": "13",
+            "descricao": "Serviço de Secretariado"
+        },
+        {
+            "co_tipo_custo": "14",
+            "descricao": "Água"
+        },
+        {
+            "co_tipo_custo": "15",
+            "descricao": "Motoboy"
+        },
+        {
+            "co_tipo_custo": "16",
+            "descricao": "Telefonia DDD"
+        },
+        {
+            "co_tipo_custo": "17",
+            "descricao": "Comissão Domício"
+        },
+        {
+            "co_tipo_custo": "18",
+            "descricao": "Ajuda de Custo Domício"
+        },
+        {
+            "co_tipo_custo": "19",
+            "descricao": "Limpeza/Faxina"
+        },
+        {
+            "co_tipo_custo": "20",
+            "descricao": "Sedex"
+        },
+        {
+            "co_tipo_custo": "21",
+            "descricao": "Comissão B2U"
+        },
+        {
+            "co_tipo_custo": "22",
+            "descricao": "Ajuda de Custo Amanda"
+        },
+        {
+            "co_tipo_custo": "23",
+            "descricao": "Outros"
+        },
+        {
+            "co_tipo_custo": "24",
+            "descricao": "Equipamento (computadores)"
+        },
+        {
+            "co_tipo_custo": "25",
+            "descricao": "CIEE"
+        },
+        {
+            "co_tipo_custo": "26",
+            "descricao": "Servidor CVS"
+        },
+        {
+            "co_tipo_custo": "27",
+            "descricao": "Provedor"
+        },
+        {
+            "co_tipo_custo": "29",
+            "descricao": "Cursos e Treinamento"
+        },
+        {
+            "co_tipo_custo": "30",
+            "descricao": "Taxa do Lixo"
+        },
+        {
+            "co_tipo_custo": "31",
+            "descricao": "Domínios"
+        },
+        {
+            "co_tipo_custo": "32",
+            "descricao": "Escritório de Contabilidade"
+        },
+        {
+            "co_tipo_custo": "33",
+            "descricao": "IPTU"
+        },
+        {
+            "co_tipo_custo": "34",
+            "descricao": "Internet"
+        },
+        {
+            "co_tipo_custo": "35",
+            "descricao": "Consultoria Interna"
+        },
+        {
+            "co_tipo_custo": "36",
+            "descricao": "Hospedagem de sites"
+        },
+        {
+            "co_tipo_custo": "37",
+            "descricao": "Ajuda de custo CF"
+        },
+        {
+            "co_tipo_custo": "38",
+            "descricao": "Clientes (almoços, brindes, e"
+        },
+        {
+            "co_tipo_custo": "39",
+            "descricao": "Contador"
+        },
+        {
+            "co_tipo_custo": "40",
+            "descricao": "Propaganda e Marketing"
+        },
+        {
+            "co_tipo_custo": "41",
+            "descricao": "Consulta Frete"
+        },
+        {
+            "co_tipo_custo": "42",
+            "descricao": "Combustível"
+        },
+        {
+            "co_tipo_custo": "49",
+            "descricao": "Seguro de carro"
+        },
+        {
+            "co_tipo_custo": "44",
+            "descricao": "Manutenção de Domínios"
+        },
+        {
+            "co_tipo_custo": "45",
+            "descricao": "Manutenção veículo CF"
+        },
+        {
+            "co_tipo_custo": "46",
+            "descricao": "Equipe Agence (almoços, brind"
+        },
+        {
+            "co_tipo_custo": "47",
+            "descricao": "Cartucho para Impressora"
+        },
+        {
+            "co_tipo_custo": "48",
+            "descricao": "Celular"
+        },
+        {
+            "co_tipo_custo": "53",
+            "descricao": "Pousada Mato Grosso"
+        },
+        {
+            "co_tipo_custo": "51",
+            "descricao": "Viagens (CN)"
+        },
+        {
+            "co_tipo_custo": "52",
+            "descricao": "Viagens (Analistas)"
+        },
+        {
+            "co_tipo_custo": "54",
+            "descricao": "Taxi"
+        },
+        {
+            "co_tipo_custo": "55",
+            "descricao": "Passagens aéreas"
+        },
+        {
+            "co_tipo_custo": "56",
+            "descricao": "Obra - Nova Agence"
+        },
+        {
+            "co_tipo_custo": "57",
+            "descricao": "Telefonia + Internet"
+        },
+        {
+            "co_tipo_custo": "58",
+            "descricao": "Lanche"
+        },
+        {
+            "co_tipo_custo": "59",
+            "descricao": "Leasing - Veículos Agence"
+        },
+        {
+            "co_tipo_custo": "60",
+            "descricao": "Pedágio - A Serviço"
+        }
+    ]
+}

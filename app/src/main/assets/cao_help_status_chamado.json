@@ -1,0 +1,16 @@
+{
+    "RECORDS": [
+        {
+            "co_status": "1",
+            "ds_status": "Andamento"
+        },
+        {
+            "co_status": "2",
+            "ds_status": "Atendido"
+        },
+        {
+            "co_status": "3",
+            "ds_status": "Cancelado"
+        }
+    ]
+}

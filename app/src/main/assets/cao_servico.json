@@ -1,0 +1,16 @@
+{
+    "RECORDS": [
+        {
+            "co_servico": "1",
+            "ds_servico": "BA"
+        },
+        {
+            "co_servico": "2",
+            "ds_servico": "SF"
+        },
+        {
+            "co_servico": "3",
+            "ds_servico": "SI"
+        }
+    ]
+}

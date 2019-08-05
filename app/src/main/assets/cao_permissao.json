@@ -1,0 +1,474 @@
+{
+    "RECORDS": [
+        {
+            "co_usuario": "lf.oliveira",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "francisco.ogatha",
+            "permissao_intervalo": "1",
+            "permissao_hora_extra": "1"
+        },
+        {
+            "co_usuario": "gustavo.gomes",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "1"
+        },
+        {
+            "co_usuario": "alessandro.yamada",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "rodrigo.toledo",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "cyntia.nakamura",
+            "permissao_intervalo": "1",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "daniel.pires",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "ricardo.rubini",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "rodrigo.sousa",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "contato",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "marcio.paulino",
+            "permissao_intervalo": "1",
+            "permissao_hora_extra": "1"
+        },
+        {
+            "co_usuario": "ricardo.martins",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "fernando.marinho",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "rodrigo.moralles",
+            "permissao_intervalo": "1",
+            "permissao_hora_extra": "1"
+        },
+        {
+            "co_usuario": "janaina.vieira",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "marcelo.madruga",
+            "permissao_intervalo": "1",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "gustavo.alvares",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "fabricio.silveira",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "camila.candido",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "1"
+        },
+        {
+            "co_usuario": "liana.duenha",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "alex.wassano",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "civio.couto",
+            "permissao_intervalo": "1",
+            "permissao_hora_extra": "1"
+        },
+        {
+            "co_usuario": "fabiano.pontes",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "luiz.paulo",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "edy.bruno",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "rodrigo.areco",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "nivaldo.junior",
+            "permissao_intervalo": "1",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "marco.malaquias",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "rodrigo.lopes",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "felipe.correa",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "og.menezes",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "michele.freitas",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "1"
+        },
+        {
+            "co_usuario": "felipe.chahad",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "paulo.moacir",
+            "permissao_intervalo": "1",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "frederico.zapelini",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "eric.shibayama",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "1"
+        },
+        {
+            "co_usuario": "wagner.alves",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "1"
+        },
+        {
+            "co_usuario": "leandro.caracciolo",
+            "permissao_intervalo": "1",
+            "permissao_hora_extra": "1"
+        },
+        {
+            "co_usuario": "abner.silva",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "1"
+        },
+        {
+            "co_usuario": "bruno.freitas",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "teste.teste",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "wilfried.schooneman",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "rui.hayashi",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "jefferson.silva",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "raphael.araujo",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "thiago.jost",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "helsen.rossi",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "alessandro.gonzalez",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "alexandre.rodrigues",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "agence.ms",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "denis.santos",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "tiago.stutz",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "marcel.sobral",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "davys.fellipe",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "fernando.cezar",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "ricardo.silva",
+            "permissao_intervalo": "1",
+            "permissao_hora_extra": "1"
+        },
+        {
+            "co_usuario": "saulo.coelho",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "rodrigo.soler",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "heber.moreira",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "ricardo.burile",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "moises.rovani",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "rafael.sierra",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "leonardo.silva",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "marcelo.luz",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "alfeu.vilela",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "aline.chastel",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "marcio.oliveira",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "jesse.lucas",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "gabriel.verta",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "1"
+        },
+        {
+            "co_usuario": "camilo.silveira",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "evandro.santos",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "1"
+        },
+        {
+            "co_usuario": "gustavo.buquio",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "luiz.cortez",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "jefter.fontes",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "ricardo.perez",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "andre.bandera",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "rodrigo.miranda",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "regiane.domingo",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "jonas.morais",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "fabio.martins",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "caio.salim",
+            "permissao_intervalo": "1",
+            "permissao_hora_extra": "1"
+        },
+        {
+            "co_usuario": "rodrigo.sansao",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "angelina.oshiro",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "andre.tinchant",
+            "permissao_intervalo": "1",
+            "permissao_hora_extra": "1"
+        },
+        {
+            "co_usuario": "ravi.rauber",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "andrew.silva",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "leandro.duprat",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "vanessa.souza",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        },
+        {
+            "co_usuario": "silvio.maraes",
+            "permissao_intervalo": "0",
+            "permissao_hora_extra": "0"
+        }
+    ]
+}

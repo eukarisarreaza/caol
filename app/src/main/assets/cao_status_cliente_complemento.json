@@ -1,0 +1,49 @@
+{
+    "RECORDS": [
+        {
+            "co_complemento_status": "1",
+            "ds_status": "Cliente Quente",
+            "co_status": "1"
+        },
+        {
+            "co_complemento_status": "2",
+            "ds_status": "Cliente Morno",
+            "co_status": "1"
+        },
+        {
+            "co_complemento_status": "3",
+            "ds_status": "Cliente Frio",
+            "co_status": "1"
+        },
+        {
+            "co_complemento_status": "4",
+            "ds_status": "Cliente Solicitou Novo Contato",
+            "co_status": "2"
+        },
+        {
+            "co_complemento_status": "5",
+            "ds_status": "Cliente Sem Interesse",
+            "co_status": "2"
+        },
+        {
+            "co_complemento_status": "6",
+            "ds_status": "Linha Muda",
+            "co_status": "3"
+        },
+        {
+            "co_complemento_status": "7",
+            "ds_status": "Linha Ocupada",
+            "co_status": "3"
+        },
+        {
+            "co_complemento_status": "8",
+            "ds_status": "Linha Não Atendida",
+            "co_status": "3"
+        },
+        {
+            "co_complemento_status": "9",
+            "ds_status": "Nao Contatado",
+            "co_status": "3"
+        }
+    ]
+}

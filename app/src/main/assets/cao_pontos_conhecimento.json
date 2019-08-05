@@ -1,0 +1,310 @@
+{
+    "RECORDS": [
+        {
+            "idpontos": "17",
+            "pontuacao": "1",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "15"
+        },
+        {
+            "idpontos": "15",
+            "pontuacao": "1",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "16"
+        },
+        {
+            "idpontos": "16",
+            "pontuacao": "1",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "17"
+        },
+        {
+            "idpontos": "18",
+            "pontuacao": "1",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "23"
+        },
+        {
+            "idpontos": "27",
+            "pontuacao": "1",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "32"
+        },
+        {
+            "idpontos": "28",
+            "pontuacao": "1",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "33"
+        },
+        {
+            "idpontos": "9",
+            "pontuacao": "1",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "24"
+        },
+        {
+            "idpontos": "56",
+            "pontuacao": "1",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "57"
+        },
+        {
+            "idpontos": "1",
+            "pontuacao": "2",
+            "co_coordenador": "",
+            "idconhecimento": "1"
+        },
+        {
+            "idpontos": "3",
+            "pontuacao": "2",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "3"
+        },
+        {
+            "idpontos": "6",
+            "pontuacao": "2",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "7"
+        },
+        {
+            "idpontos": "8",
+            "pontuacao": "2",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "11"
+        },
+        {
+            "idpontos": "21",
+            "pontuacao": "2",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "13"
+        },
+        {
+            "idpontos": "13",
+            "pontuacao": "2",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "26"
+        },
+        {
+            "idpontos": "20",
+            "pontuacao": "2",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "27"
+        },
+        {
+            "idpontos": "14",
+            "pontuacao": "2",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "29"
+        },
+        {
+            "idpontos": "29",
+            "pontuacao": "2",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "34"
+        },
+        {
+            "idpontos": "11",
+            "pontuacao": "2",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "21"
+        },
+        {
+            "idpontos": "2",
+            "pontuacao": "3",
+            "co_coordenador": "",
+            "idconhecimento": "2"
+        },
+        {
+            "idpontos": "4",
+            "pontuacao": "3",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "5"
+        },
+        {
+            "idpontos": "7",
+            "pontuacao": "3",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "10"
+        },
+        {
+            "idpontos": "19",
+            "pontuacao": "3",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "25"
+        },
+        {
+            "idpontos": "24",
+            "pontuacao": "3",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "30"
+        },
+        {
+            "idpontos": "30",
+            "pontuacao": "3",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "37"
+        },
+        {
+            "idpontos": "32",
+            "pontuacao": "3",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "50"
+        },
+        {
+            "idpontos": "41",
+            "pontuacao": "3",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "55"
+        },
+        {
+            "idpontos": "5",
+            "pontuacao": "3",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "6"
+        },
+        {
+            "idpontos": "12",
+            "pontuacao": "3",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "14"
+        },
+        {
+            "idpontos": "43",
+            "pontuacao": "3",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "38"
+        },
+        {
+            "idpontos": "51",
+            "pontuacao": "3",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "48"
+        },
+        {
+            "idpontos": "52",
+            "pontuacao": "3",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "49"
+        },
+        {
+            "idpontos": "36",
+            "pontuacao": "3",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "58"
+        },
+        {
+            "idpontos": "40",
+            "pontuacao": "3",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "62"
+        },
+        {
+            "idpontos": "23",
+            "pontuacao": "4",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "9"
+        },
+        {
+            "idpontos": "22",
+            "pontuacao": "4",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "28"
+        },
+        {
+            "idpontos": "26",
+            "pontuacao": "4",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "31"
+        },
+        {
+            "idpontos": "31",
+            "pontuacao": "4",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "45"
+        },
+        {
+            "idpontos": "42",
+            "pontuacao": "4",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "36"
+        },
+        {
+            "idpontos": "44",
+            "pontuacao": "4",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "39"
+        },
+        {
+            "idpontos": "54",
+            "pontuacao": "4",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "46"
+        },
+        {
+            "idpontos": "50",
+            "pontuacao": "4",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "47"
+        },
+        {
+            "idpontos": "53",
+            "pontuacao": "4",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "51"
+        },
+        {
+            "idpontos": "33",
+            "pontuacao": "4",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "52"
+        },
+        {
+            "idpontos": "55",
+            "pontuacao": "4",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "53"
+        },
+        {
+            "idpontos": "34",
+            "pontuacao": "4",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "54"
+        },
+        {
+            "idpontos": "35",
+            "pontuacao": "4",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "56"
+        },
+        {
+            "idpontos": "37",
+            "pontuacao": "4",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "59"
+        },
+        {
+            "idpontos": "38",
+            "pontuacao": "4",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "60"
+        },
+        {
+            "idpontos": "25",
+            "pontuacao": "5",
+            "co_coordenador": "bruno.freitas",
+            "idconhecimento": "35"
+        },
+        {
+            "idpontos": "10",
+            "pontuacao": "5",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "22"
+        },
+        {
+            "idpontos": "39",
+            "pontuacao": "5",
+            "co_coordenador": "luiz.paulo",
+            "idconhecimento": "61"
+        }
+    ]
+}

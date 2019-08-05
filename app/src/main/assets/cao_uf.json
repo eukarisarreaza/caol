@@ -1,0 +1,28 @@
+{
+    "RECORDS": [
+        {
+            "co_uf": "1",
+            "ds_uf": "SP"
+        },
+        {
+            "co_uf": "2",
+            "ds_uf": "DF"
+        },
+        {
+            "co_uf": "3",
+            "ds_uf": "MS"
+        },
+        {
+            "co_uf": "4",
+            "ds_uf": "AC"
+        },
+        {
+            "co_uf": "5",
+            "ds_uf": "RJ"
+        },
+        {
+            "co_uf": "6",
+            "ds_uf": "MT"
+        }
+    ]
+}

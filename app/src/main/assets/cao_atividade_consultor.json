@@ -1,0 +1,44 @@
+{
+    "RECORDS": [
+        {
+            "co_atividade": "1",
+            "ds_atividade": "Contato de Prospecção",
+            "ativo": "S"
+        },
+        {
+            "co_atividade": "2",
+            "ds_atividade": "Contato",
+            "ativo": "S"
+        },
+        {
+            "co_atividade": "3",
+            "ds_atividade": "Visita de Prospecção",
+            "ativo": "S"
+        },
+        {
+            "co_atividade": "4",
+            "ds_atividade": "Visita / Reunião",
+            "ativo": "S"
+        },
+        {
+            "co_atividade": "5",
+            "ds_atividade": "Confecção de ME",
+            "ativo": "S"
+        },
+        {
+            "co_atividade": "6",
+            "ds_atividade": "Enviar Proposta",
+            "ativo": "S"
+        },
+        {
+            "co_atividade": "7",
+            "ds_atividade": "Enviar Contrato",
+            "ativo": "S"
+        },
+        {
+            "co_atividade": "8",
+            "ds_atividade": "Atividade Interna",
+            "ativo": "S"
+        }
+    ]
+}

@@ -1,0 +1,2548 @@
+{
+    "RECORDS": [
+        {
+            "co_ramo": "1",
+            "ds_ramo": "Telefonia Celular"
+        },
+        {
+            "co_ramo": "2",
+            "ds_ramo": "Bancos"
+        },
+        {
+            "co_ramo": "3",
+            "ds_ramo": "Jóias"
+        },
+        {
+            "co_ramo": "4",
+            "ds_ramo": "Informática"
+        },
+        {
+            "co_ramo": "5",
+            "ds_ramo": "Montadora de Veículos"
+        },
+        {
+            "co_ramo": "6",
+            "ds_ramo": "Agropecuária"
+        },
+        {
+            "co_ramo": "7",
+            "ds_ramo": "Alimentos e Gastronomia"
+        },
+        {
+            "co_ramo": "8",
+            "ds_ramo": "Animais"
+        },
+        {
+            "co_ramo": "9",
+            "ds_ramo": "Beleza"
+        },
+        {
+            "co_ramo": "10",
+            "ds_ramo": "Casa e Construção"
+        },
+        {
+            "co_ramo": "11",
+            "ds_ramo": "Educação"
+        },
+        {
+            "co_ramo": "12",
+            "ds_ramo": "Esportes"
+        },
+        {
+            "co_ramo": "13",
+            "ds_ramo": "Finanças"
+        },
+        {
+            "co_ramo": "14",
+            "ds_ramo": "Flores e Decoração"
+        },
+        {
+            "co_ramo": "15",
+            "ds_ramo": "Governo e Política"
+        },
+        {
+            "co_ramo": "16",
+            "ds_ramo": "Internet"
+        },
+        {
+            "co_ramo": "17",
+            "ds_ramo": "Lazer e Entretenimento"
+        },
+        {
+            "co_ramo": "18",
+            "ds_ramo": "Loja de Departamento"
+        },
+        {
+            "co_ramo": "19",
+            "ds_ramo": "Moda e Vestuário"
+        },
+        {
+            "co_ramo": "20",
+            "ds_ramo": "Notícias"
+        },
+        {
+            "co_ramo": "21",
+            "ds_ramo": "Papelaria e Escritório"
+        },
+        {
+            "co_ramo": "22",
+            "ds_ramo": "Presentes e Brindes"
+        },
+        {
+            "co_ramo": "23",
+            "ds_ramo": "Profissionais Liberais"
+        },
+        {
+            "co_ramo": "24",
+            "ds_ramo": "Saúde"
+        },
+        {
+            "co_ramo": "25",
+            "ds_ramo": "Sociedade"
+        },
+        {
+            "co_ramo": "26",
+            "ds_ramo": "Telecomunicações"
+        },
+        {
+            "co_ramo": "27",
+            "ds_ramo": "Veículos e Transportes"
+        },
+        {
+            "co_ramo": "28",
+            "ds_ramo": "Outros"
+        },
+        {
+            "co_ramo": "29",
+            "ds_ramo": "AR CONDICIONADO"
+        },
+        {
+            "co_ramo": "112",
+            "ds_ramo": "ANTIGUIDADES"
+        },
+        {
+            "co_ramo": "113",
+            "ds_ramo": "AQUECEDORES"
+        },
+        {
+            "co_ramo": "114",
+            "ds_ramo": "ARGAMASSA"
+        },
+        {
+            "co_ramo": "115",
+            "ds_ramo": "ARMÁRIOS"
+        },
+        {
+            "co_ramo": "116",
+            "ds_ramo": "ASSOCIAÇÃO"
+        },
+        {
+            "co_ramo": "117",
+            "ds_ramo": "BANHEIRA"
+        },
+        {
+            "co_ramo": "118",
+            "ds_ramo": "BEBEDOURO"
+        },
+        {
+            "co_ramo": "119",
+            "ds_ramo": "BLOCOS E PISOS"
+        },
+        {
+            "co_ramo": "120",
+            "ds_ramo": "BOLSAS"
+        },
+        {
+            "co_ramo": "121",
+            "ds_ramo": "BOX"
+        },
+        {
+            "co_ramo": "122",
+            "ds_ramo": "CAIXAS DAGUA"
+        },
+        {
+            "co_ramo": "123",
+            "ds_ramo": "CANETA"
+        },
+        {
+            "co_ramo": "124",
+            "ds_ramo": "CARPETES"
+        },
+        {
+            "co_ramo": "125",
+            "ds_ramo": "CASA PRE FABRICADA"
+        },
+        {
+            "co_ramo": "126",
+            "ds_ramo": "CHAMPAGNE"
+        },
+        {
+            "co_ramo": "127",
+            "ds_ramo": "CIMENTO"
+        },
+        {
+            "co_ramo": "128",
+            "ds_ramo": "COBERTURA"
+        },
+        {
+            "co_ramo": "129",
+            "ds_ramo": "COIFAS"
+        },
+        {
+            "co_ramo": "130",
+            "ds_ramo": "COLCHÕES"
+        },
+        {
+            "co_ramo": "131",
+            "ds_ramo": "CONSTRUTORA"
+        },
+        {
+            "co_ramo": "132",
+            "ds_ramo": "COZ.PLANEJADA"
+        },
+        {
+            "co_ramo": "133",
+            "ds_ramo": "CUBAS"
+        },
+        {
+            "co_ramo": "134",
+            "ds_ramo": "DIVERSOS"
+        },
+        {
+            "co_ramo": "135",
+            "ds_ramo": "DIVISÓRIAS CORP."
+        },
+        {
+            "co_ramo": "136",
+            "ds_ramo": "ELÉTRICA"
+        },
+        {
+            "co_ramo": "137",
+            "ds_ramo": "ELETRODOMÉSTICOS"
+        },
+        {
+            "co_ramo": "138",
+            "ds_ramo": "ELEVADORES"
+        },
+        {
+            "co_ramo": "139",
+            "ds_ramo": "ESCADAS DE ALÇAPÃO"
+        },
+        {
+            "co_ramo": "140",
+            "ds_ramo": "ESQUADRIAS"
+        },
+        {
+            "co_ramo": "141",
+            "ds_ramo": "FEIRA"
+        },
+        {
+            "co_ramo": "142",
+            "ds_ramo": "FERRAGENS"
+        },
+        {
+            "co_ramo": "143",
+            "ds_ramo": "FERRAMENTAS"
+        },
+        {
+            "co_ramo": "144",
+            "ds_ramo": "FOGÕES"
+        },
+        {
+            "co_ramo": "145",
+            "ds_ramo": "GÁS"
+        },
+        {
+            "co_ramo": "146",
+            "ds_ramo": "GESSO"
+        },
+        {
+            "co_ramo": "147",
+            "ds_ramo": "GRAMA"
+        },
+        {
+            "co_ramo": "148",
+            "ds_ramo": "HOME CENTER"
+        },
+        {
+            "co_ramo": "149",
+            "ds_ramo": "HOME THEATHER"
+        },
+        {
+            "co_ramo": "150",
+            "ds_ramo": "ILUMINAÇÃO"
+        },
+        {
+            "co_ramo": "151",
+            "ds_ramo": "LOUÇAS"
+        },
+        {
+            "co_ramo": "152",
+            "ds_ramo": "MADEIRA"
+        },
+        {
+            "co_ramo": "153",
+            "ds_ramo": "MADEIRA PARA REVESTIMENTO"
+        },
+        {
+            "co_ramo": "154",
+            "ds_ramo": "MARCENARIA"
+        },
+        {
+            "co_ramo": "155",
+            "ds_ramo": "MARMORE"
+        },
+        {
+            "co_ramo": "156",
+            "ds_ramo": "MESA"
+        },
+        {
+            "co_ramo": "157",
+            "ds_ramo": "METAIS"
+        },
+        {
+            "co_ramo": "158",
+            "ds_ramo": "METAIS COZINHA"
+        },
+        {
+            "co_ramo": "159",
+            "ds_ramo": "MOLDURA"
+        },
+        {
+            "co_ramo": "160",
+            "ds_ramo": "MOV.JARDIM"
+        },
+        {
+            "co_ramo": "161",
+            "ds_ramo": "MOVEIS"
+        },
+        {
+            "co_ramo": "162",
+            "ds_ramo": "MOVEIS CORPORATIVOS"
+        },
+        {
+            "co_ramo": "163",
+            "ds_ramo": "MOVEIS DE CASA"
+        },
+        {
+            "co_ramo": "164",
+            "ds_ramo": "MOVEIS PLANEJADOS"
+        },
+        {
+            "co_ramo": "165",
+            "ds_ramo": "NUCLEO"
+        },
+        {
+            "co_ramo": "166",
+            "ds_ramo": "OUTROS2"
+        },
+        {
+            "co_ramo": "167",
+            "ds_ramo": "PAPEIS"
+        },
+        {
+            "co_ramo": "168",
+            "ds_ramo": "PASTILHAS DE VIDRO"
+        },
+        {
+            "co_ramo": "169",
+            "ds_ramo": "PERSIANAS"
+        },
+        {
+            "co_ramo": "170",
+            "ds_ramo": "PISOS"
+        },
+        {
+            "co_ramo": "171",
+            "ds_ramo": "PISOS BORRACHA"
+        },
+        {
+            "co_ramo": "172",
+            "ds_ramo": "PISOS DE MADEIRA"
+        },
+        {
+            "co_ramo": "173",
+            "ds_ramo": "PISOS E BLOCOS"
+        },
+        {
+            "co_ramo": "174",
+            "ds_ramo": "PORCELANA"
+        },
+        {
+            "co_ramo": "175",
+            "ds_ramo": "PRATARIA"
+        },
+        {
+            "co_ramo": "176",
+            "ds_ramo": "PURIFICADOR"
+        },
+        {
+            "co_ramo": "177",
+            "ds_ramo": "PUXADORES"
+        },
+        {
+            "co_ramo": "178",
+            "ds_ramo": "QUADRA ESPORTIVA"
+        },
+        {
+            "co_ramo": "179",
+            "ds_ramo": "RELOGIO"
+        },
+        {
+            "co_ramo": "180",
+            "ds_ramo": "REVESTIMENTO"
+        },
+        {
+            "co_ramo": "181",
+            "ds_ramo": "REVESTIMENTO DE PAREDE"
+        },
+        {
+            "co_ramo": "182",
+            "ds_ramo": "SEGUROS"
+        },
+        {
+            "co_ramo": "183",
+            "ds_ramo": "SOFTWARE"
+        },
+        {
+            "co_ramo": "184",
+            "ds_ramo": "TAPETES"
+        },
+        {
+            "co_ramo": "185",
+            "ds_ramo": "TECIDOS"
+        },
+        {
+            "co_ramo": "186",
+            "ds_ramo": "TINTAS"
+        },
+        {
+            "co_ramo": "187",
+            "ds_ramo": "TUBOS E CONEXÕES"
+        },
+        {
+            "co_ramo": "188",
+            "ds_ramo": "UTENSÍLIOS COZ."
+        },
+        {
+            "co_ramo": "189",
+            "ds_ramo": "VEDAÇÃO"
+        },
+        {
+            "co_ramo": "190",
+            "ds_ramo": "VERNIZ"
+        },
+        {
+            "co_ramo": "191",
+            "ds_ramo": "VIDROS"
+        },
+        {
+            "co_ramo": "1611",
+            "ds_ramo": "ABASTECIMENTO DE AGUA E ESGOTAMENTO SANITARIO"
+        },
+        {
+            "co_ramo": "1612",
+            "ds_ramo": "ABATE E FRIGORIF BOVINOS"
+        },
+        {
+            "co_ramo": "1613",
+            "ds_ramo": "ABATE E PREPAR AVES E PEQUENOS ANIMAIS, CONSERVAS"
+        },
+        {
+            "co_ramo": "1614",
+            "ds_ramo": "ABATE E PREPARACAO DE ANIMAIS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1615",
+            "ds_ramo": "AGENCIAMENTO E LOCACAO DE MAO-DE-OBRA"
+        },
+        {
+            "co_ramo": "1616",
+            "ds_ramo": "AGENCIAS DE TURISMO E DE VENDA DE PASSAGENS"
+        },
+        {
+            "co_ramo": "1617",
+            "ds_ramo": "AGROPECUARIA1"
+        },
+        {
+            "co_ramo": "1618",
+            "ds_ramo": "APARELHAMENTO DE PEDRAS P CONSTRUCAO"
+        },
+        {
+            "co_ramo": "1619",
+            "ds_ramo": "ATIVIDADES DA CONSTRUCAO NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1620",
+            "ds_ramo": "ATIVIDADES ESPECIFICAS DA CONSTRUCAO"
+        },
+        {
+            "co_ramo": "1621",
+            "ds_ramo": "BARES, BOTEQUINS E CAFES"
+        },
+        {
+            "co_ramo": "1622",
+            "ds_ramo": "BEBIDAS"
+        },
+        {
+            "co_ramo": "1623",
+            "ds_ramo": "BENEFIC FIBRAS TEXTEIS VEGETAIS"
+        },
+        {
+            "co_ramo": "1624",
+            "ds_ramo": "BENEFIC MATERIAIS TEXTEIS DE ORIGEM ANIMAL"
+        },
+        {
+            "co_ramo": "1625",
+            "ds_ramo": "BENEFIC PRODS ALIMENTARES DE ORIGEM VEGETAL"
+        },
+        {
+            "co_ramo": "1626",
+            "ds_ramo": "BENEFICIAMENTO DE BORRACHA NATURAL"
+        },
+        {
+            "co_ramo": "1627",
+            "ds_ramo": "BENEFICIAMENTO DE COUROS E PELES"
+        },
+        {
+            "co_ramo": "1628",
+            "ds_ramo": "BENEFICIAMENTO DE MINERAIS NAO-METALICOS"
+        },
+        {
+            "co_ramo": "1629",
+            "ds_ramo": "BENEFICIAMENTO DE SUCATA METALICA"
+        },
+        {
+            "co_ramo": "1630",
+            "ds_ramo": "BORRACHA"
+        },
+        {
+            "co_ramo": "1631",
+            "ds_ramo": "CALCADOS"
+        },
+        {
+            "co_ramo": "1632",
+            "ds_ramo": "CALD PESADA P INDS MEC,CONST NAVAL,VEICUL FERROVIA"
+        },
+        {
+            "co_ramo": "1633",
+            "ds_ramo": "COM ATAC PAES,BOLOS,BISCOITOS,TORTAS,SORV,BOMBOM"
+        },
+        {
+            "co_ramo": "1634",
+            "ds_ramo": "COM ATAC PRODS QUIMICOS USO AGROPEC ALIM P ANIMAIS"
+        },
+        {
+            "co_ramo": "1635",
+            "ds_ramo": "COM ATACAD ARTIG TABACARIA E FUMO EM FOLHA BENEFIC"
+        },
+        {
+            "co_ramo": "1636",
+            "ds_ramo": "COM ATACAD ARTIGOS DE ARMARINHO"
+        },
+        {
+            "co_ramo": "1637",
+            "ds_ramo": "COM ATACAD ARTIGOS DE OTICA"
+        },
+        {
+            "co_ramo": "1638",
+            "ds_ramo": "COM ATACAD ARTIGOS NAO ESPECIFICADOS"
+        },
+        {
+            "co_ramo": "1639",
+            "ds_ramo": "COM ATACAD BOMBAS DE INCENDIO"
+        },
+        {
+            "co_ramo": "1640",
+            "ds_ramo": "COM ATACAD BORRACHA, PLASTICO, ESPUMA E SEUS ARTEF"
+        },
+        {
+            "co_ramo": "1641",
+            "ds_ramo": "COM ATACAD CALCADOS"
+        },
+        {
+            "co_ramo": "1642",
+            "ds_ramo": "COM ATACAD CERAIS BENEFICIADOS E LEGUMINOSAS"
+        },
+        {
+            "co_ramo": "1643",
+            "ds_ramo": "COM ATACAD EQUIPS INFORMATICA, PECAS E ACESSORIOS"
+        },
+        {
+            "co_ramo": "1644",
+            "ds_ramo": "COM ATACAD FERRAGEN,FERRAMENT,PROD METALUG,CUTELAR"
+        },
+        {
+            "co_ramo": "1645",
+            "ds_ramo": "COM ATACAD FERRAGENS,FERRAM,PRODS METALURG,VIDROS"
+        },
+        {
+            "co_ramo": "1646",
+            "ds_ramo": "COM ATACAD FIBRA VEGETAL BENEFIC,FIO TEXT.TECIDOS"
+        },
+        {
+            "co_ramo": "1647",
+            "ds_ramo": "COM ATACAD MADEIRA BENEFIC E ARTEFS DE MADEIRA"
+        },
+        {
+            "co_ramo": "1648",
+            "ds_ramo": "COM ATACAD MAQS, APAREL E EQUIPS P/ AGROPECUARIA"
+        },
+        {
+            "co_ramo": "1649",
+            "ds_ramo": "COM ATACAD MAQS, APARELHOS E EQUIPS"
+        },
+        {
+            "co_ramo": "1650",
+            "ds_ramo": "COM ATACAD MAQS,APAREL E EQUIPS PARA USO INDL"
+        },
+        {
+            "co_ramo": "1651",
+            "ds_ramo": "COM ATACAD MATERIAL ELETRICO E ELETRONICO"
+        },
+        {
+            "co_ramo": "1652",
+            "ds_ramo": "COM ATACAD MATERIAL PARA PINTURA"
+        },
+        {
+            "co_ramo": "1653",
+            "ds_ramo": "COM ATACAD MERCADORIAS EM GERAL"
+        },
+        {
+            "co_ramo": "1654",
+            "ds_ramo": "COM ATACAD PAPEL,PAPELAO,CARTOLIN,CARTAO,ART ESCOL"
+        },
+        {
+            "co_ramo": "1655",
+            "ds_ramo": "COM ATACAD PECAS E ACESSORIOS PARA VEICULOS"
+        },
+        {
+            "co_ramo": "1656",
+            "ds_ramo": "COM ATACAD VIDROS, ESPELHOS, VITRAIS E MOLDURAS"
+        },
+        {
+            "co_ramo": "1657",
+            "ds_ramo": "COM ATACADISTA DE BEBIDAS"
+        },
+        {
+            "co_ramo": "1658",
+            "ds_ramo": "COM ATACADISTA MADEIRAS EM BRUTO,SEMI-APARELHADAS"
+        },
+        {
+            "co_ramo": "1659",
+            "ds_ramo": "COM ATACADISTA PERFUMARIA E HIGIENE PESSOAL"
+        },
+        {
+            "co_ramo": "1660",
+            "ds_ramo": "COM ATACADISTA PESCADOS,CRUSTACEOS,MOLUSCOS"
+        },
+        {
+            "co_ramo": "1661",
+            "ds_ramo": "COM ATACADISTA PRODS ALIMENTICIOS INDUSTRIALIZADOS"
+        },
+        {
+            "co_ramo": "1662",
+            "ds_ramo": "COM ATACADISTA PRODS ALIMENTICIOS NAO ESPEC"
+        },
+        {
+            "co_ramo": "1663",
+            "ds_ramo": "COM ATACADISTA PRODS E RESIDUOS ORIG VEG E ANIMAL"
+        },
+        {
+            "co_ramo": "1664",
+            "ds_ramo": "COM ATACADISTA PRODS QUIMICOS NAO ESPECIFICADOS"
+        },
+        {
+            "co_ramo": "1665",
+            "ds_ramo": "COM VAREJ DE APAR E EQUIPS P COMUNIC,PEC E ACESS"
+        },
+        {
+            "co_ramo": "1666",
+            "ds_ramo": "COM VAREJ DE ART DESPORTIVOS,CACA,PESCA E CAMPING"
+        },
+        {
+            "co_ramo": "1667",
+            "ds_ramo": "COM VAREJ DE COMBUSTIVEIS E LUBRIF NAO ESPEC"
+        },
+        {
+            "co_ramo": "1668",
+            "ds_ramo": "COM VAREJ DE COUROS,PELES E SEUS ARTEFATOS"
+        },
+        {
+            "co_ramo": "1669",
+            "ds_ramo": "COM VAREJ DE EQUIPS DE INFORMATICA,PEC E ACESS"
+        },
+        {
+            "co_ramo": "1670",
+            "ds_ramo": "COM VAREJ DE PRODS DE HIGIENE,LIMPEZA E CONS DOMIC"
+        },
+        {
+            "co_ramo": "1671",
+            "ds_ramo": "COM VAREJ DE ROUPAS P USO PROF E SEG DO TRABALHO"
+        },
+        {
+            "co_ramo": "1672",
+            "ds_ramo": "COM VAREJ FERRAGENS,FERRAMENTAS,PRODS MET,CUTELAR"
+        },
+        {
+            "co_ramo": "1673",
+            "ds_ramo": "COM VAREJ MAQS,APAR EQUIPS ODONTO-MED-HOSP LABORAT"
+        },
+        {
+            "co_ramo": "1674",
+            "ds_ramo": "COM VAREJ MAQS,APAR ESCRIT,COML,TECN,PROF PEC ACES"
+        },
+        {
+            "co_ramo": "1675",
+            "ds_ramo": "COM VAREJISTA DE MATERIAL ELETRICO E ELETRONICO"
+        },
+        {
+            "co_ramo": "1676",
+            "ds_ramo": "COM VREJ DE ANIMAIS VIVOS,ACES E ART DE JARDINAGEM"
+        },
+        {
+            "co_ramo": "1677",
+            "ds_ramo": "COMERCIO ATACADISTA"
+        },
+        {
+            "co_ramo": "1678",
+            "ds_ramo": "COMERCIO ATACADISTA (OUTROS)"
+        },
+        {
+            "co_ramo": "1679",
+            "ds_ramo": "COMERCIO VAREJISTA"
+        },
+        {
+            "co_ramo": "1680",
+            "ds_ramo": "COMERCIO VAREJISTA BORRACHA,PLAST,ESPUMA E ARTEF"
+        },
+        {
+            "co_ramo": "1681",
+            "ds_ramo": "COMERCIO VAREJISTA DE ARTIGOS NAO ESPECIFICADOS"
+        },
+        {
+            "co_ramo": "1682",
+            "ds_ramo": "COMERCIO VAREJISTA DE ARTIGOS USADOS"
+        },
+        {
+            "co_ramo": "1683",
+            "ds_ramo": "COMERCIO VAREJISTA DE BOMBAS E COMPRESSORES"
+        },
+        {
+            "co_ramo": "1684",
+            "ds_ramo": "COMERCIO VAREJISTA DE LATICINIOS"
+        },
+        {
+            "co_ramo": "1685",
+            "ds_ramo": "COMERCIO VAREJISTA DE MATERIAL DE CONSTRUCAO"
+        },
+        {
+            "co_ramo": "1686",
+            "ds_ramo": "COMERCIO VAREJISTA DE PECAS E ACESS PARA VEICULOS"
+        },
+        {
+            "co_ramo": "1687",
+            "ds_ramo": "COMERCIO VAREJISTA DE PRODS ALIMENT NAO ESPEC"
+        },
+        {
+            "co_ramo": "1688",
+            "ds_ramo": "COMERCIO VAREJISTA DE PRODS QUIMS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1689",
+            "ds_ramo": "COMERCIO VAREJISTA DE PRODUTOS ODONTOLOGICOS"
+        },
+        {
+            "co_ramo": "1690",
+            "ds_ramo": "COMERCIO VAREJISTA DE VEICULOS"
+        },
+        {
+            "co_ramo": "1691",
+            "ds_ramo": "COMERCIO VAREJISTA GAS LIQUEFEITO DE PETROLEO"
+        },
+        {
+            "co_ramo": "1692",
+            "ds_ramo": "COMERCIO VAREJISTA INDEPENDENTE DE MERC EM GERAL"
+        },
+        {
+            "co_ramo": "1693",
+            "ds_ramo": "CONCRET ESTRUTURAS,ARMACOES FERRO, FORMA P CONCRET"
+        },
+        {
+            "co_ramo": "1694",
+            "ds_ramo": "CONFEC ARTEFS LONA E DE TECIDOS DE ACABAM ESPECIAL"
+        },
+        {
+            "co_ramo": "1695",
+            "ds_ramo": "CONFEC ARTEFS TECIDOS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1696",
+            "ds_ramo": "CONFEC PECAS INTERIORES DO VESTUARIO"
+        },
+        {
+            "co_ramo": "1697",
+            "ds_ramo": "CONFEC ROUPAS"
+        },
+        {
+            "co_ramo": "1698",
+            "ds_ramo": "CONFEC ROUPAS DE CAMA, MESA, COPA E BANHO"
+        },
+        {
+            "co_ramo": "1699",
+            "ds_ramo": "CONFEC ROUPAS DO VESTUARIO INFANTO-JUVENIL"
+        },
+        {
+            "co_ramo": "1700",
+            "ds_ramo": "CONFEC ROUPAS E AGASALHOS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1701",
+            "ds_ramo": "CONFEC ROUPAS P BANHO"
+        },
+        {
+            "co_ramo": "1702",
+            "ds_ramo": "CONFEC ROUPAS PROFISSIONAIS E P SEGURANCA TRABALHO"
+        },
+        {
+            "co_ramo": "1703",
+            "ds_ramo": "CONFECCAO DE PARTES E COMPONENTES P CALCADOS"
+        },
+        {
+            "co_ramo": "1704",
+            "ds_ramo": "CONSTRUCAO"
+        },
+        {
+            "co_ramo": "1705",
+            "ds_ramo": "CONSTRUCAO CIVIL NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1706",
+            "ds_ramo": "CONSTRUCAO DE EDIFICIOS"
+        },
+        {
+            "co_ramo": "1707",
+            "ds_ramo": "CONSTRUCAO DE GRANDES ESTRUTURAS E OBRAS DE ARTE"
+        },
+        {
+            "co_ramo": "1708",
+            "ds_ramo": "CONSTRUCAO E REPAR EMBARARC E ESTRUTS FLUTUANTES"
+        },
+        {
+            "co_ramo": "1709",
+            "ds_ramo": "CONSTRUCAO E REPARACAO DE AVIOES"
+        },
+        {
+            "co_ramo": "1710",
+            "ds_ramo": "CONSTRUCOES VIARIAS"
+        },
+        {
+            "co_ramo": "1711",
+            "ds_ramo": "COOPERATIVAS DE BENEF, INDUSTRIALIZAC E COMERCIALI"
+        },
+        {
+            "co_ramo": "1712",
+            "ds_ramo": "COOPERATIVAS DE COMPRA E VENDA"
+        },
+        {
+            "co_ramo": "1713",
+            "ds_ramo": "COOPERATIVAS DE ELETRIFICACAO RURAL"
+        },
+        {
+            "co_ramo": "1714",
+            "ds_ramo": "COOPERATIVAS DE PRODUCAO"
+        },
+        {
+            "co_ramo": "1715",
+            "ds_ramo": "COOPERATIVAS SERVICOS MEDICOS E ODONTOLOGICOS"
+        },
+        {
+            "co_ramo": "1716",
+            "ds_ramo": "CORTES DE COUROS P CALCADOS"
+        },
+        {
+            "co_ramo": "1717",
+            "ds_ramo": "CULTURA DE CANA-DE-ACUCAR"
+        },
+        {
+            "co_ramo": "1718",
+            "ds_ramo": "CULTURA DE CEREAIS, LEGUMINOSAS E OLEAGINOSAS"
+        },
+        {
+            "co_ramo": "1719",
+            "ds_ramo": "CULTURA DE SEMENTES E MUDAS"
+        },
+        {
+            "co_ramo": "1720",
+            "ds_ramo": "CURSOS LIVRES NAO ESPECIFICADOS"
+        },
+        {
+            "co_ramo": "1721",
+            "ds_ramo": "DECORACAO AMBIENTES - CONSULTORIA TECNICA E PROJET"
+        },
+        {
+            "co_ramo": "1722",
+            "ds_ramo": "DESTILACAO ALCOOL P PROCES CANA-DE-ACUCAR,MANDIOCA"
+        },
+        {
+            "co_ramo": "1723",
+            "ds_ramo": "DIVERSAS"
+        },
+        {
+            "co_ramo": "1724",
+            "ds_ramo": "EDICAO DE JORNAIS"
+        },
+        {
+            "co_ramo": "1725",
+            "ds_ramo": "EDICAO DE LIVROS E MANUAIS"
+        },
+        {
+            "co_ramo": "1726",
+            "ds_ramo": "EDICAO DE PERIODICOS"
+        },
+        {
+            "co_ramo": "1727",
+            "ds_ramo": "EDITORIAL E GRAFICA"
+        },
+        {
+            "co_ramo": "1728",
+            "ds_ramo": "EDUCACAO ESPECIAL"
+        },
+        {
+            "co_ramo": "1729",
+            "ds_ramo": "ENSINO"
+        },
+        {
+            "co_ramo": "1730",
+            "ds_ramo": "ENSINO SUPERIOR"
+        },
+        {
+            "co_ramo": "1731",
+            "ds_ramo": "ENTIDADE DE CLASSE E SINDICAIS"
+        },
+        {
+            "co_ramo": "1732",
+            "ds_ramo": "ENTIDADES DE CLASSE E SINDICAIS"
+        },
+        {
+            "co_ramo": "1733",
+            "ds_ramo": "ESCRIT GERENCIA ADMINISTRAC EMPRESAS PRESTAD SERV"
+        },
+        {
+            "co_ramo": "1734",
+            "ds_ramo": "ESCRIT GERENCIA E ADMINIST NAO ESPECIFICADOS"
+        },
+        {
+            "co_ramo": "1735",
+            "ds_ramo": "ESCRIT GERENCIA E ADMINISTR EMPRESAS INDUSTRIAIS"
+        },
+        {
+            "co_ramo": "1736",
+            "ds_ramo": "EXECUCAO DE SERVICOS GRAFICOS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1737",
+            "ds_ramo": "EXECUCAO DE TRABALHOS EM PEDRAS"
+        },
+        {
+            "co_ramo": "1738",
+            "ds_ramo": "EXPLORAC LOCAIS INSTALAC PARA DIVERSAO,RECREAC,ESPOR"
+        },
+        {
+            "co_ramo": "1739",
+            "ds_ramo": "EXPORTACAO DE PRODUTOS"
+        },
+        {
+            "co_ramo": "1740",
+            "ds_ramo": "EXTRACAO COMBUSTIVEIS MINERAIS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1741",
+            "ds_ramo": "EXTRACAO MINERAIS"
+        },
+        {
+            "co_ramo": "1742",
+            "ds_ramo": "EXTRACAO MINERAIS NAO-METALICOS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1743",
+            "ds_ramo": "EXTRACAO MINERAIS P FAB DE ADUBOS E FERTILIZANTES"
+        },
+        {
+            "co_ramo": "1744",
+            "ds_ramo": "EXTRACAO PEDRAS E MATERIAIS EM BRUTO P CONSTRUCAO"
+        },
+        {
+            "co_ramo": "1745",
+            "ds_ramo": "EXTRACAO SAL MARINHO E SAL-GEMA"
+        },
+        {
+            "co_ramo": "1746",
+            "ds_ramo": "FAB ACESS DO VESTUARIO"
+        },
+        {
+            "co_ramo": "1747",
+            "ds_ramo": "FAB ACESS PROFISSIONAIS E P SEGURANCA NO TRABALHO"
+        },
+        {
+            "co_ramo": "1748",
+            "ds_ramo": "FAB ACESS TEXTEIS P CONFECCOES"
+        },
+        {
+            "co_ramo": "1749",
+            "ds_ramo": "FAB ANTENAS P TRANSMISSAO E RECEPCAO DE IMAGEM-SOM"
+        },
+        {
+            "co_ramo": "1750",
+            "ds_ramo": "FAB APARS E EQUIPS DE SINALIZACAO,ALARME E PUBLIC"
+        },
+        {
+            "co_ramo": "1751",
+            "ds_ramo": "FAB APARS E EQUIPS DE TELEFONIA E RADIOTELEFONIA"
+        },
+        {
+            "co_ramo": "1752",
+            "ds_ramo": "FAB APARS E EQUIPS ELETRICOS P FINS ELETROQUIMICOS"
+        },
+        {
+            "co_ramo": "1753",
+            "ds_ramo": "FAB APARS E EQUIPS ODONTO-MEDICO-HOSPITALARES"
+        },
+        {
+            "co_ramo": "1754",
+            "ds_ramo": "FAB APARS E UTENSILIOS ELETRICOS P FINS INDS E COM"
+        },
+        {
+            "co_ramo": "1755",
+            "ds_ramo": "FAB APARS ELETRICOS P USOS DOMESTICO E PESSOAL"
+        },
+        {
+            "co_ramo": "1756",
+            "ds_ramo": "FAB APARS FOTOGRAF E CINEMATOGRAF, PECAS E ACESS"
+        },
+        {
+            "co_ramo": "1757",
+            "ds_ramo": "FAB APARS P RECEPCAO E REPRODUCAO DE IMAGEM E SOM"
+        },
+        {
+            "co_ramo": "1758",
+            "ds_ramo": "FAB APARS P TRANSMISSAO DE IMAGEM E SOM"
+        },
+        {
+            "co_ramo": "1759",
+            "ds_ramo": "FAB ARMAS DE FOGO, PEÇAS E ACESS"
+        },
+        {
+            "co_ramo": "1760",
+            "ds_ramo": "FAB ARTEFS BAMBU, VIME,JUNCO, XAXIM,PALHA TRANCADA"
+        },
+        {
+            "co_ramo": "1761",
+            "ds_ramo": "FAB ARTEFS BORRACHA P VEICULOS, MAQS E APARS"
+        },
+        {
+            "co_ramo": "1762",
+            "ds_ramo": "FAB ARTEFS CERAMICOS OU DE BARRO COZIDO P CONSTRUC"
+        },
+        {
+            "co_ramo": "1763",
+            "ds_ramo": "FAB ARTEFS CERAMICOS OU EM BARRO COZIDO P USO DOM"
+        },
+        {
+            "co_ramo": "1764",
+            "ds_ramo": "FAB ARTEFS COLCHOARIA"
+        },
+        {
+            "co_ramo": "1765",
+            "ds_ramo": "FAB ARTEFS COUROS,PELES E ASSEMELHADOS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1766",
+            "ds_ramo": "FAB ARTEFS DE CIMENTO NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1767",
+            "ds_ramo": "FAB ARTEFS DE CIMENTO P CONSTRUCAO"
+        },
+        {
+            "co_ramo": "1768",
+            "ds_ramo": "FAB ARTEFS DE CORTICA"
+        },
+        {
+            "co_ramo": "1769",
+            "ds_ramo": "FAB ARTEFS DE CUTELARIA"
+        },
+        {
+            "co_ramo": "1770",
+            "ds_ramo": "FAB ARTEFS DE ESCRITORIO"
+        },
+        {
+            "co_ramo": "1771",
+            "ds_ramo": "FAB ARTEFS DE FIBROCIMENTO"
+        },
+        {
+            "co_ramo": "1772",
+            "ds_ramo": "FAB ARTEFS DE METAL ESTAMPADO"
+        },
+        {
+            "co_ramo": "1773",
+            "ds_ramo": "FAB ARTEFS DE METAL P ESCRITORIO E USO PESSOAL"
+        },
+        {
+            "co_ramo": "1774",
+            "ds_ramo": "FAB ARTEFS DE VIAGEM"
+        },
+        {
+            "co_ramo": "1775",
+            "ds_ramo": "FAB ARTEFS DE VIDRO E CRISTAL P IND MAT ELETRICO"
+        },
+        {
+            "co_ramo": "1776",
+            "ds_ramo": "FAB ARTEFS DE VIDRO E CRISTAL, NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1777",
+            "ds_ramo": "FAB ARTEFS DE VIDRO E DE CRISTAL P USO DOMESTICO"
+        },
+        {
+            "co_ramo": "1778",
+            "ds_ramo": "FAB ARTEFS DE VIDRO P EMBALAGEM E ACONDICIONAMENTO"
+        },
+        {
+            "co_ramo": "1779",
+            "ds_ramo": "FAB ARTEFS DIVERSOS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1780",
+            "ds_ramo": "FAB ARTEFS E EQUIPS P CACA E PESCA"
+        },
+        {
+            "co_ramo": "1781",
+            "ds_ramo": "FAB ARTEFS E EQUIPS P ESPORTE"
+        },
+        {
+            "co_ramo": "1782",
+            "ds_ramo": "FAB ARTEFS E EQUIPS P JOGOS RECREATIVOS"
+        },
+        {
+            "co_ramo": "1783",
+            "ds_ramo": "FAB ARTEFS ESCOLARES"
+        },
+        {
+            "co_ramo": "1784",
+            "ds_ramo": "FAB ARTEFS FUNILARIA DE FERRO,ACO,METAIS NAO FERRO"
+        },
+        {
+            "co_ramo": "1785",
+            "ds_ramo": "FAB ARTEFS MADEIRA E CARPINTARIA NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1786",
+            "ds_ramo": "FAB ARTEFS MADEIRA NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1787",
+            "ds_ramo": "FAB ARTEFS MADEIRA TORNEADA"
+        },
+        {
+            "co_ramo": "1788",
+            "ds_ramo": "FAB ARTEFS MAT PLASTICO P USOS DOMESTICO E PESSOAL"
+        },
+        {
+            "co_ramo": "1789",
+            "ds_ramo": "FAB ARTEFS MATERIAL PLASTICO NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1790",
+            "ds_ramo": "FAB ARTEFS MATERIAL PLASTICO P EMBALAGEM E ACONDIC"
+        },
+        {
+            "co_ramo": "1791",
+            "ds_ramo": "FAB ARTEFS MATERIAL PLASTICO P IND CONSTRUCAO"
+        },
+        {
+            "co_ramo": "1792",
+            "ds_ramo": "FAB ARTEFS MATERIAL PLASTICO P IND MAT ELETRICO"
+        },
+        {
+            "co_ramo": "1793",
+            "ds_ramo": "FAB ARTEFS MATERIAL PLASTICO P IND MECANICA"
+        },
+        {
+            "co_ramo": "1794",
+            "ds_ramo": "FAB ARTEFS P TRANSPORTE DE OBJETOS DE USO PESSOAL"
+        },
+        {
+            "co_ramo": "1795",
+            "ds_ramo": "FAB ARTEFS PAPEL, PAPELAO, CARTAO NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1796",
+            "ds_ramo": "FAB ARTEFS PAPEL,PAPELAO,CARTAO E CARTOLINA P ESCR"
+        },
+        {
+            "co_ramo": "1797",
+            "ds_ramo": "FAB ARTEFS PAPEL,PAPELAO,CARTAO,CARTOLINA P REVEST"
+        },
+        {
+            "co_ramo": "1798",
+            "ds_ramo": "FAB ARTEFS SERRALHERIA, CALDEIRARIA NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1799",
+            "ds_ramo": "FAB ARTEFS TAPECARIA"
+        },
+        {
+            "co_ramo": "1800",
+            "ds_ramo": "FAB ARTEFS TEXTEIS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1801",
+            "ds_ramo": "FAB ARTEFS TREFILADOS DE FERRO,ACO,METAIS NAO-FERR"
+        },
+        {
+            "co_ramo": "1802",
+            "ds_ramo": "FAB ARTEFS, PECAS E ORNATOS DE GESSO E ESTUQUE"
+        },
+        {
+            "co_ramo": "1803",
+            "ds_ramo": "FAB ARTFS BORRACHA P USO INDUSTRIAL"
+        },
+        {
+            "co_ramo": "1804",
+            "ds_ramo": "FAB ARTFS BORRACHA P USO PESSOAL E DOMESTICO"
+        },
+        {
+            "co_ramo": "1805",
+            "ds_ramo": "FAB ARTFS SELARIA EM COURO E ASSEMELHAD P ANIMAIS"
+        },
+        {
+            "co_ramo": "1806",
+            "ds_ramo": "FAB AVIAMENTOS P COSTURA"
+        },
+        {
+            "co_ramo": "1807",
+            "ds_ramo": "FAB BALAS, CARAMELOS, PASTILHAS E DROPS"
+        },
+        {
+            "co_ramo": "1808",
+            "ds_ramo": "FAB BANCOS E ESTOFADOS P VEICULOS"
+        },
+        {
+            "co_ramo": "1809",
+            "ds_ramo": "FAB BICICLETAS, TRICICLOS E CICLOMOTORES"
+        },
+        {
+            "co_ramo": "1810",
+            "ds_ramo": "FAB BIJUTERIAS"
+        },
+        {
+            "co_ramo": "1811",
+            "ds_ramo": "FAB BRINQUEDOS, PECAS E ACESS"
+        },
+        {
+            "co_ramo": "1812",
+            "ds_ramo": "FAB CABINES E CARROCARIAS P VEICS RODOVIARIOS"
+        },
+        {
+            "co_ramo": "1813",
+            "ds_ramo": "FAB CAFE SOLUVEL"
+        },
+        {
+            "co_ramo": "1814",
+            "ds_ramo": "FAB CAIXAS DE MADEIRA"
+        },
+        {
+            "co_ramo": "1815",
+            "ds_ramo": "FAB CALCADOS DE BORRACHA"
+        },
+        {
+            "co_ramo": "1816",
+            "ds_ramo": "FAB CALCADOS DE COURO E ASSEMELHADOS"
+        },
+        {
+            "co_ramo": "1817",
+            "ds_ramo": "FAB CALCADOS DE PLASTICO"
+        },
+        {
+            "co_ramo": "1818",
+            "ds_ramo": "FAB CALCADOS DE TECIDO"
+        },
+        {
+            "co_ramo": "1819",
+            "ds_ramo": "FAB CALCADOS P DANCA E ESPORTES"
+        },
+        {
+            "co_ramo": "1820",
+            "ds_ramo": "FAB CALDEIRAS GERADORAS DE VAPOR"
+        },
+        {
+            "co_ramo": "1821",
+            "ds_ramo": "FAB CARNEIROS HIDRAULICOS,BOMBAS CENTRIF,VALVULAS"
+        },
+        {
+            "co_ramo": "1822",
+            "ds_ramo": "FAB CELULOSE,PASTA MECANICA,TERMOMECANICA,E ARTEFS"
+        },
+        {
+            "co_ramo": "1823",
+            "ds_ramo": "FAB CERAMICA P SERVICO DE MESA"
+        },
+        {
+            "co_ramo": "1824",
+            "ds_ramo": "FAB CERAS NATURAIS"
+        },
+        {
+            "co_ramo": "1825",
+            "ds_ramo": "FAB CHAPAS,PLACAS MADEIRA AGLOMERADA OU PRENSADA"
+        },
+        {
+            "co_ramo": "1826",
+            "ds_ramo": "FAB CHAPEUS, GORROS, BOINAS E BONES"
+        },
+        {
+            "co_ramo": "1827",
+            "ds_ramo": "FAB CIGARROS"
+        },
+        {
+            "co_ramo": "1828",
+            "ds_ramo": "FAB COFRES,CAIXAS DE SEGURANCA,PORTAS BLINDADAS"
+        },
+        {
+            "co_ramo": "1829",
+            "ds_ramo": "FAB COLAS, ADESIVOS, SELANTES E AFINS"
+        },
+        {
+            "co_ramo": "1830",
+            "ds_ramo": "FAB COMPONENTES ELETRICOS"
+        },
+        {
+            "co_ramo": "1831",
+            "ds_ramo": "FAB CONCENTRADOS AROMATICOS NATURAIS,ARTIF,SINTET"
+        },
+        {
+            "co_ramo": "1832",
+            "ds_ramo": "FAB CONDUTORES ELETRICOS"
+        },
+        {
+            "co_ramo": "1833",
+            "ds_ramo": "FAB CORANTES E PIGMENTOS"
+        },
+        {
+            "co_ramo": "1834",
+            "ds_ramo": "FAB CORDOARIA"
+        },
+        {
+            "co_ramo": "1835",
+            "ds_ramo": "FAB CORREIAS DE COURO,SEUS ARTEFS E ASSEMELH P MAQ"
+        },
+        {
+            "co_ramo": "1836",
+            "ds_ramo": "FAB CRONOMETROS E RELOGIOS, PEÇAS E ACESS"
+        },
+        {
+            "co_ramo": "1837",
+            "ds_ramo": "FAB CRONOMETROS,RELOGIOS ELETRONICOS,PECAS E ACESS"
+        },
+        {
+            "co_ramo": "1838",
+            "ds_ramo": "FAB DE CAL"
+        },
+        {
+            "co_ramo": "1839",
+            "ds_ramo": "FAB DE CLINQUER E CIMENTO"
+        },
+        {
+            "co_ramo": "1840",
+            "ds_ramo": "FAB DE PAPEL P FINS SANITARIOS"
+        },
+        {
+            "co_ramo": "1841",
+            "ds_ramo": "FAB DE PEÇAS P MAQS, APARS E EQUIPS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1842",
+            "ds_ramo": "FAB DEFENSIVOS AGRICOLAS"
+        },
+        {
+            "co_ramo": "1843",
+            "ds_ramo": "FAB DERIVADOS DO BENEFIC DO CACAU"
+        },
+        {
+            "co_ramo": "1844",
+            "ds_ramo": "FAB DESINFETANTES"
+        },
+        {
+            "co_ramo": "1845",
+            "ds_ramo": "FAB DOCES EM MASSA, PASTA OU EM CALDA"
+        },
+        {
+            "co_ramo": "1846",
+            "ds_ramo": "FAB E ENGARRAF AGUARDENTE DE CANA-DE-ACUCAR"
+        },
+        {
+            "co_ramo": "1847",
+            "ds_ramo": "FAB E ENGARRAF CERVEJAS E CHOPES"
+        },
+        {
+            "co_ramo": "1848",
+            "ds_ramo": "FAB E ENGARRAF DE AGUARDENTES"
+        },
+        {
+            "co_ramo": "1849",
+            "ds_ramo": "FAB E ENGARRAF DE VINHOS"
+        },
+        {
+            "co_ramo": "1850",
+            "ds_ramo": "FAB E ENGARRAF DE VINHOS DE UVA"
+        },
+        {
+            "co_ramo": "1851",
+            "ds_ramo": "FAB E ENGARRAF LICORES E OUTRAS BEBIDAS ALCOOLICAS"
+        },
+        {
+            "co_ramo": "1852",
+            "ds_ramo": "FAB E ENGARRAF REFRIGERANTES"
+        },
+        {
+            "co_ramo": "1853",
+            "ds_ramo": "FAB EMBALAG METALICAS DE FERRO,ACO E MET NAO FERRO"
+        },
+        {
+            "co_ramo": "1854",
+            "ds_ramo": "FAB EMBALAGENS DE PAPEL,PAPELAO,CARTAO E CARTOLINA"
+        },
+        {
+            "co_ramo": "1855",
+            "ds_ramo": "FAB EQUIPS DE TRANSMISSAO P FINS INDUSTRIAIS"
+        },
+        {
+            "co_ramo": "1856",
+            "ds_ramo": "FAB EQUIPS DE USO DO BEBE"
+        },
+        {
+            "co_ramo": "1857",
+            "ds_ramo": "FAB EQUIPS PERIFERICOS P MAIS ELETRONICAS"
+        },
+        {
+            "co_ramo": "1858",
+            "ds_ramo": "FAB ESPELHOS"
+        },
+        {
+            "co_ramo": "1859",
+            "ds_ramo": "FAB ESPUMA DE MATERIAL PLASTICO"
+        },
+        {
+            "co_ramo": "1860",
+            "ds_ramo": "FAB ESPUMA E ARTEFS DE ESPUMA DE BORRACHA"
+        },
+        {
+            "co_ramo": "1861",
+            "ds_ramo": "FAB ESQUADRIAS,PECAS DE MADEIRA P INSTALACOES INDS"
+        },
+        {
+            "co_ramo": "1862",
+            "ds_ramo": "FAB ESQUADRIAS,PORTOES,PORTAS,MARCOS DE METAL"
+        },
+        {
+            "co_ramo": "1863",
+            "ds_ramo": "FAB ESTOPA, MATS P ESTOFO E RECUP RESIDUOS TEXTEIS"
+        },
+        {
+            "co_ramo": "1864",
+            "ds_ramo": "FAB ESTRUTURAS METALICAS"
+        },
+        {
+            "co_ramo": "1865",
+            "ds_ramo": "FAB ESTRUTURAS PRE-MOLDADAS DE CIMENTO ARMADO"
+        },
+        {
+            "co_ramo": "1866",
+            "ds_ramo": "FAB FARINHAS E SEUS DERIVADOS"
+        },
+        {
+            "co_ramo": "1867",
+            "ds_ramo": "FAB FERMENTO, LEVEDURAS E COALHOS"
+        },
+        {
+            "co_ramo": "1868",
+            "ds_ramo": "FAB FERRAGENS"
+        },
+        {
+            "co_ramo": "1869",
+            "ds_ramo": "FAB FERRAGENS ELETROTECN P INST DE REDE ELETRICA"
+        },
+        {
+            "co_ramo": "1870",
+            "ds_ramo": "FAB FERRAMENTAS MANUAIS"
+        },
+        {
+            "co_ramo": "1871",
+            "ds_ramo": "FAB FERTILIZANTES"
+        },
+        {
+            "co_ramo": "1872",
+            "ds_ramo": "FAB FIBRA E LA DE VIDRO E DE SEUS ARTEFS"
+        },
+        {
+            "co_ramo": "1873",
+            "ds_ramo": "FAB FIOS E FIBRAS ARTIFICIAIS E SINTETICAS"
+        },
+        {
+            "co_ramo": "1874",
+            "ds_ramo": "FAB FITAS MAGNETICAS GRAVADAS"
+        },
+        {
+            "co_ramo": "1875",
+            "ds_ramo": "FAB FORMAS E MODELOS DE MADEIRA"
+        },
+        {
+            "co_ramo": "1876",
+            "ds_ramo": "FAB FOSFOROS DE SEGURANCA E ARTIGOS PIROTECNICOS"
+        },
+        {
+            "co_ramo": "1877",
+            "ds_ramo": "FAB GELO"
+        },
+        {
+            "co_ramo": "1878",
+            "ds_ramo": "FAB GOMAS DE MASCAR"
+        },
+        {
+            "co_ramo": "1879",
+            "ds_ramo": "FAB GRANALHA"
+        },
+        {
+            "co_ramo": "1880",
+            "ds_ramo": "FAB INSTRUMENTOS MUSICAIS, PECAS E ACESS"
+        },
+        {
+            "co_ramo": "1881",
+            "ds_ramo": "FAB INSTRUMENTOS OTICOS, PECAS E ACESS"
+        },
+        {
+            "co_ramo": "1882",
+            "ds_ramo": "FAB INSTRUMS E ACESS ODONTO-MEDICO-HOSPITALARES"
+        },
+        {
+            "co_ramo": "1883",
+            "ds_ramo": "FAB INSTRUMS,APARS DE MEDICAO P USO TECNICO E PROF"
+        },
+        {
+            "co_ramo": "1884",
+            "ds_ramo": "FAB LAMINADOS E PLACAS DE BORRACHA"
+        },
+        {
+            "co_ramo": "1885",
+            "ds_ramo": "FAB LAMINADOS MATERIAL PLASTICO"
+        },
+        {
+            "co_ramo": "1886",
+            "ds_ramo": "FAB LAMPADAS, PECAS E ACESS"
+        },
+        {
+            "co_ramo": "1887",
+            "ds_ramo": "FAB LINHAS E FIOS P COSER E BORDAR,TINTUR DE FIOS"
+        },
+        {
+            "co_ramo": "1888",
+            "ds_ramo": "FAB MANILHAS,CANOS,TUBOS E CONEXOES DE MAT PLASTIC"
+        },
+        {
+            "co_ramo": "1889",
+            "ds_ramo": "FAB MAQS APARS E EQUIPS P BENEF DE PRODS AGRICOLAS"
+        },
+        {
+            "co_ramo": "1890",
+            "ds_ramo": "FAB MAQS APARS E MATERIAIS P AGRICULTURA"
+        },
+        {
+            "co_ramo": "1891",
+            "ds_ramo": "FAB MAQS APARS E MATS P CRIACAO ANIMAL"
+        },
+        {
+            "co_ramo": "1892",
+            "ds_ramo": "FAB MAQS E APAR P IND GRAFICA E DE ARTEFS DE PAPEL"
+        },
+        {
+            "co_ramo": "1893",
+            "ds_ramo": "FAB MAQS E APARS DE TERRAPLENAGEM E PAVIMENTACAO"
+        },
+        {
+            "co_ramo": "1894",
+            "ds_ramo": "FAB MAQS E APARS P IND DA CONSTRUCAO"
+        },
+        {
+            "co_ramo": "1895",
+            "ds_ramo": "FAB MAQS E APARS P IND DA MADEIRA"
+        },
+        {
+            "co_ramo": "1896",
+            "ds_ramo": "FAB MAQS E APARS P IND DE ARTS DE PLAST E BORRACHA"
+        },
+        {
+            "co_ramo": "1897",
+            "ds_ramo": "FAB MAQS E APARS P IND DE CELULOSE,PAPEL E PAPELAO"
+        },
+        {
+            "co_ramo": "1898",
+            "ds_ramo": "FAB MAQS E APARS P IND DE FUMO"
+        },
+        {
+            "co_ramo": "1899",
+            "ds_ramo": "FAB MAQS E APARS P IND DE OBRAS EM METAIS"
+        },
+        {
+            "co_ramo": "1900",
+            "ds_ramo": "FAB MAQS E APARS P IND DE PRODS ALIMENTARES"
+        },
+        {
+            "co_ramo": "1901",
+            "ds_ramo": "FAB MAQS E APARS P IND DO ACUCAR,DESTILACAO ALCOOL"
+        },
+        {
+            "co_ramo": "1902",
+            "ds_ramo": "FAB MAQS E APARS P IND METALURGICA"
+        },
+        {
+            "co_ramo": "1903",
+            "ds_ramo": "FAB MAQS E APARS P IND TEXTIL E DE CONFECCOES"
+        },
+        {
+            "co_ramo": "1904",
+            "ds_ramo": "FAB MAQS E APARS P MINER,PEDREIRAS,EXTRAC PETROLEO"
+        },
+        {
+            "co_ramo": "1905",
+            "ds_ramo": "FAB MAQS E APARS P USO DOMESTICO"
+        },
+        {
+            "co_ramo": "1906",
+            "ds_ramo": "FAB MAQS MOTRIZES NAO ELETRICAS"
+        },
+        {
+            "co_ramo": "1907",
+            "ds_ramo": "FAB MAQS, APARS E EQUIPS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1908",
+            "ds_ramo": "FAB MAQS, APARS E EQUIPS P INSTALACOES HIDRAULICAS"
+        },
+        {
+            "co_ramo": "1909",
+            "ds_ramo": "FAB MAQS, APARS E UTENS P ESCRITORIO"
+        },
+        {
+            "co_ramo": "1910",
+            "ds_ramo": "FAB MAQS,APARS DE SIST ELETRONICOS P PROC DE DADOS"
+        },
+        {
+            "co_ramo": "1911",
+            "ds_ramo": "FAB MAQS,APARS E EQUIPS P INSTALACOES TERMICAS"
+        },
+        {
+            "co_ramo": "1912",
+            "ds_ramo": "FAB MAQS,APARS E EQUIPS P POSTOS DE GASOLINA"
+        },
+        {
+            "co_ramo": "1913",
+            "ds_ramo": "FAB MAQS,APARS E EQUIPS REFRIGERACAO E VENTILACAO"
+        },
+        {
+            "co_ramo": "1914",
+            "ds_ramo": "FAB MAQS,APARS P EXERCICIO-ARTES,ESPORTES,OFICIOS"
+        },
+        {
+            "co_ramo": "1915",
+            "ds_ramo": "FAB MAQS,APARS P GERACAO,TRANSMIS,DISTR DE ENERGIA"
+        },
+        {
+            "co_ramo": "1916",
+            "ds_ramo": "FAB MAQS,APARS SIST ELETRON P AUTOMACAO GERENCIAL"
+        },
+        {
+            "co_ramo": "1917",
+            "ds_ramo": "FAB MASSAS"
+        },
+        {
+            "co_ramo": "1918",
+            "ds_ramo": "FAB MATERIAIS ABRASIVOS"
+        },
+        {
+            "co_ramo": "1919",
+            "ds_ramo": "FAB MATERIAIS IMPRESSOS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1920",
+            "ds_ramo": "FAB MATERIAL BELICO E EQUIPS MILITARES NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1921",
+            "ds_ramo": "FAB MATERIAL DE CONSUMO ODONTO-MEDICO-HOSPITALARES"
+        },
+        {
+            "co_ramo": "1922",
+            "ds_ramo": "FAB MATERIAL ELETRICO P VEICULOS, PECAS E ACESS"
+        },
+        {
+            "co_ramo": "1923",
+            "ds_ramo": "FAB MATERIAL ELETRONICO BASICO"
+        },
+        {
+            "co_ramo": "1924",
+            "ds_ramo": "FAB MATERIAL FOTOGRAFICO"
+        },
+        {
+            "co_ramo": "1925",
+            "ds_ramo": "FAB MATERIAL IMPRESSO DE SEGURANCA"
+        },
+        {
+            "co_ramo": "1926",
+            "ds_ramo": "FAB MATERIAL IMPRESSO P USO ESCOLAR"
+        },
+        {
+            "co_ramo": "1927",
+            "ds_ramo": "FAB MATERIAL IMPRESSO P USOS INDL, COML E PUBLICIT"
+        },
+        {
+            "co_ramo": "1928",
+            "ds_ramo": "FAB MATERIAL OTICO"
+        },
+        {
+            "co_ramo": "1929",
+            "ds_ramo": "FAB MATERIAL P INSTALACOES ELETRICAS"
+        },
+        {
+            "co_ramo": "1930",
+            "ds_ramo": "FAB MATERIAL P RECONDICIONAMENTO DE PNEUMATICOS"
+        },
+        {
+            "co_ramo": "1931",
+            "ds_ramo": "FAB MATERIAL REFRATARIO"
+        },
+        {
+            "co_ramo": "1932",
+            "ds_ramo": "FAB MATERIAS POLIMERIZADAS P EXTRUSAO DE FIOS"
+        },
+        {
+            "co_ramo": "1933",
+            "ds_ramo": "FAB MEIAS"
+        },
+        {
+            "co_ramo": "1934",
+            "ds_ramo": "FAB MODULADOS DE MADEIRA"
+        },
+        {
+            "co_ramo": "1935",
+            "ds_ramo": "FAB MOLDURAS E EXECUCAO DE OBRAS DE TALHA"
+        },
+        {
+            "co_ramo": "1936",
+            "ds_ramo": "FAB MOTORES ELETRICOS"
+        },
+        {
+            "co_ramo": "1937",
+            "ds_ramo": "FAB MOVEIS DE MADEIRA OU COM SUA PREDOMINANCIA"
+        },
+        {
+            "co_ramo": "1938",
+            "ds_ramo": "FAB MOVEIS DE METAL OU COM SUA PREDOMINANCIA"
+        },
+        {
+            "co_ramo": "1939",
+            "ds_ramo": "FAB MOVEIS E PECAS DO MOBILIARIO NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1940",
+            "ds_ramo": "FAB MOVEIS MAT PLASTICO OU COM SUA PREDOMINANCIA"
+        },
+        {
+            "co_ramo": "1941",
+            "ds_ramo": "FAB OLEOS E GRAXAS LUBRIFICANTES E ADITIVOS"
+        },
+        {
+            "co_ramo": "1942",
+            "ds_ramo": "FAB OLEOS ESSEN VEGETAIS, DERIV DESTILACAO MADEIRA"
+        },
+        {
+            "co_ramo": "1943",
+            "ds_ramo": "FAB PAES, BOLOS, BISCOITOS, TORTAS"
+        },
+        {
+            "co_ramo": "1944",
+            "ds_ramo": "FAB PAINEIS E PLACAS P PROPAGANDA E SINALIZACAO"
+        },
+        {
+            "co_ramo": "1945",
+            "ds_ramo": "FAB PALHA DE LA DE ACO E DE METAIS NAO-FERROSOS"
+        },
+        {
+            "co_ramo": "1946",
+            "ds_ramo": "FAB PAPEL P EMBALAGEM E ACONDICIONAMENTO"
+        },
+        {
+            "co_ramo": "1947",
+            "ds_ramo": "FAB PAPEL P IMPRESSAO, ESCRITA E DESENHO"
+        },
+        {
+            "co_ramo": "1948",
+            "ds_ramo": "FAB PAPELAO, CARTAO E CARTOLINA"
+        },
+        {
+            "co_ramo": "1949",
+            "ds_ramo": "FAB PECAS E ACESS MATERIAL PLASTICO P VEICULOS"
+        },
+        {
+            "co_ramo": "1950",
+            "ds_ramo": "FAB PECAS E ACESS P MAQS E APARS ELETRICOS"
+        },
+        {
+            "co_ramo": "1951",
+            "ds_ramo": "FAB PECAS E ACESS P MAQS MOTRIZES NAO-ELETRICAS"
+        },
+        {
+            "co_ramo": "1952",
+            "ds_ramo": "FAB PECAS E ACESS P MAQS, APARS P INFORMATICA"
+        },
+        {
+            "co_ramo": "1953",
+            "ds_ramo": "FAB PECAS E ACESS P TRATORES E APARS TERRAPLENAGEM"
+        },
+        {
+            "co_ramo": "1954",
+            "ds_ramo": "FAB PECAS E ACESS P VEIC AUTOMOTORES RODOVIARIOS"
+        },
+        {
+            "co_ramo": "1955",
+            "ds_ramo": "FAB PECAS PAPEL, PAPELAO, CARTAO P MAQS E TRANSPOR"
+        },
+        {
+            "co_ramo": "1956",
+            "ds_ramo": "FAB PECAS,ACESS P APARS DE COMUNICACAO,IMAGEM,SOM"
+        },
+        {
+            "co_ramo": "1957",
+            "ds_ramo": "FAB PERSIANAS E ARTEFS DO MOBILIARIO"
+        },
+        {
+            "co_ramo": "1958",
+            "ds_ramo": "FAB PILHAS, ACUMULADORES E SEUS COMPLEMENTOS"
+        },
+        {
+            "co_ramo": "1959",
+            "ds_ramo": "FAB PLASTIFICANTES"
+        },
+        {
+            "co_ramo": "1960",
+            "ds_ramo": "FAB PNEUMATICOS,CAMARAS-DE-AR E RECONDIC PNEUMATIC"
+        },
+        {
+            "co_ramo": "1961",
+            "ds_ramo": "FAB PO METALICO E DE PECAS SINTERIZADAS"
+        },
+        {
+            "co_ramo": "1962",
+            "ds_ramo": "FAB POLVORAS, EXPLOSIVOS E DETONANTES"
+        },
+        {
+            "co_ramo": "1963",
+            "ds_ramo": "FAB POS ALIMENTICIOS"
+        },
+        {
+            "co_ramo": "1964",
+            "ds_ramo": "FAB PRODS ALIMENTARES NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1965",
+            "ds_ramo": "FAB PRODS CERAMICOS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1966",
+            "ds_ramo": "FAB PRODS DA MANDIOCA"
+        },
+        {
+            "co_ramo": "1967",
+            "ds_ramo": "FAB PRODS DE MINERAIS NAO-METALICOS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1968",
+            "ds_ramo": "FAB PRODS DE PERFUMARIA, COSMETICOS"
+        },
+        {
+            "co_ramo": "1969",
+            "ds_ramo": "FAB PRODS DESTILACAO DO CARVAO MINERAL"
+        },
+        {
+            "co_ramo": "1970",
+            "ds_ramo": "FAB PRODS DO REFINO DO PETROLEO"
+        },
+        {
+            "co_ramo": "1971",
+            "ds_ramo": "FAB PRODS FARMACEUTICOS"
+        },
+        {
+            "co_ramo": "1972",
+            "ds_ramo": "FAB PRODS FUMO NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1973",
+            "ds_ramo": "FAB PRODS ORG BASICOS-INTERMED,PETROQ,DERIV CARVAO"
+        },
+        {
+            "co_ramo": "1974",
+            "ds_ramo": "FAB PRODS P HIGIENE PESSOAL"
+        },
+        {
+            "co_ramo": "1975",
+            "ds_ramo": "FAB PRODS PADRON TREFILAD DE FERRO,ACO,MET NAO FER"
+        },
+        {
+            "co_ramo": "1976",
+            "ds_ramo": "FAB PRODS QUIMICOS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1977",
+            "ds_ramo": "FAB PRODS VETERINARIOS"
+        },
+        {
+            "co_ramo": "1978",
+            "ds_ramo": "FAB QUIMICOS INORGANICOS"
+        },
+        {
+            "co_ramo": "1979",
+            "ds_ramo": "FAB QUIMICOS ORGANICOS"
+        },
+        {
+            "co_ramo": "1980",
+            "ds_ramo": "FAB RACOES BALANCEADAS E ALIMENTOS PREP P ANIMAIS"
+        },
+        {
+            "co_ramo": "1981",
+            "ds_ramo": "FAB RESINAS"
+        },
+        {
+            "co_ramo": "1982",
+            "ds_ramo": "FAB RESINAS TERMOPLASTICAS"
+        },
+        {
+            "co_ramo": "1983",
+            "ds_ramo": "FAB REVESTIMENTOS CERAMICOS"
+        },
+        {
+            "co_ramo": "1984",
+            "ds_ramo": "FAB SABOES E DETERGENTES"
+        },
+        {
+            "co_ramo": "1985",
+            "ds_ramo": "FAB SALTOS E SOLADOS DE BORRACHA P CALCADOS"
+        },
+        {
+            "co_ramo": "1986",
+            "ds_ramo": "FAB SOMBRINHAS, GUARDA-CHUVAS E GUARDA-SOIS"
+        },
+        {
+            "co_ramo": "1987",
+            "ds_ramo": "FAB SORVETES, TORTAS E BOLOS GELADOS E COBERTURAS"
+        },
+        {
+            "co_ramo": "1988",
+            "ds_ramo": "FAB TANQUES,RESERVATORIOS E RECIPENTES METALICOS"
+        },
+        {
+            "co_ramo": "1989",
+            "ds_ramo": "FAB TECIDOS ESPECIAIS"
+        },
+        {
+            "co_ramo": "1990",
+            "ds_ramo": "FAB TINTAS,ESMALTES,LACAS,VERNIZES,SOLVENTES,SECAN"
+        },
+        {
+            "co_ramo": "1991",
+            "ds_ramo": "FAB TRATORES P TRABALHOS AGRICOLAS"
+        },
+        {
+            "co_ramo": "1992",
+            "ds_ramo": "FAB URNAS E CAIXOES MORTUARIOS"
+        },
+        {
+            "co_ramo": "1993",
+            "ds_ramo": "FAB UTENSILIOS E FERRAM P MAQS, MATRIZES DE METAL"
+        },
+        {
+            "co_ramo": "1994",
+            "ds_ramo": "FAB VASSOURAS,BROXAS,PINCEIS,ESCOVAS E ESPANADORES"
+        },
+        {
+            "co_ramo": "1995",
+            "ds_ramo": "FAB VEICULOS AUTOMOTORES RODOVIARIOS"
+        },
+        {
+            "co_ramo": "1996",
+            "ds_ramo": "FAB VEICULOS RODOVIARIOS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "1997",
+            "ds_ramo": "FAB VELAS"
+        },
+        {
+            "co_ramo": "1998",
+            "ds_ramo": "FAB VIDRO DE SEGURANÇA"
+        },
+        {
+            "co_ramo": "1999",
+            "ds_ramo": "FAB VIDRO E CRISTAL"
+        },
+        {
+            "co_ramo": "2000",
+            "ds_ramo": "FAB VINAGRES"
+        },
+        {
+            "co_ramo": "2001",
+            "ds_ramo": "FACCAO DE TECIDOS PARA CONFECCAO DE ROUPAS"
+        },
+        {
+            "co_ramo": "2002",
+            "ds_ramo": "FARMACIAS,DROGARIAS,FLORAS MEDICINAIS E ERVANARIOS"
+        },
+        {
+            "co_ramo": "2003",
+            "ds_ramo": "FIACAO DE ALGODAO"
+        },
+        {
+            "co_ramo": "2004",
+            "ds_ramo": "FIACAO DE LA"
+        },
+        {
+            "co_ramo": "2005",
+            "ds_ramo": "FIACAO E TECEL COM FIBRAS ARTIFICIAIS E SINTETICAS"
+        },
+        {
+            "co_ramo": "2006",
+            "ds_ramo": "GASEIFICACAO E ENGARRAF AGUAS MINERAIS"
+        },
+        {
+            "co_ramo": "2007",
+            "ds_ramo": "GERACAO E DISTRIBUICAO DE ENERGIA ELETRICA"
+        },
+        {
+            "co_ramo": "2008",
+            "ds_ramo": "HIGIENE,LIMPEZA OUTR SERV EXECUTADO PREDIO DOMICIL"
+        },
+        {
+            "co_ramo": "2009",
+            "ds_ramo": "HOLDIN - CONTROLADORAS PARTICIPACOES SOCIETARIAS"
+        },
+        {
+            "co_ramo": "2010",
+            "ds_ramo": "HOTEIS E MOTEIS"
+        },
+        {
+            "co_ramo": "2011",
+            "ds_ramo": "IDIOMAS"
+        },
+        {
+            "co_ramo": "2012",
+            "ds_ramo": "IMPORTACAO E EXPORTACAO DE PRODUTOS"
+        },
+        {
+            "co_ramo": "2013",
+            "ds_ramo": "IMPORTACAO,COMERCIO ATACADISTA DE PRODS IMPORTADOS"
+        },
+        {
+            "co_ramo": "2014",
+            "ds_ramo": "IMPRESSAO DE JORNAIS, LIVROS, PERIODICOS"
+        },
+        {
+            "co_ramo": "2015",
+            "ds_ramo": "IMPRESSAO TIPOGRAFICA, LITOGRAFICA E OFF SET"
+        },
+        {
+            "co_ramo": "2016",
+            "ds_ramo": "INSTALACOES"
+        },
+        {
+            "co_ramo": "2017",
+            "ds_ramo": "JOALHERIA E OURIVESARIA"
+        },
+        {
+            "co_ramo": "2018",
+            "ds_ramo": "JOALHERIAS,RELOJOARIAS E COM VAREJ DE BIJUTERIAS"
+        },
+        {
+            "co_ramo": "2019",
+            "ds_ramo": "LAVANDERIAS E TINTURARIAS"
+        },
+        {
+            "co_ramo": "2020",
+            "ds_ramo": "LIMPEZA PUBLICA, REMOCAO E BENEFICIAMENTO DO LIXO"
+        },
+        {
+            "co_ramo": "2021",
+            "ds_ramo": "LIVR E BANCAS JORNAIS,COM DE LIVROS,JORNAIS E REV"
+        },
+        {
+            "co_ramo": "2022",
+            "ds_ramo": "LOTEAMENTO E INCORPORACAO DE IMOVEIS"
+        },
+        {
+            "co_ramo": "2023",
+            "ds_ramo": "MATERIAL ELETRICO, ELETRONICO E DE COMUNICACAO"
+        },
+        {
+            "co_ramo": "2024",
+            "ds_ramo": "MECANICA"
+        },
+        {
+            "co_ramo": "2025",
+            "ds_ramo": "METALURGIA METAIS PRECIOSOS,SUAS LIGAS E TRANSFORM"
+        },
+        {
+            "co_ramo": "2026",
+            "ds_ramo": "METALURGICA"
+        },
+        {
+            "co_ramo": "2027",
+            "ds_ramo": "METALURGICA-1"
+        },
+        {
+            "co_ramo": "2028",
+            "ds_ramo": "MOAGEM DE CANA, FAB E REFINACAO DE ACUCAR"
+        },
+        {
+            "co_ramo": "2029",
+            "ds_ramo": "MOBILIARIO"
+        },
+        {
+            "co_ramo": "2030",
+            "ds_ramo": "MONTAGEM DE ESTRUTURAS, PRE-MOLDADOS E TRELICADOS"
+        },
+        {
+            "co_ramo": "2031",
+            "ds_ramo": "MONTAGEM E INSTAL DE ELEVADORES E ESCADAS ROLANTES"
+        },
+        {
+            "co_ramo": "2032",
+            "ds_ramo": "MONTAGENS INDUSTRIAIS E INSTALACAO DE MAQS E EQUIP"
+        },
+        {
+            "co_ramo": "2033",
+            "ds_ramo": "OTICAS"
+        },
+        {
+            "co_ramo": "2034",
+            "ds_ramo": "PADARIAS, BONBONNIERES, CONFEITARIAS"
+        },
+        {
+            "co_ramo": "2035",
+            "ds_ramo": "PAPEL, PAPELAO E CELULOSE"
+        },
+        {
+            "co_ramo": "2036",
+            "ds_ramo": "PAPELARIAS,COM PAPEL,PAPELAO,CARTOL,CARTAO E DERIV"
+        },
+        {
+            "co_ramo": "2037",
+            "ds_ramo": "PAUTACAO, ENCADERNACAO, DOURACAO E PLASTIFICACAO"
+        },
+        {
+            "co_ramo": "2038",
+            "ds_ramo": "PENSOES,HOSPEDARIAS,POUSADAS,DORMITORIOS,CAMPING"
+        },
+        {
+            "co_ramo": "2039",
+            "ds_ramo": "POST ALCOOL CARBURANTE,GASOLINA E DERIV REF PETROL"
+        },
+        {
+            "co_ramo": "2040",
+            "ds_ramo": "PREPARACAO DE ALIMENTOS CONSERVADOS"
+        },
+        {
+            "co_ramo": "2041",
+            "ds_ramo": "PREPARACAO DE ALIMENTOS E CONSERVAS NAO ESPECIF"
+        },
+        {
+            "co_ramo": "2042",
+            "ds_ramo": "PREPARACAO DE CONSERVAS DE CARNE E SUBPRODUTOS"
+        },
+        {
+            "co_ramo": "2043",
+            "ds_ramo": "PREPARACAO DE ESPECIARIAS E CONDIMENTOS"
+        },
+        {
+            "co_ramo": "2044",
+            "ds_ramo": "PREPARACAO DE FUMO"
+        },
+        {
+            "co_ramo": "2045",
+            "ds_ramo": "PREPARACAO DO PESCADO"
+        },
+        {
+            "co_ramo": "2046",
+            "ds_ramo": "PREPARACAO DO SAL P ALIMENTACAO"
+        },
+        {
+            "co_ramo": "2047",
+            "ds_ramo": "PROD ACO EM FORMAS PRIMARIAS E SEMI-ACABADAS"
+        },
+        {
+            "co_ramo": "2048",
+            "ds_ramo": "PROD CONSERVAS DE FRUTAS E LEGUMES"
+        },
+        {
+            "co_ramo": "2049",
+            "ds_ramo": "PROD FERRO-GUSA E FERRO-ESPONJA"
+        },
+        {
+            "co_ramo": "2050",
+            "ds_ramo": "PROD FORJADOS DE ACO"
+        },
+        {
+            "co_ramo": "2051",
+            "ds_ramo": "PROD FORJADOS DE METAIS NAO-FERROSOS E SUAS LIGAS"
+        },
+        {
+            "co_ramo": "2052",
+            "ds_ramo": "PROD FUNDIDOS DE FERRO E ACO"
+        },
+        {
+            "co_ramo": "2053",
+            "ds_ramo": "PROD FUNDIDOS DE METAIS NAO-FERROSOS E SUAS LIGAS"
+        },
+        {
+            "co_ramo": "2054",
+            "ds_ramo": "PROD LA DE MADEIRA P FINS INDS E COMS"
+        },
+        {
+            "co_ramo": "2055",
+            "ds_ramo": "PROD LAMIN PLANOS E NAO-PLANOS DE ACO AO CARBONO"
+        },
+        {
+            "co_ramo": "2056",
+            "ds_ramo": "PROD LAMINADOS E EXTRUDADOS DE METAIS NAO-FERROSOS"
+        },
+        {
+            "co_ramo": "2057",
+            "ds_ramo": "PROD LAMINAS DE MADEIRA OU DE MADEIRA FOLHEADA"
+        },
+        {
+            "co_ramo": "2058",
+            "ds_ramo": "PROD LENHA"
+        },
+        {
+            "co_ramo": "2059",
+            "ds_ramo": "PROD LIGAS DE METAIS NAO-FERROSOS EM FORMAS PRIMAR"
+        },
+        {
+            "co_ramo": "2060",
+            "ds_ramo": "PROD MATRIZES P IMPRESSAO"
+        },
+        {
+            "co_ramo": "2061",
+            "ds_ramo": "PROD METAIS NAO-FERROSOS EM FORMAS PRIMARIAS"
+        },
+        {
+            "co_ramo": "2062",
+            "ds_ramo": "PROD PREPARACOES P LIMPEZA E POLIMENTO"
+        },
+        {
+            "co_ramo": "2063",
+            "ds_ramo": "PROD RELAMINADOS E RETREFILAD METAIS NAO-FERROSOS"
+        },
+        {
+            "co_ramo": "2064",
+            "ds_ramo": "PROD RELAMINADOS,TREFILADOS E RETREFILADOS DE ACO"
+        },
+        {
+            "co_ramo": "2065",
+            "ds_ramo": "PROD SOLDAS E ANODOS P GALVANOPLASTIA"
+        },
+        {
+            "co_ramo": "2066",
+            "ds_ramo": "PROD TECIDOS ACABADOS"
+        },
+        {
+            "co_ramo": "2067",
+            "ds_ramo": "PROD TUBOS COM COSTURA"
+        },
+        {
+            "co_ramo": "2068",
+            "ds_ramo": "PRODUTOS ALIMENTARES"
+        },
+        {
+            "co_ramo": "2069",
+            "ds_ramo": "PRODUTOS DE MATERIAS PLASTICAS"
+        },
+        {
+            "co_ramo": "2070",
+            "ds_ramo": "PRODUTOS DE MINERAIS NAO-METALICOS"
+        },
+        {
+            "co_ramo": "2071",
+            "ds_ramo": "PRODUTOS FARMACEUTICOS E VETERINARIOS"
+        },
+        {
+            "co_ramo": "2072",
+            "ds_ramo": "QUIMICA"
+        },
+        {
+            "co_ramo": "2073",
+            "ds_ramo": "REPARACAO ARTIG E ACESSOR VESTUARIO E ARTIG TECIDO"
+        },
+        {
+            "co_ramo": "2074",
+            "ds_ramo": "REPARACAO ARTIGOS BORRACHA,COURO,PELE,ARTIG VIAGEM"
+        },
+        {
+            "co_ramo": "2075",
+            "ds_ramo": "REPARACAO E MANUTENCAO DE MOTORES E VEICULOS RODOV"
+        },
+        {
+            "co_ramo": "2076",
+            "ds_ramo": "REPARACAO JOIAS E RELOGIOS"
+        },
+        {
+            "co_ramo": "2077",
+            "ds_ramo": "REPARACAO OU MANUTENCAO DE MAQS APARS E EQUIPS"
+        },
+        {
+            "co_ramo": "2078",
+            "ds_ramo": "REPARACAO OU MANUTENCAO DE MAQS, APARS E EQUIPS"
+        },
+        {
+            "co_ramo": "2079",
+            "ds_ramo": "REPARACAO,MANUTENCAO E INSTALACAO DE MAQS E APAREL"
+        },
+        {
+            "co_ramo": "2080",
+            "ds_ramo": "RESFRIAMENTO, PREPARACAO E FAB PRODS DO LEITE"
+        },
+        {
+            "co_ramo": "2081",
+            "ds_ramo": "RESTAURANT,CHURRASCAR,PIZZARIAS,CANTINAS,PENSOES"
+        },
+        {
+            "co_ramo": "2082",
+            "ds_ramo": "SERRARIAS"
+        },
+        {
+            "co_ramo": "2083",
+            "ds_ramo": "SERV ADMINIST,LOCAC,ARRENDAMEN BENS-SERV NAO ESPEC"
+        },
+        {
+            "co_ramo": "2084",
+            "ds_ramo": "SERV AUX PRESTADOS EMPRESA,ENTIDADE E PESSOAS"
+        },
+        {
+            "co_ramo": "2085",
+            "ds_ramo": "SERV AUX PRESTADOS EMPRESAS,ENTIDADES,PESS NAO ESP"
+        },
+        {
+            "co_ramo": "2086",
+            "ds_ramo": "SERV AUX PROD PELICULA CINEMATOGRAF,FITA PARA VIDEO"
+        },
+        {
+            "co_ramo": "2087",
+            "ds_ramo": "SERV AUXIL HIGIENE LIMPEZA,DECORAC OUTR PARA PREDIOS"
+        },
+        {
+            "co_ramo": "2088",
+            "ds_ramo": "SERV AUXILIARES PRESTADOS EMPRESAS,ENTIDAD,PESSOAS"
+        },
+        {
+            "co_ramo": "2089",
+            "ds_ramo": "SERV DE VIGILANCIA, SEGURANCA E INVESTIGACAO"
+        },
+        {
+            "co_ramo": "2090",
+            "ds_ramo": "SERV DESPACHANTES, AVALIADORES E PERITOS"
+        },
+        {
+            "co_ramo": "2091",
+            "ds_ramo": "SERV ESCRIT JURID,CONTAB,AUDITOR,ASSESSOR FINANC"
+        },
+        {
+            "co_ramo": "2092",
+            "ds_ramo": "SERV ESCRITORIO ARQUITETURA,ENGENH,URBANIS,PAISAG"
+        },
+        {
+            "co_ramo": "2093",
+            "ds_ramo": "SERV LOCAC,ARRENDAMENTO E INTERMEDIACAO BENS IMOV"
+        },
+        {
+            "co_ramo": "2094",
+            "ds_ramo": "SERV PROCESSAMENTO DE DADOS PARA TERCEIROS"
+        },
+        {
+            "co_ramo": "2095",
+            "ds_ramo": "SERVICOS ALOJAMENTO NAO ESPECIFICADOS"
+        },
+        {
+            "co_ramo": "2096",
+            "ds_ramo": "SERVICOS ARMAZENAGEM"
+        },
+        {
+            "co_ramo": "2097",
+            "ds_ramo": "SERVICOS AUXILIARES COMERCIO NAO ESPECIFICADOS"
+        },
+        {
+            "co_ramo": "2098",
+            "ds_ramo": "SERVICOS AUXILIARES DE SAUDE NAO ESPECIFICADOS"
+        },
+        {
+            "co_ramo": "2099",
+            "ds_ramo": "SERVICOS AUXILIARES DE SEGUROS E CAPITALIZACAO"
+        },
+        {
+            "co_ramo": "2100",
+            "ds_ramo": "SERVICOS AUXILIARES DIVERSOS"
+        },
+        {
+            "co_ramo": "2101",
+            "ds_ramo": "SERVICOS AUXILIARES FINANCEIROS"
+        },
+        {
+            "co_ramo": "2102",
+            "ds_ramo": "SERVICOS COMUNITARIOS E SOCIAIS NAO ESPECIFICADOS"
+        },
+        {
+            "co_ramo": "2103",
+            "ds_ramo": "SERVICOS DE ALIMENTACAO"
+        },
+        {
+            "co_ramo": "2104",
+            "ds_ramo": "SERVICOS DE ALIMENTACAO NAO ESPECIFICADOS"
+        },
+        {
+            "co_ramo": "2105",
+            "ds_ramo": "SERVICOS DE COMUNICACOES"
+        },
+        {
+            "co_ramo": "2106",
+            "ds_ramo": "SERVICOS DE DIVULGACAO E PROMOCAO"
+        },
+        {
+            "co_ramo": "2107",
+            "ds_ramo": "SERVICOS DE GALVANOTECNICA"
+        },
+        {
+            "co_ramo": "2108",
+            "ds_ramo": "SERVICOS DE LABORATORIOS"
+        },
+        {
+            "co_ramo": "2109",
+            "ds_ramo": "SERVICOS DE RADIODIFUSAO"
+        },
+        {
+            "co_ramo": "2110",
+            "ds_ramo": "SERVICOS DE RADIODIFUSAO E TELEVISAO"
+        },
+        {
+            "co_ramo": "2111",
+            "ds_ramo": "SERVICOS DE REPARACAO, MANUTENCAO E INSTALACAO"
+        },
+        {
+            "co_ramo": "2112",
+            "ds_ramo": "SERVICOS DE TELECOMUNICACOES"
+        },
+        {
+            "co_ramo": "2113",
+            "ds_ramo": "SERVICOS DE TRANSPORTES"
+        },
+        {
+            "co_ramo": "2114",
+            "ds_ramo": "SERVICOS INDUSTRIAIS DE USINAGEM E SOLDAS"
+        },
+        {
+            "co_ramo": "2115",
+            "ds_ramo": "SERVICOS INTERMEDIACAO COMPRA/VENDA BENS MOVEIS"
+        },
+        {
+            "co_ramo": "2116",
+            "ds_ramo": "SERVICOS POSTAIS E TELEGRAFICOS"
+        },
+        {
+            "co_ramo": "2117",
+            "ds_ramo": "SERVICOS PUBLICIDADE E PROPAGANDA"
+        },
+        {
+            "co_ramo": "2118",
+            "ds_ramo": "SERVICOS REPARACAO,MANUTEN E INSTAL NAO ESPECIFIC"
+        },
+        {
+            "co_ramo": "2119",
+            "ds_ramo": "SERVICOS SOCIAIS DA INDUSTRIA E DE COMERCIO"
+        },
+        {
+            "co_ramo": "2120",
+            "ds_ramo": "SERVICOS TECNICOS ESPECIALIZADOS AUXIL. CONSTRUCAO"
+        },
+        {
+            "co_ramo": "2121",
+            "ds_ramo": "SEVICOS AUXILIARES DO TRANSPORTE AEREO"
+        },
+        {
+            "co_ramo": "2122",
+            "ds_ramo": "SOCIEDADE DE ARRENDAMENTO MERCANTIL"
+        },
+        {
+            "co_ramo": "2123",
+            "ds_ramo": "TECELAGEM DE MALHA"
+        },
+        {
+            "co_ramo": "2124",
+            "ds_ramo": "TECELAGEM PLANA"
+        },
+        {
+            "co_ramo": "2125",
+            "ds_ramo": "TECELAGEM POLIPROP,POLIET E OUTROS MATS PLASTICOS"
+        },
+        {
+            "co_ramo": "2126",
+            "ds_ramo": "TECNICO-PROFISSIONALIZANTE"
+        },
+        {
+            "co_ramo": "2127",
+            "ds_ramo": "TERRAPLENAGEM, PAVIMENTAC ESTRADAS E VIAS URBANAS"
+        },
+        {
+            "co_ramo": "2128",
+            "ds_ramo": "TEXTIL"
+        },
+        {
+            "co_ramo": "2129",
+            "ds_ramo": "TINGIMENTO E ESTAMPARIA"
+        },
+        {
+            "co_ramo": "2130",
+            "ds_ramo": "TORREFACAO E MOAGEM DE CAFE"
+        },
+        {
+            "co_ramo": "2131",
+            "ds_ramo": "TRANSPORTE AEREO REGULAR E REGIONAL"
+        },
+        {
+            "co_ramo": "2132",
+            "ds_ramo": "TRANSPORTE DE CARGA EM GERAL"
+        },
+        {
+            "co_ramo": "2133",
+            "ds_ramo": "TRANSPORTE RODOVIARIO"
+        },
+        {
+            "co_ramo": "2134",
+            "ds_ramo": "TRANSPORTE RODOVIARIO DE PASSAGEIROS"
+        },
+        {
+            "co_ramo": "2135",
+            "ds_ramo": "TRATAMENTO TERMICO E QUIMICO DE METAIS"
+        },
+        {
+            "co_ramo": "2136",
+            "ds_ramo": "VESTUARIO, ARTEFATOS DE TECIDOS E DE VIAGEM"
+        },
+        {
+            "co_ramo": "2137",
+            "ds_ramo": "GUARDA E ARMAZENAMENTO DE DOCUMENTOS"
+        }
+    ]
+}

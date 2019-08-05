@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group>
+        <item
+                android:id="@+id/nav_agence"
+                android:icon="@drawable/home_assistant"
+                android:title="@string/menu_agence"/>
+        <item
+                android:id="@+id/nav_proyectos"
+                android:icon="@drawable/home_assistant"
+                android:title="@string/menu_proyectos"/>
+        <item
+                android:id="@+id/nav_administrativo"
+                android:icon="@drawable/home_assistant"
+                android:title="@string/menu_administrativo"/>
+        <item
+                android:id="@+id/nav_comercial"
+                android:icon="@drawable/home_assistant"
+                android:title="@string/menu_comercial"/>
+        <item
+                android:id="@+id/nav_financiero"
+                android:icon="@drawable/home_assistant"
+                android:title="@string/menu_financiero"/>
+
+        <item
+                android:id="@+id/nav_usuario"
+                android:icon="@drawable/home_assistant"
+                android:title="@string/menu_usuario"/>
+        <item
+                android:id="@+id/nav_salir"
+                android:icon="@drawable/home_assistant"
+                android:title="@string/menu_salir"/>
+    </group>
+
+
+</menu>

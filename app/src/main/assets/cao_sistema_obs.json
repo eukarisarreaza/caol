@@ -1,0 +1,319 @@
+{
+    "RECORDS": [
+        {
+            "co_obs": "1",
+            "descricao": "asdfasfdasdfsadf",
+            "co_sistema": "1",
+            "co_usuario": "alessandro.yamada",
+            "dt_obs": "5/10/2004 00:00:00"
+        },
+        {
+            "co_obs": "2",
+            "descricao": "ewrwerwesdcfszczxczxczxc",
+            "co_sistema": "1",
+            "co_usuario": "alessandro.yamada",
+            "dt_obs": "5/10/2004 00:00:00"
+        },
+        {
+            "co_obs": "3",
+            "descricao": "zdfasdfadsfadsfasdf",
+            "co_sistema": "1",
+            "co_usuario": "alessandro.yamada",
+            "dt_obs": "5/10/2004 14:39:28"
+        },
+        {
+            "co_obs": "4",
+            "descricao": "luis morales",
+            "co_sistema": "1",
+            "co_usuario": "alessandro.yamada",
+            "dt_obs": "5/10/2004 14:41:26"
+        },
+        {
+            "co_obs": "5",
+            "descricao": "sdfasccccccc",
+            "co_sistema": "1",
+            "co_usuario": "",
+            "dt_obs": "5/10/2004 14:46:15"
+        },
+        {
+            "co_obs": "6",
+            "descricao": "sfdasfdasdfadsf",
+            "co_sistema": "1",
+            "co_usuario": "carlos.arruda",
+            "dt_obs": "5/10/2004 14:46:32"
+        },
+        {
+            "co_obs": "7",
+            "descricao": "teste",
+            "co_sistema": "2",
+            "co_usuario": "carlos.arruda",
+            "dt_obs": "5/10/2004 14:49:18"
+        },
+        {
+            "co_obs": "8",
+            "descricao": "Colocar o busca rápido dentro da combo de clientes.",
+            "co_sistema": "3",
+            "co_usuario": "",
+            "dt_obs": "15/10/2004 13:39:40"
+        },
+        {
+            "co_obs": "9",
+            "descricao": "Deixar a combo consultor/analista somente com os usuarios de perfil consultor.",
+            "co_sistema": "3",
+            "co_usuario": "",
+            "dt_obs": "15/10/2004 13:40:47"
+        },
+        {
+            "co_obs": "10",
+            "descricao": "O início está marcado para o dia 28/10 com a chegada do Rui.",
+            "co_sistema": "5",
+            "co_usuario": "",
+            "dt_obs": "21/10/2004 20:02:55"
+        },
+        {
+            "co_obs": "11",
+            "descricao": "m,bnvjhvghv",
+            "co_sistema": "8",
+            "co_usuario": "luis.morales",
+            "dt_obs": "25/10/2004 09:25:48"
+        },
+        {
+            "co_obs": "12",
+            "descricao": "sdfasfd",
+            "co_sistema": "3",
+            "co_usuario": "luis.morales",
+            "dt_obs": "25/10/2004 09:55:40"
+        },
+        {
+            "co_obs": "13",
+            "descricao": "sdfsdfdsf",
+            "co_sistema": "9",
+            "co_usuario": "luis.morales",
+            "dt_obs": "25/10/2004 10:10:53"
+        },
+        {
+            "co_obs": "14",
+            "descricao": "O cliente deseja a utilização de um banco de dados instalado na própria máquina do usuário, sugerimos o ACCESS.",
+            "co_sistema": "172",
+            "co_usuario": "carlos.arruda",
+            "dt_obs": "23/2/2005 13:05:56"
+        },
+        {
+            "co_obs": "15",
+            "descricao": "Este sistema seguirá padrões exigidos pelos gestores da Agence Interativa, Carlos Flávio e Carlos Cezar, sob a políticas administrativas adotadas pelos mesmos. Haverá, sobretudo, a metodologia de trabalho da área de consultoria comercial, já adotada pela cia, em relação às melhores práticas utilizadas até então, através de padrões de mercado, bem como, ações inovadoras, a fim de proporcionar o treinamento adequado para novos consultores e consultores em processo de reciclagem, visando sempre, a maximização de resultados em suas ações junto aos clientes.",
+            "co_sistema": "189",
+            "co_usuario": "edy.bruno",
+            "dt_obs": "31/5/2005 00:33:04"
+        },
+        {
+            "co_obs": "16",
+            "descricao": "Desenvolvido pela ProcWork. Com framework próprio.",
+            "co_sistema": "196",
+            "co_usuario": "",
+            "dt_obs": "20/9/2005 17:08:08"
+        },
+        {
+            "co_obs": "17",
+            "descricao": "Proposta de layout para o site em: www.agence.com.br/propostas/botti_rubin",
+            "co_sistema": "202",
+            "co_usuario": "",
+            "dt_obs": "20/12/2005 17:41:58"
+        },
+        {
+            "co_obs": "18",
+            "descricao": "hotsite",
+            "co_sistema": "220",
+            "co_usuario": "",
+            "dt_obs": "21/7/2006 11:29:08"
+        },
+        {
+            "co_obs": "19",
+            "descricao": "Endereço de produção: http://dj.tj.mt.gov.br/dj",
+            "co_sistema": "149",
+            "co_usuario": "",
+            "dt_obs": "1/8/2006 16:10:03"
+        },
+        {
+            "co_obs": "20",
+            "descricao": "site com novo visual. Clean, requintado,um visual elegante. Condizente com o produto \"jóias\"",
+            "co_sistema": "223",
+            "co_usuario": "",
+            "dt_obs": "9/8/2006 17:11:13"
+        },
+        {
+            "co_obs": "21",
+            "descricao": "Nas versões moderada e aberta",
+            "co_sistema": "225",
+            "co_usuario": "",
+            "dt_obs": "31/8/2006 16:03:00"
+        },
+        {
+            "co_obs": "22",
+            "descricao": "http://www.agence.com.br/propostas/facundo/FacundoOnline ",
+            "co_sistema": "233",
+            "co_usuario": "",
+            "dt_obs": "22/11/2006 17:23:04"
+        },
+        {
+            "co_obs": "23",
+            "descricao": "já existe um site www.facundoimobiliaria.com.br",
+            "co_sistema": "234",
+            "co_usuario": "",
+            "dt_obs": "22/11/2006 17:31:22"
+        },
+        {
+            "co_obs": "24",
+            "descricao": "Sistema desenvolvido pela SIC. Base Oracle.",
+            "co_sistema": "236",
+            "co_usuario": "",
+            "dt_obs": "1/12/2006 17:20:56"
+        },
+        {
+            "co_obs": "25",
+            "descricao": "Contemplando nessa versão compact somente arquivos ANFAVEA.",
+            "co_sistema": "237",
+            "co_usuario": "",
+            "dt_obs": "20/12/2006 18:29:23"
+        },
+        {
+            "co_obs": "26",
+            "descricao": "Criação do sistema",
+            "co_sistema": "238",
+            "co_usuario": "",
+            "dt_obs": "21/12/2006 11:18:45"
+        },
+        {
+            "co_obs": "27",
+            "descricao": "Consultoria técnica para análise de performance / configuração de servidores de aplicação (JBOSS e Tomcat). O profissional iniciará a consultoria alocado nas instalações do cliente, a empresa Central de Intercâmbio.",
+            "co_sistema": "239",
+            "co_usuario": "",
+            "dt_obs": "10/1/2007 18:16:59"
+        },
+        {
+            "co_obs": "28",
+            "descricao": "Cadastro corrigido.",
+            "co_sistema": "239",
+            "co_usuario": "",
+            "dt_obs": "12/1/2007 15:49:24"
+        },
+        {
+            "co_obs": "29",
+            "descricao": "Alterado o nome para Projetos em prospecção, antes era Sistemas em Prospecção.\r\nEssa alteração foi necessária para suportar todos os serviços da Agence, a fim de concentrar num único item as horas gastas. Dessa forma sistemas, websites, consultorias, todos os serviços podem ficar concentrados nesse item.",
+            "co_sistema": "187",
+            "co_usuario": "",
+            "dt_obs": "24/1/2007 15:01:55"
+        },
+        {
+            "co_obs": "30",
+            "descricao": "Cliente ainda não enviou as fotos, logomarca e senhas para continuação do projeto.",
+            "co_sistema": "198",
+            "co_usuario": "",
+            "dt_obs": "6/2/2007 14:26:54"
+        },
+        {
+            "co_obs": "31",
+            "descricao": "Cliente já registrou os domínios .com e .com.br. \r\nLogomarca ainda está em desenvolvimento com a agência local (Praia do Forte).\r\nSerá necessário sugerirmos ao cliente três opções de hospedagem.",
+            "co_sistema": "198",
+            "co_usuario": "",
+            "dt_obs": "7/2/2007 12:09:08"
+        },
+        {
+            "co_obs": "32",
+            "descricao": "Sem observações para o momento",
+            "co_sistema": "246",
+            "co_usuario": "",
+            "dt_obs": "14/2/2007 19:39:05"
+        },
+        {
+            "co_obs": "33",
+            "descricao": "Integração com outros sistemas da empresa.",
+            "co_sistema": "249",
+            "co_usuario": "",
+            "dt_obs": "12/3/2007 18:01:21"
+        },
+        {
+            "co_obs": "34",
+            "descricao": "Sistema de administração para o website da Jica, com protótipo e layout fornecidos pela Digital Group",
+            "co_sistema": "250",
+            "co_usuario": "",
+            "dt_obs": "12/3/2007 18:58:35"
+        },
+        {
+            "co_obs": "35",
+            "descricao": "Alterado nome do projeto para SAWS - JICA (Sist. Admin. do WebSite - Jica).",
+            "co_sistema": "250",
+            "co_usuario": "",
+            "dt_obs": "12/3/2007 19:08:26"
+        },
+        {
+            "co_obs": "36",
+            "descricao": "Projeto em parceria com a Digital Group.",
+            "co_sistema": "253",
+            "co_usuario": "",
+            "dt_obs": "13/4/2007 11:01:13"
+        },
+        {
+            "co_obs": "37",
+            "descricao": "Parceria - Grupo Traffic.",
+            "co_sistema": "255",
+            "co_usuario": "",
+            "dt_obs": "17/4/2007 15:33:01"
+        },
+        {
+            "co_obs": "38",
+            "descricao": "Consultoria Estratégica que contará também com participação do analista Agence de um treinamento fornecido pela CADSoft para geração de propostas de soluções aos problemas encontrados.",
+            "co_sistema": "256",
+            "co_usuario": "",
+            "dt_obs": "27/4/2007 11:48:46"
+        },
+        {
+            "co_obs": "39",
+            "descricao": "Alterado nome do sistema",
+            "co_sistema": "249",
+            "co_usuario": "",
+            "dt_obs": "22/5/2007 12:45:31"
+        },
+        {
+            "co_obs": "40",
+            "descricao": "Alterado nome do projeto",
+            "co_sistema": "252",
+            "co_usuario": "",
+            "dt_obs": "22/5/2007 12:46:44"
+        },
+        {
+            "co_obs": "41",
+            "descricao": "---------------------------------\r\nRiscali (www.riscali.com.br)\r\n---------------------------------\r\n\r\nFTP: ftp188.locaweb.com.br\r\nusuário: riscali\r\nsenha 1: raposa1976\r\n\r\nMysql - Utilizar o MySQL Front\r\n\r\nhost: mysql164.locaweb.com.br\r\nbanco: riscali\r\nuser: riscali\r\nsenha: raposa1975\r\n\r\n\r\nCMS\r\nuser: agence\r\npasswd: 150rtml",
+            "co_sistema": "126",
+            "co_usuario": "",
+            "dt_obs": "17/7/2007 18:38:29"
+        },
+        {
+            "co_obs": "42",
+            "descricao": "Alocação de 2 profissionais na CMA.",
+            "co_sistema": "279",
+            "co_usuario": "",
+            "dt_obs": "9/8/2007 18:14:06"
+        },
+        {
+            "co_obs": "43",
+            "descricao": "Redesign do website e refactoring da ferramenta de busca de imóveis.",
+            "co_sistema": "281",
+            "co_usuario": "",
+            "dt_obs": "17/8/2007 11:55:28"
+        },
+        {
+            "co_obs": "44",
+            "descricao": "Sistema de acompanhamento on-line para consultores de planos das concessionárias Honda",
+            "co_sistema": "282",
+            "co_usuario": "",
+            "dt_obs": "20/8/2007 16:14:27"
+        },
+        {
+            "co_obs": "45",
+            "descricao": "Desenvolvimento do website Perfin, empresa do Grupo Infinity Participações.",
+            "co_sistema": "284",
+            "co_usuario": "",
+            "dt_obs": "12/9/2007 12:45:03"
+        }
+    ]
+}

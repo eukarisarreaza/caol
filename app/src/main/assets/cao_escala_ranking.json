@@ -1,0 +1,29 @@
+{
+    "RECORDS": [
+        {
+            "idescala": "1",
+            "qtd_visual": "1",
+            "pontuacao": "10"
+        },
+        {
+            "idescala": "2",
+            "qtd_visual": "2",
+            "pontuacao": "20"
+        },
+        {
+            "idescala": "3",
+            "qtd_visual": "3",
+            "pontuacao": "40"
+        },
+        {
+            "idescala": "4",
+            "qtd_visual": "4",
+            "pontuacao": "80"
+        },
+        {
+            "idescala": "5",
+            "qtd_visual": "5",
+            "pontuacao": "160"
+        }
+    ]
+}
