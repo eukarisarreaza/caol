@@ -17,7 +17,7 @@ interface CaoSalarioDao {
     abstract fun getAll(): LiveData<List<CaoSalario>>
 
     @Query("SELECT * FROM CaoSalario WHERE co_usuario = :id")
-    abstract fun findById(id: String): CaoSalario
+    abstract fun findById(id: String): CaoSalario?
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     abstract fun insertAll(items: List<CaoSalario>)

@@ -12,6 +12,7 @@ import com.agence.caol.models.DataMesUser
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import kotlinx.android.synthetic.main.activity_relatorio.*
+import kotlinx.android.synthetic.main.toolbar.*
 
 class RelatorioActivity : AppCompatActivity() {
     private val TAG by lazy { RelatorioActivity::class.java.name }
@@ -32,6 +33,13 @@ class RelatorioActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_relatorio)
+
+
+        toolbar.title=resources.getString(R.string.relatorio)
+        toolbar.setNavigationIcon(R.drawable.chevron_left)
+        toolbar.setNavigationOnClickListener {
+            onBackPressed()
+        }
 
         val data = this.intent.extras!!.getString("data", "")
 

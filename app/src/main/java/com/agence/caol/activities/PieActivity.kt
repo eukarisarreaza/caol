@@ -16,8 +16,8 @@ import com.github.mikephil.charting.data.PieEntry
 import com.github.mikephil.charting.data.PieDataSet
 import com.github.mikephil.charting.formatter.PercentFormatter
 import com.github.mikephil.charting.data.PieData
-import com.github.mikephil.charting.utils.ColorTemplate
 import com.github.mikephil.charting.utils.MPPointF
+import kotlinx.android.synthetic.main.toolbar.*
 import java.util.*
 import kotlin.collections.ArrayList
 
@@ -40,6 +40,12 @@ class PieActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_pie)
+        toolbar.title=resources.getString(R.string.pizza)
+        toolbar.setNavigationIcon(R.drawable.chevron_left)
+        toolbar.setNavigationOnClickListener {
+            onBackPressed()
+        }
+
         configurePieChart()
 
 
@@ -79,27 +85,8 @@ class PieActivity : AppCompatActivity() {
         colors.add(getRandomColor())
         colors.add(getRandomColor())
 
-        /*
-        for (c in ColorTemplate.MATERIAL_COLORS)
-            colors.add(getRandomColor())
 
-        for (c in ColorTemplate.PASTEL_COLORS)
-            colors.add(c)
-
-        for (c in ColorTemplate.VORDIPLOM_COLORS)
-            colors.add(c)
-
-        for (c in ColorTemplate.MATERIAL_COLORS)
-            colors.add(c)
-
-        for (c in ColorTemplate.PASTEL_COLORS)
-            colors.add(c)
-
-        colors.add(ColorTemplate.getHoloBlue())
-        */
-
-
-        dataSet.setColors(colors)
+        dataSet.colors = colors
         //dataSet.setSelectionShift(0f);
 
         val data = PieData(dataSet)
@@ -108,6 +95,8 @@ class PieActivity : AppCompatActivity() {
         data.setValueTextColor(Color.BLACK)
         chart.data = data
 
+        //chart.xAxis.textColor= Color.BLACK
+        chart.setEntryLabelColor(Color.BLACK)
         // undo all highlights
         chart.highlightValues(null)
 

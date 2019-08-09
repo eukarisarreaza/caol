@@ -5,6 +5,7 @@ import android.util.Log
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.agence.caol.CaolApplication
+import com.agence.caol.R
 import com.agence.caol.models.CaoUsuario
 import com.agence.caol.models.DataMes
 import com.agence.caol.models.DataMesAnio
@@ -31,13 +32,15 @@ class MainViewModel : ViewModel(){
 
             //CALCULATE UNA LISTA DE MESES EN EL PERIODO A CONSULTAR
             if(anio_inicio== anio_fin && mes_inicio>mes_fin){
+                data_grafica.postValue(Resource.error(CaolApplication.instance.getContext().resources.getString(R.string.periodo_no_valido), lista_datos_usuario))
                 return@execute
             }
 
             if(anio_inicio> anio_fin){
+                data_grafica.postValue(Resource.error(CaolApplication.instance.getContext().resources.getString(R.string.periodo_no_valido), lista_datos_usuario))
                 return@execute
             }
-
+            // calcula todos los contenidos dentro del periodo
             calculateFechas(mes_inicio, anio_inicio, mes_fin, anio_fin)
 
             //Log.e(TAG, "LISTA FECHAS ${Gson().toJson(lista_meses_anio)}")
@@ -49,7 +52,10 @@ class MainViewModel : ViewModel(){
                 var costo_fijo= 0.0
 
                 try {
-                    costo_fijo= database.caoSalarioDao().findById(us.co_usuario).brut_salario.toDouble()
+                    val salario= database.caoSalarioDao().findById(us.co_usuario)
+                    if(salario!=null){
+                        costo_fijo= salario.brut_salario.toDouble()
+                    }
                 }catch (e: Exception){}
 
                 lista_meses_anio.forEach { ma ->

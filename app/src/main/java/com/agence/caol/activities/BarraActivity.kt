@@ -20,6 +20,7 @@ import android.util.Log
 import kotlin.collections.ArrayList
 import com.github.mikephil.charting.formatter.IndexAxisValueFormatter
 import com.github.mikephil.charting.components.XAxis
+import kotlinx.android.synthetic.main.toolbar.*
 import java.util.*
 
 
@@ -42,6 +43,12 @@ class BarraActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_barra)
+
+        toolbar.title=resources.getString(R.string.grafico)
+        toolbar.setNavigationIcon(R.drawable.chevron_left)
+        toolbar.setNavigationOnClickListener {
+            onBackPressed()
+        }
 
         configureBarChart()
 

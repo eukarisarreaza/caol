@@ -286,7 +286,7 @@
 
                     <TextView
                             android:padding="@dimen/margen_extra_corto"
-                            android:text="Relatório"
+                            android:text="@string/relatorio"
                             android:textAlignment="center"
                             android:textColor="@android:color/white"
                             android:background="@color/colorAccent"
@@ -321,7 +321,7 @@
 
                     <TextView
                             android:padding="@dimen/margen_extra_corto"
-                            android:text="Gráfico"
+                            android:text="@string/grafico"
                             android:textAlignment="center"
                             android:textColor="@android:color/white"
                             android:background="@color/colorPrimary"
@@ -356,7 +356,7 @@
 
                     <TextView
                             android:padding="@dimen/margen_extra_corto"
-                            android:text="Pizza"
+                            android:text="@string/pizza"
                             android:textAlignment="center"
                             android:textColor="@android:color/white"
                             android:background="@android:color/darker_gray"

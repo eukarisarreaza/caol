@@ -9,6 +9,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.AdapterView
 import android.widget.Toast
 import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -66,6 +67,22 @@ class PorConsultorFragment : Fragment() {
         mes_fin.adapter= CustomSpinner(context!!, arrayMes.toList())
         anio_inicio.adapter= CustomSpinner(context!!, arrayAnio.toList())
         anio_fin.adapter= CustomSpinner(context!!, arrayAnio.toList())
+
+        var listener= object : AdapterView.OnItemSelectedListener{
+            override fun onNothingSelected(p0: AdapterView<*>?) {
+            }
+
+            override fun onItemSelected(p0: AdapterView<*>?, p1: View?, p2: Int, p3: Long) {
+               lista_data.clear()
+            }
+
+        }
+
+        mes_inicio.onItemSelectedListener= listener
+        mes_fin.onItemSelectedListener= listener
+        anio_fin.onItemSelectedListener= listener
+        anio_inicio.onItemSelectedListener= listener
+
 
         btn_add.setOnClickListener{
             startActivityForResult(ListActivity.newInstance(context!!), REQUEST_CODE_LIST_ACTIVITY)
@@ -163,6 +180,7 @@ class PorConsultorFragment : Fragment() {
 
         setupAdpterCliente(list_clientes)
     }
+
     private fun selectedPorConsultor(){
 
         por_consultor.setBackgroundColor(resources.getColor(R.color.colorPrimary))

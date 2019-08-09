@@ -44,6 +44,10 @@
     <string name="comision">Comisión</string>
     <string name="lucro">Lucro</string>
     <string name="saldo">Saldo</string>
+    <string name="grafico">Gráfico</string>
+    <string name="pizza">Pizza</string>
+    <string name="relatorio">Relatório</string>
+    <string name="periodo_no_valido">Periodo no válido</string>
 
     <string-array name="mes">
         <item>Enero</item>
