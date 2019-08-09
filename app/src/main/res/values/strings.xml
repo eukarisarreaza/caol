@@ -48,6 +48,7 @@
     <string name="pizza">Pizza</string>
     <string name="relatorio">Relatório</string>
     <string name="periodo_no_valido">Periodo no válido</string>
+    <string name="perfomance_comercial">Performance Comercial</string>
 
     <string-array name="mes">
         <item>Enero</item>

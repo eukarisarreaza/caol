@@ -98,6 +98,8 @@ class BarraActivity : AppCompatActivity() {
             }
         }
 
+        periodo.text= getString(R.string.perfomance_comercial) + "\n${xVals[0]} a ${xVals[xVals.size - 1]}"
+
 
         val groupCount = xVals.size
 

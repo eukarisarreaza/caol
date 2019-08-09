@@ -66,7 +66,7 @@ class MainViewModel : ViewModel(){
                     /** CALCULO DE NETO DE USUARIO POR UN MES  **/
                     var aux_net = 0.0
                     var comision = 0.0
-                    Log.e(TAG, "meees "+"/$mes/$anio")
+                    Log.e(TAG, "meees /$mes/$anio")
                     //lista de facturas de un mes en especifico
                     var l=database.caoFacturaDao().getAllUser(us.co_usuario, "%/$mes/%", "%/$anio%")
 
