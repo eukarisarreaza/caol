@@ -65,4 +65,8 @@ dependencies {
 
     implementation 'com.quiph.ui:recyclerviewfastscroller:0.1.3'
 
+
+    implementation "com.github.PhilJay:MPAndroidChart:v3.1.0"
+
+
 }

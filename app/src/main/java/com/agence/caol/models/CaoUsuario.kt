@@ -40,4 +40,11 @@ data class CaoUsuario(
 
 
     var selected: Boolean= false
-)
+){
+    override fun equals(other: Any?): Boolean {
+        if(other is CaoUsuario){
+            return other.co_usuario==this.co_usuario
+        }else
+            return false
+    }
+}

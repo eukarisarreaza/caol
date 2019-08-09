@@ -13,7 +13,8 @@ import com.agence.caol.models.daos.*
 import com.agence.caol.worker.DatabaseWorker
 
 @Database(entities = [CaoUsuario::class, CaoCliente::class, CaoFactura::class,
-                      CaoOs::class, CaoSistema::class, PermissaoSistema::class],
+                      CaoOs::class, CaoSistema::class, PermissaoSistema::class,
+                      CaoSalario::class],
           version = 1,
           exportSchema = false)
 
@@ -24,6 +25,7 @@ abstract class AppDataBase : RoomDatabase(){
     abstract fun caoSistemaDao(): CaoSistemaDao
     abstract fun caoUsuarioDao(): CaoUsuarioDao
     abstract fun permissaoSistemaDao(): PermissaoSistemaDao
+    abstract fun caoSalarioDao(): CaoSalarioDao
 
     companion object{
         @Volatile

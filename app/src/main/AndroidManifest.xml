@@ -3,12 +3,23 @@
           package="com.agence.caol">
 
     <application
+            android:name=".CaolApplication"
             android:allowBackup="true"
             android:icon="@mipmap/ic_launcher"
             android:label="@string/app_name"
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
+        <activity android:name=".activities.PieActivity">
+        </activity>
+        <activity
+                android:name=".activities.BarraActivity"
+                android:screenOrientation="landscape">
+        </activity>
+        <activity
+                android:name=".activities.RelatorioActivity"
+                android:screenOrientation="landscape">
+        </activity>
         <activity android:name=".activities.ListActivity">
         </activity>
         <activity android:name=".activities.SplashActivity">
@@ -18,7 +29,9 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".activities.MainActivity">
+        <activity
+                android:name=".activities.MainActivity"
+                android:screenOrientation="portrait">
         </activity>
     </application>
 

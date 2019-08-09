@@ -19,10 +19,31 @@
     <string name="por_consultor">Por Consultor</string>
     <string name="por_cliente">Por Cliente</string>
     <string name="consultores">Consultores</string>
+    <string name="clientes">Consultores</string>
     <string name="agregar_consultor">agregar consultor</string>
     <string name="agregar_cliente">agregar cliente</string>
-    <string name="agrega_consultores">Agrega consultores para iniciar</string>
 
+    <string name="agrega_consultores">Agrega consultores para iniciar</string>
+    <string name="agrega_clientes">Agrega Clientes para iniciar</string>
+
+    <string name="loading">Cargando</string>
+    <string name="error_btn_retry">Volver a tratar</string>
+    <string name="error_msg">¡Lo siento! No se pudieron obtener resultados.</string>
+    <string name="error_msg_no_internet">No conectado a internet</string>
+    <string name="error_msg_timeout">El servidor tardó demasiado en responder</string>
+    <string name="error_msg_unknown">Ocurrió un error inesperado</string>
+    <string name="error_tap_to_reload">Toca para volver a cargar</string>
+
+
+    <string name="online_logout_desc">¿Desea salir de la aplicación?</string>
+    <string name="online_logout_ok">Salir</string>
+    <string name="online_logout_cancel">Cancelar</string>
+    <string name="periodo">Periodo</string>
+    <string name="liquido">Neto Liquida</string>
+    <string name="costo_fijo">Costo Fijo</string>
+    <string name="comision">Comisión</string>
+    <string name="lucro">Lucro</string>
+    <string name="saldo">Saldo</string>
 
     <string-array name="mes">
         <item>Enero</item>

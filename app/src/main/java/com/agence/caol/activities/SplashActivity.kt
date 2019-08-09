@@ -1,6 +1,7 @@
 package com.agence.caol.activities
 
 import android.content.Intent
+import android.os.AsyncTask
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
@@ -21,14 +22,9 @@ class SplashActivity : AppCompatActivity() {
 
 
 
-        /********    PARA ASEGURARNOS QUE EN EL MAIN YA ESTE CARGADA TODA LA DATA EN LOCAL       ********/
-
+        /********    PARA ASEGURAR QUE EN EL MAIN YA ESTE CARGADA TODA LA DATA EN LOCAL       ********/
         val database= AppDataBase.getInstance(applicationContext)
-        database.caoUsuarioDao().getAll().observe(this, Observer {
-            if(it!=null){
-                Log.e(TAG, "LISTA de usuarios en SPLASH ${it.size}")
-            }
-        })
+        database.caoUsuarioDao().getAll().observe(this, Observer {  })
 
         timerData()
 

@@ -2,6 +2,7 @@
 <androidx.constraintlayout.widget.ConstraintLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
         android:id="@+id/ly_parent"
         android:background="@android:color/white"
         android:layout_width="match_parent"
@@ -10,8 +11,10 @@
     <ImageView
             android:id="@+id/imagen"
             android:src="@drawable/account_circle"
-            android:layout_width="60dp"
-            android:layout_height="60dp"/>
+            android:padding="@dimen/margen_5"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            tools:ignore="MissingConstraints"/>
 
     <TextView
             android:id="@+id/user_name"
@@ -20,10 +23,11 @@
             android:textColor="@android:color/black"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:padding="@dimen/margen_5"
+            android:paddingTop="@dimen/margen_extra_corto"
+            android:paddingLeft="@dimen/margen_extra_corto"
             app:layout_constraintStart_toEndOf="@+id/imagen"
             app:layout_constraintEnd_toEndOf="parent"
-    />
+            tools:ignore="MissingConstraints"/>
 
     <TextView
             android:id="@+id/razon"
@@ -33,6 +37,8 @@
             android:layout_height="0dp"
             android:gravity="center_vertical"
             android:paddingLeft="@dimen/margen_extra_corto"
+            android:maxLines="1"
+            android:singleLine="true"
             app:layout_constraintTop_toBottomOf="@+id/user_name"
             app:layout_constraintBottom_toBottomOf="@+id/imagen"
             app:layout_constraintStart_toEndOf="@+id/imagen"

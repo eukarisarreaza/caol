@@ -263,6 +263,7 @@
 
                         <androidx.recyclerview.widget.RecyclerView
                                 android:id="@+id/recycler"
+                                android:nestedScrollingEnabled="false"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
                                 app:layout_constraintTop_toBottomOf="@+id/txt_list"/>
@@ -271,6 +272,115 @@
                     </androidx.constraintlayout.widget.ConstraintLayout>
 
                 </androidx.cardview.widget.CardView>
+
+
+
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                        android:id="@+id/relatorio"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/margen_corto"
+                        app:layout_constraintTop_toBottomOf="@+id/card_list"
+                >
+
+                    <TextView
+                            android:padding="@dimen/margen_extra_corto"
+                            android:text="Relatório"
+                            android:textAlignment="center"
+                            android:textColor="@android:color/white"
+                            android:background="@color/colorAccent"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"/>
+
+                    <ImageView
+                            android:src="@drawable/file_table"
+                            android:padding="@dimen/margen_extra_corto"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            app:layout_constraintRight_toLeftOf="@+id/guideline1"
+                    />
+
+                    <androidx.constraintlayout.widget.Guideline
+                            android:id="@+id/guideline1"
+                            android:orientation="vertical"
+                            app:layout_constraintGuide_percent="0.2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"/>
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                        android:id="@+id/grafico"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/margen_extra_corto"
+                        app:layout_constraintTop_toBottomOf="@+id/relatorio"
+                >
+
+                    <TextView
+                            android:padding="@dimen/margen_extra_corto"
+                            android:text="Gráfico"
+                            android:textAlignment="center"
+                            android:textColor="@android:color/white"
+                            android:background="@color/colorPrimary"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"/>
+
+                    <ImageView
+                            android:src="@drawable/chart_histogram"
+                            android:padding="@dimen/margen_extra_corto"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            app:layout_constraintRight_toLeftOf="@+id/guideline2"
+                    />
+
+                    <androidx.constraintlayout.widget.Guideline
+                            android:id="@+id/guideline2"
+                            android:orientation="vertical"
+                            app:layout_constraintGuide_percent="0.2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"/>
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                        android:id="@+id/pizza"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/margen_extra_corto"
+                        app:layout_constraintTop_toBottomOf="@+id/grafico"
+                >
+
+                    <TextView
+                            android:padding="@dimen/margen_extra_corto"
+                            android:text="Pizza"
+                            android:textAlignment="center"
+                            android:textColor="@android:color/white"
+                            android:background="@android:color/darker_gray"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"/>
+
+                    <ImageView
+                            android:src="@drawable/chart_arc"
+                            android:padding="@dimen/margen_extra_corto"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            app:layout_constraintRight_toLeftOf="@+id/guideline3"
+                    />
+
+                    <androidx.constraintlayout.widget.Guideline
+                            android:id="@+id/guideline3"
+                            android:orientation="vertical"
+                            app:layout_constraintGuide_percent="0.2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"/>
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+
 
             </androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -301,12 +411,6 @@
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
-
-
-
-
-
-
-
+    
 
 </FrameLayout>

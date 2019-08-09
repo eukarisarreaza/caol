@@ -24,6 +24,7 @@ class DatabaseWorker (context: Context, param: WorkerParameters): CoroutineWorke
             val clienteType= object : TypeToken<CaoResponse<CaoCliente>>(){}.type
             val sistemaType= object : TypeToken<CaoResponse<CaoSistema>>(){}.type
             val osType= object : TypeToken<CaoResponse<CaoOs>>(){}.type
+            val salarioType= object : TypeToken<CaoResponse<CaoSalario>>(){}.type
 
             val database= AppDataBase.getInstance(applicationContext)
 
@@ -83,6 +84,17 @@ class DatabaseWorker (context: Context, param: WorkerParameters): CoroutineWorke
 
                 }
             }
+
+            applicationContext.assets.open(CAO_SALARIO_DATA_FILENAME).use { input ->
+                JsonReader(input.reader()).use { jsonReader ->
+                    val osList: CaoResponse<CaoSalario> = Gson().fromJson(jsonReader, salarioType)
+                    Log.e(TAG, "LISTA de os ${osList.RECORDS.size}")
+
+                    database.caoSalarioDao().insertAll(osList.RECORDS)
+
+                }
+            }
+
 
             Utils.setPreferences(applicationContext, KEY_SET_DATA, true)
             return Result.success()

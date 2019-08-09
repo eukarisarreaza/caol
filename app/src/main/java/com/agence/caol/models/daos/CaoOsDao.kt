@@ -13,8 +13,8 @@ interface CaoOsDao {
     @Query("SELECT count(*) FROM CaoOs")
     abstract fun getCount(): Long
 
-    @Query("SELECT * FROM CaoOs ") // LIMIT (:page - 1) * :limit, :limit
-    abstract fun getAll(): LiveData<List<CaoOs>> // page: Int, limit: Int
+    @Query("SELECT * FROM CaoOs ")
+    abstract fun getAll(): LiveData<List<CaoOs>>
 
     @Query("SELECT * FROM CaoOs WHERE co_os = :id")
     abstract fun findById(id: String): LiveData<CaoOs>?

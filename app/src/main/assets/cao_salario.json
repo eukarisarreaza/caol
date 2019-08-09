@@ -1,3 +1,40 @@
 {
-    "RECORDS": []
+    "RECORDS": [
+        {
+            "co_usuario": "edo.virgolim",
+            "dt_alteracao": "5/11/2003",
+            "brut_salario": "0",
+            "liq_salario": "0"
+        },
+        {
+            "co_usuario": "carlos.arruda",
+            "dt_alteracao": "11/9/2007",
+            "brut_salario": "2683",
+            "liq_salario": "2300"
+        },
+        {
+            "co_usuario": "anapaula.chiodaro",
+            "dt_alteracao": "11/9/2007",
+            "brut_salario": "2566",
+            "liq_salario": "2200"
+        },
+        {
+            "co_usuario": "renato.pereira",
+            "dt_alteracao": "10/9/2007",
+            "brut_salario": "2566",
+            "liq_salario": "2200"
+        },
+        {
+            "co_usuario": "fernanda.barbosa",
+            "dt_alteracao": "13/9/2007",
+            "brut_salario": "1750",
+            "liq_salario": "1500"
+        },
+        {
+            "co_usuario": "carlos.carvalho",
+            "dt_alteracao": "11/4/2007",
+            "brut_salario": "2566",
+            "liq_salario": "2200"
+        }
+    ]
 }

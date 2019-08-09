@@ -30,5 +30,9 @@ data class CaoCliente(
     var nu_ramal: String="",
     var nu_telefone: String="",
     var telefone2: String="",
-    var tp_cliente: String=""
+    var tp_cliente: String="",
+
+
+    var selected: Boolean= false
+
 )

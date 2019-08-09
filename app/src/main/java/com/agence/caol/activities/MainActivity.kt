@@ -12,16 +12,21 @@ import com.google.android.material.navigation.NavigationView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
 import android.view.Menu
+import android.view.View
 import androidx.lifecycle.Observer
 import com.agence.caol.R
 import com.agence.caol.fragments.PorConsultorFragment
 import com.agence.caol.models.database.AppDataBase
+import com.agence.caol.viewmodels.MainViewModel
 import com.agence.caol.worker.DatabaseWorker
+import kotlinx.android.synthetic.main.fragment_por_consultor.*
+import org.koin.android.viewmodel.ext.android.viewModel
 
 class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
 
-    private val TAG by lazy { DatabaseWorker::class.java.simpleName }
-    private val database by lazy { AppDataBase.getInstance(applicationContext) }
+    private val TAG by lazy { MainActivity::class.java.simpleName }
+    private val mainViewModel: MainViewModel by viewModel()
+
 
     companion object{
         fun newInstance(context: Context): Intent {
@@ -62,14 +67,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
             .commit()
     }
 
-    private fun getUser(){
 
-        database.caoUsuarioDao().getAll().observe(this, Observer {
-            if(it!=null){
-                Log.e(TAG, "LISTA de usuarios en maiiinnnnn ${it.size}")
-            }
-        })
-    }
 
     override fun onBackPressed() {
         val drawerLayout: DrawerLayout = findViewById(R.id.drawer_layout)
